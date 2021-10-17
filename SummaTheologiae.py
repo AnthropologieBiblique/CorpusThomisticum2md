@@ -29,8 +29,8 @@ class Article:
 		return(article+"\n")
 
 class Paragraph:
-	def __init__(self):
-		self.title = ""
+	def __init__(self,title):
+		self.title = title
 		self.ref = ""
 		self.corpus = ""
 	def setTitle(self,title):
@@ -65,9 +65,11 @@ def telechargerPage():
 	# Création du fichier texte associé au chapitre
 	f = open('temp.txt', 'w')
 	# Trouver tous les articles de la page
-	#print(soup.prettify())
+	print(soup.prettify())
 	inArticle = False
+	articleNumber = 0
 	inParagraph = False
+	questioList = []
 
 	for data in soup.find_all():
 		if data.name == "div":
@@ -83,20 +85,28 @@ def telechargerPage():
 				print("It's an article")
 				print(data.getText())
 				inArticle = True
+				articleNumber+=1
+				article=Article(data.getText())
 			else :
 				inArticle = False
 		elif data.name == "p" and inArticle:
-			print(data.attrs['title'])
-			print(data.contents[1])
+			paragraph = Paragraph(data.attrs['title'])
+			#print(data.attrs['title'])
+			paragraph.setCorpus(data.contents[1])
+			#print(data.contents[1])
 			inParagraph = True
 		elif data.name == "a" and inParagraph:
-			print(data.attrs['name'])
+			#print(data.attrs['name'])
+			paragraph.setRef(data.attrs['name'])
 			inParagraph = False
+			#print("PRINT PARAGRAPH")
+			print(paragraph)
+			#print("//PRINT")
 	f.close()
 
 telechargerPage()
 
-paragraph = Paragraph()
+paragraph = Paragraph("test")
 print(paragraph)
 
 paragraph.setTitle("test")
