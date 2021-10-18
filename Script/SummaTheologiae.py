@@ -20,12 +20,16 @@ class Pars:
 		return(pars+"\n")
 	def construereMd(self):
 		os.mkdir("../SummaTheologiae/"+self.titulus)
+		f = open("../SummaTheologiae/"+self.titulus+'.md', 'w')
+		f.write('# '+self.titulus+'\n\n')
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
 			os.mkdir(via)
+			f.write('[['+self.indicat+' q. '+quaestio.indicat+']]'+'\n\n')
 			quaestio.adMd(via,self.indicat)
 			for articulus in quaestio.articuli:
 				articulus.adMd(via,self.indicat,quaestio.indicat)
+		f.close()
 		return()
 
 class Quaestio:
@@ -186,9 +190,11 @@ def transferrePaginam(numero):
 
 primaPars = Pars("Prima Pars","I")
 #primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
-primaParsNumero = [1003]
+primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1075,1077,1084,1090,1103]
+#primaParsNumero = [1003] # Test Sample
 for numero in primaParsNumero:
 	transferrePaginam(numero)
+	print(numero)
 
 primaPars.construereMd()
 
