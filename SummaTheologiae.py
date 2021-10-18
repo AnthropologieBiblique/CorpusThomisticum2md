@@ -4,10 +4,6 @@ import urllib.request
 import re
 import fileinput
 
-#italic = re.compile("<i>(.*?)</i>")
-#print(italic.match("<i>altiora te ne quaesieris</i>").group(1))
-#print(italic.match("altiora te ne quaesieris"))
-
 class Questio:
 	def __init__(self,titulus):
 		self.titulus = titulus
@@ -67,40 +63,38 @@ def transferrePaginam():
 	file = open('temp.html', 'r')
 	contents = file.read()
 	soup = BeautifulSoup(contents, 'html.parser')
-	
+	#print(soup.prettify())
+
 	# Création du fichier texte associé au chapitre
 	f = open('temp.txt', 'w')
-	# Trouver tous les articuli de la page
-	print(soup.prettify())
+
 	inArticulus = False
-	numerusArticulorum = 0
 	inArgumentum = False
 	questioAlbum = []
 
 	for data in soup.find_all():
 		if data.name == "div":
 			if data.attrs['class'] == ['D']:
-				print("It's a questio")
-				print(data.getText())
+				questio = Questio(data.getText())
 				inArticulus = False
 			elif data.attrs['class'] == ['G']:
-				print("It's a prooemium")
-				print(data.getText())
 				inArticulus = False
 			elif data.attrs['class'] == ['E']:
-				print("It's an articulus")
-				print(data.getText())
-				inArticulus = True
-				numerusArticulorum+=1
-				articulus=Articulus(data.getText())
+				if inArticulus:
+					questio.addeArticulus(articulus)
+					articulus=Articulus(data.getText())
+				else:
+					inArticulus = True
+					articulus=Articulus(data.getText())
 			else :
 				inArticulus = False
 		elif data.name == "p" and inArticulus:
 			argumentum = Argumentum(data.attrs['title'])
 			for i in range(1,len(data.contents)):
 				argumentum.addeCorpus(str(data.contents[i]))
-			print(argumentum)
+			articulus.addeArgumentum(argumentum)
 			inArgumentum = True
+	print(questio)
 	f.close()
 
 transferrePaginam()
