@@ -156,5 +156,6 @@ for numero in primaParsNumero:
 
 print(len(primaPars.quaestiones))
 print(primaPars.quaestiones[0].indicat)
+print(primaPars)
 
 
