@@ -60,10 +60,26 @@ class Articulus:
 		return(articulus+"\n")
 	def adMd(self,via,parsIndicat,quaestioNumero):
 		f = open(via+'/'+parsIndicat+' '+'q. '+str(quaestioNumero)+' a. '+self.indicat+'.md', 'w')
+		f.write('### '+self.titulus+'\n\n')
+		for argumentum in self.argumenta:
+			f.write('###### '+argumentum.index+'\n')
+			f.write(argumentum.corpus+'\n\n')
 		return()
 
 class Argumentum:
 	def __init__(self,titulus):
+		indexArg = re.compile(".*(arg. [0-9]*)")
+		indexSc = re.compile(".*(s. c.)")
+		indexCo = re.compile(".*(co.)")
+		indexAd = re.compile(".*(ad [0-9]*)")
+		if indexArg.match(str(titulus)) != None:
+			self.index = indexArg.match(titulus).group(1)
+		elif indexSc.match(titulus) != None:
+			self.index = "s. c."
+		elif indexCo.match(titulus) !=None :
+			self.index = "co."
+		elif indexAd.match(titulus) != None:
+			self.index = indexAd.match(titulus).group(1)
 		self.titulus = titulus
 		self.corpus = ""
 	def addeCorpus(self,addecorpus):
@@ -108,9 +124,6 @@ def transferrePaginam(numero):
 	contents = file.read()
 	soup = BeautifulSoup(contents, 'html.parser')
 	#print(soup.prettify())
-
-	# Création du fichier texte associé au chapitre
-	f = open('temp.txt', 'w')
 
 	inQuaestio = False
 	inArticulus = False
@@ -157,8 +170,6 @@ def transferrePaginam(numero):
 				prooemium.addeCorpus(str(data.contents[i]))
 			quaestio.addeProoemium(prooemium)
 			inProoemium = False
-	f.close()
-
 
 ### MAIN ###
 
