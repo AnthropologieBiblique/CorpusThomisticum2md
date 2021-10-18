@@ -69,7 +69,6 @@ def transferrePaginam():
 	f = open('temp.txt', 'w')
 
 	inArticulus = False
-	inArgumentum = False
 	questioAlbum = []
 
 	for data in soup.find_all():
@@ -87,14 +86,16 @@ def transferrePaginam():
 					inArticulus = True
 					articulus=Articulus(data.getText())
 			else :
+				if inArticulus:
+					questio.addeArticulus(articulus)
 				inArticulus = False
 		elif data.name == "p" and inArticulus:
 			argumentum = Argumentum(data.attrs['title'])
 			for i in range(1,len(data.contents)):
 				argumentum.addeCorpus(str(data.contents[i]))
 			articulus.addeArgumentum(argumentum)
-			inArgumentum = True
 	print(questio)
+	print(questio.articuli)
 	f.close()
 
 transferrePaginam()
