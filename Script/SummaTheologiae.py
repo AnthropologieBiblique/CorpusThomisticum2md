@@ -17,6 +17,8 @@ class Pars:
 		for quaestio in self.quaestiones:
 			pars += str(quaestio)+"\n"
 		return(pars+"\n")
+	def construereMD(self):
+		return()
 
 class Quaestio:
 	def __init__(self,titulus):
