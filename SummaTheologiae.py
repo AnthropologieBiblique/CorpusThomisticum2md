@@ -4,7 +4,20 @@ import urllib.request
 import re
 import fileinput
 
-class Questio:
+class Pars:
+	def __init__(self,titulus):
+		self.titulus = ""
+		self.prooemium = None
+		self.quaestiones = []
+	def addeQuaestio(self,quaestio):
+		self.quaestiones.append(quaestio)
+	def __str__(self):
+		pars = str(self.titulus)+"\n\n\n"
+		for quaestio in self.quaestiones:
+			pars += str(quaestio)+"\n"
+		return(pars+"\n")
+
+class Quaestio:
 	def __init__(self,titulus):
 		self.titulus = titulus
 		self.prooemium = None
@@ -14,11 +27,11 @@ class Questio:
 	def addeProoemium(self,prooemium):
 		self.prooemium = prooemium
 	def __str__(self):
-		questio = str(self.titulus)+"\n\n"
-		questio += str(self.prooemium)+"\n"
+		quaestio = str(self.titulus)+"\n\n"
+		quaestio += str(self.prooemium)+"\n"
 		for articulus in self.articuli:
-			questio += str(articulus)+"\n"
-		return(questio+"\n")
+			quaestio += str(articulus)+"\n"
+		return(quaestio+"\n")
 
 class Articulus:
 	def __init__(self,titulus):
@@ -58,10 +71,10 @@ class Prooemium:
 	def __str__(self):
 		return(str(self.titulus)+"\n\n"+str(self.corpus)+"\n")
 
-def transferrePaginam():
+def transferrePaginam(numero):
 	# Téléchargement d'une page sur www.corpusthomisticum.org
 	try:
-	    url = "https://www.corpusthomisticum.org/sth1001.html"
+	    url = "https://www.corpusthomisticum.org/sth"+str(numero)+".html"
 	    headers = {}
 	    headers['User-Agent'] = "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.27 Safari/537.17"
 	    req = urllib.request.Request(url, headers = headers)
@@ -82,30 +95,39 @@ def transferrePaginam():
 	# Création du fichier texte associé au chapitre
 	f = open('temp.txt', 'w')
 
+	inQuaestio = False
 	inArticulus = False
 	inProoemium = False
-	questioAlbum = []
 
 	for data in soup.find_all():
 		if data.name == "div":
 			if data.attrs['class'] == ['D']:
-				questio = Questio(data.getText())
+				if inQuaestio:
+					quaestio.addeArticulus(articulus)
+					primaPars.addeQuaestio(quaestio)
+				quaestio = Quaestio(data.getText())
+				inQuaestio = True
 				inArticulus = False
 				inProoemium = False
+			elif data.attrs['class'] == ['centro']:
+				if inQuaestio:
+					primaPars.addeQuaestio(quaestio)
+				inArticulus = False
+				inQuaestio = False
 			elif data.attrs['class'] == ['G']:
 				inArticulus = False
 				inProoemium = True
 				prooemium = Prooemium(data.getText())
 			elif data.attrs['class'] == ['E']:
 				if inArticulus:
-					questio.addeArticulus(articulus)
+					quaestio.addeArticulus(articulus)
 					articulus=Articulus(data.getText())
 				else:
 					inArticulus = True
 					articulus=Articulus(data.getText())
 			else :
 				if inArticulus:
-					questio.addeArticulus(articulus)
+					quaestio.addeArticulus(articulus)
 				inArticulus = False
 				inProoemium = False
 		elif data.name == "p" and inArticulus:
@@ -116,9 +138,20 @@ def transferrePaginam():
 		elif data.name == "p" and inProoemium:
 			for i in range(1,len(data.contents)):
 				prooemium.addeCorpus(str(data.contents[i]))
-			questio.addeProoemium(prooemium)
+			quaestio.addeProoemium(prooemium)
 			inProoemium = False
-	print(questio)
 	f.close()
 
-transferrePaginam()
+
+### MAIN ###
+
+primaPars = Pars("Prima Pars")
+#primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
+primaParsNumero = [1003]
+for numero in primaParsNumero:
+	transferrePaginam(numero)
+
+print(len(primaPars.quaestiones))
+print(primaPars)
+
+
