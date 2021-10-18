@@ -23,6 +23,7 @@ class Pars:
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
 			os.mkdir(via)
+			quaestio.adMd(via,self.indicat)
 			for articulus in quaestio.articuli:
 				articulus.adMd(via,self.indicat,quaestio.indicat)
 		return()
@@ -44,6 +45,15 @@ class Quaestio:
 		for articulus in self.articuli:
 			quaestio += str(articulus)+"\n"
 		return(quaestio+"\n")
+	def adMd(self,via,parsIndicat):
+		f = open(via+'/'+parsIndicat+' '+'q. '+self.indicat+'.md', 'w')
+		f.write('## '+self.titulus+'\n\n')
+		f.write('### Prooemium'+'\n\n')
+		f.write(self.prooemium.corpus+'\n\n')
+		for articulus in self.articuli:
+			f.write('![['+parsIndicat+' '+'q. '+self.indicat+' a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
+		f.close()
+
 
 class Articulus:
 	def __init__(self,titulus):
@@ -64,6 +74,7 @@ class Articulus:
 		for argumentum in self.argumenta:
 			f.write('###### '+argumentum.index+'\n')
 			f.write(argumentum.corpus+'\n\n')
+		f.close()
 		return()
 
 class Argumentum:
