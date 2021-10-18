@@ -7,11 +7,15 @@ import fileinput
 class Questio:
 	def __init__(self,titulus):
 		self.titulus = titulus
+		self.prooemium = None
 		self.articuli = []
 	def addeArticulus(self,articulus):
 		self.articuli.append(articulus)
+	def addeProoemium(self,prooemium):
+		self.prooemium = prooemium
 	def __str__(self):
 		questio = str(self.titulus)+"\n\n"
+		questio += str(self.prooemium)+"\n"
 		for articulus in self.articuli:
 			questio += str(articulus)+"\n"
 		return(questio+"\n")
@@ -31,10 +35,7 @@ class Articulus:
 class Argumentum:
 	def __init__(self,titulus):
 		self.titulus = titulus
-		self.index = ""
 		self.corpus = ""
-	def mutareTitulus(self,titulus):
-		self.titulus = titulus
 	def addeCorpus(self,addecorpus):
 		italic = re.compile("<i>(.*?)</i>")
 		if italic.match(addecorpus) == None:
@@ -43,6 +44,19 @@ class Argumentum:
 			self.corpus += "*"+italic.match(addecorpus).group(1)+"*"
 	def __str__(self):
 		return(str(self.titulus)+"\n"+str(self.corpus)+"\n")
+
+class Prooemium:
+	def __init__(self,titulus):
+		self.titulus = titulus
+		self.corpus = ""
+	def addeCorpus(self,addecorpus):
+		italic = re.compile("<i>(.*?)</i>")
+		if italic.match(addecorpus) == None:
+			self.corpus += addecorpus
+		else:
+			self.corpus += "*"+italic.match(addecorpus).group(1)+"*"
+	def __str__(self):
+		return(str(self.titulus)+"\n\n"+str(self.corpus)+"\n")
 
 def transferrePaginam():
 	# Téléchargement d'une page sur www.corpusthomisticum.org
@@ -69,6 +83,7 @@ def transferrePaginam():
 	f = open('temp.txt', 'w')
 
 	inArticulus = False
+	inProoemium = False
 	questioAlbum = []
 
 	for data in soup.find_all():
@@ -76,8 +91,11 @@ def transferrePaginam():
 			if data.attrs['class'] == ['D']:
 				questio = Questio(data.getText())
 				inArticulus = False
+				inProoemium = False
 			elif data.attrs['class'] == ['G']:
 				inArticulus = False
+				inProoemium = True
+				prooemium = Prooemium(data.getText())
 			elif data.attrs['class'] == ['E']:
 				if inArticulus:
 					questio.addeArticulus(articulus)
@@ -89,13 +107,18 @@ def transferrePaginam():
 				if inArticulus:
 					questio.addeArticulus(articulus)
 				inArticulus = False
+				inProoemium = False
 		elif data.name == "p" and inArticulus:
 			argumentum = Argumentum(data.attrs['title'])
 			for i in range(1,len(data.contents)):
 				argumentum.addeCorpus(str(data.contents[i]))
 			articulus.addeArgumentum(argumentum)
+		elif data.name == "p" and inProoemium:
+			for i in range(1,len(data.contents)):
+				prooemium.addeCorpus(str(data.contents[i]))
+			questio.addeProoemium(prooemium)
+			inProoemium = False
 	print(questio)
-	print(questio.articuli)
 	f.close()
 
 transferrePaginam()
