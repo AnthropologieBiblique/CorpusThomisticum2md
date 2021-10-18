@@ -152,6 +152,6 @@ for numero in primaParsNumero:
 	transferrePaginam(numero)
 
 print(len(primaPars.quaestiones))
-print(primaPars)
+#print(primaPars)
 
 
