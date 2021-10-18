@@ -4,45 +4,51 @@ import urllib.request
 import re
 import fileinput
 
+#italic = re.compile("<i>(.*?)</i>")
+#print(italic.match("<i>altiora te ne quaesieris</i>").group(1))
+#print(italic.match("altiora te ne quaesieris"))
+
 class Questio:
-	def __init__(self,title):
-		self.title = title
-		self.articles = []
-	def addArticle(self,article):
-		self.articles.append(article)
+	def __init__(self,titulus):
+		self.titulus = titulus
+		self.articuli = []
+	def addeArticulus(self,articulus):
+		self.articuli.append(articulus)
 	def __str__(self):
-		questio = str(self.title)+"\n\n"
-		for article in self.articles:
-			questio += str(article)+"\n"
+		questio = str(self.titulus)+"\n\n"
+		for articulus in self.articuli:
+			questio += str(articulus)+"\n"
 		return(questio+"\n")
 
-class Article:
-	def __init__(self,title):
-		self.title = title
-		self.paragraphs = []
-	def addParagraph(self,paragraph):
-		self.paragraphs.append(paragraph)
+class Articulus:
+	def __init__(self,titulus):
+		self.titulus = titulus
+		self.argumenta = []
+	def addeArgumentum(self,argumentum):
+		self.argumenta.append(argumentum)
 	def __str__(self):
-		article = str(self.title)+"\n\n"
-		for paragraph in self.paragraphs:
-			article += str(paragraph) +"\n"
-		return(article+"\n")
+		articulus = str(self.titulus)+"\n\n"
+		for argumentum in self.argumenta:
+			articulus += str(argumentum) +"\n"
+		return(articulus+"\n")
 
-class Paragraph:
-	def __init__(self,title):
-		self.title = title
-		self.ref = ""
+class Argumentum:
+	def __init__(self,titulus):
+		self.titulus = titulus
+		self.index = ""
 		self.corpus = ""
-	def setTitle(self,title):
-		self.title = title
-	def setRef(self,ref):
-		self.ref = ref
-	def setCorpus(self,corpus):
-		self.corpus = corpus
+	def mutareTitulus(self,titulus):
+		self.titulus = titulus
+	def addeCorpus(self,addecorpus):
+		italic = re.compile("<i>(.*?)</i>")
+		if italic.match(addecorpus) == None:
+			self.corpus += addecorpus
+		else:
+			self.corpus += "*"+italic.match(addecorpus).group(1)+"*"
 	def __str__(self):
-		return(str(self.title)+"\n"+str(self.ref)+"\n"+str(self.corpus)+"\n")
+		return(str(self.titulus)+"\n"+str(self.corpus)+"\n")
 
-def telechargerPage():
+def transferrePaginam():
 	# Téléchargement d'une page sur www.corpusthomisticum.org
 	try:
 	    url = "https://www.corpusthomisticum.org/sth1001.html"
@@ -64,58 +70,37 @@ def telechargerPage():
 	
 	# Création du fichier texte associé au chapitre
 	f = open('temp.txt', 'w')
-	# Trouver tous les articles de la page
+	# Trouver tous les articuli de la page
 	print(soup.prettify())
-	inArticle = False
-	articleNumber = 0
-	inParagraph = False
-	questioList = []
+	inArticulus = False
+	numerusArticulorum = 0
+	inArgumentum = False
+	questioAlbum = []
 
 	for data in soup.find_all():
 		if data.name == "div":
 			if data.attrs['class'] == ['D']:
 				print("It's a questio")
 				print(data.getText())
-				inArticle = False
+				inArticulus = False
 			elif data.attrs['class'] == ['G']:
 				print("It's a prooemium")
 				print(data.getText())
-				inArticle = False
+				inArticulus = False
 			elif data.attrs['class'] == ['E']:
-				print("It's an article")
+				print("It's an articulus")
 				print(data.getText())
-				inArticle = True
-				articleNumber+=1
-				article=Article(data.getText())
+				inArticulus = True
+				numerusArticulorum+=1
+				articulus=Articulus(data.getText())
 			else :
-				inArticle = False
-		elif data.name == "p" and inArticle:
-			paragraph = Paragraph(data.attrs['title'])
-			#print(data.attrs['title'])
-			paragraph.setCorpus(data.contents[1])
-			#print(data.contents[1])
-			inParagraph = True
-		elif data.name == "a" and inParagraph:
-			#print(data.attrs['name'])
-			paragraph.setRef(data.attrs['name'])
-			inParagraph = False
-			#print("PRINT PARAGRAPH")
-			print(paragraph)
-			#print("//PRINT")
+				inArticulus = False
+		elif data.name == "p" and inArticulus:
+			argumentum = Argumentum(data.attrs['title'])
+			for i in range(1,len(data.contents)):
+				argumentum.addeCorpus(str(data.contents[i]))
+			print(argumentum)
+			inArgumentum = True
 	f.close()
 
-telechargerPage()
-
-paragraph = Paragraph("test")
-print(paragraph)
-
-paragraph.setTitle("test")
-paragraph.setRef("testRef")
-paragraph.setCorpus("testCorpus")
-
-print(paragraph)
-
-article = Article("titreArticle")
-article.addParagraph(paragraph)
-article.addParagraph(paragraph)
-print(article)
+transferrePaginam()
