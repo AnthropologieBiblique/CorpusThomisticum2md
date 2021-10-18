@@ -5,8 +5,9 @@ import re
 import fileinput
 
 class Pars:
-	def __init__(self,titulus):
-		self.titulus = ""
+	def __init__(self,titulus, indicat):
+		self.titulus = titulus
+		self.indicat = indicat
 		self.prooemium = None
 		self.quaestiones = []
 	def addeQuaestio(self,quaestio):
@@ -20,6 +21,8 @@ class Pars:
 class Quaestio:
 	def __init__(self,titulus):
 		self.titulus = titulus
+		numero = re.compile("Quaestio ([0-9]*)")
+		self.indicat = numero.match(titulus).group(1)
 		self.prooemium = None
 		self.articuli = []
 	def addeArticulus(self,articulus):
@@ -145,13 +148,13 @@ def transferrePaginam(numero):
 
 ### MAIN ###
 
-primaPars = Pars("Prima Pars")
+primaPars = Pars("Prima Pars","I")
 #primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
 primaParsNumero = [1003]
 for numero in primaParsNumero:
 	transferrePaginam(numero)
 
 print(len(primaPars.quaestiones))
-#print(primaPars)
+print(primaPars.quaestiones[0].indicat)
 
 
