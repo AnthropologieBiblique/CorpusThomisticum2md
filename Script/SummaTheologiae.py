@@ -3,6 +3,7 @@ import urllib.parse
 import urllib.request
 import re
 import fileinput
+import os
 
 class Pars:
 	def __init__(self,titulus, indicat):
@@ -17,7 +18,13 @@ class Pars:
 		for quaestio in self.quaestiones:
 			pars += str(quaestio)+"\n"
 		return(pars+"\n")
-	def construereMD(self):
+	def construereMd(self):
+		os.mkdir("../SummaTheologiae/"+self.titulus)
+		for quaestio in self.quaestiones:
+			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
+			os.mkdir(via)
+			for articulus in quaestio.articuli:
+				articulus.adMd(via,self.indicat,quaestio.indicat)
 		return()
 
 class Quaestio:
@@ -41,6 +48,8 @@ class Quaestio:
 class Articulus:
 	def __init__(self,titulus):
 		self.titulus = titulus
+		numero = re.compile("Articulus ([0-9]*)")
+		self.indicat = numero.match(titulus).group(1)
 		self.argumenta = []
 	def addeArgumentum(self,argumentum):
 		self.argumenta.append(argumentum)
@@ -49,6 +58,9 @@ class Articulus:
 		for argumentum in self.argumenta:
 			articulus += str(argumentum) +"\n"
 		return(articulus+"\n")
+	def adMd(self,via,parsIndicat,quaestioNumero):
+		f = open(via+'/'+parsIndicat+' '+'q. '+str(quaestioNumero)+' a. '+self.indicat+'.md', 'w')
+		return()
 
 class Argumentum:
 	def __init__(self,titulus):
@@ -156,8 +168,6 @@ primaParsNumero = [1003]
 for numero in primaParsNumero:
 	transferrePaginam(numero)
 
-print(len(primaPars.quaestiones))
-print(primaPars.quaestiones[0].indicat)
-print(primaPars)
+primaPars.construereMd()
 
 
