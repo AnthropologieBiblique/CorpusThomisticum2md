@@ -65,7 +65,7 @@ class Pars:
 					if data.attrs['class'] == ['D']:
 						if inQuaestio:
 							quaestio.addeArticulus(articulus)
-							primaPars.addeQuaestio(quaestio)
+							self.addeQuaestio(quaestio)
 						quaestio = Quaestio(data.getText())
 						inQuaestio = True
 						inArticulus = False
@@ -197,7 +197,7 @@ secundaSecundaeNumero = [3001,3017,3023,3025,3027,3034,3044,3045,3047,3057,3061,
 tertiaParsNumero = [4001,4002,4016,4027,4040,4046,4053,4060,4066,4072,4073,4074,4078,4079,4080,4082,4083,4084]
 
 primaPars = Pars("Prima Pars","I",primaParsNumero)
-primaSecundae = Pars("Secunda Secundae","II-I",primaSecundaeNumero)
+primaSecundae = Pars("Prima Secundae","II-I",primaSecundaeNumero)
 secundaSecundae = Pars("Secunda Secundae","II-II",secundaSecundaeNumero)
 tertiaPars = Pars("Tertia Pars","III",tertiaParsNumero)
 

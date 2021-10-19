@@ -1,0 +1,10 @@
+## Quaestio 166
+
+### Prooemium
+
+Deinde considerandum est de studiositate, et curiositate sibi opposita. Circa studiositatem autem quaeruntur duo. Primo, quae sit materia studiositatis. Secundo, utrum sit pars temperantiae.
+
+![[II-II q. 166 a. 1#Articulus 1]]
+
+![[II-II q. 166 a. 2#Articulus 2]]
+
