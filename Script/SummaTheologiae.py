@@ -192,10 +192,12 @@ primaPars = Pars("Prima Pars","I")
 #primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
 primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1075,1077,1084,1090,1103]
 #primaParsNumero = [1003] # Test Sample
+
 for numero in primaParsNumero:
 	transferrePaginam(numero)
 	print(numero)
 
 primaPars.construereMd()
+
 
 
