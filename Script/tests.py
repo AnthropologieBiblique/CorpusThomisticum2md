@@ -13,3 +13,10 @@ indexCo = re.compile("(co.)")
 indexAd = re.compile("(ad [0-9]*)")
 
 print(indexArg.match(titulus).group(1))
+
+
+REGEX ROMAN :
+"^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$"
+
+
+
