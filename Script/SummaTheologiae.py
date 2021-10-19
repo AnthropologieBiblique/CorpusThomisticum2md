@@ -6,11 +6,14 @@ import fileinput
 import os
 
 class Pars:
-	def __init__(self,titulus, indicat):
+	def __init__(self,titulus, indicat,numero):
 		self.titulus = titulus
 		self.indicat = indicat
+		self.numero = numero
 		self.prooemium = None
 		self.quaestiones = []
+		self.transferre()
+		self.construereMd()
 	def addeQuaestio(self,quaestio):
 		self.quaestiones.append(quaestio)
 	def __str__(self):
@@ -31,6 +34,73 @@ class Pars:
 				articulus.adMd(via,self.indicat,quaestio.indicat)
 		f.close()
 		return()
+	def transferre(self):
+		for numero in self.numero:
+			# Téléchargement d'une page sur www.corpusthomisticum.org
+			try:
+			    url = "https://www.corpusthomisticum.org/sth"+str(numero)+".html"
+			    headers = {}
+			    headers['User-Agent'] = "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.27 Safari/537.17"
+			    req = urllib.request.Request(url, headers = headers)
+			    resp = urllib.request.urlopen(req)
+			    respData = resp.read().decode('utf-8')
+			    saveFile = open('temp.html','w')
+			    saveFile.write(str(respData))
+			    saveFile.close()
+			except Exception as e:
+			    print(str(e))
+			
+			# Ouverture du html pour parsing
+			file = open('temp.html', 'r')
+			contents = file.read()
+			soup = BeautifulSoup(contents, 'html.parser')
+			#print(soup.prettify())
+
+			inQuaestio = False
+			inArticulus = False
+			inProoemium = False
+
+			for data in soup.find_all():
+				if data.name == "div":
+					if data.attrs['class'] == ['D']:
+						if inQuaestio:
+							quaestio.addeArticulus(articulus)
+							primaPars.addeQuaestio(quaestio)
+						quaestio = Quaestio(data.getText())
+						inQuaestio = True
+						inArticulus = False
+						inProoemium = False
+					elif data.attrs['class'] == ['centro']:
+						if inQuaestio:
+							self.addeQuaestio(quaestio)
+						inArticulus = False
+						inQuaestio = False
+					elif data.attrs['class'] == ['G']:
+						inArticulus = False
+						inProoemium = True
+						prooemium = Prooemium(data.getText())
+					elif data.attrs['class'] == ['E']:
+						if inArticulus:
+							quaestio.addeArticulus(articulus)
+							articulus=Articulus(data.getText())
+						else:
+							inArticulus = True
+							articulus=Articulus(data.getText())
+					else :
+						if inArticulus:
+							quaestio.addeArticulus(articulus)
+						inArticulus = False
+						inProoemium = False
+				elif data.name == "p" and inArticulus:
+					argumentum = Argumentum(data.attrs['title'])
+					for i in range(1,len(data.contents)):
+						argumentum.addeCorpus(str(data.contents[i]))
+					articulus.addeArgumentum(argumentum)
+				elif data.name == "p" and inProoemium:
+					for i in range(1,len(data.contents)):
+						prooemium.addeCorpus(str(data.contents[i]))
+					quaestio.addeProoemium(prooemium)
+					inProoemium = False
 
 class Quaestio:
 	def __init__(self,titulus):
@@ -57,7 +127,6 @@ class Quaestio:
 		for articulus in self.articuli:
 			f.write('![['+parsIndicat+' '+'q. '+self.indicat+' a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
 		f.close()
-
 
 class Articulus:
 	def __init__(self,titulus):
@@ -119,85 +188,18 @@ class Prooemium:
 	def __str__(self):
 		return(str(self.titulus)+"\n\n"+str(self.corpus)+"\n")
 
-def transferrePaginam(numero):
-	# Téléchargement d'une page sur www.corpusthomisticum.org
-	try:
-	    url = "https://www.corpusthomisticum.org/sth"+str(numero)+".html"
-	    headers = {}
-	    headers['User-Agent'] = "Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.27 Safari/537.17"
-	    req = urllib.request.Request(url, headers = headers)
-	    resp = urllib.request.urlopen(req)
-	    respData = resp.read().decode('utf-8')
-	    saveFile = open('temp.html','w')
-	    saveFile.write(str(respData))
-	    saveFile.close()
-	except Exception as e:
-	    print(str(e))
-	
-	# Ouverture du html pour parsing
-	file = open('temp.html', 'r')
-	contents = file.read()
-	soup = BeautifulSoup(contents, 'html.parser')
-	#print(soup.prettify())
-
-	inQuaestio = False
-	inArticulus = False
-	inProoemium = False
-
-	for data in soup.find_all():
-		if data.name == "div":
-			if data.attrs['class'] == ['D']:
-				if inQuaestio:
-					quaestio.addeArticulus(articulus)
-					primaPars.addeQuaestio(quaestio)
-				quaestio = Quaestio(data.getText())
-				inQuaestio = True
-				inArticulus = False
-				inProoemium = False
-			elif data.attrs['class'] == ['centro']:
-				if inQuaestio:
-					primaPars.addeQuaestio(quaestio)
-				inArticulus = False
-				inQuaestio = False
-			elif data.attrs['class'] == ['G']:
-				inArticulus = False
-				inProoemium = True
-				prooemium = Prooemium(data.getText())
-			elif data.attrs['class'] == ['E']:
-				if inArticulus:
-					quaestio.addeArticulus(articulus)
-					articulus=Articulus(data.getText())
-				else:
-					inArticulus = True
-					articulus=Articulus(data.getText())
-			else :
-				if inArticulus:
-					quaestio.addeArticulus(articulus)
-				inArticulus = False
-				inProoemium = False
-		elif data.name == "p" and inArticulus:
-			argumentum = Argumentum(data.attrs['title'])
-			for i in range(1,len(data.contents)):
-				argumentum.addeCorpus(str(data.contents[i]))
-			articulus.addeArgumentum(argumentum)
-		elif data.name == "p" and inProoemium:
-			for i in range(1,len(data.contents)):
-				prooemium.addeCorpus(str(data.contents[i]))
-			quaestio.addeProoemium(prooemium)
-			inProoemium = False
-
 ### MAIN ###
 
-primaPars = Pars("Prima Pars","I")
 #primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
 primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1075,1077,1084,1090,1103]
-#primaParsNumero = [1003] # Test Sample
+primaSecundaeNumero = [2001,2006,2022,2026,2040,2049,2055,2071,2072,2073,2074,2075,2085,2090,2093,2094,2095,2098,2106,2109]
+secundaSecundaeNumero = [3001,3017,3023,3025,3027,3034,3044,3045,3047,3057,3061,3079,3080,3081,3082,3092,3101,3102,3106,3109,3121,3122,3123,3141,3143,3144,3146,3155,3170,3171,3179,3183]
+tertiaParsNumero = [4001,4002,4016,4027,4040,4046,4053,4060,4066,4072,4073,4074,4078,4079,4080,4082,4083,4084]
 
-for numero in primaParsNumero:
-	transferrePaginam(numero)
-	print(numero)
-
-primaPars.construereMd()
+primaPars = Pars("Prima Pars","I",primaParsNumero)
+primaSecundae = Pars("Secunda Secundae","II-I",primaSecundaeNumero)
+secundaSecundae = Pars("Secunda Secundae","II-II",secundaSecundaeNumero)
+tertiaPars = Pars("Tertia Pars","III",tertiaParsNumero)
 
 
 
