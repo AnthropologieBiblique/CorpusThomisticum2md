@@ -74,7 +74,8 @@ test = vinculumBiblia('bibleReferences')
 print(test.listMachinae[49].createLinks("Ceci est un test Ioan. IV. et Ioann. XCV. I Ioann. XVIII. etc... "))
 
 
-
+#primaParsNumero = [1003]
+#primaPars = Pars("Prima Pars","I",primaParsNumero)
 
 
 #jn = re.compile(".*"+"(Ioan.)"+" (CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})")
