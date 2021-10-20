@@ -264,6 +264,3 @@ primaPars = Pars("Prima Pars","I",primaParsNumero)
 primaSecundae = Pars("Prima Secundae","II-I",primaSecundaeNumero)
 secundaSecundae = Pars("Secunda Secundae","II-II",secundaSecundaeNumero)
 tertiaPars = Pars("Tertia Pars","III",tertiaParsNumero)
-
-#primaParsNumero = [1003]
-#primaPars = Pars("Prima Pars","I",primaParsNumero)
