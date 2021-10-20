@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod, licet ille qui confirmatur sit adultus corporalite
 Ad secundum dicendum quod, licet baptizatus sit effectus membrum Ecclesiae, nondum tamen est adscriptus militiae Christianae. Et ideo episcopo, tanquam duci exercitus, per alium exhibetur iam militiae Christianae adscriptum. Non enim debet alium ad confirmationem tenere qui nondum est confirmatus.
 
 ###### ad 3
-Ad tertium dicendum quod, sicut dicitur Coloss. III, *in Christo Iesu non est masculus neque femina*. Et ideo non differt utrum masculus vel femina teneat aliquem in confirmatione.
+Ad tertium dicendum quod, sicut dicitur [[Col 3]], *in Christo Iesu non est masculus neque femina*. Et ideo non differt utrum masculus vel femina teneat aliquem in confirmatione.
 

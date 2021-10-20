@@ -1,13 +1,13 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod haec doctrina non sit argumentativa. Dicit enim Ambrosius in libro I de fide Catholica, *tolle argumenta, ubi fides quaeritur*. Sed in hac doctrina praecipue fides quaeritur, unde dicitur Ioan. XX, *haec scripta sunt ut credatis*. Ergo sacra doctrina non est argumentativa.
+Ad octavum sic proceditur. Videtur quod haec doctrina non sit argumentativa. Dicit enim Ambrosius in libro I de fide Catholica, *tolle argumenta, ubi fides quaeritur*. Sed in hac doctrina praecipue fides quaeritur, unde dicitur [[Jn 20]], *haec scripta sunt ut credatis*. Ergo sacra doctrina non est argumentativa.
 
 ###### arg. 2
 Praeterea, si sit argumentativa, aut argumentatur ex auctoritate, aut ex ratione. Si ex auctoritate, non videtur hoc congruere eius dignitati, nam locus ab auctoritate est infirmissimus, secundum Boetium. Si etiam ex ratione, hoc non congruit eius fini, quia secundum Gregorium in homilia, *fides non habet meritum, ubi humana ratio praebet experimentum*. Ergo sacra doctrina non est argumentativa.
 
 ###### s. c.
-Sed contra est quod dicitur ad Titum I, de episcopo, *amplectentem eum qui secundum doctrinam est, fidelem sermonem, ut potens sit exhortari in doctrina sana, et eos qui contradicunt arguere*.
+Sed contra est quod dicitur ad [[Tt 1]], de episcopo, *amplectentem eum qui secundum doctrinam est, fidelem sermonem, ut potens sit exhortari in doctrina sana, et eos qui contradicunt arguere*.
 
 ###### co.
 Respondeo dicendum quod, sicut aliae scientiae non argumentantur ad sua principia probanda, sed ex principiis argumentantur ad ostendendum alia in ipsis scientiis; ita haec doctrina non argumentatur ad sua principia probanda, quae sunt articuli fidei; sed ex eis procedit ad aliquid aliud ostendendum; sicut apostolus, I ad Cor. XV, ex resurrectione Christi argumentatur ad resurrectionem communem probandam. Sed tamen considerandum est in scientiis philosophicis, quod inferiores scientiae nec probant sua principia, nec contra negantem principia disputant, sed hoc relinquunt superiori scientiae, suprema vero inter eas, scilicet metaphysica, disputat contra negantem sua principia, si adversarius aliquid concedit, si autem nihil concedit, non potest cum eo disputare, potest tamen solvere rationes ipsius. Unde sacra Scriptura, cum non habeat superiorem, disputat cum negante sua principia, argumentando quidem, si adversarius aliquid concedat eorum quae per divinam revelationem habentur; sicut per auctoritates sacrae doctrinae disputamus contra haereticos, et per unum articulum contra negantes alium. Si vero adversarius nihil credat eorum quae divinitus revelantur, non remanet amplius via ad probandum articulos fidei per rationes, sed ad solvendum rationes, si quas inducit, contra fidem. Cum enim fides infallibili veritati innitatur, impossibile autem sit de vero demonstrari contrarium, manifestum est probationes quae contra fidem inducuntur, non esse demonstrationes, sed solubilia argumenta.

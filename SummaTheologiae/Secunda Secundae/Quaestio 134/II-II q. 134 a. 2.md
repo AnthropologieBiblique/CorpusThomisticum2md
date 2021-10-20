@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod magnificentia non sit specialis virtus.
 Praeterea, eiusdem videtur facere aliquid et tendere in illud. Sed tendere in aliquid magnum pertinet ad magnanimitatem, ut supra dictum est. Ergo et facere aliquid magnum pertinet ad magnanimitatem. Non ergo magnificentia est virtus distincta a magnanimitate.
 
 ###### arg. 3
-Praeterea, magnificentia videtur ad sanctitatem pertinere, dicitur enim Exod. XV, *magnificus in sanctitate*; et in Psalmo, *sanctitas et magnificentia in sanctificatione eius*. Sed sanctitas idem est religioni, ut supra habitum est. Ergo magnificentia videtur esse idem religioni. Non ergo est virtus specialis ab aliis distincta.
+Praeterea, magnificentia videtur ad sanctitatem pertinere, dicitur enim [[Ex 15]], *magnificus in sanctitate*; et in Psalmo, *sanctitas et magnificentia in sanctificatione eius*. Sed sanctitas idem est religioni, ut supra habitum est. Ergo magnificentia videtur esse idem religioni. Non ergo est virtus specialis ab aliis distincta.
 
 ###### s. c.
 Sed contra est quod philosophus connumerat eam aliis virtutibus specialibus.

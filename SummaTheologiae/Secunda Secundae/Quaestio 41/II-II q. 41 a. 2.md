@@ -1,22 +1,22 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod rixa non sit filia irae. Dicitur enim Iac. IV, *unde bella et lites in vobis? Nonne ex concupiscentiis quae militant in membris vestris?* Sed ira non pertinet ad concupiscibilem. Ergo rixa non est filia irae, sed magis concupiscentiae.
+Ad secundum sic proceditur. Videtur quod rixa non sit filia irae. Dicitur enim [[Jc 4]], *unde bella et lites in vobis? Nonne ex concupiscentiis quae militant in membris vestris?* Sed ira non pertinet ad concupiscibilem. Ergo rixa non est filia irae, sed magis concupiscentiae.
 
 ###### arg. 2
-Praeterea, Prov. XXVIII dicitur, *qui se iactat et dilatat iurgia concitat*. Sed idem videtur esse rixa quod iurgium. Ergo videtur quod rixa sit filia superbiae vel inanis gloriae, ad quam pertinet se iactare et dilatare.
+Praeterea, [[Pr 28]] dicitur, *qui se iactat et dilatat iurgia concitat*. Sed idem videtur esse rixa quod iurgium. Ergo videtur quod rixa sit filia superbiae vel inanis gloriae, ad quam pertinet se iactare et dilatare.
 
 ###### arg. 3
-Praeterea, Prov. XVIII dicitur, *labia stulti immiscent se rixis*. Sed stultitia differt ab ira, non enim opponitur mansuetudini, sed magis sapientiae vel prudentiae. Ergo rixa non est filia irae.
+Praeterea, [[Pr 18]] dicitur, *labia stulti immiscent se rixis*. Sed stultitia differt ab ira, non enim opponitur mansuetudini, sed magis sapientiae vel prudentiae. Ergo rixa non est filia irae.
 
 ###### arg. 4
-Praeterea, Prov. X dicitur, *odium suscitat rixas*. Sed odium oritur ex invidia; ut Gregorius dicit, XXXI Moral. Ergo rixa non est filia irae, sed invidiae.
+Praeterea, [[Pr 10]] dicitur, *odium suscitat rixas*. Sed odium oritur ex invidia; ut Gregorius dicit, XXXI Moral. Ergo rixa non est filia irae, sed invidiae.
 
 ###### arg. 5
-Praeterea, Prov. XVII dicitur, *qui meditatur discordias seminat rixas*. Sed discordia est filia inanis gloriae, ut supra dictum est. Ergo et rixa.
+Praeterea, [[Pr 17]] dicitur, *qui meditatur discordias seminat rixas*. Sed discordia est filia inanis gloriae, ut supra dictum est. Ergo et rixa.
 
 ###### s. c.
-Sed contra est quod Gregorius dicit, XXXI Moral., quod ex ira oritur rixa. Et Prov. XV et XXIX dicitur, *vir iracundus provocat rixas*.
+Sed contra est quod Gregorius dicit, XXXI Moral., quod ex ira oritur rixa. Et [[Pr 15]] et XXIX dicitur, *vir iracundus provocat rixas*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, rixa importat quandam contradictionem usque ad facta pervenientem, dum unus alterum laedere molitur. Dupliciter autem unus alium laedere intendit. Uno modo, quasi intendens absolute malum ipsius. Et talis laesio pertinet ad odium, cuius intentio est ad laedendum inimicum vel in manifesto vel in occulto. Alio modo aliquis intendit alium laedere eo sciente et repugnante, quod importatur nomine rixae. Et hoc proprie pertinet ad iram, quae est appetitus vindictae, non enim sufficit irato quod latenter noceat ei contra quem irascitur, sed vult quod ipse sentiat, et quod contra voluntatem suam aliquid patiatur in vindictam eius quod fecit, ut patet per ea quae supra dicta sunt de passione irae. Et ideo rixa proprie oritur ex ira.

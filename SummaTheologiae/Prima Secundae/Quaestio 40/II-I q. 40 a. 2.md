@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod spes pertineat ad vim cognitivam. Spes enim videtur esse expectatio quaedam, dicit enim apostolus, Rom. VIII, *si autem quod non videmus speramus, per patientiam expectamus*. Sed expectatio videtur ad vim cognitivam pertinere, cuius est exspectare. Ergo spes ad cognitivam pertinet.
+Ad secundum sic proceditur. Videtur quod spes pertineat ad vim cognitivam. Spes enim videtur esse expectatio quaedam, dicit enim apostolus, [[Rm 8]], *si autem quod non videmus speramus, per patientiam expectamus*. Sed expectatio videtur ad vim cognitivam pertinere, cuius est exspectare. Ergo spes ad cognitivam pertinet.
 
 ###### arg. 2
 Praeterea, idem est, ut videtur, spes quod fiducia, unde et sperantes confidentes vocamus, quasi pro eodem utentes eo quod est confidere et sperare. Sed fiducia, sicut et fides, videtur ad vim cognitivam pertinere. Ergo et spes.

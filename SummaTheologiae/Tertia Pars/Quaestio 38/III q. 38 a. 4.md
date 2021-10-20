@@ -7,10 +7,10 @@ Ad quartum sic proceditur. Videtur quod Baptismo Ioannis solus Christus debebat 
 Praeterea, quicumque baptizatur, aut accipit aliquid a Baptismo, aut Baptismo aliquid confert. Sed a Baptismo Ioannis nullus aliquid accipere poterat, quia in eo gratia non conferebatur, ut dictum est nec aliquis Baptismo aliquid conferre poterat nisi Christus, qui *tactu mundissimae suae carnis aquas sanctificavit*. Ergo videtur quod solus Christus Baptismo Ioannis debuerit baptizari.
 
 ###### arg. 3
-Praeterea, si alii illo Baptismo baptizabantur, hoc non erat nisi ut praepararentur ad Baptismum Christi, et sic conveniens videbatur quod, sicut Baptismus Christi omnibus confertur, et magnis et parvis, et gentilibus et Iudaeis, ita etiam et Baptismus Ioannis conferretur. Sed non legitur quod ab eo pueri baptizarentur, nec etiam gentiles, dicitur enim Marci I, quod *egrediebantur ad eum Ierosolymitae universi, et baptizabantur ab illo*. Ergo videtur quod solus Christus a Ioanne debuit baptizari.
+Praeterea, si alii illo Baptismo baptizabantur, hoc non erat nisi ut praepararentur ad Baptismum Christi, et sic conveniens videbatur quod, sicut Baptismus Christi omnibus confertur, et magnis et parvis, et gentilibus et Iudaeis, ita etiam et Baptismus Ioannis conferretur. Sed non legitur quod ab eo pueri baptizarentur, nec etiam gentiles, dicitur enim [[Mc 1]], quod *egrediebantur ad eum Ierosolymitae universi, et baptizabantur ab illo*. Ergo videtur quod solus Christus a Ioanne debuit baptizari.
 
 ###### s. c.
-Sed contra est quod dicitur Luc. III, *factum est, cum baptizaretur omnis populus, et Iesu baptizato et orante, aperti sunt caeli*.
+Sed contra est quod dicitur [[Lc 3]], *factum est, cum baptizaretur omnis populus, et Iesu baptizato et orante, aperti sunt caeli*.
 
 ###### co.
 Respondeo dicendum quod duplici de causa oportuit alios a Christo baptizari Baptismo Ioannis. Primo quidem, ut Augustinus dicit, super Ioan., quia, *si solus Christus Baptismo Ioannis baptizatus esset, non defuissent qui dicerent Baptismum Ioannis, quo Christus est baptizatus, digniorem esse Baptismo Christi, quo alii baptizantur*. Secundo, quia oportebat per Baptismum Ioannis alios ad Baptismum Christi praeparari, sicut dictum est.

@@ -7,7 +7,7 @@ Ad sextum sic proceditur. Videtur quod avaritia non sit peccatum spirituale. Vit
 Praeterea, peccatum spirituale contra carnale dividitur. Sed avaritia videtur esse peccatum carnale, sequitur enim corruptionem carnis; ut patet in senibus, qui propter naturae carnalis defectum in avaritiam incidunt. Ergo avaritia non est peccatum spirituale.
 
 ###### arg. 3
-Praeterea, peccatum carnale est per quod etiam corpus hominis deordinatur, secundum illud apostoli, I ad Cor. VI, qui fornicatur in corpus suum peccat. Sed avaritia etiam hominem corporaliter vexat, unde et Chrysostomus, Marc. V, comparat avarum daemoniaco, qui in corpore vexatur. Ergo avaritia non videtur esse peccatum spirituale.
+Praeterea, peccatum carnale est per quod etiam corpus hominis deordinatur, secundum illud apostoli, I ad Cor. VI, qui fornicatur in corpus suum peccat. Sed avaritia etiam hominem corporaliter vexat, unde et Chrysostomus, [[Mc 5]], comparat avarum daemoniaco, qui in corpore vexatur. Ergo avaritia non videtur esse peccatum spirituale.
 
 ###### s. c.
 Sed contra est quod Gregorius, XXXI Moral., computat avaritiam vitiis spiritualibus.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod avaritia circa corporale obiectum non quaerit delec
 Ad secundum dicendum quod motus recipit speciem secundum terminum ad quem, non autem secundum terminum a quo. Et ideo vitium dicitur carnale ex hoc quod tendit in delectationem carnalem, non autem ex eo quod procedit ex aliquo defectu carnis.
 
 ###### ad 3
-Ad tertium dicendum quod Chrysostomus comparat avarum daemoniaco, non quia vexetur in carne sicut daemoniacus, sed per oppositum, quia sicut daemoniacus ille de quo legitur Marc. V, se denudabat, ita avarus se superfluis divitiis onerat.
+Ad tertium dicendum quod Chrysostomus comparat avarum daemoniaco, non quia vexetur in carne sicut daemoniacus, sed per oppositum, quia sicut daemoniacus ille de quo legitur [[Mc 5]], se denudabat, ita avarus se superfluis divitiis onerat.
 

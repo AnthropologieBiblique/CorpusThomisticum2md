@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod non sint diversae superstitionis specie
 Praeterea, opposita sunt circa idem. Sed religio, cui opponitur superstitio, est circa ea quibus ordinamur in Deum, ut supra habitum est. Non ergo species superstitionis, quae opponitur religioni, potest attendi secundum aliquas divinationes humanorum eventuum, vel secundum aliquas observationes humanorum actuum.
 
 ###### arg. 3
-Praeterea, Coloss. II, super illud, *quae sunt rationem habentia sapientiae in superstitione*, dicit Glossa, idest, in simulata religione. Ergo etiam simulatio debet poni species superstitionis.
+Praeterea, [[Col 2]], super illud, *quae sunt rationem habentia sapientiae in superstitione*, dicit Glossa, idest, in simulata religione. Ergo etiam simulatio debet poni species superstitionis.
 
 ###### s. c.
 Sed contra est quod Augustinus, in II de Doct. Christ., diversas species superstitionis assignat.

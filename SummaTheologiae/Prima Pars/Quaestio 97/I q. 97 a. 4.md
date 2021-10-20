@@ -10,7 +10,7 @@ Praeterea, effectus qui causantur a virtutibus plantarum et aliarum naturalium r
 Praeterea, hoc videtur redire in fabulas antiquorum, qui dixerunt quod dii qui comedebant de quodam cibo, facti sunt immortales, quos irridet philosophus in III Metaphys.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. III, *ne forte mittat manum suam et sumat de ligno vitae, et comedat et vivat in aeternum*.
+Sed contra est quod dicitur [[Gn 3]], *ne forte mittat manum suam et sumat de ligno vitae, et comedat et vivat in aeternum*.
 
 ###### s. c.
 Praeterea, Augustinus in libro de quaest. Vet. et Nov. Test., dicit, *gustus arboris vitae corruptionem corporis inhibebat, denique etiam post peccatum potuit insolubilis manere, si permissum esset illi edere de arbore vitae*.

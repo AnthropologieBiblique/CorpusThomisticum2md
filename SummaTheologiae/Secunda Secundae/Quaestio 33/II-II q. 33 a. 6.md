@@ -7,10 +7,10 @@ Ad sextum sic proceditur. Videtur quod aliquis non debeat a correctione cessare 
 Praeterea, secundum Hieronymum, *veritas vitae non est dimittenda propter scandalum*. Praecepta autem Dei pertinent ad veritatem vitae. Cum ergo correctio fraterna cadat sub praecepto, ut dictum est, videtur quod non sit dimittenda propter scandalum eius qui corripitur.
 
 ###### arg. 3
-Praeterea, secundum apostolum, ad Rom. III, *non sunt facienda mala ut veniant bona*. Ergo, pari ratione, non sunt praetermittenda bona ne veniant mala. Sed correctio fraterna est quoddam bonum. Ergo non est praetermittenda propter timorem ne ille qui corripitur fiat deterior.
+Praeterea, secundum apostolum, ad [[Rm 3]], *non sunt facienda mala ut veniant bona*. Ergo, pari ratione, non sunt praetermittenda bona ne veniant mala. Sed correctio fraterna est quoddam bonum. Ergo non est praetermittenda propter timorem ne ille qui corripitur fiat deterior.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. IX, *noli arguere derisorem, ne oderit te*, ubi dicit Glossa, *non est timendum ne tibi derisor, cum arguitur, contumelias inferat, sed hoc potius providendum, ne, tractus ad odium, inde fiat peior*. Ergo cessandum est a correctione fraterna quando timetur ne fiat ille inde deterior.
+Sed contra est quod dicitur [[Pr 9]], *noli arguere derisorem, ne oderit te*, ubi dicit Glossa, *non est timendum ne tibi derisor, cum arguitur, contumelias inferat, sed hoc potius providendum, ne, tractus ad odium, inde fiat peior*. Ergo cessandum est a correctione fraterna quando timetur ne fiat ille inde deterior.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, duplex est correctio delinquentis. Una quidem pertinens ad praelatos, quae ordinatur ad bonum commune, et habet vim coactivam. Et talis correctio non est dimittenda propter turbationem eius qui corripitur. Tum quia, si propria sponte emendari non velit, cogendus est per poenas ut peccare desistat. Tum etiam quia, si incorrigibilis sit, per hoc providetur bono communi, dum servatur ordo iustitiae, et unius exemplo alii deterrentur. Unde iudex non praetermittit ferre sententiam condemnationis in peccantem propter timorem turbationis ipsius, vel etiam amicorum eius. Alia vero est correctio fraterna, cuius finis est emendatio delinquentis, non habens coactionem sed simplicem admonitionem. Et ideo ubi probabiliter aestimatur quod peccator admonitionem non recipiat, sed ad peiora labatur, est ab huiusmodi correctione desistendum, quia ea quae sunt ad finem debent regulari secundum quod exigit ratio finis.

@@ -10,7 +10,7 @@ Praeterea, essentialia attributa, in abstracto significata, significant per modu
 Praeterea, proprium prius est appropriato, proprium enim est de ratione appropriati. Sed essentialia attributa, secundum modum intelligendi, sunt priora personis, sicut commune est prius proprio. Ergo essentialia attributa non debent esse appropriata.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, I Cor. I, *Christum, Dei virtutem et Dei sapientiam*.
+Sed contra est quod apostolus dicit, [[1 Co 1]], *Christum, Dei virtutem et Dei sapientiam*.
 
 ###### co.
 Respondeo dicendum quod, ad manifestationem fidei, conveniens fuit essentialia attributa personis appropriari. Licet enim Trinitas personarum demonstratione probari non possit, ut supra dictum est, convenit tamen ut per aliqua magis manifesta declaretur. Essentialia vero attributa sunt nobis magis manifesta secundum rationem, quam propria personarum, quia ex creaturis, ex quibus cognitionem accipimus, possumus per certitudinem devenire in cognitionem essentialium attributorum; non autem in cognitionem personalium proprietatum, ut supra dictum est. Sicut igitur similitudine vestigii vel imaginis in creaturis inventa utimur ad manifestationem divinarum personarum, ita et essentialibus attributis. Et haec manifestatio personarum per essentialia attributa, appropriatio nominatur. Possunt autem manifestari personae divinae per essentialia attributa dupliciter. Uno modo, per viam similitudinis, sicut ea quae pertinent ad intellectum, appropriantur filio, qui procedit per modum intellectus ut verbum. Alio modo, per modum dissimilitudinis, sicut potentia appropriatur patri, ut Augustinus dicit, quia apud nos patres solent esse propter senectutem infirmi; ne tale aliquid suspicemur in Deo.

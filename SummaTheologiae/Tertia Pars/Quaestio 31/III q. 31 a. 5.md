@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod caro Christi non fuerit concepta ex purissimis sanguinibus virginis. Dicitur enim in collecta quod *Deus verbum suum de virgine carnem sumere voluit*. Sed caro differt a sanguine. Ergo corpus Christi non est sumptum de sanguine virginis.
 
 ###### arg. 2
-Praeterea, sicut mulier formata est miraculose de viro, ita corpus Christi miraculose formatum est de virgine. Sed mulier non dicitur esse formata de sanguine viri, sed magis de carne et ossibus eius, secundum illud quod dicitur Gen. II, *hoc nunc os ex ossibus meis, et caro de carne mea*. Ergo videtur quod nec etiam corpus Christi formari debuerit de sanguine virginis, sed de carnibus et ossibus eius.
+Praeterea, sicut mulier formata est miraculose de viro, ita corpus Christi miraculose formatum est de virgine. Sed mulier non dicitur esse formata de sanguine viri, sed magis de carne et ossibus eius, secundum illud quod dicitur [[Gn 2]], *hoc nunc os ex ossibus meis, et caro de carne mea*. Ergo videtur quod nec etiam corpus Christi formari debuerit de sanguine virginis, sed de carnibus et ossibus eius.
 
 ###### arg. 3
 Praeterea, corpus Christi fuit eiusdem speciei cum corporibus aliorum hominum. Sed corpora aliorum hominum non formantur ex purissimo sanguine, sed ex semine et sanguine menstruo. Ergo videtur quod nec etiam corpus Christi fuerit conceptum ex purissimis sanguinibus virginis.

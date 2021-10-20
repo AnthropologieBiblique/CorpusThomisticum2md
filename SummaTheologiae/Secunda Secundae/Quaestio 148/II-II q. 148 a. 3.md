@@ -1,13 +1,13 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod gula sit maximum peccatorum. Magnitudo enim peccati ex magnitudine poenae consideratur. Sed peccatum gulae est gravissime punitum, dicit enim Chrysostomus, *Adam incontinentia ventris expulit a Paradiso; diluvium quod fuit tempore Noe, ipsa fecit*; secundum illud Ezech. XVI, *haec fuit iniquitas Sodomae, sororis tuae, saturitas panis*, et cetera. Ergo peccatum gulae est maximum.
+Ad tertium sic proceditur. Videtur quod gula sit maximum peccatorum. Magnitudo enim peccati ex magnitudine poenae consideratur. Sed peccatum gulae est gravissime punitum, dicit enim Chrysostomus, *Adam incontinentia ventris expulit a Paradiso; diluvium quod fuit tempore Noe, ipsa fecit*; secundum illud [[Ez 16]], *haec fuit iniquitas Sodomae, sororis tuae, saturitas panis*, et cetera. Ergo peccatum gulae est maximum.
 
 ###### arg. 2
 Praeterea, causa in quolibet genere est potior. Sed gula videtur esse causa aliorum peccatorum, quia super illud Psalmi, *qui percussit Aegyptum cum primogenitis eorum*, dicit Glossa, *luxuria, concupiscentia, superbia sunt ea quae venter generat*. Ergo gula est gravissimum peccatorum.
 
 ###### arg. 3
-Praeterea, post Deum, homo debet seipsum maxime diligere, ut supra habitum est. Sed per vitium gulae homo infert sibi ipsi nocumentum, dicitur enim Eccli. XXXVII, *propter crapulam multi obierunt*. Ergo gula est maximum peccatorum, ad minus praeter peccata quae sunt contra Deum.
+Praeterea, post Deum, homo debet seipsum maxime diligere, ut supra habitum est. Sed per vitium gulae homo infert sibi ipsi nocumentum, dicitur enim [[Si 37]], *propter crapulam multi obierunt*. Ergo gula est maximum peccatorum, ad minus praeter peccata quae sunt contra Deum.
 
 ###### s. c.
 Sed contra est quod vitia carnalia, inter quae computatur gula, secundum Gregorium, sunt minoris culpae.

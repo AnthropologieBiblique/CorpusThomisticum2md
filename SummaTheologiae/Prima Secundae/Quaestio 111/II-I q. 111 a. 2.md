@@ -4,10 +4,10 @@
 Ad secundum sic proceditur. Videtur quod gratia inconvenienter dividatur per operantem et cooperantem. Gratia enim accidens quoddam est, ut supra dictum est. Sed accidens non potest agere in subiectum. Ergo nulla gratia debet dici operans.
 
 ###### arg. 2
-Praeterea, si gratia aliquid operetur in nobis, maxime operatur iustificationem. Sed hoc non sola gratia operatur in nobis, dicit enim Augustinus, super illud Ioan. XIV, *opera quae ego facio, et ipse faciet, qui creavit te sine te, non iustificabit te sine te*. Ergo nulla gratia debet dici simpliciter operans.
+Praeterea, si gratia aliquid operetur in nobis, maxime operatur iustificationem. Sed hoc non sola gratia operatur in nobis, dicit enim Augustinus, super illud [[Jn 14]], *opera quae ego facio, et ipse faciet, qui creavit te sine te, non iustificabit te sine te*. Ergo nulla gratia debet dici simpliciter operans.
 
 ###### arg. 3
-Praeterea, cooperari alicui videtur pertinere ad inferius agens, non autem ad principalius. Sed gratia principalius operatur in nobis quam liberum arbitrium; secundum illud Rom. IX, *non est volentis neque currentis, sed miserentis Dei*. Ergo gratia non debet dici cooperans.
+Praeterea, cooperari alicui videtur pertinere ad inferius agens, non autem ad principalius. Sed gratia principalius operatur in nobis quam liberum arbitrium; secundum illud [[Rm 9]], *non est volentis neque currentis, sed miserentis Dei*. Ergo gratia non debet dici cooperans.
 
 ###### arg. 4
 Praeterea, divisio debet dari per opposita. Sed operari et cooperari non sunt opposita, idem enim potest operari et cooperari. Ergo inconvenienter dividitur gratia per operantem et cooperantem.

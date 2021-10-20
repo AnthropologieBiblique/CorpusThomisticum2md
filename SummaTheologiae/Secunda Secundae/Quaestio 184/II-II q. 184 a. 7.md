@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod status religiosorum sit perfectior quam status praelatorum. Dominus enim dicit, Matth. XIX, si vis *perfectus esse, vade et vende omnia quae habes et da pauperibus*, quod faciunt religiosi. Non autem ad hoc tenentur episcopi, dicitur enim XII, qu. I, *episcopi de rebus propriis vel acquisitis, vel quidquid de proprio habent, heredibus suis derelinquant*. Ergo religiosi sunt in perfectiori statu quam episcopi.
+Ad septimum sic proceditur. Videtur quod status religiosorum sit perfectior quam status praelatorum. Dominus enim dicit, [[Mt 19]], si vis *perfectus esse, vade et vende omnia quae habes et da pauperibus*, quod faciunt religiosi. Non autem ad hoc tenentur episcopi, dicitur enim XII, qu. I, *episcopi de rebus propriis vel acquisitis, vel quidquid de proprio habent, heredibus suis derelinquant*. Ergo religiosi sunt in perfectiori statu quam episcopi.
 
 ###### arg. 2
 Praeterea, perfectio principalius consistit in dilectione Dei quam in dilectione proximi. Sed status religiosorum directe ordinatur ad dilectionem Dei, unde et ex Dei servitio et famulatu nominantur, ut Dionysius dicit, VI cap. Eccles. Hier. Status autem episcoporum videtur ordinari ad dilectionem proximi, cuius curae superintendunt, unde et nominantur, ut patet per Augustinum, XIX de Civ. Dei. Ergo videtur quod status religiosorum sit perfectior quam status episcoporum.

@@ -7,7 +7,7 @@ Ad septimum sic proceditur. Videtur quod nomina quae important relationem ad cre
 Praeterea, cuicumque convenit aliquid ex tempore, potest dici factum, quod enim ex tempore est album, fit album. Sed Deo non convenit esse factum. Ergo de Deo nihil praedicatur ex tempore.
 
 ###### arg. 3
-Praeterea, si aliqua nomina dicuntur de Deo ex tempore propter hoc quod important relationem ad creaturas, eadem ratio videtur de omnibus quae relationem ad creaturas important. Sed quaedam nomina importantia relationem ad creaturas, dicuntur de Deo ab aeterno, ab aeterno enim scivit creaturam et dilexit, secundum illud Ierem. XXXI, *in caritate perpetua dilexi te*. Ergo et alia nomina quae important relationem ad creaturas, ut dominus et creator, dicuntur de Deo ab aeterno.
+Praeterea, si aliqua nomina dicuntur de Deo ex tempore propter hoc quod important relationem ad creaturas, eadem ratio videtur de omnibus quae relationem ad creaturas important. Sed quaedam nomina importantia relationem ad creaturas, dicuntur de Deo ab aeterno, ab aeterno enim scivit creaturam et dilexit, secundum illud [[Jr 31]], *in caritate perpetua dilexi te*. Ergo et alia nomina quae important relationem ad creaturas, ut dominus et creator, dicuntur de Deo ab aeterno.
 
 ###### arg. 4
 Praeterea, huiusmodi nomina relationem significant. Oportet igitur quod relatio illa vel sit aliquid in Deo, vel in creatura tantum. Sed non potest esse quod sit in creatura tantum, quia sic Deus denominaretur dominus a relatione opposita, quae est in creaturis; nihil autem denominatur a suo opposito. Relinquitur ergo quod relatio est etiam aliquid in Deo. Sed in Deo nihil potest esse ex tempore, cum ipse sit supra tempus. Ergo videtur quod huiusmodi nomina non dicantur de Deo ex tempore.

@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod haec sit vera, homo factus est Deus. Dicitur enim Rom. I, *quod ante promiserat per prophetas suos in Scripturis sanctis de filio suo, qui factus est ei ex semine David secundum carnem*. Sed Christus secundum quod homo est ex semine David secundum carnem. Ergo homo factus est filius Dei.
+Ad septimum sic proceditur. Videtur quod haec sit vera, homo factus est Deus. Dicitur enim [[Rm 1]], *quod ante promiserat per prophetas suos in Scripturis sanctis de filio suo, qui factus est ei ex semine David secundum carnem*. Sed Christus secundum quod homo est ex semine David secundum carnem. Ergo homo factus est filius Dei.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in I de Trin., *talis erat illa susceptio quae Deum hominem faceret, et hominem Deum*. Sed ratione illius susceptionis haec est vera, Deus factus est homo. Ergo similiter haec est vera, homo factus est Deus.

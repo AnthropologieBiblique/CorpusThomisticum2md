@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod etiam in virtuosis hominibus possit esse verecundia. Contrariorum enim contrarii sunt effectus. Sed illi qui sunt superabundantis malitiae non verecundantur, secundum illud Ierem. III, *species meretricis facta est tibi, nescisti erubescere*. Ergo illi qui sunt virtuosi magis verecundantur.
+Ad quartum sic proceditur. Videtur quod etiam in virtuosis hominibus possit esse verecundia. Contrariorum enim contrarii sunt effectus. Sed illi qui sunt superabundantis malitiae non verecundantur, secundum illud [[Jr 3]], *species meretricis facta est tibi, nescisti erubescere*. Ergo illi qui sunt virtuosi magis verecundantur.
 
 ###### arg. 2
 Praeterea, philosophus dicit, in II Rhet., quod *homines non solum erubescunt vitia, sed etiam signa vitiorum*. Quae quidem contingit etiam esse in virtuosis. Ergo in virtuosis potest esse verecundia.

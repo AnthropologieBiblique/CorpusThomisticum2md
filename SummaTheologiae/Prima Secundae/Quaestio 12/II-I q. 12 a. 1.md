@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod intentio sit actus intellectus, et non voluntatis. Dicitur enim Matth. VI, *si oculus tuus fuerit simplex, totum corpus tuum lucidum erit*, ubi per oculum significatur intentio, ut dicit Augustinus in libro de Serm. Dom. in Mont. Sed oculus, cum sit instrumentum visus, significat apprehensivam potentiam. Ergo intentio non est actus appetitivae potentiae, sed apprehensivae.
+Ad primum sic proceditur. Videtur quod intentio sit actus intellectus, et non voluntatis. Dicitur enim [[Mt 6]], *si oculus tuus fuerit simplex, totum corpus tuum lucidum erit*, ubi per oculum significatur intentio, ut dicit Augustinus in libro de Serm. Dom. in Mont. Sed oculus, cum sit instrumentum visus, significat apprehensivam potentiam. Ergo intentio non est actus appetitivae potentiae, sed apprehensivae.
 
 ###### arg. 2
 Praeterea, ibidem Augustinus dicit quod intentio lumen vocatur a domino, ubi dicit, si lumen quod in te est, tenebrae sunt, et cetera. Sed lumen ad cognitionem pertinet. Ergo et intentio.

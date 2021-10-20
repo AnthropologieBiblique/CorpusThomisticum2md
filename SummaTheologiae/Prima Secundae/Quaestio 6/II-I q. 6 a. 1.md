@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod in humanis actibus non inveniatur volunta
 Praeterea, philosophus in VIII Physic. probat quod non invenitur in animalibus aliquis motus novus, qui non praeveniatur ab alio motu exteriori. Sed omnes actus hominis sunt novi, nullus enim actus hominis aeternus est. Ergo principium omnium humanorum actuum est ab extra. Non igitur in eis invenitur voluntarium.
 
 ###### arg. 3
-Praeterea, qui voluntarie agit, per se agere potest. Sed hoc homini non convenit, dicitur enim Ioan. XV, *sine me nihil potestis facere*. Ergo voluntarium in humanis actibus non invenitur.
+Praeterea, qui voluntarie agit, per se agere potest. Sed hoc homini non convenit, dicitur enim [[Jn 15]], *sine me nihil potestis facere*. Ergo voluntarium in humanis actibus non invenitur.
 
 ###### s. c.
 Sed contra est quod dicit Damascenus, in II libro, quod *voluntarium est actus qui est operatio rationalis*. Tales autem sunt actus humani. Ergo in actibus humanis invenitur voluntarium.

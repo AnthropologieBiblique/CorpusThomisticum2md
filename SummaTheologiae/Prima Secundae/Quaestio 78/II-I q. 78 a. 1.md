@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod nullus peccet ex industria, sive ex certa malitia. Ignorantia enim opponitur industriae, seu certae malitiae. Sed omnis malus est ignorans, secundum philosophum. Et Prov. XIV, dicitur, *errant qui operantur malum*. Ergo nullus peccat ex certa malitia.
+Ad primum sic proceditur. Videtur quod nullus peccet ex industria, sive ex certa malitia. Ignorantia enim opponitur industriae, seu certae malitiae. Sed omnis malus est ignorans, secundum philosophum. Et [[Pr 14]], dicitur, *errant qui operantur malum*. Ergo nullus peccat ex certa malitia.
 
 ###### arg. 2
 Praeterea, Dionysius dicit, IV cap. de Div. Nom., quod *nullus intendens ad malum operatur*. Sed hoc videtur esse peccare ex malitia, intendere malum in peccando, quod enim est praeter intentionem, est quasi per accidens, et non denominat actum. Ergo nullus ex malitia peccat.
@@ -10,7 +10,7 @@ Praeterea, Dionysius dicit, IV cap. de Div. Nom., quod *nullus intendens ad malu
 Praeterea, malitia ipsa peccatum est. Si igitur malitia sit causa peccati, sequetur quod peccatum sit causa peccati in infinitum, quod est inconveniens. Nullus igitur ex malitia peccat.
 
 ###### s. c.
-Sed contra est quod dicitur Iob XXXIV, *quasi de industria recesserunt a Deo, et vias eius intelligere noluerunt*. Sed recedere a Deo est peccare. Ergo aliqui peccant ex industria, seu ex certa malitia.
+Sed contra est quod dicitur [[Jb 34]], *quasi de industria recesserunt a Deo, et vias eius intelligere noluerunt*. Sed recedere a Deo est peccare. Ergo aliqui peccant ex industria, seu ex certa malitia.
 
 ###### co.
 Respondeo dicendum quod homo, sicut et quaelibet alia res, naturaliter habet appetitum boni. Unde quod ad malum eius appetitus declinet, contingit ex aliqua corruptione seu inordinatione in aliquo principiorum hominis, sic enim in actionibus rerum naturalium peccatum invenitur. Principia autem humanorum actuum sunt intellectus et appetitus, tam rationalis, qui dicitur voluntas, quam sensitivus. Peccatum igitur in humanis actibus contingit quandoque, sicut ex defectu intellectus, puta cum aliquis per ignorantiam peccat; et ex defectu appetitus sensitivi, sicut cum aliquis ex passione peccat; ita etiam ex defectu voluntatis, qui est inordinatio ipsius. Est autem voluntas inordinata, quando minus bonum magis amat. Consequens autem est ut aliquis eligat pati detrimentum in bono minus amato, ad hoc quod potiatur bono magis amato, sicut cum homo vult pati abscissionem membri etiam scienter, ut conservet vitam, quam magis amat. Et per hunc modum, quando aliqua inordinata voluntas aliquod bonum temporale plus amat, puta divitias vel voluptatem, quam ordinem rationis vel legis divinae, vel caritatem Dei, vel aliquid huiusmodi; sequitur quod velit dispendium pati in aliquo spiritualium bonorum, ut potiatur aliquo temporali bono. Nihil autem est aliud malum quam privatio alicuius boni. Et secundum hoc aliquis scienter vult aliquod malum spirituale, quod est malum simpliciter, per quod bonum spirituale privatur, ut bono temporali potiatur. Unde dicitur ex certa malitia, vel ex industria peccare, quasi scienter malum eligens.

@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod misericordia Deo non competat. Misericordia enim est species tristitiae, ut dicit Damascenus. Sed tristitia non est in Deo. Ergo nec misericordia.
 
 ###### arg. 2
-Praeterea, misericordia est relaxatio iustitiae. Sed Deus non potest praetermittere id quod ad iustitiam suam pertinet. Dicitur enim II ad Tim. II, *si non credimus, ille fidelis permanet, seipsum negare non potest*, negaret autem seipsum, ut dicit Glossa ibidem, si dicta sua negaret. Ergo misericordia Deo non competit.
+Praeterea, misericordia est relaxatio iustitiae. Sed Deus non potest praetermittere id quod ad iustitiam suam pertinet. Dicitur enim [[2 Tm 2]], *si non credimus, ille fidelis permanet, seipsum negare non potest*, negaret autem seipsum, ut dicit Glossa ibidem, si dicta sua negaret. Ergo misericordia Deo non competit.
 
 ###### s. c.
 Sed contra est quod dicitur in Psalmo CX, *miserator et misericors dominus*.
@@ -16,5 +16,5 @@ Respondeo dicendum quod misericordia est Deo maxime attribuenda, tamen secundum 
 Ad primum igitur dicendum quod obiectio illa procedit de misericordia, quantum ad passionis affectum.
 
 ###### ad 2
-Ad secundum dicendum quod Deus misericorditer agit, non quidem contra iustitiam suam faciendo, sed aliquid supra iustitiam operando, sicut si alicui cui debentur centum denarii, aliquis ducentos det de suo, tamen non contra iustitiam facit, sed liberaliter vel misericorditer operatur. Et similiter si aliquis offensam in se commissam remittat. Qui enim aliquid remittit, quodammodo donat illud, unde apostolus remissionem donationem vocat, Ephes. V, *donate invicem, sicut et Christus vobis donavit*. Ex quo patet quod misericordia non tollit iustitiam, sed est quaedam iustitiae plenitudo. Unde dicitur Iac. II, quod *misericordia superexaltat iudicium*.
+Ad secundum dicendum quod Deus misericorditer agit, non quidem contra iustitiam suam faciendo, sed aliquid supra iustitiam operando, sicut si alicui cui debentur centum denarii, aliquis ducentos det de suo, tamen non contra iustitiam facit, sed liberaliter vel misericorditer operatur. Et similiter si aliquis offensam in se commissam remittat. Qui enim aliquid remittit, quodammodo donat illud, unde apostolus remissionem donationem vocat, [[Ep 5]], *donate invicem, sicut et Christus vobis donavit*. Ex quo patet quod misericordia non tollit iustitiam, sed est quaedam iustitiae plenitudo. Unde dicitur [[Jc 2]], quod *misericordia superexaltat iudicium*.
 

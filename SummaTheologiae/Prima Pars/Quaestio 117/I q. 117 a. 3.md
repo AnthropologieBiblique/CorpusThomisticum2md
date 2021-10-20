@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod homo per virtutem animae possit corporalem materiam immutare. Dicit enim Gregorius, II Dialog., quod *sancti miracula aliquando ex prece faciunt, aliquando ex potestate, sicut Petrus, qui Tabitham mortuam orando suscitavit, Ananiam et Saphiram mentientes morti increpando tradidit*. Sed in operatione miraculorum fit aliqua immutatio materiae corporalis. Ergo homines virtute suae animae possunt materiam corporalem immutare.
 
 ###### arg. 2
-Praeterea, super illud ad Gal. III, *quis vos fascinavit veritati non obedire?* Dicit Glossa quod *quidam habent* oculos urentes, qui solo aspectu inficiunt alios, et maxime pueros. Sed hoc non esset, nisi virtus animae posset materiam corporalem immutare. Ergo homo per virtutem suae animae potest materiam corporalem immutare.
+Praeterea, super illud ad [[Ga 3]], *quis vos fascinavit veritati non obedire?* Dicit Glossa quod *quidam habent* oculos urentes, qui solo aspectu inficiunt alios, et maxime pueros. Sed hoc non esset, nisi virtus animae posset materiam corporalem immutare. Ergo homo per virtutem suae animae potest materiam corporalem immutare.
 
 ###### arg. 3
 Praeterea, corpus humanum est nobilius quam alia inferiora corpora. Sed per apprehensionem animae humanae immutatur corpus humanum ad calorem et frigus, ut patet in irascentibus et timentibus; et quandoque etiam haec immutatio pervenit usque ad aegritudinem et mortem. Ergo multo magis anima hominis potest sua virtute materiam corporalem immutare.

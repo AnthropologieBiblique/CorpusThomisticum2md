@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod omne mendacium sit peccatum mortale. Dicitur enim in Psalm., *perdes omnes qui loquuntur mendacium*, et Sap. I, *os quod mentitur occidit animam*. Sed perditio et mors animae non est nisi per peccatum mortale. Ergo omne mendacium est peccatum mortale.
+Ad quartum sic proceditur. Videtur quod omne mendacium sit peccatum mortale. Dicitur enim in Psalm., *perdes omnes qui loquuntur mendacium*, et [[Sg 1]], *os quod mentitur occidit animam*. Sed perditio et mors animae non est nisi per peccatum mortale. Ergo omne mendacium est peccatum mortale.
 
 ###### arg. 2
 Praeterea, omne quod est contra praeceptum Decalogi est peccatum mortale. Sed mendacium est contra hoc praeceptum Decalogi, non falsum testimonium dices. Ergo omne mendacium est peccatum mortale.
@@ -28,7 +28,7 @@ Ad primum ergo dicendum quod auctoritates illae intelliguntur de mendacio pernic
 Ad secundum dicendum quod, cum omnia praecepta Decalogi ordinentur ad dilectionem Dei et proximi, sicut supra dictum est, intantum mendacium est contra praeceptum Decalogi inquantum est contra dilectionem Dei et proximi. Unde signanter prohibetur contra proximum falsum testimonium.
 
 ###### ad 3
-Ad tertium dicendum quod etiam peccatum veniale largo modo potest dici iniquitas, inquantum est praeter aequitatem iustitiae. Unde dicitur I Ioan. III, omne peccatum est iniquitas. Et hoc modo loquitur Augustinus.
+Ad tertium dicendum quod etiam peccatum veniale largo modo potest dici iniquitas, inquantum est praeter aequitatem iustitiae. Unde dicitur [[1 Jn 3]], omne peccatum est iniquitas. Et hoc modo loquitur Augustinus.
 
 ###### ad 4
 Ad quartum dicendum quod mendacium obstetricum potest dupliciter considerari. Uno modo, quantum ad effectum benevolentiae in Iudaeos, et quantum ad reverentiam divini timoris, ex quibus commendatur in eis indoles virtutis. Et sic debetur eis remuneratio aeterna. Unde Hieronymus exponit quod Deus aedificavit illis domos spirituales. Alio modo potest considerari quantum ad ipsum exteriorem actum mendacii. Quo quidem non potuerunt aeternam remunerationem mereri, sed forte aliquam remunerationem temporalem, cuius merito non repugnabat deformitas illius mendacii, sicut repugnabat merito remunerationis aeternae. Et sic intelligenda sunt verba Gregorii, non quod per illud mendacium mererentur amittere remunerationem aeternam quam iam ex praecedenti affectu meruerant, sicut ratio procedebat.

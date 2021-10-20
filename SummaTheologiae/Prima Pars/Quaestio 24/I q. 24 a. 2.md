@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod liber vitae non sit solum respectu vita
 Praeterea, sicut vita gloriae est a Deo, ita vita naturae. Si igitur notitia vitae gloriae dicitur liber vitae, etiam notitia vitae naturae dicetur liber vitae.
 
 ###### arg. 3
-Praeterea, aliqui eliguntur ad gratiam, qui non eliguntur ad vitam gloriae; ut patet per id quod dicitur Ioan. VI, *nonne duodecim vos elegi, et unus ex vobis Diabolus est?* Sed liber vitae est conscriptio electionis divinae, ut dictum est. Ergo etiam est respectu vitae gratiae.
+Praeterea, aliqui eliguntur ad gratiam, qui non eliguntur ad vitam gloriae; ut patet per id quod dicitur [[Jn 6]], *nonne duodecim vos elegi, et unus ex vobis Diabolus est?* Sed liber vitae est conscriptio electionis divinae, ut dictum est. Ergo etiam est respectu vitae gratiae.
 
 ###### s. c.
 Sed contra est quod liber vitae est notitia praedestinationis, ut dictum est. Sed praedestinatio non respicit vitam gratiae, nisi secundum quod ordinatur ad gloriam, non enim sunt praedestinati, qui habent gratiam et deficiunt a gloria. Liber igitur vitae non dicitur nisi respectu gloriae.

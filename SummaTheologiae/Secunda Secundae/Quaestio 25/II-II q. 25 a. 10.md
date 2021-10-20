@@ -13,7 +13,7 @@ Praeterea, magis conveniunt nobiscum bruta animalia quam Angeli, nam nos et brut
 Sed contra est quod Augustinus dicit, in I de Doct. Christ., *iam vero si vel cui praebendum, vel a quo nobis praebendum est officium misericordiae, recte proximus dicitur; manifestum est praecepto quo iubemur diligere proximum, etiam sanctos Angelos contineri, a quibus multa nobis misericordiae impenduntur officia*.
 
 ###### co.
-Respondeo dicendum quod amicitia caritatis, sicut supra dictum est, fundatur super communicatione beatitudinis aeternae, in cuius participatione communicant cum Angelis homines, dicitur enim Matth. XXII quod *in resurrectione erunt homines sicut Angeli in caelo*. Et ideo manifestum est quod amicitia caritatis etiam ad Angelos se extendit.
+Respondeo dicendum quod amicitia caritatis, sicut supra dictum est, fundatur super communicatione beatitudinis aeternae, in cuius participatione communicant cum Angelis homines, dicitur enim [[Mt 22]] quod *in resurrectione erunt homines sicut Angeli in caelo*. Et ideo manifestum est quod amicitia caritatis etiam ad Angelos se extendit.
 
 ###### ad 1
 Ad primum ergo dicendum quod proximus non solum dicitur communicatione speciei, sed etiam communicatione beneficiorum pertinentium ad vitam aeternam; super qua communicatione amicitia caritatis fundatur.

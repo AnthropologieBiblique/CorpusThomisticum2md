@@ -4,16 +4,16 @@
 Ad primum sic proceditur. Videtur quod circumcisio non fuerit praeparatoria et figurativa Baptismi. Omnis enim figura habet aliquam similitudinem cum suo figurato. Sed circumcisio nullam habet similitudinem cum Baptismo. Ergo videtur quod non fuerit praeparativa et figurativa Baptismi.
 
 ###### arg. 2
-Praeterea, apostolus dicit, I Cor. X, de antiquis patribus loquens, *quod omnes in nube et in mari baptizati sunt*, non autem dicit quod in circumcisione baptizati sint. Ergo protectio columnae nubis, et transitus maris rubri, magis fuerunt praeparatoria ad Baptismum et figurativa ipsius quam circumcisio.
+Praeterea, apostolus dicit, [[1 Co 10]], de antiquis patribus loquens, *quod omnes in nube et in mari baptizati sunt*, non autem dicit quod in circumcisione baptizati sint. Ergo protectio columnae nubis, et transitus maris rubri, magis fuerunt praeparatoria ad Baptismum et figurativa ipsius quam circumcisio.
 
 ###### arg. 3
 Praeterea, supra dictum est quod Baptismus Ioannis fuit praeparatorius ad Baptismum Christi. Si ergo circumcisio fuit praeparatoria et figurativa Baptismi Christi, videtur quod Baptismus Ioannis fuit superfluus. Quod est inconveniens. Non ergo circumcisio fuit praeparatoria et figurativa Baptismi.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, Coloss. II, *circumcisi estis circumcisione non manu facta in exspoliatione corporis carnis, sed circumcisione Iesu Christi, consepulti ei in Baptismo*.
+Sed contra est quod apostolus dicit, [[Col 2]], *circumcisi estis circumcisione non manu facta in exspoliatione corporis carnis, sed circumcisione Iesu Christi, consepulti ei in Baptismo*.
 
 ###### co.
-Respondeo dicendum quod Baptismus dicitur sacramentum fidei, inquantum scilicet in Baptismo fit quaedam fidei professio, et per Baptismum aggregatur homo congregationi fidelium. Eadem autem est fides nostra et antiquorum patrum, secundum illud apostoli, II Cor. IV, *habentes eundem spiritum fidei credimus*. Circumcisio autem erat quaedam protestatio fidei, unde et per circumcisionem antiqui congregabantur collegio fidelium. Unde manifestum est quod circumcisio fuerit praeparatoria ad Baptismum et praefigurativa ipsius, secundum quod antiquis patribus omnia in figura futuri contingebant, ut dicitur I Cor. X, sicut et fides eorum erat de futuro.
+Respondeo dicendum quod Baptismus dicitur sacramentum fidei, inquantum scilicet in Baptismo fit quaedam fidei professio, et per Baptismum aggregatur homo congregationi fidelium. Eadem autem est fides nostra et antiquorum patrum, secundum illud apostoli, [[2 Co 4]], *habentes eundem spiritum fidei credimus*. Circumcisio autem erat quaedam protestatio fidei, unde et per circumcisionem antiqui congregabantur collegio fidelium. Unde manifestum est quod circumcisio fuerit praeparatoria ad Baptismum et praefigurativa ipsius, secundum quod antiquis patribus omnia in figura futuri contingebant, ut dicitur [[1 Co 10]], sicut et fides eorum erat de futuro.
 
 ###### ad 1
 Ad primum ergo dicendum quod circumcisio habebat similitudinem cum Baptismo quantum ad spiritualem effectum Baptismi. Nam sicut per circumcisionem auferebatur quaedam carnalis pellicula, ita per Baptismum homo exspoliatur a carnali conversatione.

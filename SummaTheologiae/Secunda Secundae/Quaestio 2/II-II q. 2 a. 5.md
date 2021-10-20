@@ -1,13 +1,13 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod non teneatur homo ad credendum aliquid explicite. Nullus enim tenetur ad id quod non est in eius potestate. Sed credere aliquid explicite non est in hominis potestate, dicitur enim Rom. X, *quomodo credent ei quem non audierunt? Quomodo audient sine praedicante? Quomodo autem praedicabunt nisi mittantur?* Ergo credere aliquid explicite homo non tenetur.
+Ad quintum sic proceditur. Videtur quod non teneatur homo ad credendum aliquid explicite. Nullus enim tenetur ad id quod non est in eius potestate. Sed credere aliquid explicite non est in hominis potestate, dicitur enim [[Rm 10]], *quomodo credent ei quem non audierunt? Quomodo audient sine praedicante? Quomodo autem praedicabunt nisi mittantur?* Ergo credere aliquid explicite homo non tenetur.
 
 ###### arg. 2
-Praeterea, sicut per fidem ordinamur in Deum, ita et per caritatem. Sed ad servandum praecepta caritatis homo non tenetur, sed sufficit sola praeparatio animi, sicut patet in illo praecepto domini quod ponitur Matth. V, *si quis percusserit te in una maxilla, praebe ei et aliam*, et in aliis consimilibus, ut Augustinus exponit, in libro de Serm. Dom. in monte. Ergo etiam non tenetur homo explicite aliquid credere, sed sufficit quod habeat animum paratum ad credendum ea quae a Deo proponuntur.
+Praeterea, sicut per fidem ordinamur in Deum, ita et per caritatem. Sed ad servandum praecepta caritatis homo non tenetur, sed sufficit sola praeparatio animi, sicut patet in illo praecepto domini quod ponitur [[Mt 5]], *si quis percusserit te in una maxilla, praebe ei et aliam*, et in aliis consimilibus, ut Augustinus exponit, in libro de Serm. Dom. in monte. Ergo etiam non tenetur homo explicite aliquid credere, sed sufficit quod habeat animum paratum ad credendum ea quae a Deo proponuntur.
 
 ###### arg. 3
-Praeterea, bonum fidei in quadam obedientia consistit, secundum illud Rom. I, *ad obediendum fidei in omnibus gentibus*. Sed ad virtutem obedientiae non requiritur quod homo aliqua determinata praecepta observet, sed sufficit quod habeat promptum animum ad obediendum, secundum illud Psalm., *paratus sum, et non sum turbatus, ut custodiam mandata tua*. Ergo videtur quod etiam ad fidem sufficiat quod homo habeat promptum animum ad credendum ea quae ei divinitus proponi possent, absque hoc quod explicite aliquid credat.
+Praeterea, bonum fidei in quadam obedientia consistit, secundum illud [[Rm 1]], *ad obediendum fidei in omnibus gentibus*. Sed ad virtutem obedientiae non requiritur quod homo aliqua determinata praecepta observet, sed sufficit quod habeat promptum animum ad obediendum, secundum illud Psalm., *paratus sum, et non sum turbatus, ut custodiam mandata tua*. Ergo videtur quod etiam ad fidem sufficiat quod homo habeat promptum animum ad credendum ea quae ei divinitus proponi possent, absque hoc quod explicite aliquid credat.
 
 ###### s. c.
 Sed contra est quod dicitur ad Heb. XI, *accedentem ad Deum oportet credere quia est, et quod inquirentibus se remunerator est*.

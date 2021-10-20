@@ -13,10 +13,10 @@ Praeterea, principalius est in intentione legislatoris inducere ad virtutes quam
 In contrarium est auctoritas Scripturae.
 
 ###### co.
-Respondeo dicendum quod, sicut apostolus dicit, I ad Tim. I, finis praecepti caritas est, ad quam duobus praeceptis inducimur pertinentibus ad dilectionem Dei et proximi. Et ideo illa praecepta in Decalogo ponuntur quae directius ordinantur ad dilectionem Dei et proximi. Inter vitia autem temperantiae opposita, maxime dilectioni proximi videtur opponi adulterium, per quod aliquis usurpat sibi rem alienam, abutendo scilicet uxore proximi. Et ideo inter praecepta Decalogi praecipue prohibetur adulterium, non solum secundum quod opere exercetur, sed etiam secundum quod corde concupiscitur.
+Respondeo dicendum quod, sicut apostolus dicit, [[1 Tm 1]], finis praecepti caritas est, ad quam duobus praeceptis inducimur pertinentibus ad dilectionem Dei et proximi. Et ideo illa praecepta in Decalogo ponuntur quae directius ordinantur ad dilectionem Dei et proximi. Inter vitia autem temperantiae opposita, maxime dilectioni proximi videtur opponi adulterium, per quod aliquis usurpat sibi rem alienam, abutendo scilicet uxore proximi. Et ideo inter praecepta Decalogi praecipue prohibetur adulterium, non solum secundum quod opere exercetur, sed etiam secundum quod corde concupiscitur.
 
 ###### ad 1
-Ad primum ergo dicendum quod inter species vitiorum quae opponuntur fortitudini, nulla est quae ita directe contrarietur dilectioni proximi sicut adulterium, quod est species luxuriae, quae temperantiae contrariatur. Et tamen vitium audaciae, quod opponitur fortitudini, quandoque solet esse causa homicidii, quod inter praecepta Decalogi prohibetur, dicitur enim Eccli. VIII, *cum audace non eas in via, ne forte gravet mala sua in te*.
+Ad primum ergo dicendum quod inter species vitiorum quae opponuntur fortitudini, nulla est quae ita directe contrarietur dilectioni proximi sicut adulterium, quod est species luxuriae, quae temperantiae contrariatur. Et tamen vitium audaciae, quod opponitur fortitudini, quandoque solet esse causa homicidii, quod inter praecepta Decalogi prohibetur, dicitur enim [[Si 8]], *cum audace non eas in via, ne forte gravet mala sua in te*.
 
 ###### ad 2
 Ad secundum dicendum quod gula directe non opponitur dilectioni proximi, sicut adulterium, neque etiam aliqua alia species luxuriae. Non enim tanta fit iniuria patri per stuprum virginis, quae non est eius connubio deputata, quanta fit iniuria viro per adulterium, cuius corporis potestatem ipse habet, non uxor.

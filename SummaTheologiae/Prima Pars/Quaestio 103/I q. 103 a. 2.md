@@ -10,7 +10,7 @@ Praeterea, philosophus dicit, I Ethic., quod *finium quidam sunt operationes, qu
 Praeterea, bonum multitudinis videtur esse ordo et pax, quae est tranquillitas ordinis. Ut Augustinus dicit XIX de Civ. Dei. Sed mundus in quadam rerum multitudine consistit. Ergo finis gubernationis mundi est pacificus ordo, qui est in ipsis rebus. Non ergo finis gubernationis rerum est quoddam bonum extrinsecum.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. XVI, *universa propter se operatus est dominus*. Ipse autem est extra totum ordinem universi. Ergo finis rerum est quoddam bonum extrinsecum.
+Sed contra est quod dicitur [[Pr 16]], *universa propter se operatus est dominus*. Ipse autem est extra totum ordinem universi. Ergo finis rerum est quoddam bonum extrinsecum.
 
 ###### co.
 Respondeo dicendum quod, cum finis respondeat principio, non potest fieri ut, principio cognito, quid sit rerum finis ignoretur. Cum igitur principium rerum sit aliquid extrinsecum a toto universo, scilicet Deus, ut ex supra dictis patet; necesse est quod etiam finis rerum sit quoddam bonum extrinsecum. Et hoc ratione apparet. Manifestum est enim quod bonum habet rationem finis. Unde finis particularis alicuius rei est quoddam bonum particulare, finis autem universalis rerum omnium est quoddam bonum universale. Bonum autem universale est quod est per se et per suam essentiam bonum, quod est ipsa essentia bonitatis, bonum autem particulare est quod est participative bonum. Manifestum est autem quod in tota universitate creaturarum nullum est bonum quod non sit participative bonum. Unde illud bonum quod est finis totius universi, oportet quod sit extrinsecum a toto universo.

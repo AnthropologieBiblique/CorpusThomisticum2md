@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod praesumptio non sit peccatum. Dicit enim apostolus, ad Philipp. III, *quae retro sunt obliviscens, ad anteriora me extendo*. Sed hoc videtur ad praesumptionem pertinere quod aliquis tendat in ea quae sunt supra seipsum. Ergo praesumptio non est peccatum.
+Ad primum sic proceditur. Videtur quod praesumptio non sit peccatum. Dicit enim apostolus, ad [[Ph 3]], *quae retro sunt obliviscens, ad anteriora me extendo*. Sed hoc videtur ad praesumptionem pertinere quod aliquis tendat in ea quae sunt supra seipsum. Ergo praesumptio non est peccatum.
 
 ###### arg. 2
 Praeterea, philosophus dicit, in X Ethic., quod *oportet non secundum suadentes humana sapere hominem entem, neque mortalia mortalem, sed inquantum contingit immortale facere*. Et in I Metaphys. dicit quod homo debet se trahere ad divina inquantum potest. Sed divina et immortalia maxime videntur esse supra hominem. Cum ergo de ratione praesumptionis sit quod aliquis tendat in ea quae sunt supra seipsum, videtur quod praesumptio non sit peccatum sed magis sit aliquid laudabile.
@@ -10,7 +10,7 @@ Praeterea, philosophus dicit, in X Ethic., quod *oportet non secundum suadentes 
 Praeterea, apostolus dicit, II ad Cor. III, *non sumus sufficientes cogitare aliquid a nobis, quasi ex nobis*. Si ergo praesumptio, secundum quam aliquis nititur in ea ad quae non sufficit, sit peccatum, videtur quod homo nec cogitare aliquod bonum licite possit. Quod est inconveniens. Non ergo praesumptio est peccatum.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. XXXVII, *o praesumptio nequissima, unde creata es?* Ubi respondet Glossa, de mala scilicet voluntate creaturae. Sed omne quod procedit ex radice malae voluntatis est peccatum. Ergo praesumptio est peccatum.
+Sed contra est quod dicitur [[Si 37]], *o praesumptio nequissima, unde creata es?* Ubi respondet Glossa, de mala scilicet voluntate creaturae. Sed omne quod procedit ex radice malae voluntatis est peccatum. Ergo praesumptio est peccatum.
 
 ###### co.
 Respondeo dicendum quod, cum ea quae sunt secundum naturam sint ordinata ratione divina, quam humana ratio debet imitari, quidquid secundum rationem humanam fit quod est contra ordinem communiter in naturalibus rebus inventum, est vitiosum et peccatum. Hoc autem communiter in omnibus rebus naturalibus invenitur, quod quaelibet actio commensuratur virtuti agentis, nec aliquod agens naturale nititur ad agendum id quod excedit suam facultatem. Et ideo vitiosum est et peccatum, quasi contra ordinem naturalem existens, quod aliquis assumat ad agendum ea quae praeferuntur suae virtuti. Quod pertinet ad rationem praesumptionis, sicut et ipsum nomen manifestat. Unde manifestum est quod praesumptio est peccatum.

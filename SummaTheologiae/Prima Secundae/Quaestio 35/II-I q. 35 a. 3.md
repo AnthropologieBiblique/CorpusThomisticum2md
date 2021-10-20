@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod dolor delectationi non contrarietur. Unum enim contrariorum non est causa alterius. Sed tristitia potest esse causa delectationis, dicitur enim Matth. V, *beati qui lugent, quoniam ipsi consolabuntur*. Ergo non sunt contraria.
+Ad tertium sic proceditur. Videtur quod dolor delectationi non contrarietur. Unum enim contrariorum non est causa alterius. Sed tristitia potest esse causa delectationis, dicitur enim [[Mt 5]], *beati qui lugent, quoniam ipsi consolabuntur*. Ergo non sunt contraria.
 
 ###### arg. 2
 Praeterea, unum contrariorum non denominat aliud. Sed in quibusdam ipse dolor vel tristitia est delectabilis, sicut Augustinus dicit, in III Confess., quod dolor in spectaculis delectat. Et IV Confess., dicit quod *fletus amara res est, et tamen quandoque delectat*. Ergo dolor non contrariatur delectationi.

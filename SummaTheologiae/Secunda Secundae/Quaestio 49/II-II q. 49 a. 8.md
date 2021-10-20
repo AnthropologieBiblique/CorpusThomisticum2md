@@ -10,7 +10,7 @@ Praeterea, eiusdem est providere bona et cavere mala, sicut eiusdem artis est fa
 Praeterea, nullus prudens conatur ad impossibile. Sed nullus potest praecavere omnia mala quae possunt contingere. Ergo cautio non pertinet ad prudentiam.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Ephes. V, *videte quomodo caute ambuletis*.
+Sed contra est quod apostolus dicit, ad [[Ep 5]], *videte quomodo caute ambuletis*.
 
 ###### co.
 Respondeo dicendum quod ea circa quae est prudentia sunt contingentia operabilia, in quibus, sicut verum potest admisceri falso, ita et malum bono, propter multiformitatem huiusmodi operabilium, in quibus bona plerumque impediuntur a malis, et mala habent speciem boni. Et ideo necessaria est cautio ad prudentiam, ut sic accipiantur bona quod vitentur mala.

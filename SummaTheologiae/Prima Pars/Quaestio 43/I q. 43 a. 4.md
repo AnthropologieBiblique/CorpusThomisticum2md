@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod etiam patri conveniat mitti. Mitti enim divinam personam est ipsam dari. Sed pater dat seipsum, cum haberi non possit, nisi se ipso donante. Ergo potest dici quod pater mittat seipsum.
 
 ###### arg. 2
-Praeterea, persona divina mittitur secundum inhabitationem gratiae. Sed per gratiam tota Trinitas inhabitat in nobis, secundum illud Ioan. XIV, *ad eum veniemus, et mansionem apud eum faciemus*. Ergo quaelibet divinarum personarum mittitur.
+Praeterea, persona divina mittitur secundum inhabitationem gratiae. Sed per gratiam tota Trinitas inhabitat in nobis, secundum illud [[Jn 14]], *ad eum veniemus, et mansionem apud eum faciemus*. Ergo quaelibet divinarum personarum mittitur.
 
 ###### arg. 3
 Praeterea, quidquid convenit alicui personae, convenit omnibus, praeter notiones et personas. Sed missio non significat aliquam personam, neque etiam notionem, cum sint tantum quinque notiones, ut supra dictum est. Ergo cuilibet personae divinae convenit mitti.

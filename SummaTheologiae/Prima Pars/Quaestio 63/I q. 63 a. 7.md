@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod ille Angelus qui fuit supremus inter peccantes, non fuerit supremus inter omnes. Dicitur enim de eo Ezech. XXVIII, *tu Cherub extentus et protegens, posui te in monte sancto Dei*. Sed ordo Cherubim est sub ordine Seraphim, ut Dionysius dicit, VII cap. Ang. Hier. Ergo Angelus qui fuit supremus inter peccantes, non fuit supremus inter omnes.
+Ad septimum sic proceditur. Videtur quod ille Angelus qui fuit supremus inter peccantes, non fuerit supremus inter omnes. Dicitur enim de eo [[Ez 28]], *tu Cherub extentus et protegens, posui te in monte sancto Dei*. Sed ordo Cherubim est sub ordine Seraphim, ut Dionysius dicit, VII cap. Ang. Hier. Ergo Angelus qui fuit supremus inter peccantes, non fuit supremus inter omnes.
 
 ###### arg. 2
 Praeterea, Deus fecit naturam intellectualem propter beatitudinem consequendam. Si igitur Angelus qui fuit supremus inter omnes, peccavit, sequitur quod ordinatio divina fuerit frustrata in nobilissima creatura. Quod est inconveniens.

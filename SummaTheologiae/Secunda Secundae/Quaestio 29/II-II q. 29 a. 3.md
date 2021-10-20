@@ -4,10 +4,10 @@
 Ad tertium sic proceditur. Videtur quod pax non sit proprius effectus caritatis. Caritas enim non habetur sine gratia gratum faciente. Sed pax a quibusdam habetur qui non habent gratiam gratum facientem, sicut et gentiles aliquando habent pacem. Ergo pax non est effectus caritatis.
 
 ###### arg. 2
-Praeterea, illud non est effectus caritatis cuius contrarium cum caritate esse potest. Sed dissensio, quae contrariatur paci, potest esse cum caritate, videmus enim quod etiam sacri doctores, ut Hieronymus et Augustinus, in aliquibus opinionibus dissenserunt; Paulus etiam et Barnabas dissensisse leguntur, Act. XV. Ergo videtur quod pax non sit effectus caritatis.
+Praeterea, illud non est effectus caritatis cuius contrarium cum caritate esse potest. Sed dissensio, quae contrariatur paci, potest esse cum caritate, videmus enim quod etiam sacri doctores, ut Hieronymus et Augustinus, in aliquibus opinionibus dissenserunt; Paulus etiam et Barnabas dissensisse leguntur, [[Ac 15]]. Ergo videtur quod pax non sit effectus caritatis.
 
 ###### arg. 3
-Praeterea, idem non est proprius effectus diversorum. Sed pax est effectus iustitiae, secundum illud Isaiae XXXII, *opus iustitiae pax*. Ergo non est effectus caritatis.
+Praeterea, idem non est proprius effectus diversorum. Sed pax est effectus iustitiae, secundum illud [[Is 32]], *opus iustitiae pax*. Ergo non est effectus caritatis.
 
 ###### s. c.
 Sed contra est quod dicitur in Psalm., *pax multa diligentibus legem tuam*.

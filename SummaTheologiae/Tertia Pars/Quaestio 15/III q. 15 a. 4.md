@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod anima Christi non fuerit passibilis. Nih
 Praeterea, Tullius in libro de Tusculan. quaest., dicit quod passiones animae sunt quaedam aegritudines. Sed in anima Christi non fuit aliqua aegritudo, nam aegritudo animae sequitur peccatum, ut patet per illud Psalmi, *sana animam meam, quia peccavi tibi*. Ergo in Christo non fuerunt animae passiones.
 
 ###### arg. 3
-Praeterea, passiones animae videntur idem esse cum fomite peccati, unde apostolus, Rom. VII, vocat eas *passiones peccatorum*. Sed in Christo non fuit fomes peccati, ut supra dictum est. Ergo videtur quod non fuerint in eo animae passiones. Et ita anima Christi non fuit passibilis.
+Praeterea, passiones animae videntur idem esse cum fomite peccati, unde apostolus, [[Rm 7]], vocat eas *passiones peccatorum*. Sed in Christo non fuit fomes peccati, ut supra dictum est. Ergo videtur quod non fuerint in eo animae passiones. Et ita anima Christi non fuit passibilis.
 
 ###### s. c.
 Sed contra est quod in Psalmo dicitur ex persona Christi, *repleta est malis anima mea*, non quidem peccatis, sed humanis malis, idest doloribus, ut Glossa ibidem exponit. Sic igitur anima Christi fuit passibilis.

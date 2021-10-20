@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod praecepta moralia legis non sint de omnibus actibus virtutum. Observatio enim praeceptorum veteris legis iustificatio nominatur, secundum illud Psalmi CXVIII, *iustificationes tuas custodiam*. Sed iustificatio est executio iustitiae. Ergo praecepta moralia non sunt nisi de actibus iustitiae.
+Ad secundum sic proceditur. Videtur quod praecepta moralia legis non sint de omnibus actibus virtutum. Observatio enim praeceptorum veteris legis iustificatio nominatur, secundum illud [[Ps 118]], *iustificationes tuas custodiam*. Sed iustificatio est executio iustitiae. Ergo praecepta moralia non sunt nisi de actibus iustitiae.
 
 ###### arg. 2
 Praeterea, id quod cadit sub praecepto, habet rationem debiti. Sed ratio debiti non pertinet ad alias virtutes nisi ad solam iustitiam, cuius proprius actus est reddere unicuique debitum. Ergo praecepta legis moralia non sunt de actibus aliarum virtutum, sed solum de actibus iustitiae.

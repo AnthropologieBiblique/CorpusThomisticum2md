@@ -4,10 +4,10 @@
 Ad septimum sic proceditur. Videtur quod securitas ad magnanimitatem non pertineat. Securitas enim, ut supra habitum est, importat quietem quandam a perturbatione timoris. Sed hoc maxime facit fortitudo. Ergo securitas videtur idem esse quod fortitudo. Sed fortitudo non pertinet ad magnanimitatem, sed potius e converso. Ergo neque securitas ad magnanimitatem pertinet.
 
 ###### arg. 2
-Praeterea, Isidorus dicit, in libro Etymol., quod *securus dicitur quasi sine cura*. Sed hoc videtur esse contra virtutem, quae curam habet de rebus honestis, secundum illud apostoli, II ad Tim. II, *sollicite cura teipsum probabilem exhibere Deo*. Ergo securitas non pertinet ad magnanimitatem, quae operatur magnum in omnibus virtutibus.
+Praeterea, Isidorus dicit, in libro Etymol., quod *securus dicitur quasi sine cura*. Sed hoc videtur esse contra virtutem, quae curam habet de rebus honestis, secundum illud apostoli, [[2 Tm 2]], *sollicite cura teipsum probabilem exhibere Deo*. Ergo securitas non pertinet ad magnanimitatem, quae operatur magnum in omnibus virtutibus.
 
 ###### arg. 3
-Praeterea, non est idem virtus et virtutis praemium. Sed securitas ponitur praemium virtutis, ut patet Iob XI, *si iniquitatem quae est in manu tua abstuleris, defossus securus dormies*. Ergo securitas non pertinet ad magnanimitatem, neque ad aliam virtutem, sicut pars eius.
+Praeterea, non est idem virtus et virtutis praemium. Sed securitas ponitur praemium virtutis, ut patet [[Jb 11]], *si iniquitatem quae est in manu tua abstuleris, defossus securus dormies*. Ergo securitas non pertinet ad magnanimitatem, neque ad aliam virtutem, sicut pars eius.
 
 ###### s. c.
 Sed contra est quod Tullius dicit, in I de Offic., quod *ad magnanimum pertinet neque perturbationi animi, neque homini, neque fortunae succumbere*. Sed in hoc consistit hominis securitas. Ergo securitas ad magnanimitatem pertinet.

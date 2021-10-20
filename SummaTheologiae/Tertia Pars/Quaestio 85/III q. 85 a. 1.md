@@ -10,7 +10,7 @@ Praeterea, secundum philosophum, in IV Ethic., verecundia non est virtus, tum qu
 Praeterea, secundum philosophum, in IV Ethic., *nullus est stultus eorum qui sunt secundum virtutem*. Sed stultum videtur dolere de commisso praeterito, quod non potest non esse, quod tamen pertinet ad poenitentiam. Ergo poenitentia non est virtus.
 
 ###### s. c.
-Sed contra est quod praecepta legis dantur de actibus virtutum, quia legislator intendit cives facere virtuosos, ut dicitur in II Ethic. Sed praeceptum divinae legis est de poenitentia, secundum illud Matth. III, poenitentiam agite, et cetera. Ergo poenitentia est virtus.
+Sed contra est quod praecepta legis dantur de actibus virtutum, quia legislator intendit cives facere virtuosos, ut dicitur in II Ethic. Sed praeceptum divinae legis est de poenitentia, secundum illud [[Mt 3]], poenitentiam agite, et cetera. Ergo poenitentia est virtus.
 
 ###### co.
 Respondeo dicendum quod, sicut ex dictis patet, poenitere est de aliquo a se prius facto dolere. Dictum est autem supra quod dolor vel tristitia dupliciter dicitur. Uno modo, secundum quod est passio quaedam appetitus sensitivi. Et quantum ad hoc, poenitentia non est virtus, sed passio alio modo, secundum quod consistit in voluntate. Et hoc modo est cum quadam electione. Quae quidem si sit recta, necesse est quod sit actus virtutis, dicitur enim in II Ethic. quod *virtus est habitus electivus secundum rationem rectam*. Pertinet autem ad rationem rectam quod aliquis doleat de quo dolendum est. Quod quidem observatur in poenitentia de qua nunc loquimur, nam poenitens assumit moderatum dolorem de peccatis praeteritis, cum intentione removendi ea. Unde manifestum est quod poenitentia de qua nunc loquimur, vel est virtus, vel actus virtutis.

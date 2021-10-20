@@ -4,13 +4,13 @@
 Ad primum sic proceditur. Videtur quod poenitentia non sit sacramentum. Gregorius enim dicit, et habetur in decretis, I, qu. I, *sacramenta sunt Baptisma, chrisma, corpus et sanguis Christi, quae ob id sacramenta dicuntur quia sub tegumento corporalium rerum divina virtus secretius operatur salutem*. Sed hoc non contingit in poenitentia, quia non adhibentur aliquae res corporales sub quibus divina virtus operetur salutem. Ergo poenitentia non est sacramentum.
 
 ###### arg. 2
-Praeterea, sacramenta Ecclesiae a ministris Christi exhibentur, secundum illud I Cor. IV, *sic nos existimet homo ut ministros Christi et dispensatores mysteriorum Dei*. Sed poenitentia non exhibetur a ministris Christi, sed interius a Deo hominibus inspiratur, secundum illud Ierem. XXXI, *postquam convertisti me, egi poenitentiam*. Ergo videtur quod poenitentia non sit sacramentum.
+Praeterea, sacramenta Ecclesiae a ministris Christi exhibentur, secundum illud [[1 Co 4]], *sic nos existimet homo ut ministros Christi et dispensatores mysteriorum Dei*. Sed poenitentia non exhibetur a ministris Christi, sed interius a Deo hominibus inspiratur, secundum illud [[Jr 31]], *postquam convertisti me, egi poenitentiam*. Ergo videtur quod poenitentia non sit sacramentum.
 
 ###### arg. 3
 Praeterea, in sacramentis de quibus supra diximus, est aliquid quod est sacramentum tantum, aliquid quod est res et sacramentum, aliquid vero quod est res tantum, ut ex praemissis patet. Sed hoc non invenitur in poenitentia. Ergo poenitentia non est sacramentum.
 
 ###### s. c.
-Sed contra est quod, sicut Baptismus adhibetur ad purificandum a peccato, ita et poenitentia, unde et Petrus dixit Simoni, Act. VIII, *poenitentiam age ab hac nequitia tua*. Sed Baptismus est sacramentum, ut supra dictum est. Ergo pari ratione et poenitentia.
+Sed contra est quod, sicut Baptismus adhibetur ad purificandum a peccato, ita et poenitentia, unde et Petrus dixit Simoni, [[Ac 8]], *poenitentiam age ab hac nequitia tua*. Sed Baptismus est sacramentum, ut supra dictum est. Ergo pari ratione et poenitentia.
 
 ###### co.
 Respondeo dicendum quod, sicut Gregorius dicit, in capite supra dicto, *sacramentum est in aliqua celebratione, cum res gesta ita fit ut aliquid significative accipiamus quod sancte accipiendum est*. Manifestum est autem quod in poenitentia ita res gesta fit quod aliquid sanctum significatur, tam ex parte peccatoris poenitentis, quam ex parte sacerdotis absolventis, nam peccator poenitens per ea quae agit et dicit, significat cor suum a peccato recessisse; similiter etiam sacerdos per ea quae agit et dicit circa poenitentem, significat opus Dei remittentis peccatum. Unde manifestum est quod poenitentia quae in Ecclesia agitur, est sacramentum.

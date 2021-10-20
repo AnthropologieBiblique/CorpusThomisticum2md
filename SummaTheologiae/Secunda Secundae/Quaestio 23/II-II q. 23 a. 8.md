@@ -4,7 +4,7 @@
 Ad octavum sic proceditur. Videtur quod caritas non sit forma virtutum. Forma enim alicuius rei vel est exemplaris, vel est essentialis. Sed caritas non est forma exemplaris virtutum aliarum, quia sic oporteret quod aliae virtutes essent eiusdem speciei cum ipsa. Similiter etiam non est forma essentialis aliarum virtutum, quia non distingueretur ab aliis. Ergo nullo modo est forma virtutum.
 
 ###### arg. 2
-Praeterea, caritas comparatur ad alias virtutes ut radix et fundamentum, secundum illud Ephes. III, *in caritate radicati et fundati*. Radix autem vel fundamentum non habet rationem formae, sed magis rationem materiae, quia est prima pars in generatione. Ergo caritas non est forma virtutum.
+Praeterea, caritas comparatur ad alias virtutes ut radix et fundamentum, secundum illud [[Ep 3]], *in caritate radicati et fundati*. Radix autem vel fundamentum non habet rationem formae, sed magis rationem materiae, quia est prima pars in generatione. Ergo caritas non est forma virtutum.
 
 ###### arg. 3
 Praeterea, forma et finis et efficiens non incidunt in idem numero, ut patet in II Physic. Sed caritas dicitur finis et mater virtutum. Ergo non debet dici forma virtutum.

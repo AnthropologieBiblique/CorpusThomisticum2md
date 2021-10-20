@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod non omnia sint vita in Deo. Dicitur enim Act. XVII, *in ipso vivimus, movemur et sumus*. Sed non omnia in Deo sunt motus. Ergo non omnia in ipso sunt vita.
+Ad quartum sic proceditur. Videtur quod non omnia sint vita in Deo. Dicitur enim [[Ac 17]], *in ipso vivimus, movemur et sumus*. Sed non omnia in Deo sunt motus. Ergo non omnia in ipso sunt vita.
 
 ###### arg. 2
 Praeterea, omnia sunt in Deo sicut in primo exemplari. Sed exemplata debent conformari exemplari. Cum igitur non omnia vivant in seipsis, videtur quod non omnia in Deo sint vita.
@@ -13,7 +13,7 @@ Praeterea, sicut Augustinus dicit in libro de vera Relig., substantia vivens est
 Praeterea, sicut sciuntur a Deo bona, et ea quae fiunt secundum aliquod tempus; ita mala, et ea quae Deus potest facere, sed nunquam fiunt. Si ergo omnia sunt vita in Deo, inquantum sunt scita ab ipso, videtur quod etiam mala, et quae nunquam fiunt, sunt vita in Deo, inquantum sunt scita ab eo. Quod videtur inconveniens.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. I, *quod factum est, in ipso vita erat*. Sed omnia praeter Deum facta sunt. Ergo omnia in Deo sunt vita.
+Sed contra est quod dicitur [[Jn 1]], *quod factum est, in ipso vita erat*. Sed omnia praeter Deum facta sunt. Ergo omnia in Deo sunt vita.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, vivere Dei est eius intelligere. In Deo autem est idem intellectus et quod intelligitur, et ipsum intelligere eius. Unde quidquid est in Deo ut intellectum, est ipsum vivere vel vita eius. Unde, cum omnia quae facta sunt a Deo, sint in ipso ut intellecta, sequitur quod omnia in ipso sunt ipsa vita divina.

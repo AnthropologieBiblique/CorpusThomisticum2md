@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod ad prophetiam requiratur dispositio naturalis. Prophetia enim recipitur in propheta secundum dispositionem recipientis. Quia super illud Amos I, dominus de Sion rugiet, dicit Glossa Hieronymi, *naturale est ut omnes qui volunt rem rei comparare, ex eis rebus sumant comparationes quas sunt experti et in quibus sunt nutriti, verbi gratia, nautae suos inimicos ventis, damnum naufragio comparant. Sic et Amos, qui fuit pastor pecorum timorem Dei rugitui leonis assimilat*. Sed quod recipitur in aliquo secundum modum recipientis, requirit naturalem dispositionem. Ergo prophetia requirit naturalem dispositionem.
+Ad tertium sic proceditur. Videtur quod ad prophetiam requiratur dispositio naturalis. Prophetia enim recipitur in propheta secundum dispositionem recipientis. Quia super illud [[Am 1]], dominus de Sion rugiet, dicit Glossa Hieronymi, *naturale est ut omnes qui volunt rem rei comparare, ex eis rebus sumant comparationes quas sunt experti et in quibus sunt nutriti, verbi gratia, nautae suos inimicos ventis, damnum naufragio comparant. Sic et Amos, qui fuit pastor pecorum timorem Dei rugitui leonis assimilat*. Sed quod recipitur in aliquo secundum modum recipientis, requirit naturalem dispositionem. Ergo prophetia requirit naturalem dispositionem.
 
 ###### arg. 2
 Praeterea, speculatio prophetiae est altior quam scientiae acquisitae. Sed indispositio naturalis impedit speculationem scientiae acquisitae, multi enim, ex indispositione naturali pertingere non possunt ad scientiarum speculamina capienda. Multo ergo magis requiritur ad contemplationem propheticam.

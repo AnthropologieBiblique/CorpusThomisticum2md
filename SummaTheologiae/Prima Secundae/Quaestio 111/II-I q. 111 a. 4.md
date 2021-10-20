@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod gratia gratis data inconvenienter ab apostolo distinguatur. Omne enim donum quod nobis a Deo gratis datur, potest dici gratia gratis data. Sed infinita sunt dona quae nobis gratis a Deo conceduntur, tam in bonis animae quam in bonis corporis, quae tamen nos Deo gratos non faciunt. Ergo gratiae gratis datae non possunt comprehendi sub aliqua certa divisione.
 
 ###### arg. 2
-Praeterea, gratia gratis data distinguitur contra gratiam gratum facientem. Sed fides pertinet ad gratiam gratum facientem, quia per ipsam iustificamur, secundum illud Rom. V, *iustificati ergo ex fide,* et cetera. Ergo inconvenienter fides ponitur inter gratias gratis datas, praesertim cum aliae virtutes ibi non ponantur, ut spes et caritas.
+Praeterea, gratia gratis data distinguitur contra gratiam gratum facientem. Sed fides pertinet ad gratiam gratum facientem, quia per ipsam iustificamur, secundum illud [[Rm 5]], *iustificati ergo ex fide,* et cetera. Ergo inconvenienter fides ponitur inter gratias gratis datas, praesertim cum aliae virtutes ibi non ponantur, ut spes et caritas.
 
 ###### arg. 3
 Praeterea, operatio sanitatum, et loqui diversa genera linguarum, miracula quaedam sunt. Interpretatio etiam sermonum ad sapientiam vel scientiam pertinet; secundum illud Dan. I, *pueris his dedit Deus scientiam et disciplinam in omni libro et sapientia*. Ergo inconvenienter dividitur gratia sanitatum, et genera linguarum, contra operationem virtutum; et interpretatio sermonum contra sermonem sapientiae et scientiae.

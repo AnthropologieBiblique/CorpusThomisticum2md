@@ -4,10 +4,10 @@
 Ad quartum sic proceditur. Videtur quod localis distantia operetur aliquid in locutione angelica. Sicut enim dicit Damascenus, *Angelus ubi est, ibi operatur*. Locutio autem est quaedam operatio Angeli. Cum ergo Angelus sit in determinato loco, videtur quod usque ad determinatam loci distantiam Angelus loqui possit.
 
 ###### arg. 2
-Praeterea, clamor loquentis fit propter distantiam audientis. Sed Isaiae VI dicitur de Seraphim, quod clamabat alter ad alterum. Ergo videtur quod in locutione Angelorum aliquid operetur localis distantia.
+Praeterea, clamor loquentis fit propter distantiam audientis. Sed [[Is 6]] dicitur de Seraphim, quod clamabat alter ad alterum. Ergo videtur quod in locutione Angelorum aliquid operetur localis distantia.
 
 ###### s. c.
-Sed contra est quod, sicut dicitur Luc. XVI, dives in Inferno positus loquebatur Abrahae, non impediente locali distantia. Multo igitur minus localis distantia potest impedire locutionem unius Angeli ad alterum.
+Sed contra est quod, sicut dicitur [[Lc 16]], dives in Inferno positus loquebatur Abrahae, non impediente locali distantia. Multo igitur minus localis distantia potest impedire locutionem unius Angeli ad alterum.
 
 ###### co.
 Respondeo dicendum quod locutio Angeli in intellectuali operatione consistit, ut ex dictis patet. Intellectualis autem operatio Angeli omnino abstracta est a loco et tempore, nam etiam nostra intellectualis operatio est per abstractionem ab hic et nunc, nisi per accidens ex parte phantasmatum, quae in Angelis nulla sunt. In eo autem quod est omnino abstractum a loco et tempore, nihil operatur neque temporis diversitas, neque loci distantia. Unde in locutione Angeli nullum impedimentum facit distantia loci.

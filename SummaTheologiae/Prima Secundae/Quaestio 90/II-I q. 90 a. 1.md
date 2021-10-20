@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod lex non sit aliquid rationis. Dicit enim apostolus, ad Rom. VII, *video aliam legem in membris meis,* et cetera. Sed nihil quod est rationis, est in membris, quia ratio non utitur organo corporali. Ergo lex non est aliquid rationis.
+Ad primum sic proceditur. Videtur quod lex non sit aliquid rationis. Dicit enim apostolus, ad [[Rm 7]], *video aliam legem in membris meis,* et cetera. Sed nihil quod est rationis, est in membris, quia ratio non utitur organo corporali. Ergo lex non est aliquid rationis.
 
 ###### arg. 2
 Praeterea, in ratione non est nisi potentia, habitus et actus. Sed lex non est ipsa potentia rationis. Similiter etiam non est aliquis habitus rationis, quia habitus rationis sunt virtutes intellectuales, de quibus supra dictum est. Nec etiam est actus rationis, quia cessante rationis actu, lex cessaret, puta in dormientibus. Ergo lex non est aliquid rationis.

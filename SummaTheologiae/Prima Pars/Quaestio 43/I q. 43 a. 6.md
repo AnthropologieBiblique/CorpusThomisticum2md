@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod missio invisibilis non fiat ad omnes qui sunt participes gratiae. Patres enim veteris testamenti gratiae participes fuerunt. Sed ad illos non videtur fuisse facta missio invisibilis, dicitur enim Ioan. VII, *nondum erat spiritus datus, quia nondum erat Iesus glorificatus*. Ergo missio invisibilis non fit ad omnes qui sunt participes gratiae.
+Ad sextum sic proceditur. Videtur quod missio invisibilis non fiat ad omnes qui sunt participes gratiae. Patres enim veteris testamenti gratiae participes fuerunt. Sed ad illos non videtur fuisse facta missio invisibilis, dicitur enim [[Jn 7]], *nondum erat spiritus datus, quia nondum erat Iesus glorificatus*. Ergo missio invisibilis non fit ad omnes qui sunt participes gratiae.
 
 ###### arg. 2
 Praeterea, profectus in virtute non est nisi per gratiam. Sed missio invisibilis non videtur attendi secundum profectum virtutis, quia profectus virtutis videtur esse continuus, cum caritas semper aut proficiat aut deficiat; et sic missio esset continua. Ergo missio invisibilis non fit ad omnes participes gratiae.

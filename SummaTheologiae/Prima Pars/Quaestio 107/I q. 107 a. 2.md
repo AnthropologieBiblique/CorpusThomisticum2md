@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod inferior Angelus superiori non loquatur. Quia super illud I Cor. XIII, *si linguis hominum loquar et Angelorum*, dicit Glossa quod locutiones Angelorum sunt illuminationes, quibus superiores illuminant inferiores. Sed inferiores nunquam illuminant superiores, ut supra dictum est. Ergo nec inferiores superioribus loquuntur.
+Ad secundum sic proceditur. Videtur quod inferior Angelus superiori non loquatur. Quia super illud [[1 Co 13]], *si linguis hominum loquar et Angelorum*, dicit Glossa quod locutiones Angelorum sunt illuminationes, quibus superiores illuminant inferiores. Sed inferiores nunquam illuminant superiores, ut supra dictum est. Ergo nec inferiores superioribus loquuntur.
 
 ###### arg. 2
 Praeterea, supra dictum est quod illuminare nihil est aliud quam illud quod est alicui manifestum, alteri manifestare. Sed hoc idem est loqui. Ergo idem est loqui, et illuminare, et sic idem quod prius.

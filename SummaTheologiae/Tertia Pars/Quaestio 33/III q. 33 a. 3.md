@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod, si caro Christi non fuisset in instanti formata se
 Et per hoc patet responsio ad secundum. Nam simul dum caro illa concipitur, concepta est et animatur.
 
 ###### ad 3
-Ad tertium dicendum quod in mysterio incarnationis non consideratur ascensus, quasi alicuius praeexistentis proficientis usque ad unionis dignitatem, sicut posuit Photinus haereticus. Sed potius ibi consideratur descensus, secundum quod perfectum Dei verbum imperfectionem naturae nostrae sibi assumpsit; secundum illud Ioan. VI, *descendi de caelo*.
+Ad tertium dicendum quod in mysterio incarnationis non consideratur ascensus, quasi alicuius praeexistentis proficientis usque ad unionis dignitatem, sicut posuit Photinus haereticus. Sed potius ibi consideratur descensus, secundum quod perfectum Dei verbum imperfectionem naturae nostrae sibi assumpsit; secundum illud [[Jn 6]], *descendi de caelo*.
 

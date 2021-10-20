@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod subsannatio et irrisio conveniunt in fine, sed diff
 Ad secundum dicendum quod de opere virtuoso aliquis apud alios et reverentiam meretur et famam; apud seipsum bonae conscientiae gloriam, secundum illud II ad Cor. I, *gloria nostra haec est, testimonium conscientiae nostrae*. Unde e contrario de actu turpi, idest vitioso, apud alios quidem tollitur hominis honor et fama, et ad hoc contumeliosus et detractor turpia de alio dicunt. Apud seipsum autem per turpia quae dicuntur aliquis perdit conscientiae gloriam per quandam confusionem et erubescentiam, et ad hoc turpia dicit derisor. Et sic patet quod derisor communicat cum praedictis vitiis in materia, differt autem in fine.
 
 ###### ad 3
-Ad tertium dicendum quod securitas conscientiae et quies illius magnum bonum est, secundum illud Prov. XV, *secura mens quasi iuge convivium*. Et ideo qui conscientiam alicuius inquietat confundendo ipsum, aliquod speciale nocumentum ei infert. Unde derisio est peccatum speciale.
+Ad tertium dicendum quod securitas conscientiae et quies illius magnum bonum est, secundum illud [[Pr 15]], *secura mens quasi iuge convivium*. Et ideo qui conscientiam alicuius inquietat confundendo ipsum, aliquod speciale nocumentum ei infert. Unde derisio est peccatum speciale.
 

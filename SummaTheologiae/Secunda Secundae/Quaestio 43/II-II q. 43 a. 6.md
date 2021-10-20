@@ -1,10 +1,10 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod scandalum activum possit inveniri in viris perfectis. Passio enim est effectus actionis. Sed ex dictis vel factis perfectorum aliqui passive scandalizantur, secundum illud Matth. XV, *scis quia Pharisaei, audito hoc verbo, scandalizati sunt?* Ergo in perfectis viris potest inveniri scandalum activum.
+Ad sextum sic proceditur. Videtur quod scandalum activum possit inveniri in viris perfectis. Passio enim est effectus actionis. Sed ex dictis vel factis perfectorum aliqui passive scandalizantur, secundum illud [[Mt 15]], *scis quia Pharisaei, audito hoc verbo, scandalizati sunt?* Ergo in perfectis viris potest inveniri scandalum activum.
 
 ###### arg. 2
-Praeterea, Petrus post acceptum spiritum sanctum in statu perfectorum erat. Sed postea gentiles scandalizavit, dicitur enim ad Gal. II, *cum vidissem quod non recte ambularent ad veritatem Evangelii*, dixi Cephae, idest Petro, coram omnibus, *si tu cum Iudaeus sis, gentiliter et non Iudaice vivis, quomodo gentes cogis iudaizare?* Ergo scandalum activum potest esse in viris perfectis.
+Praeterea, Petrus post acceptum spiritum sanctum in statu perfectorum erat. Sed postea gentiles scandalizavit, dicitur enim ad [[Ga 2]], *cum vidissem quod non recte ambularent ad veritatem Evangelii*, dixi Cephae, idest Petro, coram omnibus, *si tu cum Iudaeus sis, gentiliter et non Iudaice vivis, quomodo gentes cogis iudaizare?* Ergo scandalum activum potest esse in viris perfectis.
 
 ###### arg. 3
 Praeterea, scandalum activum quandoque est peccatum veniale. Sed peccata venialia possunt etiam esse in viris perfectis. Ergo scandalum activum potest esse in viris perfectis.

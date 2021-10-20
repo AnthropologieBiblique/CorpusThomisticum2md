@@ -4,10 +4,10 @@
 Ad octavum sic proceditur. Videtur quod fides non sit certior scientia et aliis virtutibus intellectualibus. Dubitatio enim opponitur certitudini, unde videtur illud esse certius quod minus potest habere de dubitatione; sicut est albius quod est nigro impermixtius. Sed intellectus et scientia, et etiam sapientia, non habent dubitationem circa ea quorum sunt, credens autem interdum potest pati motum dubitationis et dubitare de his quae sunt fidei. Ergo fides non est certior virtutibus intellectualibus.
 
 ###### arg. 2
-Praeterea, visio est certior auditu. Sed fides est ex auditu, ut dicitur ad Rom. X, in intellectu autem et scientia et sapientia includitur quaedam intellectualis visio. Ergo certior est scientia vel intellectus quam fides.
+Praeterea, visio est certior auditu. Sed fides est ex auditu, ut dicitur ad [[Rm 10]], in intellectu autem et scientia et sapientia includitur quaedam intellectualis visio. Ergo certior est scientia vel intellectus quam fides.
 
 ###### arg. 3
-Praeterea, quanto aliquid est perfectius in his quae ad intellectum pertinent, tanto est certius. Sed intellectus est perfectior fide, quia per fidem ad intellectum pervenitur, secundum illud Isaiae VII, *nisi credideritis, non intelligetis*, secundum aliam litteram. Et Augustinus dicit etiam de scientia, XIV de Trin., quod per scientiam roboratur fides. Ergo videtur quod certior sit scientia vel intellectus quam fides.
+Praeterea, quanto aliquid est perfectius in his quae ad intellectum pertinent, tanto est certius. Sed intellectus est perfectior fide, quia per fidem ad intellectum pervenitur, secundum illud [[Is 7]], *nisi credideritis, non intelligetis*, secundum aliam litteram. Et Augustinus dicit etiam de scientia, XIV de Trin., quod per scientiam roboratur fides. Ergo videtur quod certior sit scientia vel intellectus quam fides.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, I ad Thess. II, *cum accepissetis a nobis verbum auditus*, scilicet per fidem, *accepistis illud non ut verbum hominum, sed, sicut vere est, verbum Dei*. Sed nihil certius verbo Dei. Ergo scientia non est certior fide, nec aliquid aliud.

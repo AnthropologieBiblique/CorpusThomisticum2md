@@ -1,10 +1,10 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod possit eleemosyna fieri de illicite acquisitis. Dicitur enim Luc. XVI, *facite vobis amicos de mammona iniquitatis*. Mammona autem significat divitias. Ergo de divitiis inique acquisitis potest sibi aliquis spirituales amicos facere, eleemosynas largiendo.
+Ad septimum sic proceditur. Videtur quod possit eleemosyna fieri de illicite acquisitis. Dicitur enim [[Lc 16]], *facite vobis amicos de mammona iniquitatis*. Mammona autem significat divitias. Ergo de divitiis inique acquisitis potest sibi aliquis spirituales amicos facere, eleemosynas largiendo.
 
 ###### arg. 2
-Praeterea, omne turpe lucrum videtur esse illicite acquisitum. Sed turpe lucrum est quod de meretricio acquiritur, unde et de huiusmodi sacrificium vel oblatio Deo offerri non debet, secundum illud Deut. XXIII, *non offeres mercedem prostibuli in domo Dei tui*. Similiter etiam turpiter acquiritur quod acquiritur per aleas, quia, ut philosophus dicit, in IV Ethic., *tales ab amicis lucrantur, quibus oportet dare*. Turpissime etiam acquiritur aliquid per simoniam, per quam aliquis spiritui sancto iniuriam facit. Et tamen de huiusmodi eleemosyna fieri potest. Ergo de male acquisitis potest aliquis eleemosynam facere.
+Praeterea, omne turpe lucrum videtur esse illicite acquisitum. Sed turpe lucrum est quod de meretricio acquiritur, unde et de huiusmodi sacrificium vel oblatio Deo offerri non debet, secundum illud [[Dt 23]], *non offeres mercedem prostibuli in domo Dei tui*. Similiter etiam turpiter acquiritur quod acquiritur per aleas, quia, ut philosophus dicit, in IV Ethic., *tales ab amicis lucrantur, quibus oportet dare*. Turpissime etiam acquiritur aliquid per simoniam, per quam aliquis spiritui sancto iniuriam facit. Et tamen de huiusmodi eleemosyna fieri potest. Ergo de male acquisitis potest aliquis eleemosynam facere.
 
 ###### arg. 3
 Praeterea, maiora mala sunt magis vitanda quam minora. Sed minus peccatum est detentio rei alienae quam homicidium, quod aliquis incurrit nisi alicui in ultima necessitate subveniat, ut patet per Ambrosium, qui dicit, *pasce fame morientem, quoniam si non paveris, occidisti*. Ergo aliquis potest eleemosynam facere in aliquo casu de male acquisitis.

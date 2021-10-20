@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod ea quae sunt fidei possint esse scita. Ea enim quae non sciuntur videntur esse ignorata, quia ignorantia scientiae opponitur. Sed ea quae sunt fidei non sunt ignorata, horum enim ignorantia ad infidelitatem pertinet, secundum illud I ad Tim. I, *ignorans feci in incredulitate mea*. Ergo ea quae sunt fidei possunt esse scita.
+Ad quintum sic proceditur. Videtur quod ea quae sunt fidei possint esse scita. Ea enim quae non sciuntur videntur esse ignorata, quia ignorantia scientiae opponitur. Sed ea quae sunt fidei non sunt ignorata, horum enim ignorantia ad infidelitatem pertinet, secundum illud [[1 Tm 1]], *ignorans feci in incredulitate mea*. Ergo ea quae sunt fidei possunt esse scita.
 
 ###### arg. 2
 Praeterea, scientia per rationes acquiritur. Sed ad ea quae sunt fidei a sacris auctoribus rationes inducuntur. Ergo ea quae sunt fidei possunt esse scita.

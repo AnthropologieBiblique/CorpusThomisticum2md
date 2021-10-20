@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod anima intellectiva causetur ex semine. Dicitur enim Gen. XLVI, *cunctae animae quae egressae sunt de femore Iacob, sexaginta sex*. Sed nihil egreditur de femore hominis, nisi inquantum causatur ex semine. Ergo anima intellectiva causatur ex semine.
+Ad secundum sic proceditur. Videtur quod anima intellectiva causetur ex semine. Dicitur enim [[Gn 46]], *cunctae animae quae egressae sunt de femore Iacob, sexaginta sex*. Sed nihil egreditur de femore hominis, nisi inquantum causatur ex semine. Ergo anima intellectiva causatur ex semine.
 
 ###### arg. 2
 Praeterea, sicut supra ostensum est, in homine est una et eadem anima secundum substantiam, intellectiva, sensitiva et nutritiva. Sed anima sensitiva in homine generatur ex semine, sicut in aliis animalibus, unde et philosophus dicit in libro de Generat. Animal., quod non simul fit animal et homo, sed prius fit animal habens animam sensitivam. Ergo et anima intellectiva causatur ex semine.

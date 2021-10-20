@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod avaritia semper sit peccatum mortale. Nullus enim est dignus morte nisi pro peccato mortali. Sed propter avaritiam homines digni sunt morte, cum enim apostolus, ad Rom. I, praemisisset, repletos omni iniquitate, fornicatione, avaritia, subdit, qui talia agunt digni sunt morte. Ergo avaritia est peccatum mortale.
+Ad quartum sic proceditur. Videtur quod avaritia semper sit peccatum mortale. Nullus enim est dignus morte nisi pro peccato mortali. Sed propter avaritiam homines digni sunt morte, cum enim apostolus, ad [[Rm 1]], praemisisset, repletos omni iniquitate, fornicatione, avaritia, subdit, qui talia agunt digni sunt morte. Ergo avaritia est peccatum mortale.
 
 ###### arg. 2
 Praeterea, minimum in avaritia est quod aliquis inordinate retineat sua. Sed hoc videtur esse peccatum mortale, dicit enim Basilius, *est panis famelici quem tu tenes, nudi tunica quam conservas, indigentis argentum quod possides. Quocirca tot iniuriaris quot exhibere valeres*. Sed iniuriari alteri est peccatum mortale, quia contrariatur dilectioni proximi. Ergo multo magis omnis alia avaritia est peccatum mortale.

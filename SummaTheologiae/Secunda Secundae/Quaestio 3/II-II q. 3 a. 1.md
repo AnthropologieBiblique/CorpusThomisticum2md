@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod confessio non sit actus fidei. Non enim i
 Praeterea, ab hoc quod homo confiteatur fidem retrahitur interdum per timorem, vel etiam propter aliquam confusionem, unde et apostolus, ad Ephes. ult., petit orari pro se ut detur sibi *cum fiducia notum facere mysterium Evangelii*. Sed non recedere a bono propter confusionem vel timorem pertinet ad fortitudinem, quae moderatur audacias et timores. Ergo videtur quod confessio non sit actus fidei, sed magis fortitudinis vel constantiae.
 
 ###### arg. 3
-Praeterea, sicut per fidei fervorem inducitur aliquis ad confitendum fidem exterius, ita etiam inducitur ad alia exteriora bona opera facienda, dicitur enim Gal. V quod *fides per dilectionem operatur*. Sed alia exteriora opera non ponuntur actus fidei. Ergo etiam neque confessio.
+Praeterea, sicut per fidei fervorem inducitur aliquis ad confitendum fidem exterius, ita etiam inducitur ad alia exteriora bona opera facienda, dicitur enim [[Ga 5]] quod *fides per dilectionem operatur*. Sed alia exteriora opera non ponuntur actus fidei. Ergo etiam neque confessio.
 
 ###### s. c.
 Sed contra est quod, II ad Thess. I, super illud, *et opus fidei in virtute*, dicit Glossa, *idest confessionem, quae proprie est opus fidei*.

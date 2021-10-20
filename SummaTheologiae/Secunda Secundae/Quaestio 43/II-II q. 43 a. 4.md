@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod scandalum sit peccatum mortale. Omne enim peccatum quod contrariatur caritati est peccatum mortale, ut supra dictum est. Sed scandalum contrariatur caritati, ut dictum est. Ergo scandalum est peccatum mortale.
 
 ###### arg. 2
-Praeterea, nulli peccato debetur poena damnationis aeternae nisi mortali. Sed scandalo debetur poena damnationis aeternae, secundum illud Matth. XVIII, *qui scandalizaverit unum de pusillis istis qui in me credunt, expedit ei ut suspendatur mola asinaria in collo eius et demergatur in profundum maris*. Quia, ut dicit Hieronymus, *multo melius est pro culpa brevem recipere poenam quam aeternis servari cruciatibus*. Ergo scandalum est peccatum mortale.
+Praeterea, nulli peccato debetur poena damnationis aeternae nisi mortali. Sed scandalo debetur poena damnationis aeternae, secundum illud [[Mt 18]], *qui scandalizaverit unum de pusillis istis qui in me credunt, expedit ei ut suspendatur mola asinaria in collo eius et demergatur in profundum maris*. Quia, ut dicit Hieronymus, *multo melius est pro culpa brevem recipere poenam quam aeternis servari cruciatibus*. Ergo scandalum est peccatum mortale.
 
 ###### arg. 3
 Praeterea, omne peccatum quod in Deum committitur est peccatum mortale, quia solum peccatum mortale avertit hominem a Deo. Sed scandalum est peccatum in Deum, dicit enim apostolus, I ad Cor. VIII, *percutientes conscientiam fratrum infirmam, in Christum peccatis*. Ergo scandalum semper est peccatum mortale.

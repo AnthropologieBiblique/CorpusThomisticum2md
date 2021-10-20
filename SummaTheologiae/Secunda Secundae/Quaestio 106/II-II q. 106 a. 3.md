@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod homo non teneatur ad gratiarum actiones omni homini benefacienti. Potest enim aliquis sibi ipsi benefacere, sicut et sibi ipsi nocere, secundum illud Eccli. XIV, *qui sibi nequam est, cui alii bonus erit?* Sed homo sibi ipsi non potest gratias agere, quia gratiarum actio videtur transire ab uno in alterum. Ergo non omni benefactori debetur gratiarum actio.
+Ad tertium sic proceditur. Videtur quod homo non teneatur ad gratiarum actiones omni homini benefacienti. Potest enim aliquis sibi ipsi benefacere, sicut et sibi ipsi nocere, secundum illud [[Si 14]], *qui sibi nequam est, cui alii bonus erit?* Sed homo sibi ipsi non potest gratias agere, quia gratiarum actio videtur transire ab uno in alterum. Ergo non omni benefactori debetur gratiarum actio.
 
 ###### arg. 2
 Praeterea, gratiarum actio est quaedam gratiae recompensatio. Sed aliqua beneficia non cum gratia dantur, sed magis cum contumelia, et tarditate vel tristitia. Ergo non semper benefactori sunt gratiae reddendae.

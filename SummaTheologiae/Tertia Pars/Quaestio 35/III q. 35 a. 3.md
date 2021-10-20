@@ -10,7 +10,7 @@ Praeterea, Christus ex beata virgine miraculose natus est. Sed miraculosa genera
 Praeterea, ad matrem pertinere videtur decisio seminis. Sed, sicut Damascenus dicit, in III libro, *corpus Christi non seminaliter, sed conditive a spiritu sancto formatum est*. Ergo videtur quod beata virgo non debeat dici mater Christi.
 
 ###### s. c.
-Sed contra est quod dicitur Matth. I, *Christi generatio sic erat. Cum esset desponsata mater Iesu Maria Ioseph,* et cetera.
+Sed contra est quod dicitur [[Mt 1]], *Christi generatio sic erat. Cum esset desponsata mater Iesu Maria Ioseph,* et cetera.
 
 ###### co.
 Respondeo dicendum quod beata virgo Maria est vera et naturalis mater Christi. Sicut enim supra dictum est, corpus Christi non est de caelo allatum, sicut Valentinus haereticus posuit, sed de virgine matre sumptum, et ex purissimis sanguinibus eius formatum. Et hoc solum requiritur ad rationem matris, ut ex supra dictis patet. Unde beata virgo vere est mater Christi.

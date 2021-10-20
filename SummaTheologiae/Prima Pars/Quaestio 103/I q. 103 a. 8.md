@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod aliquid possit reniti contra ordinem gubernationis divinae. Dicitur enim Isaiae III, *lingua eorum et adinventiones eorum contra dominum*.
+Ad octavum sic proceditur. Videtur quod aliquid possit reniti contra ordinem gubernationis divinae. Dicitur enim [[Is 3]], *lingua eorum et adinventiones eorum contra dominum*.
 
 ###### arg. 2
 Praeterea, nullus rex iuste punit eos qui eius ordinationi non repugnant. Si igitur nihil contraniteretur divinae ordinationi, nullus iuste puniretur a Deo.
@@ -10,7 +10,7 @@ Praeterea, nullus rex iuste punit eos qui eius ordinationi non repugnant. Si igi
 Praeterea, quaelibet res est subiecta ordini divinae gubernationis. Sed una res ab alia impugnatur. Ergo aliqua sunt quae contranituntur divinae gubernationi.
 
 ###### s. c.
-Sed contra est quod dicit Boetius, in III de Consol., *non est aliquid quod summo huic bono vel velit vel possit obsistere. Est igitur summum bonum quod regit cuncta fortiter, suaviterque disponit*; ut dicitur Sap. VIII, de divina sapientia.
+Sed contra est quod dicit Boetius, in III de Consol., *non est aliquid quod summo huic bono vel velit vel possit obsistere. Est igitur summum bonum quod regit cuncta fortiter, suaviterque disponit*; ut dicitur [[Sg 8]], de divina sapientia.
 
 ###### co.
 Respondeo dicendum quod ordo divinae providentiae dupliciter potest considerari, uno modo in generali, secundum scilicet quod progreditur a causa gubernativa totius; alio modo in speciali, secundum scilicet quod progreditur ex aliqua causa particulari, quae est executiva divinae gubernationis. Primo igitur modo, nihil contranititur ordini divinae gubernationis. Quod ex duobus patet. Primo quidem, ex hoc quod ordo divinae gubernationis totaliter in bonum tendit, et unaquaeque res in sua operatione et conatu non tendit nisi ad bonum, nullus enim respiciens ad malum operatur, ut Dionysius dicit. Alio modo apparet idem ex hoc quod, sicut supra dictum est, omnis inclinatio alicuius rei vel naturalis vel voluntaria, nihil est aliud quam quaedam impressio a primo movente, sicut inclinatio sagittae ad signum determinatum, nihil aliud est quam quaedam impressio a sagittante. Unde omnia quae agunt vel naturaliter vel voluntarie, quasi propria sponte perveniunt in id ad quod divinitus ordinantur. Et ideo dicitur Deus omnia disponere suaviter.

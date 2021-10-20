@@ -1,13 +1,13 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod timor possit esse de malo culpae. Dicit enim Augustinus, super canonicam Ioan., quod *timore casto timet homo separationem a Deo*. Sed nihil separat nos a Deo nisi culpa; secundum illud Isaiae LIX. *Peccata vestra diviserunt inter vos et Deum vestrum*. Ergo timor potest esse de malo culpae.
+Ad tertium sic proceditur. Videtur quod timor possit esse de malo culpae. Dicit enim Augustinus, super canonicam Ioan., quod *timore casto timet homo separationem a Deo*. Sed nihil separat nos a Deo nisi culpa; secundum illud [[Is 59]]. *Peccata vestra diviserunt inter vos et Deum vestrum*. Ergo timor potest esse de malo culpae.
 
 ###### arg. 2
 Praeterea, Tullius dicit, in IV de Tusculanis quaest., quod *de illis timemus, cum futura sunt, de quorum praesentia tristamur*. Sed de malo culpae potest aliquis dolere vel tristari. Ergo etiam malum culpae aliquis potest timere.
 
 ###### arg. 3
-Praeterea, spes timori opponitur. Sed spes potest esse de bono virtutis, ut patet per philosophum in IX Ethic. Et apostolus dicit, ad Gal. V, *confido de vobis in domino, quod nihil aliud sapietis*. Ergo etiam timor potest esse de malo culpae.
+Praeterea, spes timori opponitur. Sed spes potest esse de bono virtutis, ut patet per philosophum in IX Ethic. Et apostolus dicit, ad [[Ga 5]], *confido de vobis in domino, quod nihil aliud sapietis*. Ergo etiam timor potest esse de malo culpae.
 
 ###### arg. 4
 Praeterea, verecundia est quaedam species timoris, ut supra dictum est. Sed verecundia est de turpi facto. Quod est malum culpae. Ergo et timor.

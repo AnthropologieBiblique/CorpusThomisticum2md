@@ -19,7 +19,7 @@ Respondeo dicendum quod testimonium, sicut dictum est, non habet infallibilem ce
 Ad primum ergo dicendum quod repellere aliquem a testimonio magis pertinet ad cautelam falsi testimonii vitandi quam ad poenam. Unde ratio non sequitur.
 
 ###### ad 2
-Ad secundum dicendum quod de quolibet praesumendum est bonum nisi appareat contrarium, dummodo non vergat in periculum alterius. Quia tunc est adhibenda cautela, ut non de facili unicuique credatur, secundum illud I Ioan. IV, *nolite credere omni spiritui*.
+Ad secundum dicendum quod de quolibet praesumendum est bonum nisi appareat contrarium, dummodo non vergat in periculum alterius. Quia tunc est adhibenda cautela, ut non de facili unicuique credatur, secundum illud [[1 Jn 4]], *nolite credere omni spiritui*.
 
 ###### ad 3
 Ad tertium dicendum quod testificari est de necessitate salutis, supposita testis idoneitate et ordine iuris. Unde nihil prohibet aliquos excusari a testimonio ferendo, si non reputentur idonei secundum iura.

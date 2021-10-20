@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod Baptismus fuerit institutus post Christi passionem. Causa enim praecedit effectum. Sed passio Christi operatur in sacramentis novae legis. Ergo passio Christi praecedit institutionem sacramentorum novae legis. Et praecipue institutionem Baptismi, cum apostolus dicat, Rom. VI, *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus,* et cetera.
+Ad secundum sic proceditur. Videtur quod Baptismus fuerit institutus post Christi passionem. Causa enim praecedit effectum. Sed passio Christi operatur in sacramentis novae legis. Ergo passio Christi praecedit institutionem sacramentorum novae legis. Et praecipue institutionem Baptismi, cum apostolus dicat, [[Rm 6]], *quicumque baptizati sumus in Christo Iesu, in morte ipsius baptizati sumus,* et cetera.
 
 ###### arg. 2
 Praeterea, sacramenta novae legis efficaciam habent ex mandato Christi. Sed Christus mandatum baptizandi dedit discipulis post passionem et resurrectionem suam, *dicens, euntes, docete omnes gentes, baptizantes eos in nomine patris*, etc., ut habetur Matth. ult. Ergo videtur quod post passionem Christi Baptismus fuerit institutus.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod etiam ante passionem Christi Baptismus habebat effi
 Ad secundum dicendum quod homines non debebant multiplicibus figuris arctari per Christum, qui venerat sua veritate figuras impletas auferre. Et ideo ante passionem suam Baptismum institutum non posuit sub praecepto, sed voluit ad eius exercitium homines assuefieri; et praecipue in populo Iudaeorum, apud quem omnia facta figuralia erant, ut Augustinus dicit, contra Faustum. Post passionem vero et resurrectionem, non solum Iudaeis, sed etiam gentilibus suo praecepto necessitatem Baptismi imposuit, dicens, *euntes, docete omnes gentes*.
 
 ###### ad 3
-Ad tertium dicendum quod sacramenta non sunt obligatoria nisi quando sub praecepto ponuntur. Quod quidem non fuit ante passionem, ut dictum est. Quod enim dominus ante passionem Nicodemo dixit, Ioan. III, *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*, magis videtur ad futurum respicere quam ad praesens tempus.
+Ad tertium dicendum quod sacramenta non sunt obligatoria nisi quando sub praecepto ponuntur. Quod quidem non fuit ante passionem, ut dictum est. Quod enim dominus ante passionem Nicodemo dixit, [[Jn 3]], *nisi quis renatus fuerit ex aqua et spiritu sancto, non potest introire in regnum Dei*, magis videtur ad futurum respicere quam ad praesens tempus.
 

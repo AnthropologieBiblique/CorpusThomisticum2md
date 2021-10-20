@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod caritas sit prior spe. Dicit enim Ambrosius, super illud Luc. XVII, *si habueritis fidem sicut granum sinapis, etc., ex fide est caritas, ex caritate spes*. Sed fides est prior caritate. Ergo caritas est prior spe.
+Ad octavum sic proceditur. Videtur quod caritas sit prior spe. Dicit enim Ambrosius, super illud [[Lc 17]], *si habueritis fidem sicut granum sinapis, etc., ex fide est caritas, ex caritate spes*. Sed fides est prior caritate. Ergo caritas est prior spe.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, XIV de Civ. Dei, quod *boni motus atque affectus ex amore et sancta caritate veniunt*. Sed sperare, secundum quod est actus spei, est quidam bonus animi motus. Ergo derivatur a caritate.
@@ -10,7 +10,7 @@ Praeterea, Augustinus dicit, XIV de Civ. Dei, quod *boni motus atque affectus ex
 Praeterea, Magister dicit, XXVI dist. III Lib. Sent., quod *spes ex meritis provenit, quae praecedunt non solum rem speratam, sed etiam spem, quam natura praeit caritas*. Caritas ergo est prior spe.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, I ad Tim. I, *finis praecepti caritas est de corde puro et conscientia bona*, Glossa, idest spe. Ergo spes est prior caritate.
+Sed contra est quod apostolus dicit, [[1 Tm 1]], *finis praecepti caritas est de corde puro et conscientia bona*, Glossa, idest spe. Ergo spes est prior caritate.
 
 ###### co.
 Respondeo dicendum quod duplex est ordo. Unus quidem secundum viam generationis et materiae, secundum quem imperfectum prius est perfecto. Alius autem ordo est perfectionis et formae, secundum quem perfectum naturaliter prius est imperfecto. Secundum igitur primum ordinem spes est prior caritate. Quod sic patet. Quia spes, et omnis appetitivus motus, ex amore derivatur, ut supra habitum est, cum de passionibus ageretur. Amor autem quidam est perfectus, quidam imperfectus. Perfectus quidem amor est quo aliquis secundum se amatur, ut puta cui aliquis vult bonum, sicut homo amat amicum. Imperfectus amor est quo quis amat aliquid non secundum ipsum, sed ut illud bonum sibi ipsi proveniat, sicut homo amat rem quam concupiscit. Primus autem amor Dei pertinet ad caritatem, quae inhaeret Deo secundum seipsum, sed spes pertinet ad secundum amorem, quia ille qui sperat aliquid sibi obtinere intendit. Et ideo in via generationis spes est prior caritate. Sicut enim aliquis introducitur ad amandum Deum per hoc quod, timens ab ipso puniri, cessat a peccato, ut Augustinus dicit, super primam canonicam Ioan.; ita etiam et spes introducit ad caritatem, inquantum aliquis, sperans remunerari a Deo, accenditur ad amandum Deum et servandum praecepta eius. Sed secundum ordinem perfectionis caritas naturaliter prior est. Et ideo, adveniente caritate, spes perfectior redditur, quia de amicis maxime speramus. Et hoc modo dicit Ambrosius quod spes est ex caritate.

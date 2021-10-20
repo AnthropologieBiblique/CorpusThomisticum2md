@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod vitium non sit contra naturam. Vitium e
 Praeterea, ea quae sunt contra naturam, non possunt assuefieri, sicut lapis nunquam assuescit ferri sursum, ut dicitur in II Ethic. Sed aliqui assuefiunt ad vitia. Ergo vitia non sunt contra naturam.
 
 ###### arg. 3
-Praeterea, nihil quod est contra naturam, invenitur in habentibus illam naturam ut in pluribus. Sed vitia inveniuntur in hominibus ut in pluribus, quia, sicut dicitur Matth. VII, *lata est via quae ducit ad perditionem, et multi vadunt per eam*. Ergo vitium non est contra naturam.
+Praeterea, nihil quod est contra naturam, invenitur in habentibus illam naturam ut in pluribus. Sed vitia inveniuntur in hominibus ut in pluribus, quia, sicut dicitur [[Mt 7]], *lata est via quae ducit ad perditionem, et multi vadunt per eam*. Ergo vitium non est contra naturam.
 
 ###### arg. 4
 Praeterea, peccatum comparatur ad vitium sicut actus ad habitum, ut ex supradictis patet. Sed peccatum definitur esse dictum vel factum vel concupitum contra legem Dei; ut patet per Augustinum, XXII contra Faustum. Lex autem Dei est supra naturam. Magis ergo dicendum est quod vitium sit contra legem, quam sit contra naturam.

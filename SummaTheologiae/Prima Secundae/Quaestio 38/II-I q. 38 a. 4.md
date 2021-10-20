@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod contemplatio veritatis non mitiget dolorem. Dicitur enim Eccle. I, *qui addit scientiam, addit et dolorem*. Sed scientia ad contemplationem veritatis pertinet. Non ergo contemplatio veritatis mitigat dolorem.
+Ad quartum sic proceditur. Videtur quod contemplatio veritatis non mitiget dolorem. Dicitur enim [[Qo 1]], *qui addit scientiam, addit et dolorem*. Sed scientia ad contemplationem veritatis pertinet. Non ergo contemplatio veritatis mitigat dolorem.
 
 ###### arg. 2
 Praeterea, contemplatio veritatis ad intellectum speculativum pertinet. Sed intellectus speculativus non movet, ut dicitur in III de anima. Cum igitur gaudium et dolor sint quidam motus animi, videtur quod contemplatio veritatis nihil faciat ad mitigationem doloris.

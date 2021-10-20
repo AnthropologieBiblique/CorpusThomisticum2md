@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod nihil de alimento transeat in veritatem humanae naturae. Dicitur enim Matth. XV, *omne quod in os intrat, in ventrem vadit, et per secessum emittitur*. Sed quod emittitur, non transit in veritatem humanae naturae. Ergo nihil de alimento in veritatem humanae naturae transit.
+Ad primum sic proceditur. Videtur quod nihil de alimento transeat in veritatem humanae naturae. Dicitur enim [[Mt 15]], *omne quod in os intrat, in ventrem vadit, et per secessum emittitur*. Sed quod emittitur, non transit in veritatem humanae naturae. Ergo nihil de alimento in veritatem humanae naturae transit.
 
 ###### arg. 2
 Praeterea, philosophus, in I de Generat., distinguit carnem secundum speciem, et secundum materiam; et dicit quod caro secundum materiam advenit et recedit. Quod autem ex alimento generatur, advenit et recedit. Ergo id in quod alimentum convertitur, est caro secundum materiam, non autem caro secundum speciem. Sed hoc pertinet ad veritatem humanae naturae, quod pertinet ad speciem eius. Ergo alimentum non transit in veritatem humanae naturae.

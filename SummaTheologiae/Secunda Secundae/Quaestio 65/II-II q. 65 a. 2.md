@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod non liceat patribus verberare filios, aut dominis servos. Dicit enim apostolus, ad Ephes. VI, *vos, patres, nolite ad iracundiam provocare filios vestros*. Et infra subdit, *et vos, domini, eadem facite servis, remittentes minas*. Sed propter verbera aliqui ad iracundiam provocantur. Sunt etiam minis graviora. Ergo neque patres filios, neque domini servos debent verberare.
+Ad secundum sic proceditur. Videtur quod non liceat patribus verberare filios, aut dominis servos. Dicit enim apostolus, ad [[Ep 6]], *vos, patres, nolite ad iracundiam provocare filios vestros*. Et infra subdit, *et vos, domini, eadem facite servis, remittentes minas*. Sed propter verbera aliqui ad iracundiam provocantur. Sunt etiam minis graviora. Ergo neque patres filios, neque domini servos debent verberare.
 
 ###### arg. 2
 Praeterea, philosophus dicit, in X Ethic., quod *sermo paternus habet solum monitionem, non autem coactionem*. Sed quaedam coactio est per verbera. Ergo parentibus non licet filios verberare.
@@ -10,7 +10,7 @@ Praeterea, philosophus dicit, in X Ethic., quod *sermo paternus habet solum moni
 Praeterea, unicuique licet alteri disciplinam impendere, hoc enim pertinet ad eleemosynas spirituales, ut supra dictum est. Si ergo parentibus licet propter disciplinam filios verberare, pari ratione cuilibet licebit quemlibet verberare. Quod patet esse falsum. Ergo et primum.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. XIII, *qui parcit virgae, odit filium suum*; et infra XXIII, *noli subtrahere a puero disciplinam. Si enim percusseris eum virga, non morietur, tu virga percuties eum, et animam eius de Inferno liberabis*. Et Eccli. XXXIII dicitur, *servo malevolo tortura et compedes*.
+Sed contra est quod dicitur [[Pr 13]], *qui parcit virgae, odit filium suum*; et infra XXIII, *noli subtrahere a puero disciplinam. Si enim percusseris eum virga, non morietur, tu virga percuties eum, et animam eius de Inferno liberabis*. Et [[Si 33]] dicitur, *servo malevolo tortura et compedes*.
 
 ###### co.
 Respondeo dicendum quod per verberationem nocumentum quoddam infertur corpori eius qui verberatur, aliter tamen quam in mutilatione, nam mutilatio tollit corporis integritatem, verberatio vero tantummodo afficit sensum dolore. Unde multo minus nocumentum est quam membri mutilatio. Nocumentum autem inferre alicui non licet nisi per modum poenae propter iustitiam. Nullus autem iuste punit aliquem nisi sit eius ditioni subiectus. Et ideo verberare aliquem non licet nisi habenti potestatem aliquam super illum qui verberatur. Et quia filius subditur potestati patris, et servus potestati domini, licite potest verberare pater filium et dominus servum, causa correctionis et disciplinae.

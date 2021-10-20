@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod in Daemonibus non sit praelatio. Omnis enim praelatio est secundum aliquem ordinem iustitiae. Sed Daemones totaliter a iustitia ceciderunt. Ergo in eis non est praelatio.
 
 ###### arg. 2
-Praeterea, ubi non est obedientia et subiectio, non est praelatio. Haec autem sine concordia esse non possunt; quae in Daemonibus nulla est, secundum illud Prov. XIII, *inter superbos semper sunt iurgia*. Ergo in Daemonibus non est praelatio.
+Praeterea, ubi non est obedientia et subiectio, non est praelatio. Haec autem sine concordia esse non possunt; quae in Daemonibus nulla est, secundum illud [[Pr 13]], *inter superbos semper sunt iurgia*. Ergo in Daemonibus non est praelatio.
 
 ###### arg. 3
 Praeterea, si in eis est aliqua praelatio, aut hoc pertinet ad eorum naturam, aut ad eorum culpam vel poenam. Sed non ad eorum naturam, quia subiectio et servitus non est ex natura, sed est ex peccato subsecuta. Nec pertinet ad culpam vel poenam, quia sic superiores Daemones, qui magis peccaverunt, inferioribus subderentur. Non ergo est praelatio in Daemonibus.
@@ -13,7 +13,7 @@ Praeterea, si in eis est aliqua praelatio, aut hoc pertinet ad eorum naturam, au
 Sed contra est quod dicit Glossa, I ad Cor. XV, *quandiu durat mundus, Angeli Angelis, homines hominibus, et Daemones Daemonibus praesunt*.
 
 ###### co.
-Respondeo dicendum quod, cum actio sequatur naturam rei, quorumcumque naturae sunt ordinatae, oportet quod etiam actiones sub invicem ordinentur. Sicut patet in rebus corporalibus, quia enim inferiora corpora naturali ordine sunt infra corpora caelestia actiones et motus eorum subduntur actionibus et motibus caelestium corporum. Manifestum est autem ex praemissis quod Daemonum quidam naturali ordine sub aliis constituuntur. Unde et actiones eorum sub actionibus superiorum sunt. Et hoc est quod rationem praelationis facit, ut scilicet actio subditi subdatur actioni praelati. Sic igitur ipsa naturalis dispositio Daemonum requirit quod sit in eis praelatio. Convenit etiam hoc divinae sapientiae, quae nihil in universo inordinatum relinquit, *quae attingit a fine usque ad finem fortiter, et disponit omnia suaviter*, ut dicitur Sap. VIII.
+Respondeo dicendum quod, cum actio sequatur naturam rei, quorumcumque naturae sunt ordinatae, oportet quod etiam actiones sub invicem ordinentur. Sicut patet in rebus corporalibus, quia enim inferiora corpora naturali ordine sunt infra corpora caelestia actiones et motus eorum subduntur actionibus et motibus caelestium corporum. Manifestum est autem ex praemissis quod Daemonum quidam naturali ordine sub aliis constituuntur. Unde et actiones eorum sub actionibus superiorum sunt. Et hoc est quod rationem praelationis facit, ut scilicet actio subditi subdatur actioni praelati. Sic igitur ipsa naturalis dispositio Daemonum requirit quod sit in eis praelatio. Convenit etiam hoc divinae sapientiae, quae nihil in universo inordinatum relinquit, *quae attingit a fine usque ad finem fortiter, et disponit omnia suaviter*, ut dicitur [[Sg 8]].
 
 ###### ad 1
 Ad primum ergo dicendum quod praelatio Daemonum non fundatur super eorum iustitia, sed super iustitia Dei cuncta ordinantis.

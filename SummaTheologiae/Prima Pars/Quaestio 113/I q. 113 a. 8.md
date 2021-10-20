@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod inter Angelos non possit esse pugna seu discordia. Dicitur enim Iob XXV, *qui facit concordiam in sublimibus*. Sed pugna opponitur concordiae. Ergo in sublimibus Angelis non est pugna.
+Ad octavum sic proceditur. Videtur quod inter Angelos non possit esse pugna seu discordia. Dicitur enim [[Jb 25]], *qui facit concordiam in sublimibus*. Sed pugna opponitur concordiae. Ergo in sublimibus Angelis non est pugna.
 
 ###### arg. 2
 Praeterea, ubi est perfecta caritas et iusta praelatio, non potest esse pugna. Sed hoc totum est in Angelis. Ergo in Angelis non est pugna.

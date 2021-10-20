@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod debeat aqua in magna quantitate apponi. Sicut enim sanguis de latere Christi sensibiliter fluxit, ita et aqua, unde dicitur Ioan. XIX, *qui vidit, testimonium perhibuit*. Sed aqua non posset sensibiliter esse in hoc sacramento nisi in magna quantitate poneretur. Ergo videtur quod aqua debeat apponi in magna quantitate.
+Ad octavum sic proceditur. Videtur quod debeat aqua in magna quantitate apponi. Sicut enim sanguis de latere Christi sensibiliter fluxit, ita et aqua, unde dicitur [[Jn 19]], *qui vidit, testimonium perhibuit*. Sed aqua non posset sensibiliter esse in hoc sacramento nisi in magna quantitate poneretur. Ergo videtur quod aqua debeat apponi in magna quantitate.
 
 ###### arg. 2
 Praeterea, parva aqua multo vino admixta corrumpitur. Quod autem corruptum est, non est. Ergo idem est apponere parum de aqua in hoc sacramento, et nihil apponere. Sed non licet nihil apponere. Ergo non licet parum apponere.

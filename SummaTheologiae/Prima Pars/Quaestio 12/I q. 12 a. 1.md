@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit Deum per essentiam videre. Chrysostomus enim, super Ioannem, exponens illud quod dicitur Ioan. I, *Deum nemo vidit unquam*, sic dicit, *ipsum quod est Deus, non solum prophetae, sed nec Angeli viderunt nec Archangeli, quod enim creabilis est naturae, qualiter videre poterit quod increabile est?* Dionysius etiam, I cap. de Div. Nom., loquens de Deo, dicit, *neque sensus est eius, neque phantasia, neque opinio, nec ratio, nec scientia*.
+Ad primum sic proceditur. Videtur quod nullus intellectus creatus possit Deum per essentiam videre. Chrysostomus enim, super Ioannem, exponens illud quod dicitur [[Jn 1]], *Deum nemo vidit unquam*, sic dicit, *ipsum quod est Deus, non solum prophetae, sed nec Angeli viderunt nec Archangeli, quod enim creabilis est naturae, qualiter videre poterit quod increabile est?* Dionysius etiam, I cap. de Div. Nom., loquens de Deo, dicit, *neque sensus est eius, neque phantasia, neque opinio, nec ratio, nec scientia*.
 
 ###### arg. 2
 Praeterea, omne infinitum, inquantum huiusmodi, est ignotum. Sed Deus est infinitus, ut supra ostensum est. Ergo secundum se est ignotus.
@@ -13,7 +13,7 @@ Praeterea, intellectus creatus non est cognoscitivus nisi existentium, primum en
 Praeterea, cognoscentis ad cognitum oportet esse aliquam proportionem, cum cognitum sit perfectio cognoscentis. Sed nulla est proportio intellectus creati ad Deum, quia in infinitum distant. Ergo intellectus creatus non potest videre essentiam Dei.
 
 ###### s. c.
-Sed contra est quod dicitur I Ioan. III, *videbimus eum sicuti est*.
+Sed contra est quod dicitur [[1 Jn 3]], *videbimus eum sicuti est*.
 
 ###### co.
 Respondeo dicendum quod, cum unumquodque sit cognoscibile secundum quod est in actu, Deus, qui est actus purus absque omni permixtione potentiae, quantum in se est, maxime cognoscibilis est. Sed quod est maxime cognoscibile in se, alicui intellectui cognoscibile non est, propter excessum intelligibilis supra intellectum, sicut sol, qui est maxime visibilis, videri non potest a vespertilione, propter excessum luminis. Hoc igitur attendentes, quidam posuerunt quod nullus intellectus creatus essentiam Dei videre potest. Sed hoc inconvenienter dicitur. Cum enim ultima hominis beatitudo in altissima eius operatione consistat, quae est operatio intellectus, si nunquam essentiam Dei videre potest intellectus creatus, vel nunquam beatitudinem obtinebit, vel in alio eius beatitudo consistet quam in Deo. Quod est alienum a fide. In ipso enim est ultima perfectio rationalis creaturae, quia est ei principium essendi, intantum enim unumquodque perfectum est, inquantum ad suum principium attingit. Similiter etiam est praeter rationem. Inest enim homini naturale desiderium cognoscendi causam, cum intuetur effectum; et ex hoc admiratio in hominibus consurgit. Si igitur intellectus rationalis creaturae pertingere non possit ad primam causam rerum, remanebit inane desiderium naturae. Unde simpliciter concedendum est quod beati Dei essentiam videant.

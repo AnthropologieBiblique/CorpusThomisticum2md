@@ -1,13 +1,13 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod pax sit virtus. Praecepta enim non dantur nisi de actibus virtutum. Sed dantur praecepta de habendo pacem, ut patet Marc. IX, *pacem habete inter vos*. Ergo pax est virtus.
+Ad quartum sic proceditur. Videtur quod pax sit virtus. Praecepta enim non dantur nisi de actibus virtutum. Sed dantur praecepta de habendo pacem, ut patet [[Mc 9]], *pacem habete inter vos*. Ergo pax est virtus.
 
 ###### arg. 2
-Praeterea, non meremur nisi actibus virtutum. Sed facere pacem est meritorium, secundum illud Matth. V, *beati pacifici, quoniam filii Dei vocabuntur*. Ergo pax est virtus.
+Praeterea, non meremur nisi actibus virtutum. Sed facere pacem est meritorium, secundum illud [[Mt 5]], *beati pacifici, quoniam filii Dei vocabuntur*. Ergo pax est virtus.
 
 ###### arg. 3
-Praeterea, vitia virtutibus opponuntur. Sed dissensiones, quae opponuntur paci, numerantur inter vitia; ut patet ad Gal. V. Ergo pax est virtus.
+Praeterea, vitia virtutibus opponuntur. Sed dissensiones, quae opponuntur paci, numerantur inter vitia; ut patet ad [[Ga 5]]. Ergo pax est virtus.
 
 ###### s. c.
 Sed contra, virtus non est finis ultimus, sed via in ipsum. Sed pax est quodammodo finis ultimus; ut Augustinus dicit, XIX de Civ. Dei. Ergo pax non est virtus.

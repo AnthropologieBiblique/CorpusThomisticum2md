@@ -10,10 +10,10 @@ Praeterea, ad negligentiam videtur pertinere omne peccatum omissionis. Sed pecca
 Praeterea, imprudentia est circa aliquem actum rationis. Sed negligentia non importat defectum neque circa consilium, in quo deficit praecipitatio; neque circa iudicium, in quo deficit inconsideratio; neque circa praeceptum, in quo deficit inconstantia. Ergo negligentia non pertinet ad imprudentiam.
 
 ###### arg. 4
-Praeterea, dicitur Eccle. VII, *qui timet Deum nihil negligit*. Sed unumquodque peccatum praecipue excluditur per virtutem oppositam. Ergo negligentia magis opponitur timori quam prudentiae.
+Praeterea, dicitur [[Qo 7]], *qui timet Deum nihil negligit*. Sed unumquodque peccatum praecipue excluditur per virtutem oppositam. Ergo negligentia magis opponitur timori quam prudentiae.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. XX, *lascivus et imprudens non observant tempus*. Sed hoc pertinet ad negligentiam. Ergo negligentia opponitur prudentiae.
+Sed contra est quod dicitur [[Si 20]], *lascivus et imprudens non observant tempus*. Sed hoc pertinet ad negligentiam. Ergo negligentia opponitur prudentiae.
 
 ###### co.
 Respondeo dicendum quod negligentia directe opponitur sollicitudini. Sollicitudo autem ad rationem pertinet, et rectitudo sollicitudinis ad prudentiam. Unde, per oppositum, negligentia ad imprudentiam pertinet. Et hoc etiam ex ipso nomine apparet. Quia sicut Isidorus dicit, in libro Etymol., *negligens dicitur quasi nec eligens*. Electio autem recta eorum quae sunt ad finem ad prudentiam pertinet. Unde negligentia pertinet ad imprudentiam.
@@ -28,5 +28,5 @@ Ad secundum dicendum quod omissio pertinet ad exteriorem actum, est enim omissio
 Ad tertium dicendum quod negligentia est circa actum praecipiendi ad quem etiam pertinet sollicitudo. Aliter tamen circa hunc actum deficit negligens, et aliter inconstans. Inconstans enim deficit in praecipiendo quasi ab aliquo impeditus, negligens autem per defectum promptae voluntatis.
 
 ###### ad 4
-Ad quartum dicendum quod timor Dei operatur ad vitationem cuiuslibet peccati, quia ut dicitur Prov. XV, *per timorem domini declinat omnis a malo*. Et ideo timor facit negligentiam vitare. Non tamen ita quod directe negligentia timori opponatur, sed inquantum timor excitat hominem ad actus rationis. Unde etiam supra habitum est, cum de passionibus ageretur, quod timor facit consiliativos.
+Ad quartum dicendum quod timor Dei operatur ad vitationem cuiuslibet peccati, quia ut dicitur [[Pr 15]], *per timorem domini declinat omnis a malo*. Et ideo timor facit negligentiam vitare. Non tamen ita quod directe negligentia timori opponatur, sed inquantum timor excitat hominem ad actus rationis. Unde etiam supra habitum est, cum de passionibus ageretur, quod timor facit consiliativos.
 

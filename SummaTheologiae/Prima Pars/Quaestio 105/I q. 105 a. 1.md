@@ -10,7 +10,7 @@ Praeterea, si aliquod agens se habeat ad multa, nullum eorum producet, nisi dete
 Praeterea, sicut esse commune dependet a prima causa universali, ita esse determinatum dependet a determinatis causis particularibus, ut supra habitum est. Sed determinatum esse alicuius rei est per propriam eius formam. Ergo propriae rerum formae non producuntur a Deo, nisi mediantibus causis particularibus.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. II, *formavit Deus hominem de limo terrae*.
+Sed contra est quod dicitur [[Gn 2]], *formavit Deus hominem de limo terrae*.
 
 ###### co.
 Respondeo dicendum quod Deus immediate potest movere materiam ad formam. Quia ens in potentia passiva reduci potest in actum, a potentia activa quae eam sub sua potestate continet. Cum igitur materia contineatur sub potestate divina, utpote a Deo producta, potest reduci in actum per divinam potentiam. Et hoc est moveri materiam ad formam, quia forma nihil aliud est quam actus materiae.

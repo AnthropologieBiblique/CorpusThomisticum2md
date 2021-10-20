@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod ratio illa procedit de obiecto fidei ex parte ipsiu
 Ad secundum dicendum quod in symbolo tanguntur ea de quibus est fides inquantum ad ea terminatur actus credentis, ut ex ipso modo loquendi apparet. Actus autem credentis non terminatur ad enuntiabile, sed ad rem, non enim formamus enuntiabilia nisi ut per ea de rebus cognitionem habeamus, sicut in scientia, ita et in fide.
 
 ###### ad 3
-Ad tertium dicendum quod visio patriae erit veritatis primae secundum quod in se est, secundum illud I Ioan. III, *cum apparuerit, similes ei erimus et videbimus eum sicuti est*. Et ideo visio illa erit non per modum enuntiabilis, sed per modum simplicis intelligentiae. Sed per fidem non apprehendimus veritatem primam sicut in se est. Unde non est similis ratio.
+Ad tertium dicendum quod visio patriae erit veritatis primae secundum quod in se est, secundum illud [[1 Jn 3]], *cum apparuerit, similes ei erimus et videbimus eum sicuti est*. Et ideo visio illa erit non per modum enuntiabilis, sed per modum simplicis intelligentiae. Sed per fidem non apprehendimus veritatem primam sicut in se est. Unde non est similis ratio.
 

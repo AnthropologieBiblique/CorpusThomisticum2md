@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod obiectum fidei sit aliquid visum. Dicit enim dominus Thomae, Ioan. XX, *quia vidisti me, credidisti*. Ergo et de eodem est visio et fides.
+Ad quartum sic proceditur. Videtur quod obiectum fidei sit aliquid visum. Dicit enim dominus Thomae, [[Jn 20]], *quia vidisti me, credidisti*. Ergo et de eodem est visio et fides.
 
 ###### arg. 2
 Praeterea, apostolus, I ad Cor. XIII, dicit, *videmus nunc per speculum in aenigmate*. Et loquitur de cognitione fidei. Ergo id quod creditur videtur.
@@ -10,7 +10,7 @@ Praeterea, apostolus, I ad Cor. XIII, dicit, *videmus nunc per speculum in aenig
 Praeterea, fides est quoddam spirituale lumen. Sed quolibet lumine aliquid videtur. Ergo fides est de rebus visis.
 
 ###### arg. 4
-Praeterea, quilibet sensus visus nominatur, ut Augustinus dicit, in libro de Verb. Dom. Sed fides est de auditis, secundum illud ad Rom. X, fides ex auditu. Ergo fides est de rebus visis.
+Praeterea, quilibet sensus visus nominatur, ut Augustinus dicit, in libro de Verb. Dom. Sed fides est de auditis, secundum illud ad [[Rm 10]], fides ex auditu. Ergo fides est de rebus visis.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, ad Heb. XI, quod *fides est argumentum non apparentium*.

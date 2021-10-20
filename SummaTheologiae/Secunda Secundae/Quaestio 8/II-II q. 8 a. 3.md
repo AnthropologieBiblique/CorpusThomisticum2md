@@ -13,7 +13,7 @@ Praeterea, donum intellectus illustrat mentem ad ea quae naturalem rationem exce
 Sed contra est quod dicitur in Psalm., *intellectus bonus omnibus facientibus eum*.
 
 ###### co.
-Respondeo dicendum quod, sicut dictum est, donum intellectus non solum se habet ad ea quae primo et principaliter cadunt sub fide, sed etiam ad omnia quae ad fidem ordinantur. Operationes autem bonae quendam ordinem ad fidem habent, nam fides per dilectionem operatur, ut apostolus dicit, ad Gal. V. Et ideo donum intellectus etiam ad quaedam operabilia se extendit, non quidem ut circa ea principaliter versetur; sed inquantum in agendis regulamur *rationibus aeternis, quibus conspiciendis et consulendis*, secundum Augustinum, XII de Trin., inhaeret superior ratio, quae dono intellectus perficitur.
+Respondeo dicendum quod, sicut dictum est, donum intellectus non solum se habet ad ea quae primo et principaliter cadunt sub fide, sed etiam ad omnia quae ad fidem ordinantur. Operationes autem bonae quendam ordinem ad fidem habent, nam fides per dilectionem operatur, ut apostolus dicit, ad [[Ga 5]]. Et ideo donum intellectus etiam ad quaedam operabilia se extendit, non quidem ut circa ea principaliter versetur; sed inquantum in agendis regulamur *rationibus aeternis, quibus conspiciendis et consulendis*, secundum Augustinum, XII de Trin., inhaeret superior ratio, quae dono intellectus perficitur.
 
 ###### ad 1
 Ad primum ergo dicendum quod operabilia humana, secundum quod in se considerantur, non habent aliquam excellentiae altitudinem. Sed secundum quod referuntur ad regulam legis aeternae et ad finem beatitudinis divinae, sic altitudinem habent, ut circa ea possit esse intellectus.

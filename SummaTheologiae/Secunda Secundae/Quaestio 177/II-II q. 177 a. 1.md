@@ -7,13 +7,13 @@ Ad primum sic proceditur. Videtur quod in sermone non consistat aliqua gratia gr
 Praeterea, omnis gratia ad regnum Dei pertinet. Sed apostolus dicit, I ad Cor. IV, *non in sermone est regnum Dei, sed in virtute*. Ergo in sermone non consistit aliqua gratia gratis data.
 
 ###### arg. 3
-Praeterea, nulla gratia datur ex meritis, quia si ex operibus, iam non est gratia, ut dicitur Rom. XI. Sed sermo datur alicui ex meritis, dicit enim Gregorius, exponens illud Psalmi, *ne auferas de ore meo verbum veritatis, quod verbum veritatis omnipotens Deus facientibus tribuit, et non facientibus tollit*. Ergo videtur quod donum sermonis non sit gratia gratis data.
+Praeterea, nulla gratia datur ex meritis, quia si ex operibus, iam non est gratia, ut dicitur [[Rm 11]]. Sed sermo datur alicui ex meritis, dicit enim Gregorius, exponens illud Psalmi, *ne auferas de ore meo verbum veritatis, quod verbum veritatis omnipotens Deus facientibus tribuit, et non facientibus tollit*. Ergo videtur quod donum sermonis non sit gratia gratis data.
 
 ###### arg. 4
 Praeterea, sicut necesse est quod homo per sermonem pronuntiet ea quae pertinent ad donum sapientiae vel scientiae, ita etiam ea quae pertinent ad virtutem fidei. Ergo, si ponitur sermo sapientiae et sermo scientiae gratia gratis data, pari ratione deberet poni sermo fidei inter gratias gratis datas.
 
 ###### s. c.
-Sed in contrarium est quod dicitur Eccli. VI, lingua eucharis, idest gratiosa, in bono homine abundabit. Sed bonitas hominis est ex gratia. Ergo etiam et gratiositas sermonis.
+Sed in contrarium est quod dicitur [[Si 6]], lingua eucharis, idest gratiosa, in bono homine abundabit. Sed bonitas hominis est ex gratia. Ergo etiam et gratiositas sermonis.
 
 ###### co.
 Respondeo dicendum quod gratiae gratis datae dantur ad utilitatem aliorum, ut supra dictum est. Cognitio autem quam aliquis a Deo accipit, in utilitatem alterius converti non posset nisi mediante locutione. Et quia spiritus sanctus non deficit in aliquo quod pertineat ad Ecclesiae utilitatem, etiam providet membris Ecclesiae in locutione, non solum ut aliquis sic loquatur ut a diversis possit intelligi, quod pertinet ad donum linguarum; sed etiam quod efficaciter loquatur, quod pertinet ad gratiam sermonis. Et hoc tripliciter. Primo quidem, ad instruendum intellectum, quod fit dum aliquis sic loquitur quod doceat. Secundo, ad movendum affectum, ut scilicet libenter audiat verbum Dei, quod fit dum aliquis sic loquitur quod auditores delectet. Quod non debet aliquis quaerere propter favorem suum, sed ut homines alliciantur ad audiendum verbum Dei. Tertio, ad hoc quod aliquis amet ea quae verbis significantur, et velit ea implere, quod fit dum aliquis sic loquitur quod auditorem flectat. Ad quod quidem efficiendum spiritus sanctus utitur lingua hominis quasi quodam instrumento, ipse autem est qui perficit operationem interius. Unde Gregorius dicit, in homilia Pentecostes, *nisi corda auditorum spiritus sanctus repleat, ad aures corporis vox docentium incassum sonat*.

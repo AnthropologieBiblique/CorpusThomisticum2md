@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod iustitia particularis non habeat materiam specialem. Quia super illud Gen. II, *fluvius quartus ipse est Euphrates*, dicit Glossa, *Euphrates frugifer interpretatur. Nec dicitur contra quod vadat, quia iustitia ad omnes animae partes pertinet*. Hoc autem non esset si haberet materiam specialem, quia quaelibet materia specialis ad aliquam specialem potentiam pertinet. Ergo iustitia particularis non habet materiam specialem.
+Ad octavum sic proceditur. Videtur quod iustitia particularis non habeat materiam specialem. Quia super illud [[Gn 2]], *fluvius quartus ipse est Euphrates*, dicit Glossa, *Euphrates frugifer interpretatur. Nec dicitur contra quod vadat, quia iustitia ad omnes animae partes pertinet*. Hoc autem non esset si haberet materiam specialem, quia quaelibet materia specialis ad aliquam specialem potentiam pertinet. Ergo iustitia particularis non habet materiam specialem.
 
 ###### arg. 2
 Praeterea, Augustinus, in libro octogintatrium quaest., dicit quod *quatuor sunt animae virtutes, quibus in hac vita spiritualiter vivitur, scilicet prudentia, temperantia, fortitudo, iustitia*, et dicit quod quarta est iustitia, quae per omnes diffunditur. Ergo iustitia particularis, quae est una de quatuor virtutibus cardinalibus, non habet specialem materiam.

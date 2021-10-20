@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod vita contemplativa impediatur per activam. Ad vitam enim contemplativam necessaria est quaedam vacatio mentis, secundum illud Psalmi, vacate, et videte quoniam ego sum Deus. Sed vita activa habet inquietudinem, secundum illud Luc. X, *Martha, Martha, sollicita es et turbaris erga plurima*. Ergo vita activa contemplativam impedit.
+Ad tertium sic proceditur. Videtur quod vita contemplativa impediatur per activam. Ad vitam enim contemplativam necessaria est quaedam vacatio mentis, secundum illud Psalmi, vacate, et videte quoniam ego sum Deus. Sed vita activa habet inquietudinem, secundum illud [[Lc 10]], *Martha, Martha, sollicita es et turbaris erga plurima*. Ergo vita activa contemplativam impedit.
 
 ###### arg. 2
 Praeterea, ad vitam contemplativam requiritur claritas visionis. Sed vita activa impedit visionis claritatem, dicit enim Gregorius, super Ezech., quod *lippa est et fecunda, quia, dum occupatur in opere, minus videt*. Ergo vita activa impedit contemplativam.

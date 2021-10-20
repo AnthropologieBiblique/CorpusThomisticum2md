@@ -1,10 +1,10 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod scandalum non sit peccatum. Peccata enim non eveniunt ex necessitate, quia omne peccatum est voluntarium, ut supra habitum est. Sed Matth. XVIII dicitur, *necesse est ut veniant scandala*. Ergo scandalum non est peccatum.
+Ad secundum sic proceditur. Videtur quod scandalum non sit peccatum. Peccata enim non eveniunt ex necessitate, quia omne peccatum est voluntarium, ut supra habitum est. Sed [[Mt 18]] dicitur, *necesse est ut veniant scandala*. Ergo scandalum non est peccatum.
 
 ###### arg. 2
-Praeterea, nullum peccatum procedit ex pietatis affectu, quia *non potest arbor bona fructus malos facere*, ut dicitur Matth. VII. Sed aliquod scandalum est ex pietatis affectu, dicit enim dominus Petro, Matth. XVI, *scandalum mihi es*; ubi dicit Hieronymus quod *error apostoli, de pietatis affectu veniens, nunquam incentivum videtur esse Diaboli*. Ergo non omne scandalum est peccatum.
+Praeterea, nullum peccatum procedit ex pietatis affectu, quia *non potest arbor bona fructus malos facere*, ut dicitur [[Mt 7]]. Sed aliquod scandalum est ex pietatis affectu, dicit enim dominus Petro, [[Mt 7]], *scandalum mihi es*; ubi dicit Hieronymus quod *error apostoli, de pietatis affectu veniens, nunquam incentivum videtur esse Diaboli*. Ergo non omne scandalum est peccatum.
 
 ###### arg. 3
 Praeterea, scandalum impactionem quandam importat. Sed non quicumque impingit, cadit. Ergo scandalum potest esse sine peccato, quod est spiritualis casus.

@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod Angelus aut homo in sua prima conditione 
 Praeterea, cognitio fidei est aenigmatica et obscura, secundum illud I ad Cor. XIII, *videmus nunc per speculum in aenigmate*. Sed in statu primae conditionis non fuit aliqua obscuritas neque in homine neque in Angelo, quia tenebrositas est poena peccati. Ergo fides in statu primae conditionis esse non potuit neque in homine neque in Angelo.
 
 ###### arg. 3
-Praeterea, apostolus dicit, ad Rom. X, quod *fides est ex auditu*. Sed hoc locum non habuit in primo statu angelicae conditionis aut humanae, non enim erat ibi auditus ab alio. Ergo fides in statu illo non erat neque in homine neque in Angelo.
+Praeterea, apostolus dicit, ad [[Rm 10]], quod *fides est ex auditu*. Sed hoc locum non habuit in primo statu angelicae conditionis aut humanae, non enim erat ibi auditus ab alio. Ergo fides in statu illo non erat neque in homine neque in Angelo.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, ad Heb. XI, *accedentem ad Deum oportet credere*. Sed Angelus et homo in sui prima conditione erant in statu accedendi ad Deum. Ergo fide indigebant.

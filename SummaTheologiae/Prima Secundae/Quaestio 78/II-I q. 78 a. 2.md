@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod non omnis qui peccat ex habitu, peccet 
 *Praeterea, actus ex habitu procedentes sunt similes actibus ex quibus habitus generantur*, ut dicitur in II Ethic. Sed actus praecedentes habitum vitiosum non sunt ex certa malitia. Ergo etiam peccata quae sunt ex habitu, non sunt ex certa malitia.
 
 ###### arg. 3
-Praeterea, in his quae aliquis ex certa malitia committit, gaudet postquam commisit, secundum illud Prov. II, *qui laetantur cum male fecerint et exultant in rebus pessimis*. Et hoc ideo, quia unicuique est delectabile cum consequitur id quod intendit, et qui operatur quod est ei quodammodo connaturale secundum habitum. Sed illi qui peccant ex habitu, post peccatum commissum dolent, poenitudine enim replentur pravi, idest habentes habitum vitiosum, ut dicitur in IX Ethic. Ergo peccata quae sunt ex habitu, non sunt ex certa malitia.
+Praeterea, in his quae aliquis ex certa malitia committit, gaudet postquam commisit, secundum illud [[Pr 2]], *qui laetantur cum male fecerint et exultant in rebus pessimis*. Et hoc ideo, quia unicuique est delectabile cum consequitur id quod intendit, et qui operatur quod est ei quodammodo connaturale secundum habitum. Sed illi qui peccant ex habitu, post peccatum commissum dolent, poenitudine enim replentur pravi, idest habentes habitum vitiosum, ut dicitur in IX Ethic. Ergo peccata quae sunt ex habitu, non sunt ex certa malitia.
 
 ###### s. c.
 Sed contra, peccatum ex certa malitia dicitur esse quod est ex electione mali. Sed unicuique est eligibile id ad quod inclinatur per proprium habitum; ut dicitur in VI Ethic. de habitu virtuoso. Ergo peccatum quod est ex habitu, est ex certa malitia.

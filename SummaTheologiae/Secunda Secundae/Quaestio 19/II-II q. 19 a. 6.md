@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod timor servilis non remaneat cum caritate. Dicit enim Augustinus, super Prim. Canonic. Ioan., quod *cum coeperit caritas habitare, pellitur timor, qui ei praeparavit locum.*
 
 ###### arg. 2
-Praeterea, caritas Dei diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis, ut dicitur Rom. V. *Sed ubi spiritus domini, ibi libertas*, ut habetur II ad Cor. III. Cum ergo libertas excludat servitutem, videtur quod timor servilis expellatur caritate adveniente.
+Praeterea, caritas Dei diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis, ut dicitur [[Rm 5]]. *Sed ubi spiritus domini, ibi libertas*, ut habetur II ad Cor. III. Cum ergo libertas excludat servitutem, videtur quod timor servilis expellatur caritate adveniente.
 
 ###### arg. 3
 Praeterea, timor servilis ex amore sui causatur, inquantum poena diminuit proprium bonum. Sed amor Dei expellit amorem sui, facit enim contemnere seipsum, ut patet ex auctoritate Augustini, XIV de Civ. Dei, quod *amor Dei usque ad contemptum sui facit civitatem Dei*. Ergo videtur quod veniente caritate timor servilis tollatur.

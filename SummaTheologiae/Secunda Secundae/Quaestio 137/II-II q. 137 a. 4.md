@@ -4,10 +4,10 @@
 Ad quartum sic proceditur. Videtur quod perseverantia non indigeat auxilio gratiae. Perseverantia enim est quaedam virtus, ut dictum est. Sed virtus, ut Tullius dicit, in sua rhetorica, agit in modum naturae. Ergo sola inclinatio virtutis sufficit ad perseverandum. Non ergo ad hoc requiritur aliud auxilium gratiae.
 
 ###### arg. 2
-Praeterea, donum gratiae Christi est maius quam nocumentum quod Adam intulit, ut patet Rom. V. Sed ante peccatum homo sic conditus fuit ut posset perseverare per id quod acceperat, sicut Augustinus dicit, in libro de Corrept. et gratia. Ergo multo magis homo per gratiam Christi reparatus, potest perseverare absque auxilio novae gratiae.
+Praeterea, donum gratiae Christi est maius quam nocumentum quod Adam intulit, ut patet [[Rm 5]]. Sed ante peccatum homo sic conditus fuit ut posset perseverare per id quod acceperat, sicut Augustinus dicit, in libro de Corrept. et gratia. Ergo multo magis homo per gratiam Christi reparatus, potest perseverare absque auxilio novae gratiae.
 
 ###### arg. 3
-Praeterea, opera peccati quandoque sunt difficiliora quam opera virtutis, unde ex persona impiorum dicitur Sap. V, ambulavimus vias difficiles. Sed aliqui perseverant in operibus peccati absque alterius auxilio. Ergo etiam in operibus virtutum potest homo perseverare absque auxilio gratiae.
+Praeterea, opera peccati quandoque sunt difficiliora quam opera virtutis, unde ex persona impiorum dicitur [[Sg 5]], ambulavimus vias difficiles. Sed aliqui perseverant in operibus peccati absque alterius auxilio. Ergo etiam in operibus virtutum potest homo perseverare absque auxilio gratiae.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de perseverantia, *asserimus donum Dei esse perseverantiam, qua usque in finem perseveratur in Christo*.

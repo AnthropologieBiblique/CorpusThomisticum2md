@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod gratia inconvenienter dividatur in praevenientem et subsequentem. Gratia enim est divinae dilectionis effectus. Sed Dei dilectio nunquam est subsequens, sed semper praeveniens; secundum illud I Ioan. IV, *non quasi nos dilexerimus Deum, sed quia ipse prior dilexit nos*. Ergo gratia non debet poni praeveniens et subsequens.
+Ad tertium sic proceditur. Videtur quod gratia inconvenienter dividatur in praevenientem et subsequentem. Gratia enim est divinae dilectionis effectus. Sed Dei dilectio nunquam est subsequens, sed semper praeveniens; secundum illud [[1 Jn 4]], *non quasi nos dilexerimus Deum, sed quia ipse prior dilexit nos*. Ergo gratia non debet poni praeveniens et subsequens.
 
 ###### arg. 2
 Praeterea, gratia gratum faciens est una tantum in homine, cum sit sufficiens, secundum illud II ad Cor. XII, *sufficit tibi gratia mea*. Sed idem non potest esse prius et posterius. Ergo gratia inconvenienter dividitur in praevenientem et subsequentem.

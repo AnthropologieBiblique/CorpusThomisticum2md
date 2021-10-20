@@ -4,10 +4,10 @@
 Ad primum sic proceditur. Videtur quod de prudentia fuerit dandum aliquod praeceptum inter praecepta Decalogi. De principaliori enim virtute principaliora praecepta dari debent. Sed principaliora praecepta legis sunt praecepta Decalogi. Cum ergo prudentia sit principalior inter virtutes morales, videtur quod de prudentia fuerit dandum aliquod praeceptum inter praecepta Decalogi.
 
 ###### arg. 2
-Praeterea, in doctrina evangelica continetur lex maxime quantum ad praecepta Decalogi. Sed in doctrina evangelica datur praeceptum de prudentia, ut patet Matth. X, *estote prudentes sicut serpentes*. Ergo inter praecepta Decalogi debuit praecipi actus prudentiae.
+Praeterea, in doctrina evangelica continetur lex maxime quantum ad praecepta Decalogi. Sed in doctrina evangelica datur praeceptum de prudentia, ut patet [[Mt 10]], *estote prudentes sicut serpentes*. Ergo inter praecepta Decalogi debuit praecipi actus prudentiae.
 
 ###### arg. 3
-Praeterea, alia documenta veteris testamenti ad praecepta Decalogi ordinantur, unde et Malach. ult. dicitur, *mementote legis Moysi, servi mei, quam mandavi ei in Horeb*. Sed in aliis documentis veteris testamenti dantur praecepta de prudentia, sicut Prov. III, *ne innitaris prudentiae tuae*; et infra, IV cap., *palpebrae tuae praecedant gressus tuos*. Ergo et in lege debuit aliquod praeceptum de prudentia dari, et praecipue inter praecepta Decalogi.
+Praeterea, alia documenta veteris testamenti ad praecepta Decalogi ordinantur, unde et Malach. ult. dicitur, *mementote legis Moysi, servi mei, quam mandavi ei in Horeb*. Sed in aliis documentis veteris testamenti dantur praecepta de prudentia, sicut [[Pr 3]], *ne innitaris prudentiae tuae*; et infra, IV cap., *palpebrae tuae praecedant gressus tuos*. Ergo et in lege debuit aliquod praeceptum de prudentia dari, et praecipue inter praecepta Decalogi.
 
 ###### s. c.
 Sed contrarium patet enumeranti praecepta Decalogi.

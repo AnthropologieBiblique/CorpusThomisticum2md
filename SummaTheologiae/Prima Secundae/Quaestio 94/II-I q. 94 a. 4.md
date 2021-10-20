@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod lex naturae non sit una apud omnes. Dicitur enim in decretis, dist. I, quod *ius naturale est quod in lege et in Evangelio continetur*. Sed hoc non est commune omnibus, quia, ut dicitur Rom. X, *non omnes obediunt Evangelio*. Ergo lex naturalis non est una apud omnes.
+Ad quartum sic proceditur. Videtur quod lex naturae non sit una apud omnes. Dicitur enim in decretis, dist. I, quod *ius naturale est quod in lege et in Evangelio continetur*. Sed hoc non est commune omnibus, quia, ut dicitur [[Rm 10]], *non omnes obediunt Evangelio*. Ergo lex naturalis non est una apud omnes.
 
 ###### arg. 2
 Praeterea, ea quae sunt secundum legem, iusta esse dicuntur, ut dicitur in V Ethic. Sed in eodem libro dicitur quod nihil est ita iustum apud omnes, quin apud aliquos diversificetur. Ergo lex etiam naturalis non est apud omnes eadem.

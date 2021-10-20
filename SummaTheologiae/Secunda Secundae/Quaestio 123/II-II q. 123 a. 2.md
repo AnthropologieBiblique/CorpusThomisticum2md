@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod fortitudo non sit specialis virtus. Dicitur enim Sap. VIII, quod sapientia sobrietatem et prudentiam docet, iustitiam et virtutem, et ponitur ibi virtus pro fortitudine. Cum ergo nomen virtutis sit commune omnibus virtutibus, videtur quod fortitudo sit generalis virtus.
+Ad secundum sic proceditur. Videtur quod fortitudo non sit specialis virtus. Dicitur enim [[Sg 8]], quod sapientia sobrietatem et prudentiam docet, iustitiam et virtutem, et ponitur ibi virtus pro fortitudine. Cum ergo nomen virtutis sit commune omnibus virtutibus, videtur quod fortitudo sit generalis virtus.
 
 ###### arg. 2
 Praeterea, Ambrosius dicit, in I de Offic., *non mediocris animi est fortitudo, quae sola defendit ornamenta virtutum omnium, et iudicia custodit; et quae inexpiabili praelio adversus omnia vitia decertat. Invicta ad labores, fortis ad pericula, rigidior adversus voluptates, avaritiam fugat tanquam labem quandam quae virtutem effeminet*. Et idem postea subdit de aliis vitiis. Hoc autem non potest convenire alicui speciali virtuti. Ergo fortitudo non est specialis virtus.

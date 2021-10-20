@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod in Christo non sit alia scientia indita, praeter scientiam beatam. Omnis enim alia scientia creata comparatur ad scientiam beatam sicut imperfectum ad perfectum. Sed, praesente perfecta cognitione, excluditur cognitio imperfecta, sicut manifesta visio faciei excludit aenigmaticam visionem fidei ut patet I Cor. XIII. Cum igitur in Christo fuerit scientia beata, ut dictum est, videtur quod non potuerit in eo alia esse scientia indita.
+Ad tertium sic proceditur. Videtur quod in Christo non sit alia scientia indita, praeter scientiam beatam. Omnis enim alia scientia creata comparatur ad scientiam beatam sicut imperfectum ad perfectum. Sed, praesente perfecta cognitione, excluditur cognitio imperfecta, sicut manifesta visio faciei excludit aenigmaticam visionem fidei ut patet [[1 Co 13]]. Cum igitur in Christo fuerit scientia beata, ut dictum est, videtur quod non potuerit in eo alia esse scientia indita.
 
 ###### arg. 2
 Praeterea, imperfectior modus cognitionis disponit ad perfectiorem sicut opinio, quae est per syllogismum dialecticum, disponit ad scientiam, quae est per syllogismum demonstrativum. Habita autem perfectione, non est ulterius necessaria dispositio, sicut, habito termino, non est necessarius motus. Cum igitur cognitio quaecumque alia creata comparetur ad cognitionem beatam sicut imperfectum ad perfectum, et sicut dispositio ad terminum, videtur quod, cum Christus habuerit cognitionem beatam, quod non fuerit ei necessarium habere aliam cognitionem.
@@ -10,7 +10,7 @@ Praeterea, imperfectior modus cognitionis disponit ad perfectiorem sicut opinio,
 Praeterea, sicut materia corporalis est in potentia ad formam sensibilem, ita intellectus possibilis est in potentia ad formam intelligibilem. Sed materia corporalis non potest simul recipere duas formas sensibiles, unam perfectiorem et aliam minus perfectam. Ergo nec anima potest simul recipere duplicem scientiam, unam perfectiorem et aliam minus perfectam. Et sic idem quod prius.
 
 ###### s. c.
-Sed contra est quod dicitur Coloss. II, quod *in Christo sunt omnes thesauri sapientiae et scientiae absconditi*.
+Sed contra est quod dicitur [[Col 2]], quod *in Christo sunt omnes thesauri sapientiae et scientiae absconditi*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, decebat quod natura humana assumpta a verbo Dei, imperfecta non esset. Omne autem quod est in potentia, est imperfectum nisi reducatur ad actum. Intellectus autem possibilis humanus est in potentia ad omnia intelligibilia. Reducitur autem ad actum per species intelligibiles, quae sunt formae quaedam completivae ipsius, ut patet ex his quae dicuntur in III de anima. Et ideo oportet in Christo scientiam ponere inditam, inquantum per verbum Dei animae Christi, sibi personaliter unitae, impressae sunt species intelligibiles ad omnia ad quae est intellectus possibilis in potentia, sicut etiam per verbum Dei impressae sunt species intelligibiles menti angelicae in principio creationis rerum, ut patet per Augustinum, super Gen. ad Litt. Et ideo, sicut in Angelis, secundum eundem Augustinum, ponitur duplex cognitio, una scilicet matutina, per quam cognoscunt res in verbo, et alia vespertina, per quam cognoscunt res in propria natura per species sibi inditas; ita, praeter scientiam divinam increatam, est in Christo, secundum eius animam, scientia beata, qua cognoscit verbum et res in verbo; et scientia indita sive infusa, per quam cognoscit res in propria natura per species intelligibiles humanae menti proportionatas.

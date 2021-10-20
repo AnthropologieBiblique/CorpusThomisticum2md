@@ -34,5 +34,5 @@ Ad tertium dicendum quod illi qui sunt in Purgatorio, etsi sint superiores nobis
 Ad quartum dicendum quod Deus vult inferiora per omnia superiora iuvari. Et ideo oportet non solum superiores, sed etiam inferiores sanctos implorare. Alioquin esset solius Dei misericordia imploranda. Contingit tamen quandoque quod imploratio inferioris sancti efficacior est, vel quia devotius implorantur; vel quia Deus vult eorum sanctitatem declarare.
 
 ###### ad 5
-Ad quintum dicendum quod quia sancti viventes meruerunt ut pro nobis orarent, ideo eos invocamus nominibus quibus hic vocabantur, quibus etiam nobis magis innotescunt. Et iterum propter fidem resurrectionis insinuandam, sicut legitur Exod. III, *ego sum Deus Abraham,* et cetera.
+Ad quintum dicendum quod quia sancti viventes meruerunt ut pro nobis orarent, ideo eos invocamus nominibus quibus hic vocabantur, quibus etiam nobis magis innotescunt. Et iterum propter fidem resurrectionis insinuandam, sicut legitur [[Ex 3]], *ego sum Deus Abraham,* et cetera.
 

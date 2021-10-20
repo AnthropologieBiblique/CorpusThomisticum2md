@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod Deus non sit summum bonum. Summum enim bonum addit aliquid supra bonum, alioquin omni bono conveniret. Sed omne quod se habet ex additione ad aliquid, est compositum. Ergo summum bonum est compositum. Sed Deus est summe simplex, ut supra ostensum est. Ergo Deus non est summum bonum.
 
 ###### arg. 2
-*Praeterea, bonum est quod omnia appetunt*, ut dicit philosophus. Sed nihil aliud est quod omnia appetunt, nisi solus Deus, qui est finis omnium. Ergo nihil aliud est bonum nisi Deus. Quod etiam videtur per id quod dicitur Matth. XIX, *nemo bonus nisi solus Deus*. Sed summum dicitur in comparatione aliorum; sicut summum calidum in comparatione ad omnia calida. Ergo Deus non potest dici summum bonum.
+*Praeterea, bonum est quod omnia appetunt*, ut dicit philosophus. Sed nihil aliud est quod omnia appetunt, nisi solus Deus, qui est finis omnium. Ergo nihil aliud est bonum nisi Deus. Quod etiam videtur per id quod dicitur [[Mt 19]], *nemo bonus nisi solus Deus*. Sed summum dicitur in comparatione aliorum; sicut summum calidum in comparatione ad omnia calida. Ergo Deus non potest dici summum bonum.
 
 ###### arg. 3
 Praeterea, summum comparationem importat. Sed quae non sunt unius generis, non sunt comparabilia; sicut dulcedo inconvenienter dicitur maior vel minor quam linea. Cum igitur Deus non sit in eodem genere cum aliis bonis, ut ex superioribus patet, videtur quod Deus non possit dici summum bonum respectu eorum.

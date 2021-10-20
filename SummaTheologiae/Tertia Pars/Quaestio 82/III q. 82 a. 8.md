@@ -19,7 +19,7 @@ Respondeo dicendum quod potestas consecrandi Eucharistiam pertinet ad charactere
 Ad primum ergo dicendum quod canon ille non loquitur assertive, sed inquisitive, sicut ex circumstantia litterae haberi potest.
 
 ###### ad 2
-Ad secundum dicendum quod episcopus non dat potestatem sacerdotalis ordinis propria virtute, sed instrumentaliter, sicut minister Dei, cuius effectus per hominem tolli non potest, secundum illud Matth. XIX, *quos Deus coniunxit, homo non separet*. Et ideo episcopus non potest hanc potestatem auferre, sicut nec ille qui baptizat potest auferre characterem baptismalem.
+Ad secundum dicendum quod episcopus non dat potestatem sacerdotalis ordinis propria virtute, sed instrumentaliter, sicut minister Dei, cuius effectus per hominem tolli non potest, secundum illud [[Mt 19]], *quos Deus coniunxit, homo non separet*. Et ideo episcopus non potest hanc potestatem auferre, sicut nec ille qui baptizat potest auferre characterem baptismalem.
 
 ###### ad 3
 Ad tertium dicendum quod excommunicatio est medicinalis. Et ideo excommunicatis non aufertur executio sacerdotalis potestatis quasi in perpetuum, sed ad correctionem, usque ad tempus. Degradatis autem aufertur executio quasi in perpetuum condemnatis.

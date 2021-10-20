@@ -1,10 +1,10 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod ad iustificationem impii non requiratur motus liberi arbitrii in peccatum. Sola enim caritas sufficit ad deletionem peccati, secundum illud Prov. X, *universa delicta operit caritas*. Sed caritatis obiectum non est peccatum. Ergo non requiritur ad iustificationem impii motus liberi arbitrii in peccatum.
+Ad quintum sic proceditur. Videtur quod ad iustificationem impii non requiratur motus liberi arbitrii in peccatum. Sola enim caritas sufficit ad deletionem peccati, secundum illud [[Pr 10]], *universa delicta operit caritas*. Sed caritatis obiectum non est peccatum. Ergo non requiritur ad iustificationem impii motus liberi arbitrii in peccatum.
 
 ###### arg. 2
-Praeterea, qui in anteriora tendit, ad posteriora respicere non debet; secundum illud apostoli, ad Philipp. III, *quae quidem retro sunt obliviscens, ad ea vero quae sunt priora extendens meipsum, ad destinatum persequor bravium supernae vocationis*. Sed tendenti in iustitiam retrorsum sunt peccata praeterita. Ergo eorum debet oblivisci, nec in ea se debet extendere per motum liberi arbitrii.
+Praeterea, qui in anteriora tendit, ad posteriora respicere non debet; secundum illud apostoli, ad [[Ph 3]], *quae quidem retro sunt obliviscens, ad ea vero quae sunt priora extendens meipsum, ad destinatum persequor bravium supernae vocationis*. Sed tendenti in iustitiam retrorsum sunt peccata praeterita. Ergo eorum debet oblivisci, nec in ea se debet extendere per motum liberi arbitrii.
 
 ###### arg. 3
 Praeterea, in iustificatione impii non remittitur unum peccatum sine alio, impium enim est a Deo dimidiam sperare veniam. Si igitur in iustificatione impii oporteat liberum arbitrium moveri contra peccatum, oporteret quod de omnibus peccatis suis cogitaret. Quod videtur inconveniens, tum quia requireretur magnum tempus ad huiusmodi cogitationem; tum etiam quia peccatorum quorum est homo oblitus, veniam habere non posset. Ergo motus liberi arbitrii in peccatum non requiritur ad iustificationem impii.

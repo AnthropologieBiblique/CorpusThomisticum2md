@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod ille qui vovet religionem ingredi, teneatur perpetuo in religione permanere. Melius est enim religionem non ingredi quam post ingressum exire, secundum illud II Pet. II, *melius erat illis veritatem non cognoscere quam post agnitam retroire*. Et Luc. IX dicitur, *nemo mittens manum ad aratrum et aspiciens retro, aptus est regno Dei*. Sed ille qui voto se obligavit ad religionis ingressum, tenetur ingredi, ut dictum est. Ergo etiam tenetur perpetuo remanere.
+Ad quartum sic proceditur. Videtur quod ille qui vovet religionem ingredi, teneatur perpetuo in religione permanere. Melius est enim religionem non ingredi quam post ingressum exire, secundum illud [[2 P 2]], *melius erat illis veritatem non cognoscere quam post agnitam retroire*. Et [[Lc 9]] dicitur, *nemo mittens manum ad aratrum et aspiciens retro, aptus est regno Dei*. Sed ille qui voto se obligavit ad religionis ingressum, tenetur ingredi, ut dictum est. Ergo etiam tenetur perpetuo remanere.
 
 ###### arg. 2
 Praeterea, quilibet debet vitare id ex quo scandalum sequitur et aliis datur malum exemplum. Sed ex hoc quod aliquis, post religionis ingressum, egreditur et ad saeculum redit, malum exemplum et scandalum aliis generatur, qui retrahuntur ab ingressu et provocantur ad exitum. Ergo videtur quod ille qui ingreditur religionem ut votum impleat quod prius fecit, teneatur ibi perpetuo remanere.

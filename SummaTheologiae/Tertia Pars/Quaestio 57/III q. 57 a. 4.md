@@ -7,16 +7,16 @@ Ad quartum sic proceditur. Videtur quod Christus non ascenderit super omnes cael
 Praeterea, duo corpora non possunt esse in eodem loco. Cum igitur non sit transitus de extremo in extremum nisi per medium, videtur quod Christus non potuisset ascendere super omnes caelos nisi caelum divideretur. Quod est impossibile.
 
 ###### arg. 3
-Praeterea, Act. I dicitur quod *nubes suscepit eum ab oculis eorum*. Sed nubes non possunt elevari supra caelum. Ergo Christus non ascendit super omnes caelos.
+Praeterea, [[Ac 1]] dicitur quod *nubes suscepit eum ab oculis eorum*. Sed nubes non possunt elevari supra caelum. Ergo Christus non ascendit super omnes caelos.
 
 ###### arg. 4
 Praeterea, ibi credimus Christum in perpetuum permansurum quo ascendit. Sed quod contra naturam est, non potest esse sempiternum, quia id quod est secundum naturam, est ut in pluribus et frequentius. Cum ergo contra naturam sit corpori terreno esse supra caelum, videtur quod corpus Christi supra caelum non ascenderit.
 
 ###### s. c.
-Sed contra est quod dicitur Ephes. IV, *ascendit super omnes caelos, ut adimpleret omnia*.
+Sed contra est quod dicitur [[Ep 4]], *ascendit super omnes caelos, ut adimpleret omnia*.
 
 ###### co.
-Respondeo dicendum quod, quanto aliqua corpora perfectius participant bonitatem divinam, tanto sunt superiora corporali ordine, qui est ordo localis. Unde videmus quod corpora quae sunt magis formalia, sunt naturaliter superiora, ut patet per philosophum, in IV Physic., et in II de caelo, per formam enim unumquodque corpus participat divinum esse, ut patet in I Physic. Plus autem participat de divina bonitate corpus per gloriam quam quodcumque corpus naturale per formam suae naturae. Et inter cetera corpora gloriosa, manifestum est quod corpus Christi maiori refulget gloria. Unde convenientissimum est sibi quod sit supra omnia corpora constitutum in alto. Et ideo, super illud Ephes. IV, *ascendens in altum*, dicit Glossa, *loco et dignitate*.
+Respondeo dicendum quod, quanto aliqua corpora perfectius participant bonitatem divinam, tanto sunt superiora corporali ordine, qui est ordo localis. Unde videmus quod corpora quae sunt magis formalia, sunt naturaliter superiora, ut patet per philosophum, in IV Physic., et in II de caelo, per formam enim unumquodque corpus participat divinum esse, ut patet in I Physic. Plus autem participat de divina bonitate corpus per gloriam quam quodcumque corpus naturale per formam suae naturae. Et inter cetera corpora gloriosa, manifestum est quod corpus Christi maiori refulget gloria. Unde convenientissimum est sibi quod sit supra omnia corpora constitutum in alto. Et ideo, super illud [[Ep 4]], *ascendens in altum*, dicit Glossa, *loco et dignitate*.
 
 ###### ad 1
 Ad primum ergo dicendum quod sedes Dei dicitur esse in caelo, non sicut in continente, sed magis sicut in contento. Unde non oportet aliquam partem caeli eo superiorem esse, sed ipsum esse super omnes caelos, sicut et in Psalmo dicitur, *elevata est magnificentia tua super caelos, Deus*.

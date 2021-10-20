@@ -1,10 +1,10 @@
 ### Articulus 9
 
 ###### arg. 1
-Ad nonum sic proceditur. Videtur quod inconvenienter articuli fidei in symbolo ponantur. Sacra enim Scriptura est regula fidei, cui nec addere nec subtrahere licet, dicitur enim Deut. IV, *non addetis ad verbum quod vobis loquor, neque auferetis ab eo*. Ergo illicitum fuit aliquod symbolum constituere quasi regulam fidei, post sacram Scripturam editam.
+Ad nonum sic proceditur. Videtur quod inconvenienter articuli fidei in symbolo ponantur. Sacra enim Scriptura est regula fidei, cui nec addere nec subtrahere licet, dicitur enim [[Dt 4]], *non addetis ad verbum quod vobis loquor, neque auferetis ab eo*. Ergo illicitum fuit aliquod symbolum constituere quasi regulam fidei, post sacram Scripturam editam.
 
 ###### arg. 2
-Praeterea, sicut apostolus dicit, ad Ephes. IV, *una est fides*. Sed symbolum est professio fidei. Ergo inconvenienter traditur multiplex symbolum.
+Praeterea, sicut apostolus dicit, ad [[Ep 4]], *una est fides*. Sed symbolum est professio fidei. Ergo inconvenienter traditur multiplex symbolum.
 
 ###### arg. 3
 Praeterea, confessio fidei quae in symbolo continetur pertinet ad omnes fideles. Sed non omnibus fidelibus convenit credere in Deum, sed solum illis qui habent fidem formatam. Ergo inconvenienter symbolum fidei traditur sub hac forma verborum, *credo in unum Deum*.
@@ -13,13 +13,13 @@ Praeterea, confessio fidei quae in symbolo continetur pertinet ad omnes fideles.
 Praeterea, descensus ad Inferos est unus de articulis fidei, sicut supra dictum est. Sed in symbolo patrum non fit mentio de descensu ad Inferos. Ergo videtur insufficienter collectum.
 
 ###### arg. 5
-Praeterea, sicut Augustinus dicit, exponens illud Ioan. XIV, *creditis in Deum, et in me credite*, Petro aut Paulo credimus, sed non dicimur credere nisi in Deum. Cum igitur Ecclesia Catholica sit pure aliquid creatum, videtur quod inconvenienter dicatur, *in unam sanctam, Catholicam et apostolicam Ecclesiam*.
+Praeterea, sicut Augustinus dicit, exponens illud [[Jn 14]], *creditis in Deum, et in me credite*, Petro aut Paulo credimus, sed non dicimur credere nisi in Deum. Cum igitur Ecclesia Catholica sit pure aliquid creatum, videtur quod inconvenienter dicatur, *in unam sanctam, Catholicam et apostolicam Ecclesiam*.
 
 ###### arg. 6
 Praeterea, symbolum ad hoc traditur ut sit regula fidei. Sed regula fidei debet omnibus proponi et publice. Quodlibet igitur symbolum deberet in Missa cantari, sicut symbolum patrum. Non videtur ergo esse conveniens editio articulorum fidei in symbolo.
 
 ###### s. c.
-Sed contra est quod Ecclesia universalis non potest errare, quia spiritu sancto gubernatur, qui est spiritus veritatis, hoc enim promisit dominus discipulis, Ioan. XVI, dicens, *cum venerit ille spiritus veritatis, docebit vos omnem veritatem*. Sed symbolum est auctoritate universalis Ecclesiae editum. Nihil ergo inconveniens in eo continetur.
+Sed contra est quod Ecclesia universalis non potest errare, quia spiritu sancto gubernatur, qui est spiritus veritatis, hoc enim promisit dominus discipulis, [[Jn 16]], dicens, *cum venerit ille spiritus veritatis, docebit vos omnem veritatem*. Sed symbolum est auctoritate universalis Ecclesiae editum. Nihil ergo inconveniens in eo continetur.
 
 ###### co.
 Respondeo dicendum quod, sicut apostolus dicit, ad Heb. XI, *accedentem ad Deum oportet credere*. Credere autem non potest aliquis nisi ei veritas quam credat proponatur. Et ideo necessarium fuit veritatem fidei in unum colligi, ut facilius posset omnibus proponi, ne aliquis per ignorantiam a fidei veritate deficeret. Et ab huiusmodi collectione sententiarum fidei nomen symboli est acceptum.

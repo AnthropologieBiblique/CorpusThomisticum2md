@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod fidei possit subesse falsum. Fides enim condividitur spei et caritati. Sed spei potest aliquid subesse falsum, multi enim sperant se habituros vitam aeternam qui non habebunt. Similiter etiam et caritati, multi enim diliguntur tanquam boni qui tamen boni non sunt. Ergo etiam fidei potest aliquid subesse falsum.
 
 ###### arg. 2
-Praeterea, Abraham credidit Christum nasciturum, secundum illud Ioan. VIII, *Abraham, pater vester, exultavit ut videret diem meum*. Sed post tempus Abrahae Deus poterat non incarnari, sola enim sua voluntate carnem accepit, et ita esset falsum quod Abraham de Christo credidit. Ergo fidei potest subesse falsum.
+Praeterea, Abraham credidit Christum nasciturum, secundum illud [[Jn 8]], *Abraham, pater vester, exultavit ut videret diem meum*. Sed post tempus Abrahae Deus poterat non incarnari, sola enim sua voluntate carnem accepit, et ita esset falsum quod Abraham de Christo credidit. Ergo fidei potest subesse falsum.
 
 ###### arg. 3
 Praeterea, fides antiquorum fuit quod Christus esset nasciturus, et haec fides duravit in multis usque ad praedicationem Evangelii. Sed Christo iam nato, antequam praedicare inciperet, falsum erat Christum nasciturum. Ergo fidei potest subesse falsum.

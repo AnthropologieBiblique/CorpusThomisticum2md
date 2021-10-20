@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod avaritia sit maximum peccatorum. Dicitur enim Eccli. X, *avaro nihil est scelestius*; et postea subditur, *nihil est iniquius quam amare pecuniam, hic enim et animam suam venalem habet*. Et Tullius dicit, in I de Offic., *nihil est tam angusti animi, tamque parvi, quam amare pecuniam*. Sed hoc pertinet ad avaritiam. Ergo avaritia est gravissimum peccatorum.
+Ad quintum sic proceditur. Videtur quod avaritia sit maximum peccatorum. Dicitur enim [[Si 10]], *avaro nihil est scelestius*; et postea subditur, *nihil est iniquius quam amare pecuniam, hic enim et animam suam venalem habet*. Et Tullius dicit, in I de Offic., *nihil est tam angusti animi, tamque parvi, quam amare pecuniam*. Sed hoc pertinet ad avaritiam. Ergo avaritia est gravissimum peccatorum.
 
 ###### arg. 2
 Praeterea, tanto aliquod peccatum est gravius quanto magis caritati contrariatur. Sed avaritia maxime contrariatur caritati, dicit enim Augustinus, in libro octoginta trium quaest., quod *venenum caritatis est cupiditas*. Ergo avaritia est maximum peccatorum.
@@ -10,10 +10,10 @@ Praeterea, tanto aliquod peccatum est gravius quanto magis caritati contrariatur
 Praeterea, ad gravitatem peccati pertinet quod sit incurabile, unde et peccatum in spiritum sanctum, quod est gravissimum, dicitur esse irremissibile. Sed avaritia est peccatum insanabile, ut dicit philosophus, in IV Ethic., quod *senectus et omnis impotentia illiberales facit*. Ergo avaritia est gravissimum peccatorum.
 
 ###### arg. 4
-Praeterea, apostolus dicit, ad Ephes. V, quod avaritia est idolorum servitus. Sed idololatria computatur inter gravissima peccata. Ergo et avaritia.
+Praeterea, apostolus dicit, ad [[Ep 5]], quod avaritia est idolorum servitus. Sed idololatria computatur inter gravissima peccata. Ergo et avaritia.
 
 ###### s. c.
-Sed contra est quod adulterium est gravius peccatum quam furtum, ut habetur Prov. VI. Furtum autem pertinet ad avaritiam. Ergo avaritia non est gravissimum peccatorum.
+Sed contra est quod adulterium est gravius peccatum quam furtum, ut habetur [[Pr 6]]. Furtum autem pertinet ad avaritiam. Ergo avaritia non est gravissimum peccatorum.
 
 ###### co.
 Respondeo dicendum quod omne peccatum, ex hoc ipso quod est malum, consistit in quadam corruptione seu privatione alicuius boni, inquantum autem est voluntarium, consistit in appetitu alicuius boni. Dupliciter ergo ordo peccatorum potest attendi. Uno modo, ex parte boni quod per peccatum contemnitur vel corrumpitur, quod quanto maius est, tanto peccatum gravius est. Et secundum hoc, peccatum quod est contra Deum est gravissimum; et sub hoc est peccatum quod est contra personam hominis; sub quo est peccatum quod est contra res exteriores quae sunt ad usum hominis deputatae, quod videtur ad avaritiam pertinere. Alio modo potest attendi gradus peccatorum ex parte boni cui inordinate subditur appetitus humanus, quod quanto minus est, tanto peccatum est deformius; turpius enim est subesse inferiori bono quam superiori. Bonum autem exteriorum rerum est infimum inter humana bona, est enim minus quam bonum corporis; quod etiam est minus quam bonum animae; quod etiam exceditur a bono divino. Et secundum hoc, peccatum avaritiae, quo appetitus humanus subiicitur etiam exterioribus rebus, habet quodammodo deformitatem maiorem. Quia tamen corruptio vel privatio boni formaliter se habet in peccato, conversio autem ad bonum commutabile materialiter; magis est iudicanda gravitas peccati ex parte boni quod corrumpitur quam ex parte boni cui subiicitur appetitus. Et ideo dicendum est quod avaritia non est simpliciter maximum peccatorum.

@@ -4,10 +4,10 @@
 Ad sextum sic proceditur. Videtur quod in Christo fuerit contrarietas voluntatum. Contrarietas enim voluntatum attenditur secundum contrarietatem obiectorum, sicut et contrarietas motuum attenditur secundum contrarietatem terminorum, ut patet per philosophum, in V Physic. Sed Christus secundum diversas voluntates contraria volebat, nam secundum voluntatem divinam volebat mortem, quam refugiebat secundum voluntatem humanam. Unde Athanasius dicit, in libro adversus Apollinarium, *quando Christus dixit, pater si possibile est, transeat a me calix iste, et tamen non mea, sed tua voluntas fiat, et iterum, spiritus promptus est, caro autem infirma, duas voluntates hic ostendit, humanam, quae propter infirmitatem carnis refugiebat passionem; et divinam eius, promptam ad passionem*. Ergo in Christo fuit contrarietas voluntatum.
 
 ###### arg. 2
-Praeterea, Galat. V dicitur quod *caro concupiscit adversus spiritum, et spiritus adversus carnem*. Est igitur contrarietas voluntatum quando spiritus concupiscit unum, et caro aliud. Sed hoc fuit in Christo, nam per voluntatem caritatis, quam spiritus sanctus in eius mente faciebat, volebat passionem, secundum illud Isaiae LIII, *oblatus est quia ipse voluit*; secundum autem carnem, passionem refugiebat. Ergo erat in eo contrarietas voluntatum.
+Praeterea, Galat. V dicitur quod *caro concupiscit adversus spiritum, et spiritus adversus carnem*. Est igitur contrarietas voluntatum quando spiritus concupiscit unum, et caro aliud. Sed hoc fuit in Christo, nam per voluntatem caritatis, quam spiritus sanctus in eius mente faciebat, volebat passionem, secundum illud [[Is 53]], *oblatus est quia ipse voluit*; secundum autem carnem, passionem refugiebat. Ergo erat in eo contrarietas voluntatum.
 
 ###### arg. 3
-Praeterea, Luc. XXII dicitur quod, *factus in agonia, prolixius orabat*. Sed agonia videtur importare quandam impugnationem animi in contraria tendentis. Ergo videtur quod in Christo fuerit contrarietas voluntatis.
+Praeterea, [[Lc 22]] dicitur quod, *factus in agonia, prolixius orabat*. Sed agonia videtur importare quandam impugnationem animi in contraria tendentis. Ergo videtur quod in Christo fuerit contrarietas voluntatis.
 
 ###### s. c.
 Sed contra est quod in determinatione sextae synodi dicitur, *praedicamus duas naturales voluntates, non contrarias, iuxta quod impii asserunt haeretici; sed sequentem humanam eius voluntatem, et non resistentem vel reluctantem, sed potius subiectam divinae eius atque omnipotenti voluntati*.

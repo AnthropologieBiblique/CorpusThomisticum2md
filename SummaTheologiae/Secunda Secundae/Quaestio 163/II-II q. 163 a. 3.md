@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod peccatum primorum parentum fuerit ceteris gravius. Dicit enim Augustinus, XIV de Civ. Dei, *magna fuit in peccando iniquitas, ubi tanta fuit in non peccando facilitas*. Sed primi parentes maximam habuerunt facilitatem ad non peccandum, quia nihil habebant intrinsecus quod eos ad peccandum impelleret. Ergo peccatum primorum parentum fuit ceteris gravius.
 
 ###### arg. 2
-Praeterea, poena proportionatur culpae. Sed peccatum primorum parentum gravissime est punitum, quia ex ipso mors introivit in hunc mundum, ut apostolus dicit, Rom. V. Ergo peccatum illud fuit gravius aliis peccatis.
+Praeterea, poena proportionatur culpae. Sed peccatum primorum parentum gravissime est punitum, quia ex ipso mors introivit in hunc mundum, ut apostolus dicit, [[Rm 5]]. Ergo peccatum illud fuit gravius aliis peccatis.
 
 ###### arg. 3
 Praeterea, primum in quolibet genere videtur esse maximum, ut dicitur in II Metaphys. Sed peccatum primorum parentum fuit primum inter alia peccata hominum. Ergo fuit maximum.

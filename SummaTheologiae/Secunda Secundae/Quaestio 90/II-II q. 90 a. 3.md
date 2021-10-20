@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod non liceat adiurare irrationalem creatur
 Praeterea, ad eum videtur competere adiuratio ad quem pertinet iuratio. Sed iuratio non pertinet ad creaturam irrationalem. Ergo videtur quod ad eam non liceat adiuratione uti.
 
 ###### arg. 3
-Praeterea, duplex est adiurationis modus, ut ex supradictis patet. Unus quidem per modum deprecationis, quo non possumus uti ad irrationalem creaturam, quae non est domina sui actus. Alia autem est adiuratio per modum compulsionis, qua etiam, ut videtur, ad eam uti non possumus; quia non est nostrum creaturis irrationalibus imperare, sed solum illius de quo dicitur, Matth. VIII, quia venti et mare obediunt ei. Ergo nullo modo, ut videtur, licet uti adiuratione ad irrationales creaturas.
+Praeterea, duplex est adiurationis modus, ut ex supradictis patet. Unus quidem per modum deprecationis, quo non possumus uti ad irrationalem creaturam, quae non est domina sui actus. Alia autem est adiuratio per modum compulsionis, qua etiam, ut videtur, ad eam uti non possumus; quia non est nostrum creaturis irrationalibus imperare, sed solum illius de quo dicitur, [[Mt 8]], quia venti et mare obediunt ei. Ergo nullo modo, ut videtur, licet uti adiuratione ad irrationales creaturas.
 
 ###### s. c.
 Sed contra est quod Simon et Iudas leguntur adiurasse dracones, et eis praecepisse ut in desertum locum discederent.

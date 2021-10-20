@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod tota bonitas et malitia actus exterioris dependeat ex voluntate. Dicitur enim Matth. VII, *non potest arbor bona malos fructus facere, nec arbor mala facere fructus bonos*. Per arborem autem intelligitur voluntas, et per fructum opus, secundum Glossam. Ergo non potest esse quod voluntas interior sit bona, et actus exterior sit malus; aut e converso.
+Ad secundum sic proceditur. Videtur quod tota bonitas et malitia actus exterioris dependeat ex voluntate. Dicitur enim [[Mt 7]], *non potest arbor bona malos fructus facere, nec arbor mala facere fructus bonos*. Per arborem autem intelligitur voluntas, et per fructum opus, secundum Glossam. Ergo non potest esse quod voluntas interior sit bona, et actus exterior sit malus; aut e converso.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in libro Retract., quod non nisi voluntate peccatur. Si ergo non sit peccatum in voluntate, non erit peccatum in exteriori actu. Et ita tota bonitas vel malitia exterioris actus ex voluntate dependet.

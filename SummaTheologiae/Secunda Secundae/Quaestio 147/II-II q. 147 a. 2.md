@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod ieiunium non sit actus abstinentiae. Quia super illud Matth. XVII, *hoc genus Daemoniorum* etc., dicit Hieronymus, *ieiunium est non solum ab escis, sed a cunctis illecebris abstinere*. Sed hoc pertinet ad omnem virtutem. Ergo ieiunium non est actus specialiter abstinentiae.
+Ad secundum sic proceditur. Videtur quod ieiunium non sit actus abstinentiae. Quia super illud [[Mt 17]], *hoc genus Daemoniorum* etc., dicit Hieronymus, *ieiunium est non solum ab escis, sed a cunctis illecebris abstinere*. Sed hoc pertinet ad omnem virtutem. Ergo ieiunium non est actus specialiter abstinentiae.
 
 ###### arg. 2
 Praeterea, Gregorius dicit, in homilia Quadragesimae, quod ieiunium quadragesimale est decima totius anni. Sed dare decimas est actus religionis, ut supra habitum est. Ergo ieiunium est actus religionis, et non abstinentiae.

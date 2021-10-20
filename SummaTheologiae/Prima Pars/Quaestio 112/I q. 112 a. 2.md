@@ -4,13 +4,13 @@
 Ad secundum sic proceditur. Videtur quod omnes Angeli in ministerium mittantur. Dicit enim apostolus, ad Heb. I, *omnes sunt administratorii spiritus, in ministerium missi*.
 
 ###### arg. 2
-Praeterea, inter ordines supremus est ordo Seraphim, ut ex supra dictis patet. Sed Seraphim est missus ad purgandum labia prophetae, ut habetur Isaiae VI. Ergo multo magis inferiores Angeli mittuntur.
+Praeterea, inter ordines supremus est ordo Seraphim, ut ex supra dictis patet. Sed Seraphim est missus ad purgandum labia prophetae, ut habetur [[Is 6]]. Ergo multo magis inferiores Angeli mittuntur.
 
 ###### arg. 3
 Praeterea, divinae personae in infinitum excedunt omnes ordines Angelorum. Sed divinae personae mittuntur, ut supra dictum est. Ergo multo magis quicumque supremi Angeli.
 
 ###### arg. 4
-Praeterea, si superiores Angeli non mittuntur ad exterius ministerium, hoc non est nisi quia superiores Angeli exequuntur divina ministeria per inferiores. Sed cum omnes Angeli sint inaequales, ut supra dictum est, quilibet Angelus habet inferiorem Angelum, praeter ultimum. Ergo unus Angelus solus ministraret in ministerium missus. Quod est contra id quod dicitur Daniel VII, *millia millium ministrabant ei*.
+Praeterea, si superiores Angeli non mittuntur ad exterius ministerium, hoc non est nisi quia superiores Angeli exequuntur divina ministeria per inferiores. Sed cum omnes Angeli sint inaequales, ut supra dictum est, quilibet Angelus habet inferiorem Angelum, praeter ultimum. Ergo unus Angelus solus ministraret in ministerium missus. Quod est contra id quod dicitur [[Dn 7]], *millia millium ministrabant ei*.
 
 ###### s. c.
 Sed contra est quod Gregorius dicit, referens sententiam Dionysii, *superiora agmina usum exterioris ministerii nequaquam habent*.

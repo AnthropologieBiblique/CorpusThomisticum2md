@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod dulia non sit specialis virtus a latria 
 Praeterea, secundum philosophum, in VIII Ethic., *amari simile est ei quod est honorari*. Sed eadem est virtus caritatis qua amatur Deus, et qua amatur proximus. Ergo dulia, qua honoratur proximus, non est alia virtus a latria, qua honoratur Deus.
 
 ###### arg. 3
-Praeterea, idem est motus quo aliquis movetur in imaginem, et in rem cuius est imago. Sed per duliam honoratur homo inquantum est ad Dei imaginem, dicitur enim Sap. II, de impiis quod *non iudicaverunt honorem animarum sanctarum, quoniam Deus creavit hominem inexterminabilem, et ad imaginem suae similitudinis fecit illum*. Ergo dulia non est alia virtus a latria, qua honoratur Deus.
+Praeterea, idem est motus quo aliquis movetur in imaginem, et in rem cuius est imago. Sed per duliam honoratur homo inquantum est ad Dei imaginem, dicitur enim [[Sg 2]], de impiis quod *non iudicaverunt honorem animarum sanctarum, quoniam Deus creavit hominem inexterminabilem, et ad imaginem suae similitudinis fecit illum*. Ergo dulia non est alia virtus a latria, qua honoratur Deus.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, X de Civ. Dei, quod *alia est servitus quae debetur hominibus, secundum quam praecepit apostolus servos dominis suis subditos esse, quae scilicet Graece dulia dicitur, alia vero latria, quae dicitur servitus pertinens ad colendum Deum*.

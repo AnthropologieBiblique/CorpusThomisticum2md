@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod Daemones non possint homines seducere per aliqua miracula vera. Operatio enim Daemonum maxime vigebit in operibus Antichristi. Sed sicut apostolus dicit II ad Thessal. II, *eius adventus est secundum operationem Satanae, in omni virtute et signis et prodigiis mendacibus*. Ergo multo magis alio tempore per Daemones non fiunt nisi signa mendacia.
+Ad quartum sic proceditur. Videtur quod Daemones non possint homines seducere per aliqua miracula vera. Operatio enim Daemonum maxime vigebit in operibus Antichristi. Sed sicut apostolus dicit II ad [[1 Th 2]], *eius adventus est secundum operationem Satanae, in omni virtute et signis et prodigiis mendacibus*. Ergo multo magis alio tempore per Daemones non fiunt nisi signa mendacia.
 
 ###### arg. 2
 Praeterea, vera miracula per aliquam corporum immutationem fiunt. Sed Daemones non possunt immutare corpus in aliam naturam, dicit enim Augustinus, XVIII de Civ. Dei, *nec corpus quidem humanum ulla ratione crediderim Daemonum arte vel potestate in membra bestialia posse converti*. Ergo Daemones vera miracula facere non possunt.

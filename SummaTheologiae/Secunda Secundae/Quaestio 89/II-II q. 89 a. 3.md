@@ -7,10 +7,10 @@ Ad tertium sic proceditur. Videtur quod inconvenienter ponantur tres comites iur
 Praeterea, multa alia requiruntur ad iuramentum, scilicet devotio, et fides, per quam credamus Deum omnia scire et mentiri non posse. Ergo videtur quod insufficienter enumerentur tres comites iuramenti.
 
 ###### arg. 3
-Praeterea, haec tria in quolibet opere humano inquirenda sunt, nihil enim debet fieri contra iustitiam aut veritatem, aut sine iudicio, secundum illud I ad Tim. V, *nihil facias sine praeiudicio*, idest sine praecedenti iudicio. Ergo haec tria non magis debent associari iuramento quam aliis humanis actibus.
+Praeterea, haec tria in quolibet opere humano inquirenda sunt, nihil enim debet fieri contra iustitiam aut veritatem, aut sine iudicio, secundum illud [[1 Tm 5]], *nihil facias sine praeiudicio*, idest sine praecedenti iudicio. Ergo haec tria non magis debent associari iuramento quam aliis humanis actibus.
 
 ###### s. c.
-Sed contra est quod dicitur Ierem. IV, *iurabis, vivit dominus, in veritate, in iudicio et in iustitia*, quod exponens Hieronymus dicit, *animadvertendum est quod iusiurandum hos habet comites, scilicet veritatem, iudicium et iustitiam*.
+Sed contra est quod dicitur [[Jr 4]], *iurabis, vivit dominus, in veritate, in iudicio et in iustitia*, quod exponens Hieronymus dicit, *animadvertendum est quod iusiurandum hos habet comites, scilicet veritatem, iudicium et iustitiam*.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, iuramentum non est bonum nisi ei qui bene utitur iuramento. Ad bonum autem usum iuramenti duo requiruntur. Primo quidem, quod aliquis non leviter, sed ex necessaria causa et discrete iuret. Et quantum ad hoc, requiritur iudicium, scilicet discretionis ex parte iurantis. Secundo, quantum ad id quod per iuramentum confirmatur, ut scilicet neque sit falsum, neque sit aliquid illicitum. Et quantum ad hoc, requiritur veritas, per quam aliquis iuramento confirmat quod verum est; et iustitia, per quam confirmat quod licitum est. Iudicio autem caret iuramentum incautum; veritate autem iuramentum mendax; iustitia autem iuramentum iniquum sive illicitum.

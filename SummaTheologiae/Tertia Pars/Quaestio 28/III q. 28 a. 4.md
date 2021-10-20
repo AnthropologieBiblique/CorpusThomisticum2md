@@ -1,13 +1,13 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod mater Dei virginitatem non voverit. Dicitur enim Deut. VII, *non erit apud te sterilis utriusque sexus*. Sterilitas autem sequitur virginitatem. Ergo servatio virginitatis erat contra praeceptum veteris legis. Sed adhuc lex vetus habebat statum antequam Christus nasceretur. Ergo non potuit licite beata virgo virginitatem vovere pro tempore illo.
+Ad quartum sic proceditur. Videtur quod mater Dei virginitatem non voverit. Dicitur enim [[Dt 7]], *non erit apud te sterilis utriusque sexus*. Sterilitas autem sequitur virginitatem. Ergo servatio virginitatis erat contra praeceptum veteris legis. Sed adhuc lex vetus habebat statum antequam Christus nasceretur. Ergo non potuit licite beata virgo virginitatem vovere pro tempore illo.
 
 ###### arg. 2
-Praeterea, apostolus, I Cor. VII, dicit, *de virginibus autem praeceptum domini non habeo, consilium autem do*. Sed perfectio consiliorum a Christo debuit inchoari, qui est finis legis, ut apostolus dicit, Rom. X. Non ergo conveniens fuit quod virgo votum virginitatis emitteret.
+Praeterea, apostolus, [[1 Co 7]], dicit, *de virginibus autem praeceptum domini non habeo, consilium autem do*. Sed perfectio consiliorum a Christo debuit inchoari, qui est finis legis, ut apostolus dicit, [[Rm 10]]. Non ergo conveniens fuit quod virgo votum virginitatis emitteret.
 
 ###### arg. 3
-Praeterea, Glossa Hieronymi dicit, I Tim. V, quod *voventibus virginitatem non solum nubere, sed etiam velle nubere damnabile est*. Sed mater Christi nullum peccatum damnabile commisit, ut supra habitum est. Cum ergo desponsata fuerit, ut habetur Luc. I, videtur quod ipsa virginitatis votum non emiserit.
+Praeterea, Glossa Hieronymi dicit, [[1 Tm 5]], quod *voventibus virginitatem non solum nubere, sed etiam velle nubere damnabile est*. Sed mater Christi nullum peccatum damnabile commisit, ut supra habitum est. Cum ergo desponsata fuerit, ut habetur [[Lc 1]], videtur quod ipsa virginitatis votum non emiserit.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de sancta virginitate, *annuntianti Angelo Maria respondit, quomodo fiet istud, quoniam virum non cognosco? Quod profecto non diceret, nisi se virginem Deo ante vovisset*.

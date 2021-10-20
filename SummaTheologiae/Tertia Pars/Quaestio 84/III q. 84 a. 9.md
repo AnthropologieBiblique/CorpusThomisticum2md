@@ -1,7 +1,7 @@
 ### Articulus 9
 
 ###### arg. 1
-Ad nonum sic proceditur. Videtur quod poenitentia non possit esse continua. Dicitur enim Ierem. XXXI, *quiescat vox tua a ploratu, et oculi tui a lacrimis*. Sed hoc esse non posset si poenitentia continuaretur, quae consistit in ploratu et lacrimis. Ergo poenitentia non potest continuari.
+Ad nonum sic proceditur. Videtur quod poenitentia non possit esse continua. Dicitur enim [[Jr 31]], *quiescat vox tua a ploratu, et oculi tui a lacrimis*. Sed hoc esse non posset si poenitentia continuaretur, quae consistit in ploratu et lacrimis. Ergo poenitentia non potest continuari.
 
 ###### arg. 2
 Praeterea, de quolibet bono opere debet homo gaudere, secundum illud Psalmi, *servite domino in laetitia*. Sed agere poenitentiam est bonum opus. Ergo de hoc ipso debet homo gaudere. Sed *non potest homo simul tristari et gaudere*, ut patet per philosophum, IX Ethic. Ergo non potest esse quod poenitens simul tristetur de peccatis praeteritis, quod pertinet ad rationem poenitentiae.

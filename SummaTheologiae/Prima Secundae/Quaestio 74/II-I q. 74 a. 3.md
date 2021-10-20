@@ -10,7 +10,7 @@ Ad tertium sic proceditur. Videtur quod in sensualitate non possit esse peccatum
 Praeterea, illud quod homo ipse non facit, non imputatur ei ad peccatum. Sed hoc solum videmur nos ipsi facere, quod cum deliberatione rationis facimus; ut philosophus dicit, in IX Ethic. Ergo motus sensualitatis qui est sine deliberatione rationis, non imputatur homini ad peccatum.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. VII, *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*, quod exponit Augustinus de malo concupiscentiae, quam constat esse motum quendam sensualitatis. Ergo in sensualitate est aliquod peccatum.
+Sed contra est quod dicitur [[Rm 7]], *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*, quod exponit Augustinus de malo concupiscentiae, quam constat esse motum quendam sensualitatis. Ergo in sensualitate est aliquod peccatum.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, peccatum potest inveniri in qualibet potentia cuius actus potest esse voluntarius et inordinatus, in quo consistit ratio peccati. Manifestum est autem quod actus sensualitatis potest esse voluntarius, inquantum sensualitas, idest appetitus sensitivus, nata est a voluntate moveri. Unde relinquitur quod in sensualitate possit esse peccatum.

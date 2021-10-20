@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod aliquis debeat restituere quod non abstu
 Praeterea, ille qui detinet pecuniam creditoris ultra terminum praefixum videtur eum damnificare in toto eo quod lucrari de pecunia posset. Quod tamen ipse non aufert. Ergo videtur quod aliquis teneatur restituere quod non abstulit.
 
 ###### arg. 3
-Praeterea, iustitia humana derivatur a iustitia divina. Sed Deo debet aliquis restituere plus quam ab eo accepit, secundum illud Matth. XXV, *sciebas quod meto ubi non semino, et congrego ubi non sparsi*. Ergo iustum est ut etiam restituat homini aliquid quod non accepit.
+Praeterea, iustitia humana derivatur a iustitia divina. Sed Deo debet aliquis restituere plus quam ab eo accepit, secundum illud [[Mt 25]], *sciebas quod meto ubi non semino, et congrego ubi non sparsi*. Ergo iustum est ut etiam restituat homini aliquid quod non accepit.
 
 ###### s. c.
 Sed contra est quod recompensatio ad iustitiam pertinet inquantum aequalitatem facit. Sed si aliquis restitueret quod non accepit, hoc non esset aequale. Ergo talis restitutio non est iustum quod fiat.

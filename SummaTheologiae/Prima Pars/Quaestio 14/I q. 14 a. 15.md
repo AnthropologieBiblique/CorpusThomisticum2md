@@ -10,7 +10,7 @@ Praeterea, quidquid potest Deus facere, potest scire. Sed Deus potest plura face
 Praeterea, Deus scivit Christum nasciturum. Nunc autem nescit Christum nasciturum, quia Christus nasciturus non est. Ergo non quidquid Deus scivit, scit. Et ita scientia Dei videtur esse variabilis.
 
 ###### s. c.
-Sed contra est quod dicitur Iac. I, quod *apud Deum non est transmutatio, neque vicissitudinis obumbratio*.
+Sed contra est quod dicitur [[Jc 1]], quod *apud Deum non est transmutatio, neque vicissitudinis obumbratio*.
 
 ###### co.
 Respondeo dicendum quod, cum scientia Dei sit eius substantia, ut ex dictis patet; sicut substantia eius est omnino immutabilis, ut supra ostensum est, ita oportet scientiam eius omnino invariabilem esse.

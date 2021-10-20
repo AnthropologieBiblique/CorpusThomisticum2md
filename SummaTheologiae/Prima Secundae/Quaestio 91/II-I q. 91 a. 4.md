@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod non fuerit necessarium esse aliquam legem divinam. Quia, ut dictum est, lex naturalis est quaedam participatio legis aeternae in nobis. Sed lex aeterna est lex divina, ut dictum est. Ergo non oportet quod praeter legem naturalem, et leges humanas ab ea derivatas, sit aliqua alia lex divina.
 
 ###### arg. 2
-Praeterea, Eccli. XV dicitur quod *Deus dimisit hominem in manu consilii sui*. Consilium autem est actus rationis, ut supra habitum est. Ergo homo dimissus est gubernationi suae rationis. Sed dictamen rationis humanae est lex humana, ut dictum est. Ergo non oportet quod homo alia lege divina gubernetur.
+Praeterea, [[Si 15]] dicitur quod *Deus dimisit hominem in manu consilii sui*. Consilium autem est actus rationis, ut supra habitum est. Ergo homo dimissus est gubernationi suae rationis. Sed dictamen rationis humanae est lex humana, ut dictum est. Ergo non oportet quod homo alia lege divina gubernetur.
 
 ###### arg. 3
 Praeterea, natura humana est sufficientior irrationalibus creaturis. Sed irrationales creaturae non habent aliquam legem divinam praeter inclinationem naturalem eis inditam. Ergo multo minus creatura rationalis debet habere aliquam legem divinam praeter naturalem legem.

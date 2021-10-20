@@ -10,7 +10,7 @@ Praeterea, illud quod ponitur in definitione alicuius debet esse prius et magis 
 Praeterea, spes praecedit actum meritorium, dicit enim apostolus, I ad Cor. IX, quod *qui arat debet arare in spe fructus percipiendi*. Sed actus fidei est meritorius. Ergo spes praecedit fidem.
 
 ###### s. c.
-Sed contra est quod Matth. I dicitur, *Abraham genuit Isaac*, idest fides spem, sicut dicit Glossa.
+Sed contra est quod [[Mt 1]] dicitur, *Abraham genuit Isaac*, idest fides spem, sicut dicit Glossa.
 
 ###### co.
 Respondeo dicendum quod fides absolute praecedit spem. Obiectum enim spei est bonum futurum arduum possibile haberi. Ad hoc ergo quod aliquis speret, requiritur quod obiectum spei proponatur ei ut possibile. Sed obiectum spei est uno modo beatitudo aeterna, et alio modo divinum auxilium, ut ex dictis patet. Et utrumque eorum proponitur nobis per fidem, per quam nobis innotescit quod ad vitam aeternam possumus pervenire, et quod ad hoc paratum est nobis divinum auxilium, secundum illud Heb. XI, *accedentem ad Deum oportet credere quia est, et quia inquirentibus se remunerator est*. Unde manifestum est quod fides praecedit spem.

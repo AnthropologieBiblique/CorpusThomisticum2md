@@ -1,16 +1,16 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod dubia non sint in meliorem partem interpretanda. Iudicium enim magis esse debet de eo quod ut in pluribus accidit. Sed in pluribus accidit quod aliqui male agant, *quia stultorum infinitus est numerus*, ut dicitur Eccle. I; *proni enim sunt sensus hominis ad malum ab adolescentia sua*, ut dicitur Gen. VIII. Ergo dubia magis debemus interpretari in malum quam in bonum.
+Ad quartum sic proceditur. Videtur quod dubia non sint in meliorem partem interpretanda. Iudicium enim magis esse debet de eo quod ut in pluribus accidit. Sed in pluribus accidit quod aliqui male agant, *quia stultorum infinitus est numerus*, ut dicitur [[Qo 1]]; *proni enim sunt sensus hominis ad malum ab adolescentia sua*, ut dicitur [[Gn 8]]. Ergo dubia magis debemus interpretari in malum quam in bonum.
 
 ###### arg. 2
 Praeterea, Augustinus dicit quod ille pie et iuste vivit qui rerum integer est aestimator, in neutram partem declinando. Sed ille qui interpretatur in melius quod dubium est declinat in alteram partem. Ergo hoc non est faciendum.
 
 ###### arg. 3
-Praeterea, homo debet diligere proximum sicut seipsum. Sed circa seipsum homo debet dubia interpretari in peiorem partem, secundum illud Iob IX, *verebar omnia opera mea*. Ergo videtur quod ea quae sunt dubia circa proximos sint in peiorem partem interpretanda.
+Praeterea, homo debet diligere proximum sicut seipsum. Sed circa seipsum homo debet dubia interpretari in peiorem partem, secundum illud [[Jb 9]], *verebar omnia opera mea*. Ergo videtur quod ea quae sunt dubia circa proximos sint in peiorem partem interpretanda.
 
 ###### s. c.
-Sed contra est quod Rom. XIV, super illud, *qui non manducat manducantem non iudicet*, dicit Glossa, *dubia in meliorem partem sunt interpretanda*.
+Sed contra est quod [[Rm 14]], super illud, *qui non manducat manducantem non iudicet*, dicit Glossa, *dubia in meliorem partem sunt interpretanda*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, ex hoc ipso quod aliquis habet malam opinionem de alio absque sufficienti causa, iniuriatur ei et contemnit ipsum. Nullus autem debet alium contemnere, vel nocumentum quodcumque inferre, absque causa cogente. Et ideo ubi non apparent manifesta indicia de malitia alicuius, debemus eum ut bonum habere, in meliorem partem interpretando quod dubium est.

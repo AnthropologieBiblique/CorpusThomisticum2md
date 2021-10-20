@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod veniale peccatum non convenienter dividatur contra mortale. Dicit enim Augustinus, XXII libro contra Faustum, *peccatum est dictum vel factum vel concupitum contra legem aeternam*. Sed esse contra legem aeternam, dat peccato quod sit mortale. Ergo omne peccatum est mortale. Non ergo peccatum veniale dividitur contra mortale.
 
 ###### arg. 2
-Praeterea, apostolus dicit, I Cor. X, *sive manducatis, sive bibitis, sive aliquid aliud facitis, omnia in gloriam Dei facite*. Sed contra hoc praeceptum facit quicumque peccat, non enim peccatum fit propter gloriam Dei. Cum ergo facere contra praeceptum sit peccatum mortale, videtur quod quicumque peccat, mortaliter peccet.
+Praeterea, apostolus dicit, [[1 Co 10]], *sive manducatis, sive bibitis, sive aliquid aliud facitis, omnia in gloriam Dei facite*. Sed contra hoc praeceptum facit quicumque peccat, non enim peccatum fit propter gloriam Dei. Cum ergo facere contra praeceptum sit peccatum mortale, videtur quod quicumque peccat, mortaliter peccet.
 
 ###### arg. 3
 Praeterea, quicumque amore alicui rei inhaeret, inhaeret ei vel sicut fruens, vel sicut utens; ut patet per Augustinum, in I de Doctr. Christ. Sed nullus peccans inhaeret bono commutabili quasi utens, non enim refert ipsum ad bonum quod nos beatos facit, quod proprie est uti, ut Augustinus dicit ibidem. Ergo quicumque peccat, fruitur bono commutabili. *Sed frui rebus utendis est humana perversitas*, ut Augustinus dicit, in libro octoginta trium quaest. Cum ergo perversitas peccatum mortale nominet, videtur quod quicumque peccat, mortaliter peccet.

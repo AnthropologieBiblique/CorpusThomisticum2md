@@ -10,7 +10,7 @@ Praeterea, perfectum est cui nihil deest. Sed plura desunt humano corpori quam c
 Praeterea, homo plus distat a plantis quam ab animalibus brutis. Sed plantae habent staturam rectam; animalia autem bruta pronam. Ergo homo non debuit habere staturam rectam.
 
 ###### s. c.
-Sed contra est quod dicitur Eccle. VII, *Deus fecit hominem rectum*.
+Sed contra est quod dicitur [[Qo 7]], *Deus fecit hominem rectum*.
 
 ###### co.
 Respondeo dicendum quod omnes res naturales productae sunt ab arte divina, unde sunt quodammodo artificiata ipsius Dei. Quilibet autem artifex intendit suo operi dispositionem optimam inducere, non simpliciter, sed per comparationem ad finem. Et si talis dispositio habet secum adiunctum aliquem defectum, artifex non curat. Sicut artifex qui facit serram ad secandum, facit eam ex ferro, ut sit idonea ad secandum; nec curat eam facere ex vitro, quae est pulchrior materia, quia talis pulchritudo esset impedimentum finis. Sic igitur Deus unicuique rei naturali dedit optimam dispositionem, non quidem simpliciter, sed secundum ordinem ad proprium finem. Et hoc est quod philosophus dicit, in II Physic., *et quia dignius est sic, non tamen simpliciter, sed ad uniuscuiusque substantiam*. Finis autem proximus humani corporis est anima rationalis et operationes ipsius, materia enim est propter formam, et instrumenta propter actiones agentis. Dico ergo quod Deus instituit corpus humanum in optima dispositione secundum convenientiam ad talem formam et ad tales operationes. Et si aliquis defectus in dispositione humani corporis esse videtur, considerandum est quod talis defectus sequitur ex necessitate materiae, ad ea quae requiruntur in corpore ut sit debita proportio ipsius ad animam et ad animae operationes.

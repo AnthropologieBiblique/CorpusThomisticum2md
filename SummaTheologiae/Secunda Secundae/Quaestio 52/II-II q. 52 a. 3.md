@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod donum consilii non maneat in patria. Con
 Praeterea, consilium dubitationem importat, in his enim quae manifesta sunt ridiculum est consiliari, sicut patet per philosophum, in III Ethic. In patria autem tolletur omnis dubitatio. Ergo in patria non erit consilium.
 
 ###### arg. 3
-Praeterea, in patria sancti maxime Deo conformantur, secundum illud I Ioan. III, *cum apparuerit, similes ei erimus*. Sed Deo non convenit consilium, secundum illud Rom. XI, *quis consiliarius eius fuit?* Ergo etiam neque sanctis in patria competit donum consilii.
+Praeterea, in patria sancti maxime Deo conformantur, secundum illud [[1 Jn 3]], *cum apparuerit, similes ei erimus*. Sed Deo non convenit consilium, secundum illud [[Rm 11]], *quis consiliarius eius fuit?* Ergo etiam neque sanctis in patria competit donum consilii.
 
 ###### s. c.
 Sed contra est quod dicit Gregorius, XVII Moral., *cumque uniuscuiusque gentis vel culpa vel iustitia ad supernae curiae consilium ducitur, eiusdem gentis praepositus vel obtinuisse in certamine vel non obtinuisse perhibetur*.

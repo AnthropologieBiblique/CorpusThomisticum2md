@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod in Angelis beatis non remaneat cognitio et dilectio naturalis. Quia, ut dicitur I Cor. XIII, *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed dilectio et cognitio naturalis est imperfecta respectu cognitionis et dilectionis beatae. Ergo adveniente beatitudine, naturalis cognitio et dilectio cessat.
+Ad septimum sic proceditur. Videtur quod in Angelis beatis non remaneat cognitio et dilectio naturalis. Quia, ut dicitur [[1 Co 13]], *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed dilectio et cognitio naturalis est imperfecta respectu cognitionis et dilectionis beatae. Ergo adveniente beatitudine, naturalis cognitio et dilectio cessat.
 
 ###### arg. 2
 Praeterea, ubi unum sufficit, aliud superflue existit. Sed sufficit in Angelis beatis cognitio et dilectio gloriae. Superfluum ergo esset quod remaneret in eis cognitio et dilectio naturalis.

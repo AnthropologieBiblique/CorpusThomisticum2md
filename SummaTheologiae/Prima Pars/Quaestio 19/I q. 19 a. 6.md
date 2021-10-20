@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod voluntas Dei non semper impleatur. Dicit enim apostolus, I ad Tim. II, quod *Deus vult omnes homines salvos fieri, et ad agnitionem veritatis venire*. Sed hoc non ita evenit. Ergo voluntas Dei non semper impletur.
+Ad sextum sic proceditur. Videtur quod voluntas Dei non semper impleatur. Dicit enim apostolus, [[1 Tm 2]], quod *Deus vult omnes homines salvos fieri, et ad agnitionem veritatis venire*. Sed hoc non ita evenit. Ergo voluntas Dei non semper impletur.
 
 ###### arg. 2
 Praeterea, sicut se habet scientia ad verum, ita voluntas ad bonum. Sed Deus scit omne verum. Ergo vult omne bonum. Sed non omne bonum fit, multa enim bona possunt fieri, quae non fiunt. Non ergo voluntas Dei semper impletur.

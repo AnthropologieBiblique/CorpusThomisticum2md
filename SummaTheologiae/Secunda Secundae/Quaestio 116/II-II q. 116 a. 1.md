@@ -4,10 +4,10 @@
 Ad primum sic proceditur. Videtur quod litigium non opponatur virtuti amicitiae vel affabilitatis. Litigium enim ad discordiam pertinere videtur, sicut et contentio. Sed discordia opponitur caritati, sicut dictum est. Ergo et litigium.
 
 ###### arg. 2
-Praeterea, Prov. XXVI dicitur, *homo iracundus incendit litem*. Sed iracundia opponitur mansuetudini. Ergo et lis, sive litigium.
+Praeterea, [[Pr 26]] dicitur, *homo iracundus incendit litem*. Sed iracundia opponitur mansuetudini. Ergo et lis, sive litigium.
 
 ###### arg. 3
-Praeterea, Iac. IV dicitur, *unde bella et lites in vobis? Nonne ex concupiscentiis vestris, quae militant in membris vestris?* Sed sequi concupiscentias videtur opponi temperantiae. Ergo videtur quod litigium non opponatur amicitiae, sed temperantiae.
+Praeterea, [[Jc 4]] dicitur, *unde bella et lites in vobis? Nonne ex concupiscentiis vestris, quae militant in membris vestris?* Sed sequi concupiscentias videtur opponi temperantiae. Ergo videtur quod litigium non opponatur amicitiae, sed temperantiae.
 
 ###### s. c.
 Sed contra est quod philosophus, in IV Ethic., litigium opponit amicitiae.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod contentio magis proprie pertinet ad contradictionem
 Ad secundum dicendum quod directa oppositio vitiorum ad virtutes non attenditur secundum causas, cum contingat unum vitium ex diversis causis oriri, sed attenditur secundum speciem actus. Licet autem quandoque litigium ex ira oriatur, potest tamen ex multis aliis causis oriri. Unde non oportet quod directe opponatur mansuetudini.
 
 ###### ad 3
-Ad tertium dicendum quod Iacobus loquitur ibi de concupiscentia secundum quod est generale malum, ex quo omnia vitia oriuntur, prout dicit Glossa Rom. VII, *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*.
+Ad tertium dicendum quod Iacobus loquitur ibi de concupiscentia secundum quod est generale malum, ex quo omnia vitia oriuntur, prout dicit Glossa [[Rm 7]], *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*.
 

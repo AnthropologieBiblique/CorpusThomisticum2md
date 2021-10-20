@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod fornicatio sit gravissimum peccatum. Tanto enim videtur peccatum gravius, quanto ex maiori libidine procedit. Sed maxima libido est in fornicatione dicitur enim in Glossa, I ad Cor. VI, quod ardor libidinis in luxuria est maximus. Ergo videtur quod fornicatio sit gravissimum peccatum.
 
 ###### arg. 2
-Praeterea, tanto aliquis gravius peccat, quanto in rem sibi magis coniunctam delinquit, sicut gravius peccat qui percutit patrem quam qui percutit extraneum. Sed sicut dicitur I Cor. VI, *qui fornicatur, in corpus suum peccat*, quod est homini coniunctissimum. Ergo videtur quod fornicatio sit gravissimum peccatum.
+Praeterea, tanto aliquis gravius peccat, quanto in rem sibi magis coniunctam delinquit, sicut gravius peccat qui percutit patrem quam qui percutit extraneum. Sed sicut dicitur [[1 Co 6]], *qui fornicatur, in corpus suum peccat*, quod est homini coniunctissimum. Ergo videtur quod fornicatio sit gravissimum peccatum.
 
 ###### arg. 3
 Praeterea, quanto aliquod bonum est maius, tanto peccatum quod contra illud committitur videtur esse gravius. Sed peccatum fornicationis videtur esse contra bonum totius humani generis, ut ex praedictis patet. Est etiam contra Christum, secundum illud I ad Cor. VI, *tollens membra Christi, faciam membra meretricis?* Ergo fornicatio est gravissimum peccatum.

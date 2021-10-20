@@ -1,13 +1,13 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod hoc sacramentum sit de necessitate salutis. Dicit enim dominus, Ioan. VI, *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*. Sed in hoc sacramento manducatur caro Christi et bibitur sanguis eius. Ergo sine hoc sacramento non potest homo habere salutem spiritualis vitae.
+Ad tertium sic proceditur. Videtur quod hoc sacramentum sit de necessitate salutis. Dicit enim dominus, [[Jn 6]], *nisi manducaveritis carnem filii hominis et biberitis eius sanguinem, non habebitis vitam in vobis*. Sed in hoc sacramento manducatur caro Christi et bibitur sanguis eius. Ergo sine hoc sacramento non potest homo habere salutem spiritualis vitae.
 
 ###### arg. 2
 Praeterea, hoc sacramentum est quoddam spirituale alimentum. Sed alimentum corporale est de necessitate corporalis salutis. Ergo etiam hoc sacramentum est de necessitate salutis spiritualis.
 
 ###### arg. 3
-Praeterea, sicut Baptismus est sacramentum dominicae passionis, sine qua non est salus, ita et Eucharistia, dicit enim apostolus, I Cor. XI, *quotiescumque manducaveritis panem hunc et calicem biberitis, mortem domini annuntiabitis, donec veniat*. Ergo, sicut Baptismus est de necessitate salutis, ita hoc sacramentum.
+Praeterea, sicut Baptismus est sacramentum dominicae passionis, sine qua non est salus, ita et Eucharistia, dicit enim apostolus, [[1 Co 11]], *quotiescumque manducaveritis panem hunc et calicem biberitis, mortem domini annuntiabitis, donec veniat*. Ergo, sicut Baptismus est de necessitate salutis, ita hoc sacramentum.
 
 ###### s. c.
 Sed contra est quod scribit Augustinus Bonifacio, contra Pelagianos, *nec id cogitetis, parvulos vitam habere non posse, qui sunt expertes corporis et sanguinis Christi*.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod, sicut Augustinus dicit, exponens illud verbum Ioan
 Ad secundum dicendum quod haec est differentia inter alimentum corporale et spirituale, quod alimentum corporale convertitur in substantiam eius qui nutritur, et ideo non potest homini valere ad vitae conservationem alimentum corporale nisi realiter sumatur. Sed alimentum spirituale convertit hominem in seipsum, secundum illud quod Augustinus dicit, in libro Confess., quod *quasi audivit vocem Christi dicentis, nec tu me mutabis in te, sicut cibum carnis tuae, sed tu mutaberis in me*. Potest autem aliquis in Christum mutari et ei incorporari voto mentis, etiam sine huius sacramenti perceptione. Et ideo non est simile.
 
 ###### ad 3
-Ad tertium dicendum quod Baptismus est sacramentum mortis et passionis Christi prout homo regeneratur in Christo virtute passionis eius. Sed Eucharistia est sacramentum passionis Christi prout homo perficitur in unione ad Christum passum. Unde, sicut Baptismus dicitur sacramentum fidei, quae est fundamentum spiritualis vitae; ita Eucharistia dicitur sacramentum caritatis, quae est vinculum perfectionis, ut dicitur Coloss. III.
+Ad tertium dicendum quod Baptismus est sacramentum mortis et passionis Christi prout homo regeneratur in Christo virtute passionis eius. Sed Eucharistia est sacramentum passionis Christi prout homo perficitur in unione ad Christum passum. Unde, sicut Baptismus dicitur sacramentum fidei, quae est fundamentum spiritualis vitae; ita Eucharistia dicitur sacramentum caritatis, quae est vinculum perfectionis, ut dicitur [[Col 3]].
 

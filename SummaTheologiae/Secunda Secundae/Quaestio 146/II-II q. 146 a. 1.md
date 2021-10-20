@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod abstinentia non sit virtus. Dicit enim apostolus, I ad Cor. IV, *non est regnum Dei in sermone, sed in virtute*. In abstinentia autem non consistit regnum Dei, dicit enim apostolus, Rom. XIV, *non est regnum Dei esca et potus*; ubi dicit Glossa *nec in abstinendo nec in manducando esse iustitiam*. Ergo abstinentia non est virtus.
+Ad primum sic proceditur. Videtur quod abstinentia non sit virtus. Dicit enim apostolus, I ad Cor. IV, *non est regnum Dei in sermone, sed in virtute*. In abstinentia autem non consistit regnum Dei, dicit enim apostolus, [[Rm 14]], *non est regnum Dei esca et potus*; ubi dicit Glossa *nec in abstinendo nec in manducando esse iustitiam*. Ergo abstinentia non est virtus.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in X Confess., *ad Deum loquens, hoc me docuisti, ut quemadmodum medicamenta, sic alimenta sumpturus accedam*. Sed medicamenta moderari non pertinet ad virtutem, sed ad artem medicinae. Ergo, pari ratione, moderari alimenta, quod pertinet ad abstinentiam, non est actus virtutis, sed artis.
@@ -13,7 +13,7 @@ Praeterea, omnis virtus in medio consistit, ut habetur in II Ethic. Abstinentia 
 Praeterea, nulla virtus excludit aliam. Sed abstinentia excludit patientiam, dicit enim Gregorius, in pastorali, quod *mentes abstinentium plerumque impatientia excutit a sinu tranquillitatis*. Ibidem etiam dicit quod *cogitationes abstinentium nonnunquam superbiae culpa transfigit*, et ita excludit humilitatem. Ergo abstinentia non est virtus.
 
 ###### s. c.
-Sed contra est quod dicitur II Pet. I, *ministrate in fide vestra virtutem, in virtute autem scientiam, in scientia autem abstinentiam*, ubi abstinentia aliis virtutibus connumeratur. Ergo abstinentia est virtus.
+Sed contra est quod dicitur [[2 P 1]], *ministrate in fide vestra virtutem, in virtute autem scientiam, in scientia autem abstinentiam*, ubi abstinentia aliis virtutibus connumeratur. Ergo abstinentia est virtus.
 
 ###### co.
 Respondeo dicendum quod abstinentia ex suo nomine importat subtractionem ciborum. Dupliciter ergo nomen abstinentiae accipi potest. Uno modo, secundum quod absolute ciborum subtractionem designat. Et hoc modo abstinentia non designat neque virtutem neque actum virtutis, sed quiddam indifferens. Alio modo potest accipi secundum quod est ratione regulata. Et tunc significat vel habitum virtutis, vel actum. Et hoc significatur in praemissa auctoritate Petri, ubi dicitur in scientia abstinentiam ministrandam, ut scilicet homo a cibis abstineat prout oportet, *pro congruentia hominum cum quibus vivit et personae suae, et pro valetudinis suae necessitate*.

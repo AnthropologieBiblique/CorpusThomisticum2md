@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod beatitudo hominis in honoribus consistat. Beatitudo enim, sive felicitas, est praemium virtutis, ut philosophus dicit in I Ethic. Sed honor maxime videtur esse id quod est virtutis praemium, ut philosophus dicit in IV Ethic. Ergo in honore maxime consistit beatitudo.
 
 ###### arg. 2
-Praeterea, illud quod convenit Deo et excellentissimis, maxime videtur esse beatitudo, quae est bonum perfectum. Sed huiusmodi est honor, ut philosophus dicit in IV Ethic. Et etiam I Tim. I, dicit apostolus, *soli Deo honor et gloria*. Ergo in honore consistit beatitudo.
+Praeterea, illud quod convenit Deo et excellentissimis, maxime videtur esse beatitudo, quae est bonum perfectum. Sed huiusmodi est honor, ut philosophus dicit in IV Ethic. Et etiam [[1 Tm 1]], dicit apostolus, *soli Deo honor et gloria*. Ergo in honore consistit beatitudo.
 
 ###### arg. 3
 Praeterea, illud quod est maxime desideratum ab hominibus, est beatitudo. Sed nihil videtur esse magis desiderabile ab hominibus quam honor, quia homines patiuntur iacturam in omnibus aliis rebus ne patiantur aliquod detrimentum sui honoris. Ergo in honore beatitudo consistit.

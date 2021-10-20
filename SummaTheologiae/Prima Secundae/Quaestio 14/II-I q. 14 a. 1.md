@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod consilium non sit inquisitio. Dicit enim Damascenus quod *consilium est appetitus*. Sed ad appetitum non pertinet inquirere. Ergo consilium non est inquisitio.
 
 ###### arg. 2
-Praeterea, inquirere intellectus discurrentis est; et sic Deo non convenit, cuius cognitio non est discursiva, ut in primo habitum est. Sed consilium Deo attribuitur, dicitur enim ad Ephes. I, quod *operatur omnia secundum consilium voluntatis suae*. Ergo consilium non est inquisitio.
+Praeterea, inquirere intellectus discurrentis est; et sic Deo non convenit, cuius cognitio non est discursiva, ut in primo habitum est. Sed consilium Deo attribuitur, dicitur enim ad [[Ep 1]], quod *operatur omnia secundum consilium voluntatis suae*. Ergo consilium non est inquisitio.
 
 ###### arg. 3
 Praeterea, inquisitio est de rebus dubiis. Sed consilium datur de his quae sunt certa bona; secundum illud apostoli, I ad Cor. VII, *de virginibus autem praeceptum domini non habeo, consilium autem do*. Ergo consilium non est inquisitio.

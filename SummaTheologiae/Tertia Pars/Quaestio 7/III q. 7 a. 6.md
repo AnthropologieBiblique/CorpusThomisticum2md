@@ -7,10 +7,10 @@ Ad sextum sic proceditur. Videtur quod in Christo non fuit donum timoris. Spes e
 Praeterea, dono timoris timet aliquis vel separationem a Deo, quod pertinet ad timorem castum; vel puniri ab ipso, quod pertinet ad timorem servilem; ut Augustinus dicit, super canonicam Ioan. Sed Christus non timuit separari a Deo per peccatum, neque puniri ab eo propter culpam suam, quia impossibile erat eum peccare, ut infra dicetur; timor autem non est de impossibili. Ergo in Christo non fuit donum timoris.
 
 ###### arg. 3
-Praeterea, I Ioan. IV dicitur, *perfecta caritas foras mittit timorem*. Sed in Christo fuit perfectissima caritas, secundum illud Ephes. III, *supereminentem scientiae caritatem Christi*. Ergo in Christo non fuit donum timoris.
+Praeterea, [[1 Jn 4]] dicitur, *perfecta caritas foras mittit timorem*. Sed in Christo fuit perfectissima caritas, secundum illud [[Ep 3]], *supereminentem scientiae caritatem Christi*. Ergo in Christo non fuit donum timoris.
 
 ###### s. c.
-Sed contra est quod dicitur Isaiae XI, *replebit eum spiritus timoris domini*.
+Sed contra est quod dicitur [[Is 11]], *replebit eum spiritus timoris domini*.
 
 ###### co.
 Respondeo dicendum quod, sicut in secunda parte dictum est, timor respicit duo obiecta, quorum unum est malum terribile; aliud est ille cuius potestate malum potest inferri, sicut aliquis timet regem inquantum habet potestatem occidendi. Non autem timeretur ille qui habet potestatem, nisi haberet quandam eminentiam potestatis, cui de facili resisti non possit, ea enim quae in promptu habemus repellere, non timemus. Et sic patet quod aliquis non timetur nisi propter suam eminentiam. Sic igitur dicendum est quod in Christo fuit timor Dei, non quidem secundum quod respicit malum separationis a Deo per culpam; nec secundum quod respicit malum punitionis pro culpa; sed secundum quod respicit ipsam divinam eminentiam, prout scilicet anima Christi quodam affectu reverentiae movebatur in Deum, a spiritu sancto acta. Unde Heb. V dicitur quod in omnibus *exauditus est pro sua reverentia*. Hunc enim affectum reverentiae ad Deum Christus, secundum quod homo, prae ceteris habuit pleniorem. Et ideo ei attribuit Scriptura plenitudinem timoris domini.

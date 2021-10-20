@@ -13,7 +13,7 @@ Praeterea, finem omnia appetunt. Sed Deum non omnia appetunt, quia neque omnia i
 Praeterea, finalis causa est prima causarum. Si igitur Deus sit causa agens et causa finalis, sequitur quod in eo sit prius et posterius. Quod est impossibile.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. XVI, *universa propter semetipsum operatus est dominus*.
+Sed contra est quod dicitur [[Pr 16]], *universa propter semetipsum operatus est dominus*.
 
 ###### co.
 Respondeo dicendum quod omne agens agit propter finem, alioquin ex actione agentis non magis sequeretur hoc quam illud, nisi a casu. Est autem idem finis agentis et patientis, inquantum huiusmodi, sed aliter et aliter, unum enim et idem est quod agens intendit imprimere, et quod patiens intendit recipere. Sunt autem quaedam quae simul agunt et patiuntur, quae sunt agentia imperfecta, et his convenit quod etiam in agendo intendant aliquid acquirere. Sed primo agenti, qui est agens tantum, non convenit agere propter acquisitionem alicuius finis; sed intendit solum communicare suam perfectionem, quae est eius bonitas. Et unaquaeque creatura intendit consequi suam perfectionem, quae est similitudo perfectionis et bonitatis divinae. Sic ergo divina bonitas est finis rerum omnium.

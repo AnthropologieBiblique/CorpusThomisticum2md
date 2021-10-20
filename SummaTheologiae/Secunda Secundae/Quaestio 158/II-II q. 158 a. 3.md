@@ -1,13 +1,13 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod omnis ira sit peccatum mortale. Dicitur enim Iob V, *virum stultum interficit iracundia*, et loquitur de interfectione spirituali, a qua peccatum mortale denominatur. Ergo ira est peccatum mortale.
+Ad tertium sic proceditur. Videtur quod omnis ira sit peccatum mortale. Dicitur enim [[Jb 5]], *virum stultum interficit iracundia*, et loquitur de interfectione spirituali, a qua peccatum mortale denominatur. Ergo ira est peccatum mortale.
 
 ###### arg. 2
-Praeterea, nihil meretur damnationem aeternam nisi peccatum mortale. Sed ira meretur damnationem aeternam, dicit enim dominus, Matth. V, *omnis qui irascitur fratri suo, reus erit iudicio*; ubi dicit Glossa quod *per illa tria*, quae ibi tanguntur, scilicet, *iudicium, Concilium et Gehennam, diversae mansiones in aeterna damnatione, pro modo peccati, singulariter exprimuntur*. Ergo ira est peccatum mortale.
+Praeterea, nihil meretur damnationem aeternam nisi peccatum mortale. Sed ira meretur damnationem aeternam, dicit enim dominus, [[Mt 5]], *omnis qui irascitur fratri suo, reus erit iudicio*; ubi dicit Glossa quod *per illa tria*, quae ibi tanguntur, scilicet, *iudicium, Concilium et Gehennam, diversae mansiones in aeterna damnatione, pro modo peccati, singulariter exprimuntur*. Ergo ira est peccatum mortale.
 
 ###### arg. 3
-Praeterea, quidquid contrariatur caritati est peccatum mortale. Sed ira de se contrariatur caritati, ut patet per Hieronymum, super illud Matth. V, *qui irascitur fratri suo* etc., ubi dicit quod hoc est contra proximi dilectionem. Ergo ira est peccatum mortale.
+Praeterea, quidquid contrariatur caritati est peccatum mortale. Sed ira de se contrariatur caritati, ut patet per Hieronymum, super illud [[Mt 5]], *qui irascitur fratri suo* etc., ubi dicit quod hoc est contra proximi dilectionem. Ergo ira est peccatum mortale.
 
 ###### s. c.
 Sed contra est quod super illud Psalmi, *irascimini et nolite peccare*, dicit Glossa, *venialis est ira quae non perducitur ad effectum*.

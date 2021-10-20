@@ -22,7 +22,7 @@ Respondeo dicendum quod, sicut supra dictum est, hoc sacramentum tantae est dign
 Ad primum ergo dicendum quod virtus sacramentalis in pluribus consistit, et non in uno tantum, sicut virtus Baptismi consistit et in verbis et in aqua. Unde et virtus consecrativa non solum consistit in ipsis verbis, sed etiam in potestate sacerdoti tradita in sua consecratione vel ordinatione, cum ei dicitur ab episcopo, *accipe potestatem offerendi sacrificium in Ecclesia tam pro vivis quam pro mortuis*. Nam et virtus instrumentalis in pluribus instrumentis consistit, per quae agit principale agens.
 
 ###### ad 2
-Ad secundum dicendum quod laicus iustus unitus est Christo unione spirituali per fidem et caritatem, non autem per sacramentalem potestatem. Et ideo habet spirituale sacerdotium ad offerendum spirituales hostias, de quibus dicitur in Psalmo, *sacrificium Deo spiritus contribulatus*, et Rom. XII, *exhibeatis corpora vestra hostiam viventem*. Unde et I Petri II dicitur, *sacerdotium sanctum offerre spirituales hostias*.
+Ad secundum dicendum quod laicus iustus unitus est Christo unione spirituali per fidem et caritatem, non autem per sacramentalem potestatem. Et ideo habet spirituale sacerdotium ad offerendum spirituales hostias, de quibus dicitur in Psalmo, *sacrificium Deo spiritus contribulatus*, et [[Rm 12]], *exhibeatis corpora vestra hostiam viventem*. Unde et I Petri II dicitur, *sacerdotium sanctum offerre spirituales hostias*.
 
 ###### ad 3
 Ad tertium dicendum quod perceptio huius sacramenti non est tantae necessitatis sicut perceptio Baptismi, ut ex supra dictis patet. Et ideo, licet in necessitatis articulo laicus possit baptizare, non tamen potest hoc sacramentum conficere.

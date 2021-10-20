@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod incontinens plus peccet quam intemperatus. Tanto enim aliquis videtur gravius peccare, quanto magis contra conscientiam agit, secundum illud Luc. XII, *servus sciens voluntatem domini sui et faciens digna plagis, vapulabit multis*. Sed incontinens magis videtur agere contra conscientiam quam intemperatus, quia, ut dicitur in VII Ethic., incontinens, sciens quoniam prava sunt quae concupiscit, nihilominus agit, propter passionem; intemperatus autem iudicat ea quae concupiscit esse bona. Ergo incontinens gravius peccat quam intemperatus.
+Ad tertium sic proceditur. Videtur quod incontinens plus peccet quam intemperatus. Tanto enim aliquis videtur gravius peccare, quanto magis contra conscientiam agit, secundum illud [[Lc 12]], *servus sciens voluntatem domini sui et faciens digna plagis, vapulabit multis*. Sed incontinens magis videtur agere contra conscientiam quam intemperatus, quia, ut dicitur in VII Ethic., incontinens, sciens quoniam prava sunt quae concupiscit, nihilominus agit, propter passionem; intemperatus autem iudicat ea quae concupiscit esse bona. Ergo incontinens gravius peccat quam intemperatus.
 
 ###### arg. 2
 Praeterea, quanto aliquod peccatum gravius est, tanto videtur esse minus sanabile, unde et peccata in spiritum sanctum, quae sunt gravissima, dicuntur esse irremissibilia. Sed peccatum incontinentiae videtur esse insanabilius quam peccatum intemperantiae. Sanatur enim peccatum alicuius per admonitionem et correctionem, quae nihil videtur conferre incontinenti, qui scit se male agere, et nihilominus male agit, intemperato autem videtur quod bene agat, et sic aliquid ei conferre posset admonitio. Ergo videtur quod incontinens gravius peccet quam intemperatus.

@@ -10,7 +10,7 @@ Praeterea, per opera virtutis in caritate facta homo meretur vitam aeternam. Sed
 Praeterea, fortius non corrumpitur a debiliori. Sed opera caritatis sunt fortiora quibuslibet peccatis, quia, ut dicitur Proverb. X, *universa delicta operit caritas*. Ergo videtur quod opera in caritate facta per sequens mortale peccatum mortificari non possunt.
 
 ###### s. c.
-Sed contra est quod dicitur Ezech. XVIII, *si averterit se iustus a iustitia sua, omnes iustitiae eius quas fecerat, non recordabuntur*.
+Sed contra est quod dicitur [[Ez 18]], *si averterit se iustus a iustitia sua, omnes iustitiae eius quas fecerat, non recordabuntur*.
 
 ###### co.
 Respondeo dicendum quod res viva per mortem perdit operationem vitae, unde per quandam similitudinem dicuntur res mortificari quando impediuntur a proprio suo effectu vel operatione. Effectus autem operum virtuosorum quae in caritate fiunt, est perducere ad vitam aeternam. Quod quidem impeditur per peccatum mortale sequens, quod gratiam tollit. Et secundum hoc, opera in caritate facta dicuntur mortificari per sequens peccatum mortale.

@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod anima Christi non potuerit intelligere secundum hanc scientiam nisi convertendo se ad phantasmata. Phantasmata enim comparantur ad animam intellectivam sicut colores ad visum, ut dicitur in III de anima. Sed potentia visiva Christi non potuit exire in actum nisi convertendo se ad colores. Ergo etiam neque anima eius intellectiva potuit aliquid intelligere nisi convertendo se ad phantasmata.
 
 ###### arg. 2
-Praeterea, anima Christi est eiusdem naturae cum animabus nostris, alioquin ipse non esset eiusdem speciei nobiscum; contra id quod apostolus dicit, Philipp. II, quod est *in similitudinem hominum factus*. Sed anima nostra non potest intelligere nisi convertendo se ad phantasmata. Ergo nec etiam anima Christi.
+Praeterea, anima Christi est eiusdem naturae cum animabus nostris, alioquin ipse non esset eiusdem speciei nobiscum; contra id quod apostolus dicit, [[Ph 2]], quod est *in similitudinem hominum factus*. Sed anima nostra non potest intelligere nisi convertendo se ad phantasmata. Ergo nec etiam anima Christi.
 
 ###### arg. 3
 Praeterea, sensus dati sunt homini ut deserviant intellectui. Si igitur anima Christi intelligere potuit absque conversione ad phantasmata, quae per sensus accipiuntur, sequeretur quod sensus frustra fuissent in anima Christi, quod est inconveniens. Videtur igitur quod anima Christi non potuerit intelligere nisi convertendo se ad phantasmata.

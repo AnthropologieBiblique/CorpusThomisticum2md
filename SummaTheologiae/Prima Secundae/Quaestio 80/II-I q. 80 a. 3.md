@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod Diabolus possit necessitatem inferre ad peccandum. Potestas enim maior potest necessitatem inferre minori. Sed de Diabolo dicitur Iob XLI, *non est potestas super terram quae ei valeat comparari*. Ergo potest homini terreno necessitatem inferre ad peccandum.
+Ad tertium sic proceditur. Videtur quod Diabolus possit necessitatem inferre ad peccandum. Potestas enim maior potest necessitatem inferre minori. Sed de Diabolo dicitur [[Jb 41]], *non est potestas super terram quae ei valeat comparari*. Ergo potest homini terreno necessitatem inferre ad peccandum.
 
 ###### arg. 2
 Praeterea, ratio hominis non potest moveri nisi secundum ea quae exterius sensibus proponuntur et imaginationi repraesentantur, quia omnis nostra cognitio ortum habet a sensu, *et non est intelligere sine phantasmate*, ut dicitur in libro de anima. Sed Diabolus potest movere imaginationem hominis, ut dictum est, et etiam exteriores sensus, dicit enim Augustinus, in libro octoginta trium quaest., quod *serpit hoc malum*, scilicet quod est a Diabolo, *per omnes aditus sensuales; dat se figuris, accommodat coloribus, adhaeret sonis, infundit saporibus*. Ergo potest rationem hominis ex necessitate inclinare ad peccandum.

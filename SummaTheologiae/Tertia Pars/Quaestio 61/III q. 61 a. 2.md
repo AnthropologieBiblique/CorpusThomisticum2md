@@ -7,10 +7,10 @@ Ad secundum sic proceditur. Videtur quod ante peccatum fuerint homini necessaria
 Praeterea, sacramenta sunt convenientia homini secundum conditione humanae naturae, sicut dictum est. Sed eadem est natura hominis ante peccatum et post peccatum. Ergo videtur quod ante peccatum homo indiguerit sacramentis.
 
 ###### arg. 3
-Praeterea, matrimonium est quoddam sacramentum, secundum illud Ephes. V, *sacramentum hoc magnum est, ego autem dico in Christo et Ecclesia*. Sed matrimonium fuit institutum ante peccatum, ut dicitur Gen. II. Ergo sacramenta erant necessaria homini ante peccatum.
+Praeterea, matrimonium est quoddam sacramentum, secundum illud [[Ep 5]], *sacramentum hoc magnum est, ego autem dico in Christo et Ecclesia*. Sed matrimonium fuit institutum ante peccatum, ut dicitur [[Gn 2]]. Ergo sacramenta erant necessaria homini ante peccatum.
 
 ###### s. c.
-Sed contra est quod medicina non est necessaria nisi aegroto, secundum illud Matth. IX, *non est opus sanis medicus*. Sed sacramenta sunt quaedam spirituales medicinae, quae adhibentur contra vulnera peccati. Ergo non fuerunt necessaria ante peccatum.
+Sed contra est quod medicina non est necessaria nisi aegroto, secundum illud [[Mt 9]], *non est opus sanis medicus*. Sed sacramenta sunt quaedam spirituales medicinae, quae adhibentur contra vulnera peccati. Ergo non fuerunt necessaria ante peccatum.
 
 ###### co.
 Respondeo dicendum quod in statu innocentiae sacramenta necessaria non fuerunt. Cuius ratio accipi potest ex rectitudine status illius, in quo superiora inferioribus dominabantur, et nullo modo dependebant ab eis, sicut enim mens suberat Deo, ita menti suberant inferiores animae vires, et ipsi animae corpus. Contra hunc autem ordinem esset si anima perficeretur, vel quantum ad scientiam vel quantum ad gratiam, per aliquid corporale, quod fit in sacramentis. Et ideo in statu innocentiae homo sacramentis non indigebat, non solum inquantum sacramenta ordinantur in remedium peccati, sed etiam inquantum ordinantur ad animae perfectionem.

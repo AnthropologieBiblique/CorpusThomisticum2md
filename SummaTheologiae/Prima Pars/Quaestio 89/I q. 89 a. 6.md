@@ -10,7 +10,7 @@ Praeterea, species intelligibiles non erunt potentiores in anima separata quam s
 Praeterea, philosophus dicit, in II Ethic., quod *habitus similes actus reddunt actibus per quos acquiruntur*. Sed habitus scientiae hic acquiritur per actus intellectus convertentis se supra phantasmata. Ergo non potest alios actus reddere. Sed tales actus non competunt animae separatae. Ergo anima separata non habebit aliquem actum scientiae hic acquisitae.
 
 ###### s. c.
-Sed contra est quod Luc. XVI, dicitur ad divitem in Inferno positum, *recordare quia recepisti bona in vita tua*.
+Sed contra est quod [[Lc 16]], dicitur ad divitem in Inferno positum, *recordare quia recepisti bona in vita tua*.
 
 ###### co.
 Respondeo dicendum quod in actu est duo considerare, scilicet speciem actus, et modum ipsius. Et species quidem actus consideratur ex obiecto in quod actus cognoscitivae virtutis dirigitur per speciem, quae est obiecti similitudo, sed modus actus pensatur ex virtute agentis. Sicut quod aliquis videat lapidem, contingit ex specie lapidis quae est in oculo, sed quod acute videat, contingit ex virtute visiva oculi. Cum igitur species intelligibiles maneant in anima separata, sicut dictum est; status autem animae separatae non sit idem sicut modo est, sequitur quod secundum species intelligibiles hic acquisitas, anima separata intelligere possit quae prius intellexit; non tamen eodem modo, scilicet per conversionem ad phantasmata, sed per modum convenientem animae separatae. Et ita manet quidem in anima separata actus scientiae hic acquisitae, sed non secundum eundem modum.

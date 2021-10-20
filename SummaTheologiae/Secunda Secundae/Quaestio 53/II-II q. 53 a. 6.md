@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod praedicta vitia non oriantur ex luxuria. Inconstantia enim oritur ex invidia, ut dictum est. Sed invidia est vitium distinctum a luxuria. Ergo praedicta vitia non oriuntur ex luxuria.
 
 ###### arg. 2
-Praeterea, Iac. I dicitur, *vir duplex animo inconstans est in omnibus viis suis*. Sed duplicitas non videtur ad luxuriam pertinere, sed magis ad dolositatem, quae est filia avaritiae, secundum Gregorium, XXXI Moral. Ergo praedicta vitia non oriuntur ex luxuria.
+Praeterea, [[Jc 1]] dicitur, *vir duplex animo inconstans est in omnibus viis suis*. Sed duplicitas non videtur ad luxuriam pertinere, sed magis ad dolositatem, quae est filia avaritiae, secundum Gregorium, XXXI Moral. Ergo praedicta vitia non oriuntur ex luxuria.
 
 ###### arg. 3
 Praeterea, praedicta vitia pertinent ad defectum rationis. Sed vitia spiritualia propinquiora sunt rationi quam vitia carnalia. Ergo praedicta vitia magis oriuntur ex vitiis spiritualibus quam ex vitiis carnalibus.

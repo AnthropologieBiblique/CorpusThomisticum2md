@@ -10,7 +10,7 @@ Praeterea, omne agens generat sibi simile, nisi impediatur vel propter defectum 
 Praeterea, in statu innocentiae generatio ad multiplicationem hominum ordinabatur. Sed sufficienter homines multiplicari potuissent per primum hominem et per primam feminam, ex quo in perpetuum victuri erant. Ergo non fuit necessarium quod in statu innocentiae feminae nascerentur.
 
 ###### s. c.
-Sed contra est quod sic natura processisset in generando, sicut eam Deus instituit. Sed Deus instituit marem et feminam in natura humana, ut dicitur Gen. I et II. Ergo etiam in statu illo fuissent mares et feminae generati.
+Sed contra est quod sic natura processisset in generando, sicut eam Deus instituit. Sed Deus instituit marem et feminam in natura humana, ut dicitur [[Gn 1]] et II. Ergo etiam in statu illo fuissent mares et feminae generati.
 
 ###### co.
 Respondeo dicendum quod nihil eorum quae ad complementum humanae naturae pertinent, in statu innocentiae defuisset. Sicut autem ad perfectionem universi pertinent diversi gradus rerum, ita etiam diversitas sexus est ad perfectionem humanae naturae. Et ideo in statu innocentiae uterque sexus per generationem productus fuisset.

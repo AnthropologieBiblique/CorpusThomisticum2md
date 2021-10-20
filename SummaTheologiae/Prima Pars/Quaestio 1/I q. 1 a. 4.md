@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod sacra doctrina sit scientia practica. Finis enim practicae est operatio, secundum philosophum in II Metaphys. Sacra autem doctrina ad operationem ordinatur, secundum illud Iac. I, *estote factores verbi, et non auditores tantum*. Ergo sacra doctrina est practica scientia.
+Ad quartum sic proceditur. Videtur quod sacra doctrina sit scientia practica. Finis enim practicae est operatio, secundum philosophum in II Metaphys. Sacra autem doctrina ad operationem ordinatur, secundum illud [[Jc 1]], *estote factores verbi, et non auditores tantum*. Ergo sacra doctrina est practica scientia.
 
 ###### arg. 2
 Praeterea, sacra doctrina dividitur per legem veterem et novam. Lex autem pertinet ad scientiam moralem, quae est scientia practica. Ergo sacra doctrina est scientia practica.

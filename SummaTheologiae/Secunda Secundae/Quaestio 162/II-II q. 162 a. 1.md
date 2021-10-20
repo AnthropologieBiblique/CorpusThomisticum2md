@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod superbia non sit peccatum. Nullum enim peccatum est repromissum a Deo, promittit enim Deus quod ipse facturus est; non est autem auctor peccati. Sed superbia connumeratur inter repromissiones divinas, dicitur enim Isaiae LX, *ponam te in superbiam saeculorum, gaudium in generatione et generationem*. Ergo superbia non est peccatum.
+Ad primum sic proceditur. Videtur quod superbia non sit peccatum. Nullum enim peccatum est repromissum a Deo, promittit enim Deus quod ipse facturus est; non est autem auctor peccati. Sed superbia connumeratur inter repromissiones divinas, dicitur enim [[Is 60]], *ponam te in superbiam saeculorum, gaudium in generatione et generationem*. Ergo superbia non est peccatum.
 
 ###### arg. 2
 Praeterea, appetere divinam similitudinem non est peccatum, hoc enim naturaliter appetit quaelibet creatura, et in hoc optimum eius consistit. Et praecipue hoc convenit rationali creaturae, quae facta est ad imaginem et similitudinem Dei. Sed sicut dicitur in libro sententiarum prosperi, superbia est amor propriae excellentiae, per quam homo Deo similatur, qui est excellentissimus, unde dicit Augustinus, in II Confess., *superbia celsitudinem imitatur, cum tu sis unus super omnia Deus excelsus*. Ergo superbia non est peccatum.

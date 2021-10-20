@@ -1,13 +1,13 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod divinae dilectionis sit aliquis modus habendus. Ratio enim boni consistit in modo, specie et ordine, ut patet per Augustinum, in libro de Nat. boni. Sed dilectio Dei est optimum in homine, secundum illud ad Coloss. III, *super omnia caritatem habete*. Ergo dilectio Dei debet modum habere.
+Ad sextum sic proceditur. Videtur quod divinae dilectionis sit aliquis modus habendus. Ratio enim boni consistit in modo, specie et ordine, ut patet per Augustinum, in libro de Nat. boni. Sed dilectio Dei est optimum in homine, secundum illud ad [[Col 3]], *super omnia caritatem habete*. Ergo dilectio Dei debet modum habere.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in libro de Morib. Eccles., *dic mihi, quaeso te, quis sit diligendi modus. Vereor enim ne plus minusve quam oportet inflammer desiderio et amore domini mei* frustra autem quaereret modum nisi esset aliquis divinae dilectionis modus. Ergo est aliquis modus divinae dilectionis.
 
 ###### arg. 3
-Praeterea, sicut Augustinus dicit, IV super Gen. ad Litt., *modus est quem unicuique propria mensura praefigit*. Sed mensura voluntatis humanae, sicut et actionis exterioris, est ratio. Ergo sicut in exteriori effectu caritatis oportet habere modum a ratione praestitum, secundum illud Rom. XII, *rationabile obsequium vestrum*; ita etiam ipsa interior dilectio Dei debet modum habere.
+Praeterea, sicut Augustinus dicit, IV super Gen. ad Litt., *modus est quem unicuique propria mensura praefigit*. Sed mensura voluntatis humanae, sicut et actionis exterioris, est ratio. Ergo sicut in exteriori effectu caritatis oportet habere modum a ratione praestitum, secundum illud [[Rm 12]], *rationabile obsequium vestrum*; ita etiam ipsa interior dilectio Dei debet modum habere.
 
 ###### s. c.
 Sed contra est quod Bernardus dicit, in libro de diligendo Deum, *quod causa diligendi Deum Deus est; modus, sine modo diligere*.

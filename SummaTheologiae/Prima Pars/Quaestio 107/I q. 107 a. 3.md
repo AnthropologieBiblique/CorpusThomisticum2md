@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod Angelus Deo non loquatur. Locutio enim e
 Praeterea, loqui est ordinare conceptum intellectus ad alterum, ut dictum est. Sed Angelus semper conceptum suae mentis ordinat in Deum. Si ergo aliquando Deo loquitur, semper Deo loquitur, quod potest videri alicui inconveniens, cum aliquando Angelus Angelo loquatur. Videtur ergo quod Angelus nunquam loquatur Deo.
 
 ###### s. c.
-Sed contra est quod dicitur Zachar. I, *respondit Angelus domini, et dixit, domine exercituum, usquequo non misereberis Ierusalem?* Loquitur ergo Angelus Deo.
+Sed contra est quod dicitur [[Za 1]], *respondit Angelus domini, et dixit, domine exercituum, usquequo non misereberis Ierusalem?* Loquitur ergo Angelus Deo.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, locutio Angeli est per hoc, quod conceptus mentis ordinatur ad alterum. Sed aliquid ordinatur ad alterum dupliciter. Uno modo, ad hoc quod communicet alteri; sicut in rebus naturalibus agens ordinatur ad patiens et in locutione humana doctor ordinatur ad discipulum. Et quantum ad hoc, nullo modo Angelus loquitur Deo, neque de his quae ad rerum veritatem pertinent, neque de his quae dependent a voluntate creata, quia Deus est omnis veritatis et omnis voluntatis principium et conditor. Alio modo ordinatur aliquid ad alterum, ut ab eo aliquid accipiat; sicut in rebus naturalibus passivum ad agens, et in locutione humana discipulus ad magistrum. Et hoc modo Angelus loquitur Deo, vel consultando divinam voluntatem de agendis; vel eius excellentiam, quam nunquam comprehendit, admirando; sicut Gregorius dicit, II Moral., quod *Angeli loquuntur Deo, cum per hoc quod super semetipsos respiciunt, in motum admirationis surgunt*.

@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod esse ubique non sit proprium Dei. Universale enim, secundum philosophum, est ubique et semper, materia etiam prima, cum sit in omnibus corporibus, est ubique. Neutrum autem horum est Deus, ut ex praemissis patet. Ergo esse ubique non est proprium Dei.
 
 ###### arg. 2
-Praeterea, numerus est in numeratis. Sed totum universum est constitutum in numero, ut patet Sap. XI. Ergo aliquis numerus est, qui est in toto universo, et ita ubique.
+Praeterea, numerus est in numeratis. Sed totum universum est constitutum in numero, ut patet [[Sg 11]]. Ergo aliquis numerus est, qui est in toto universo, et ita ubique.
 
 ###### arg. 3
 Praeterea, totum universum est quoddam totum corpus perfectum, ut dicitur in I caeli et mundi. Sed totum universum est ubique, quia extra ipsum nullus locus est. Non ergo solus Deus est ubique.

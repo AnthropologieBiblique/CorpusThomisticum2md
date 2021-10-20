@@ -10,7 +10,7 @@ Praeterea, bonum honestum habet rationem laudabilis et meritorii. Sed tristitia 
 Praeterea, sicut Augustinus dicit, XIV de Civ. Dei, *tristitia est de his quae, nobis nolentibus, accidunt*. Sed non velle ea quae praesentialiter fiunt, est habere voluntatem repugnantem ordinationi divinae, cuius providentiae subiacent omnia quae aguntur. Ergo, cum conformitas humanae voluntatis ad divinam pertineat ad rectitudinem voluntatis, ut supra dictum est; videtur quod tristitia contrarietur rectitudini voluntatis. Et sic non habet rationem honesti.
 
 ###### s. c.
-Sed contra, omne quod meretur praemium vitae aeternae, habet rationem honesti. Sed tristitia est huiusmodi, ut patet per id quod dicitur Matth. V, *beati qui lugent, quoniam ipsi consolabuntur*. Ergo tristitia est bonum honestum.
+Sed contra, omne quod meretur praemium vitae aeternae, habet rationem honesti. Sed tristitia est huiusmodi, ut patet per id quod dicitur [[Mt 5]], *beati qui lugent, quoniam ipsi consolabuntur*. Ergo tristitia est bonum honestum.
 
 ###### co.
 Respondeo dicendum quod, secundum illam rationem qua tristitia est bonum, potest esse bonum honestum. Dictum est enim quod tristitia est bonum secundum cognitionem et recusationem mali. Quae quidem duo in dolore corporali, attestantur bonitati naturae, ex qua provenit quod sensus sentit, et natura refugit laesivum, quod causat dolorem. In interiori vero tristitia, cognitio mali quandoque quidem est per rectum iudicium rationis; et recusatio mali est per voluntatem bene dispositam detestantem malum. Omne autem bonum honestum ex his duobus procedit, scilicet ex rectitudine rationis et voluntatis. Unde manifestum est quod tristitia potest habere rationem boni honesti.

@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod iustitia non sit praecipua inter virtutes morales. Maius enim est dare alicui de proprio, quam reddere alicui quod ei debetur. Sed primum pertinet ad liberalitatem; secundum autem ad iustitiam. Ergo videtur quod liberalitas sit maior virtus quam iustitia.
 
 ###### arg. 2
-Praeterea, illud videtur esse maximum in unoquoque, quod est perfectissimum in ipso. Sed sicut dicitur Iac. I, *patientia opus perfectum habet*. Ergo videtur quod patientia sit maior quam iustitia.
+Praeterea, illud videtur esse maximum in unoquoque, quod est perfectissimum in ipso. Sed sicut dicitur [[Jc 1]], *patientia opus perfectum habet*. Ergo videtur quod patientia sit maior quam iustitia.
 
 ###### arg. 3
 *Praeterea, magnanimitas operatur magnum, in omnibus virtutibus*, ut dicitur in IV Ethic. Ergo magnificat etiam ipsam iustitiam. Est igitur maior quam iustitia.

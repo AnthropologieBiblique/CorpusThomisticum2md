@@ -10,7 +10,7 @@ Praeterea, per rationem naturalem in cognitionem divinorum pervenire non possumu
 Praeterea, intellectus noster per gratiam fidei Deo adhaeret. Fides autem non videtur esse cognitio, dicit enim Gregorius, in Homil., quod ea quae non videntur fidem habent, et non agnitionem. Ergo per gratiam non additur nobis aliqua excellentior cognitio de Deo.
 
 ###### s. c.
-Sed contra est quod dicit apostolus, I Cor. II, *nobis revelavit Deus per spiritum suum*, illa scilicet quae nemo principum huius saeculi novit, idest philosophorum, ut exponit Glossa.
+Sed contra est quod dicit apostolus, [[1 Co 2]], *nobis revelavit Deus per spiritum suum*, illa scilicet quae nemo principum huius saeculi novit, idest philosophorum, ut exponit Glossa.
 
 ###### co.
 Respondeo dicendum quod per gratiam perfectior cognitio de Deo habetur a nobis, quam per rationem naturalem. Quod sic patet. Cognitio enim quam per naturalem rationem habemus, duo requirit, scilicet, phantasmata ex sensibilibus accepta, et lumen naturale intelligibile, cuius virtute intelligibiles conceptiones ab eis abstrahimus. Et quantum ad utrumque, iuvatur humana cognitio per revelationem gratiae. Nam et lumen naturale intellectus confortatur per infusionem luminis gratuiti. Et interdum etiam phantasmata in imaginatione hominis formantur divinitus, magis exprimentia res divinas, quam ea quae naturaliter a sensibilibus accipimus; sicut apparet in visionibus prophetalibus. Et interdum etiam aliquae res sensibiles formantur divinitus, aut etiam voces, ad aliquid divinum exprimendum; sicut in Baptismo visus est spiritus sanctus in specie columbae, et vox patris audita est, *hic est filius meus dilectus*.

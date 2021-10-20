@@ -10,7 +10,7 @@ Praeterea, potentiae animae sunt eius naturales proprietates. Sed proprium sempe
 Praeterea, potentiae animae, etiam sensitivae, non debilitantur debilitato corpore, quia, ut dicitur in I de anima, *si senex accipiat oculum iuvenis, videbit utique sicut et iuvenis*. Sed debilitas est via ad corruptionem. Ergo potentiae animae non corrumpuntur corrupto corpore, sed manent in anima separata.
 
 ###### arg. 4
-Praeterea, memoria est potentia animae sensitivae, ut philosophus probat. Sed memoria manet in anima separata, dicitur enim, Luc. XVI, diviti epuloni in Inferno secundum animam existenti, *recordare quia recepisti bona in vita tua*. Ergo memoria manet in anima separata; et per consequens aliae potentiae sensitivae partis.
+Praeterea, memoria est potentia animae sensitivae, ut philosophus probat. Sed memoria manet in anima separata, dicitur enim, [[Lc 16]], diviti epuloni in Inferno secundum animam existenti, *recordare quia recepisti bona in vita tua*. Ergo memoria manet in anima separata; et per consequens aliae potentiae sensitivae partis.
 
 ###### arg. 5
 Praeterea, gaudium et tristitia sunt in concupiscibili, quae est potentia sensitivae partis. Manifestum est autem animas separatas tristari et gaudere de praemiis vel poenis quas habent. Ergo vis concupiscibilis manet in anima separata.

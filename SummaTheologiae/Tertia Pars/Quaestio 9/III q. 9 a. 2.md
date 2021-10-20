@@ -1,16 +1,16 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod in Christo non fuerit scientia beatorum vel comprehensorum. Scientia enim beatorum est per participationem divini luminis, secundum illud Psalmi, *in lumine tuo videbimus lumen*. Sed Christus non habuit lumen divinum tanquam participatum, sed ipsam divinitatem in se habuit substantialiter manentem, secundum illud Coloss. II, *in ipso habitat omnis plenitudo divinitatis corporaliter*. Ergo in ipso non fuit scientia beatorum.
+Ad secundum sic proceditur. Videtur quod in Christo non fuerit scientia beatorum vel comprehensorum. Scientia enim beatorum est per participationem divini luminis, secundum illud Psalmi, *in lumine tuo videbimus lumen*. Sed Christus non habuit lumen divinum tanquam participatum, sed ipsam divinitatem in se habuit substantialiter manentem, secundum illud [[Col 2]], *in ipso habitat omnis plenitudo divinitatis corporaliter*. Ergo in ipso non fuit scientia beatorum.
 
 ###### arg. 2
-Praeterea, scientia beatorum eos beatos facit, secundum illud Ioan. XVII, *haec est vita aeterna, ut cognoscant te, verum Deum, et quem misisti, Iesum Christum*. Sed homo ille fuit beatus ex hoc ipso quod fuit Deo unitus in persona, secundum illud Psalmi, *beatus quem elegisti et assumpsisti*. Non ergo oportet ponere in ipso scientiam beatorum.
+Praeterea, scientia beatorum eos beatos facit, secundum illud [[Jn 17]], *haec est vita aeterna, ut cognoscant te, verum Deum, et quem misisti, Iesum Christum*. Sed homo ille fuit beatus ex hoc ipso quod fuit Deo unitus in persona, secundum illud Psalmi, *beatus quem elegisti et assumpsisti*. Non ergo oportet ponere in ipso scientiam beatorum.
 
 ###### arg. 3
 Praeterea, duplex scientia homini competit, una secundum suam naturam; alia supra suam naturam. Scientia autem beatorum, quae in divina visione consistit, non est secundum naturam hominis, sed supra eius naturam. In Christo autem fuit alia supernaturalis scientia multo fortior et altior, scilicet scientia divina. Non igitur oportuit in Christo esse scientiam beatorum.
 
 ###### s. c.
-Sed contra, scientia beatorum in Dei visione vel cognitione consistit. Sed ipse plene cognovit Deum, etiam secundum quod homo, secundum illud Ioan. VIII, *scio eum, et sermonem eius servo*. Ergo in Christo fuit scientia beatorum.
+Sed contra, scientia beatorum in Dei visione vel cognitione consistit. Sed ipse plene cognovit Deum, etiam secundum quod homo, secundum illud [[Jn 8]], *scio eum, et sermonem eius servo*. Ergo in Christo fuit scientia beatorum.
 
 ###### co.
 Respondeo dicendum quod illud quod est in potentia, reducitur in actum per id quod est actu, oportet enim esse calidum id per quod alia calefiunt. Homo autem est in potentia ad scientiam beatorum, quae in visione Dei consistit, et ad eam ordinatur sicut ad finem, est enim creatura rationalis capax illius beatae cognitionis, inquantum est ad imaginem Dei. Ad hunc autem finem beatitudinis homines reducuntur per Christi humanitatem, secundum illud Heb. II, *decebat eum propter quem omnia et per quem omnia, qui multos filios in gloriam adduxerat, auctorem salutis eorum per passionem consummari*. Et ideo oportuit quod cognitio ipsa in Dei visione consistens excellentissime Christo homini conveniret, quia semper causam oportet esse potiorem causato.

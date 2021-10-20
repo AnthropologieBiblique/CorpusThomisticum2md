@@ -1,22 +1,22 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod in statu innocentiae non fuisset generatio per coitum. Quia, ut Damascenus dicit, primus homo erat in Paradiso terrestri sicut Angelus quidam. Sed in futuro resurrectionis statu, quando erunt homines Angelis similes, neque nubent neque nubentur, ut dicitur Matth. XXII. Ergo neque in Paradiso fuisset generatio per coitum.
+Ad secundum sic proceditur. Videtur quod in statu innocentiae non fuisset generatio per coitum. Quia, ut Damascenus dicit, primus homo erat in Paradiso terrestri sicut Angelus quidam. Sed in futuro resurrectionis statu, quando erunt homines Angelis similes, neque nubent neque nubentur, ut dicitur [[Mt 22]]. Ergo neque in Paradiso fuisset generatio per coitum.
 
 ###### arg. 2
 Praeterea, primi homines in perfecta aetate conditi fuerunt. Si igitur in eis ante peccatum generatio fuisset per coitum, fuissent etiam in Paradiso carnaliter coniuncti. Quod patet esse falsum, secundum Scripturam.
 
 ###### arg. 3
-Praeterea, in coniunctione carnali maxime efficitur homo similis bestiis, propter vehementiam delectationis, unde etiam continentia laudatur, per quam homines ab huiusmodi delectationibus abstinent. Sed bestiis homo comparatur propter peccatum, secundum illud Psalmi XLVIII, *homo cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis*. Ergo ante peccatum non fuisset maris et feminae carnalis coniunctio.
+Praeterea, in coniunctione carnali maxime efficitur homo similis bestiis, propter vehementiam delectationis, unde etiam continentia laudatur, per quam homines ab huiusmodi delectationibus abstinent. Sed bestiis homo comparatur propter peccatum, secundum illud [[Ps 48]], *homo cum in honore esset, non intellexit, comparatus est iumentis insipientibus, et similis factus est illis*. Ergo ante peccatum non fuisset maris et feminae carnalis coniunctio.
 
 ###### arg. 4
 Praeterea, in statu innocentiae nulla fuisset corruptio. Sed per coitum corrumpitur integritas virginalis. Ergo coitus in statu innocentiae non fuisset.
 
 ###### s. c.
-Sed contra est quod Deus ante peccatum masculum et feminam fecit, ut dicitur Gen. I et II. Nihil autem est frustra in operibus Dei. Ergo etiam si homo non peccasset, fuisset coitus, ad quem distinctio sexuum ordinatur.
+Sed contra est quod Deus ante peccatum masculum et feminam fecit, ut dicitur [[Gn 1]] et II. Nihil autem est frustra in operibus Dei. Ergo etiam si homo non peccasset, fuisset coitus, ad quem distinctio sexuum ordinatur.
 
 ###### s. c.
-Praeterea, Gen. II, dicitur mulier esse facta in adiutorium viri. Sed non ad aliud nisi ad generationem quae fit per coitum, quia ad quodlibet aliud opus, convenientius adiuvari posset vir per virum quam per feminam. Ergo etiam in statu innocentiae fuisset generatio per coitum.
+Praeterea, [[Gn 2]], dicitur mulier esse facta in adiutorium viri. Sed non ad aliud nisi ad generationem quae fit per coitum, quia ad quodlibet aliud opus, convenientius adiuvari posset vir per virum quam per feminam. Ergo etiam in statu innocentiae fuisset generatio per coitum.
 
 ###### co.
 Respondeo dicendum quod quidam antiquorum doctorum, considerantes concupiscentiae foeditatem quae invenitur in coitu in isto statu, posuerunt quod in statu innocentiae non fuisset generatio per coitum. Unde Gregorius Nyssenus dicit in libro quem fecit de homine, quod in Paradiso aliter fuisset multiplicatum genus humanum, sicut multiplicati sunt Angeli, absque concubitu, per operationem divinae virtutis. Et dicit quod Deus ante peccatum fecit masculum et feminam, respiciens ad modum generationis qui futurus erat post peccatum, cuius Deus praescius erat. Sed hoc non dicitur rationabiliter. Ea enim quae sunt naturalia homini, neque subtrahuntur neque dantur homini per peccatum. Manifestum est autem quod homini, secundum animalem vitam, quam etiam ante peccatum habebat, ut supra dictum est, naturale est generare per coitum, sicut et ceteris animalibus perfectis. Et hoc declarant naturalia membra ad hunc usum deputata. Et ideo non est dicendum quod usus horum membrorum naturalium non fuisset ante peccatum, sicut et ceterorum membrorum. Sunt igitur in coitu duo consideranda, secundum praesentem statum. Unum quod naturae est, scilicet coniunctio maris et feminae ad generandum. In omni enim generatione requiritur virtus activa et passiva. Unde, cum in omnibus in quibus est distinctio sexuum, virtus activa sit in mare, virtus vero passiva in femina; naturae ordo exigit ut ad generandum conveniant per coitum mas et femina. Aliud autem quod considerari potest, est quaedam deformitas immoderatae concupiscentiae. Quae in statu innocentiae non fuisset quando inferiores vires omnino rationi subdebantur. Unde Augustinus dicit, in XIV de Civ. Dei, *absit ut suspicemur non potuisse prolem seri sine libidinis morbo. Sed eo voluntatis nutu moverentur illa membra quo cetera, et sine ardore et illecebroso stimulo, cum tranquillitate animi et corporis*.

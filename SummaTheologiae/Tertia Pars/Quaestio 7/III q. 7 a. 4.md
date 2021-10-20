@@ -7,10 +7,10 @@ Ad quartum sic proceditur. Videtur quod in Christo fuerit spes. Dicitur enim in 
 Praeterea, spes est expectatio futurae beatitudinis, ut in secunda parte habitum est. Sed Christus aliquid expectabat ad beatitudinem pertinens, videlicet gloriam corporis. Ergo videtur quod in eo fuit spes.
 
 ###### arg. 3
-Praeterea, unusquisque potest sperare id quod ad eius perfectionem pertinet, si sit futurum. Sed aliquid erat futurum quod ad perfectionem Christi pertinet, secundum illud Ephes. IV, *ad consummationem sanctorum, in opus ministerii, in aedificationem corporis Christi*. Ergo videtur quod Christo competebat habere spem.
+Praeterea, unusquisque potest sperare id quod ad eius perfectionem pertinet, si sit futurum. Sed aliquid erat futurum quod ad perfectionem Christi pertinet, secundum illud [[Ep 4]], *ad consummationem sanctorum, in opus ministerii, in aedificationem corporis Christi*. Ergo videtur quod Christo competebat habere spem.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. VIII, *quod videt quis, quid sperat?* Et sic patet quod, sicut fides est de non visis, ita et spes. Sed fides non fuit in Christo, sicut dictum est. Ergo nec spes.
+Sed contra est quod dicitur [[Rm 8]], *quod videt quis, quid sperat?* Et sic patet quod, sicut fides est de non visis, ita et spes. Sed fides non fuit in Christo, sicut dictum est. Ergo nec spes.
 
 ###### co.
 Respondeo dicendum quod, sicut de ratione fidei est quod aliquis assentiat his quae non videt, ita de ratione spei est quod aliquis expectet id quod nondum habet. Et sicut fides, inquantum est virtus theologica, non est de quocumque non viso, sed solum de Deo, ita etiam spes, inquantum est virtus theologica, habet pro obiecto ipsam Dei fruitionem, quam principaliter homo expectat per spei virtutem. Sed ex consequenti ille qui habet virtutem spei, potest etiam in aliis divinum auxilium expectare, sicut et ille qui habet virtutem fidei, non solum credit Deo de rebus divinis, sed de quibuscumque aliis sibi divinitus revelatis. Christus autem a principio suae conceptionis plene habuit fruitionem divinam, ut infra dicetur. Et ideo virtutem spei non habuit. Habuit tamen spem respectu aliquorum quae nondum erat adeptus, licet non habuit fidem respectu quorumcumque. Quia, licet plene cognosceret omnia, per quod totaliter fides excludebatur ab eo, non tamen adhuc plene habebat omnia quae ad eius perfectionem pertinebant, puta immortalitatem et gloriam corporis, quam poterat sperare.

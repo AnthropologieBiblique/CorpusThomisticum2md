@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod iustitia non sit virtus generalis. Iustitia enim condividitur aliis virtutibus, ut patet Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem*. Sed generale non condividitur seu connumeratur speciebus sub illo generali contentis. Ergo iustitia non est virtus generalis.
+Ad quintum sic proceditur. Videtur quod iustitia non sit virtus generalis. Iustitia enim condividitur aliis virtutibus, ut patet [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem*. Sed generale non condividitur seu connumeratur speciebus sub illo generali contentis. Ergo iustitia non est virtus generalis.
 
 ###### arg. 2
 Praeterea, sicut iustitia ponitur virtus cardinalis, ita etiam temperantia et fortitudo. Sed temperantia vel fortitudo non ponitur virtus generalis. Ergo neque iustitia debet aliquo modo poni virtus generalis.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod iustitia condividitur seu connumeratur aliis virtut
 Ad secundum dicendum quod temperantia et fortitudo sunt in appetitu sensitivo, idest in concupiscibili et irascibili. Huiusmodi autem vires sunt appetitivae quorundam bonorum particularium, sicut et sensus est particularium cognoscitivus. Sed iustitia est sicut in subiecto in appetitu intellectivo, qui potest esse universalis boni, cuius intellectus est apprehensivus. Et ideo iustitia magis potest esse virtus generalis quam temperantia vel fortitudo.
 
 ###### ad 3
-Ad tertium dicendum quod illa quae sunt ad seipsum sunt ordinabilia ad alterum, praecipue quantum ad bonum commune. Unde et iustitia legalis, secundum quod ordinat ad bonum commune, potest dici virtus generalis; et eadem ratione iniustitia potest dici peccatum commune, unde dicitur I Ioan. III quod omne peccatum est iniquitas.
+Ad tertium dicendum quod illa quae sunt ad seipsum sunt ordinabilia ad alterum, praecipue quantum ad bonum commune. Unde et iustitia legalis, secundum quod ordinat ad bonum commune, potest dici virtus generalis; et eadem ratione iniustitia potest dici peccatum commune, unde dicitur [[1 Jn 3]] quod omne peccatum est iniquitas.
 

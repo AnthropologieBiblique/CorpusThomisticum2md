@@ -19,7 +19,7 @@ Respondeo dicendum quod, sicut supra dictum est, ad religionem proprie pertinet 
 Ad primum ergo dicendum quod voluntas movet alias potentias animae in suum finem, sicut supra dictum est. Et ideo religio, quae est in voluntate, ordinat actus aliarum potentiarum ad Dei reverentiam. Inter alias autem potentias animae, intellectus altior est et voluntati propinquior. Et ideo post devotionem, quae pertinet ad ipsam voluntatem, oratio, quae pertinet ad partem intellectivam, est praecipua inter actus religionis, per quam religio intellectum hominis movet in Deum.
 
 ###### ad 2
-Ad secundum dicendum quod non solum petere quae desideramus, sed etiam recte aliquid desiderare sub praecepto cadit. Sed desiderare quidem cadit sub praecepto caritatis, petere autem sub praecepto religionis. Quod quidem praeceptum ponitur Matth. VII, ubi dicitur, *petite, et accipietis*.
+Ad secundum dicendum quod non solum petere quae desideramus, sed etiam recte aliquid desiderare sub praecepto cadit. Sed desiderare quidem cadit sub praecepto caritatis, petere autem sub praecepto religionis. Quod quidem praeceptum ponitur [[Mt 7]], ubi dicitur, *petite, et accipietis*.
 
 ###### ad 3
 Ad tertium dicendum quod orando tradit homo mentem suam Deo, quam ei per reverentiam subiicit et quodammodo praesentat, ut patet ex auctoritate Dionysii prius inducta. Et ideo sicut mens humana praeeminet exterioribus vel corporalibus membris, vel exterioribus rebus quae ad Dei servitium applicantur, ita etiam oratio praeeminet aliis actibus religionis.

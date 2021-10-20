@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod materia luxuriae non sit solum concupiscentiae et delectationes venereae. Dicit enim Augustinus, in libro Confess., quod *luxuria ad satietatem atque abundantiam se cupit vocari*. Sed satietas pertinet ad cibos et potus, abundantia autem ad divitias. Ergo luxuria non est proprie circa concupiscentias et voluptates venereas.
 
 ###### arg. 2
-Praeterea, Prov. XX dicitur, *luxuriosa res est vinum*. Sed vinum pertinet ad delectationem cibi et potus. Ergo circa has maxime videtur esse luxuria.
+Praeterea, [[Pr 20]] dicitur, *luxuriosa res est vinum*. Sed vinum pertinet ad delectationem cibi et potus. Ergo circa has maxime videtur esse luxuria.
 
 ###### arg. 3
 Praeterea, luxuria esse dicitur libidinosae voluptatis appetitus. Sed libidinosa voluptas non solum est in venereis, sed etiam in multis aliis. Ergo luxuria non solum est circa concupiscentias et voluptates venereas.

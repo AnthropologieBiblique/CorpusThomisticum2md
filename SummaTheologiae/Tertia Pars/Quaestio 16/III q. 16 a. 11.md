@@ -4,7 +4,7 @@
 Ad undecimum sic proceditur. Videtur quod Christus, secundum quod homo, sit Deus. Christus enim est Deus per gratiam unionis. Sed Christus, secundum quod homo, habet gratiam unionis. Ergo Christus, secundum quod homo, est Deus.
 
 ###### arg. 2
-Praeterea, dimittere peccata est proprium Dei, secundum illud Isaiae XLIII, *ego ipse sum qui deleo iniquitates tuas propter me*. Sed Christus, secundum quod homo, dimittit peccata, secundum illud Matth. IX, *ut autem sciatis quod filius hominis habet potestatem in terra dimittendi peccata*, et cetera. Ergo Christus, secundum quod homo, est Deus.
+Praeterea, dimittere peccata est proprium Dei, secundum illud [[Is 43]], *ego ipse sum qui deleo iniquitates tuas propter me*. Sed Christus, secundum quod homo, dimittit peccata, secundum illud [[Mt 9]], *ut autem sciatis quod filius hominis habet potestatem in terra dimittendi peccata*, et cetera. Ergo Christus, secundum quod homo, est Deus.
 
 ###### arg. 3
 Praeterea, Christus non est homo communis, sed est iste homo particularis. Sed Christus, secundum quod est iste homo, est Deus, quia in isto homine designatur suppositum aeternum, quod naturaliter est Deus. Ergo Christus, secundum quod homo, est Deus.

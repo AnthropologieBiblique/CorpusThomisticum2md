@@ -1,19 +1,19 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur non convenienti modo Christum fuisse sepultum. Sepultura enim eius respondet morti ipsius. Sed Christus fuit passus mortem abiectissimam, secundum illud Sap. II, *morte turpissima condemnemus eum*. Ergo inconveniens videtur fuisse quod Christo exhibita fuit honorabilis sepultura, inquantum a magnatibus fuit tumulatus, scilicet a Ioseph ab Arimathaea, qui erat nobilis decurio, ut habetur Marci XV, et a Nicodemo, qui erat princeps Iudaeorum, ut habetur Ioan. III.
+Ad secundum sic proceditur. Videtur non convenienti modo Christum fuisse sepultum. Sepultura enim eius respondet morti ipsius. Sed Christus fuit passus mortem abiectissimam, secundum illud [[Sg 2]], *morte turpissima condemnemus eum*. Ergo inconveniens videtur fuisse quod Christo exhibita fuit honorabilis sepultura, inquantum a magnatibus fuit tumulatus, scilicet a Ioseph ab Arimathaea, qui erat nobilis decurio, ut habetur [[Mc 15]], et a Nicodemo, qui erat princeps Iudaeorum, ut habetur [[Jn 3]].
 
 ###### arg. 2
-Praeterea, circa Christum non debuit aliquid fieri quod esset superfluitatis exemplum. Videtur autem superfluitatis fuisse quod ad sepeliendum Christum *Nicodemus venit ferens mixturam myrrhae et aloes quasi libras centum*, ut dicitur Ioan. XIX, *praesertim cum mulier praevenerit corpus eius ungere in sepulturam*, ut dicitur Marci XIV. Non ergo fuit hoc convenienter circa Christum factum.
+Praeterea, circa Christum non debuit aliquid fieri quod esset superfluitatis exemplum. Videtur autem superfluitatis fuisse quod ad sepeliendum Christum *Nicodemus venit ferens mixturam myrrhae et aloes quasi libras centum*, ut dicitur [[Jn 19]], *praesertim cum mulier praevenerit corpus eius ungere in sepulturam*, ut dicitur [[Mc 14]]. Non ergo fuit hoc convenienter circa Christum factum.
 
 ###### arg. 3
-Praeterea, non est conveniens ut aliquod factum sibi ipsi dissonum sit. Sed sepultura Christi fuit simplex ex una parte, quia scilicet *Ioseph involvit corpus eius in sindone munda*, ut dicitur Matth. XXVII, non autem auro aut gemmis aut serico, ut Hieronymus ibidem dicit, ex alia vero parte videtur fuisse ambitiosa, inquantum eum cum aromatibus sepelierunt. Ergo videtur non fuisse conveniens modus sepulturae Christi.
+Praeterea, non est conveniens ut aliquod factum sibi ipsi dissonum sit. Sed sepultura Christi fuit simplex ex una parte, quia scilicet *Ioseph involvit corpus eius in sindone munda*, ut dicitur [[Mt 27]], non autem auro aut gemmis aut serico, ut Hieronymus ibidem dicit, ex alia vero parte videtur fuisse ambitiosa, inquantum eum cum aromatibus sepelierunt. Ergo videtur non fuisse conveniens modus sepulturae Christi.
 
 ###### arg. 4
-Praeterea, quaecumque scripta sunt, et praecipue de Christo, *ad nostram doctrinam scripta sunt*, ut dicitur Rom. XV. Sed quaedam scribuntur in Evangeliis circa sepulcrum quae in nullo videntur ad nostram doctrinam pertinere, sicut quod fuit sepultus in horto, quod in monumento alieno, et novo, et exciso in petra. Inconveniens igitur fuit modus sepulturae Christi.
+Praeterea, quaecumque scripta sunt, et praecipue de Christo, *ad nostram doctrinam scripta sunt*, ut dicitur [[Rm 15]]. Sed quaedam scribuntur in Evangeliis circa sepulcrum quae in nullo videntur ad nostram doctrinam pertinere, sicut quod fuit sepultus in horto, quod in monumento alieno, et novo, et exciso in petra. Inconveniens igitur fuit modus sepulturae Christi.
 
 ###### s. c.
-Sed contra est quod dicitur Isaiae XI, *et erit sepulcrum eius gloriosum*.
+Sed contra est quod dicitur [[Is 11]], *et erit sepulcrum eius gloriosum*.
 
 ###### co.
 Respondeo dicendum quod modus sepulturae Christi ostenditur esse conveniens quantum ad tria. Primo quidem, quantum ad confirmandam fidem mortis et resurrectionis ipsius. Secundo, ad commendandam pietatem eorum qui eum sepelierunt. Unde Augustinus dicit, in I de Civ. Dei, *laudabiliter commemorantur in Evangelio qui corpus eius, de cruce acceptum, diligenter atque honorifice tegendum sepeliendumque curarunt*. Tertio, quantum ad mysterium, per quod informantur illi qui *Christo consepeliuntur in mortem*.

@@ -1,13 +1,13 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod numerus praedestinatorum non sit certus. Numerus enim cui potest fieri additio, non est certus. Sed numero praedestinatorum potest fieri additio, ut videtur, dicitur enim Deut. I, *dominus Deus noster addat ad hunc numerum multa millia*; Glossa, *idest definitum apud Deum, qui novit qui sunt eius*. Ergo numerus praedestinatorum non est certus.
+Ad septimum sic proceditur. Videtur quod numerus praedestinatorum non sit certus. Numerus enim cui potest fieri additio, non est certus. Sed numero praedestinatorum potest fieri additio, ut videtur, dicitur enim [[Dt 1]], *dominus Deus noster addat ad hunc numerum multa millia*; Glossa, *idest definitum apud Deum, qui novit qui sunt eius*. Ergo numerus praedestinatorum non est certus.
 
 ###### arg. 2
 Praeterea, non potest assignari ratio quare magis in hoc numero quam in alio, Deus homines praeordinet ad salutem. Sed nihil a Deo sine ratione disponitur. Ergo non est certus numerus salvandorum praeordinatus a Deo.
 
 ###### arg. 3
-Praeterea, operatio Dei est perfectior quam operatio naturae. Sed in operibus naturae bonum invenitur ut in pluribus, defectus autem et malum ut in paucioribus. Si igitur a Deo institueretur numerus salvandorum, plures essent salvandi quam damnandi. Cuius contrarium ostenditur Matt. VII, ubi dicitur, *lata et spatiosa est via quae ducit ad perditionem, et multi sunt qui intrant per eam, angusta est porta, et arcta via, quae ducit ad vitam, et pauci sunt qui inveniunt eam*. Non ergo est praeordinatus a Deo numerus salvandorum.
+Praeterea, operatio Dei est perfectior quam operatio naturae. Sed in operibus naturae bonum invenitur ut in pluribus, defectus autem et malum ut in paucioribus. Si igitur a Deo institueretur numerus salvandorum, plures essent salvandi quam damnandi. Cuius contrarium ostenditur [[Mt 7]], ubi dicitur, *lata et spatiosa est via quae ducit ad perditionem, et multi sunt qui intrant per eam, angusta est porta, et arcta via, quae ducit ad vitam, et pauci sunt qui inveniunt eam*. Non ergo est praeordinatus a Deo numerus salvandorum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de correptione et gratia, *certus est praedestinatorum numerus, qui neque augeri potest, neque minui*.

@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod aliquis possit pro pecunia mutuata aliq
 Praeterea, unusquisque tenetur ex quodam debito honestatis aliquid recompensare ei qui sibi gratiam fecit, ut dicitur in V Ethic. Sed ille qui alicui in necessitate constituto pecuniam mutuat, gratiam facit, unde et gratiarum actio ei debetur. Ergo ille qui recipit tenetur naturali debito aliquid recompensare. Sed non videtur esse illicitum obligare se ad aliquid ad quod quis ex naturali iure tenetur. Ergo non videtur esse illicitum si aliquis, pecuniam alteri mutuans, in obligationem deducat aliquam recompensationem.
 
 ###### arg. 3
-Praeterea, sicut est quoddam munus a manu, ita est munus a lingua, et ab obsequio, ut dicit Glossa Isaiae XXXIII, *beatus qui excutit manus suas ab omni munere*. Sed licet accipere servitium, vel etiam laudem, ab eo cui quis pecuniam mutuavit. Ergo, pari ratione, licet quodcumque aliud munus accipere.
+Praeterea, sicut est quoddam munus a manu, ita est munus a lingua, et ab obsequio, ut dicit Glossa [[Is 33]], *beatus qui excutit manus suas ab omni munere*. Sed licet accipere servitium, vel etiam laudem, ab eo cui quis pecuniam mutuavit. Ergo, pari ratione, licet quodcumque aliud munus accipere.
 
 ###### arg. 4
 Praeterea, eadem videtur esse comparatio dati ad datum et mutuati ad mutuatum. Sed licet pecuniam accipere pro alia pecunia data. Ergo licet accipere recompensationem alterius mutui pro pecunia mutuata.
@@ -22,7 +22,7 @@ Praeterea, pro pecunia mutuata potest homo pignus accipere, cuius usus posset al
 Praeterea, contingit quandoque quod aliquis carius vendit res suas ratione mutui; aut vilius emit quod est alterius; vel etiam pro dilatione pretium auget, vel pro acceleratione diminuit, in quibus omnibus videtur aliqua recompensatio fieri quasi pro mutuo pecuniae. Hoc autem non manifeste apparet illicitum. Ergo videtur licitum esse aliquod commodum de pecunia mutuata expectare, vel etiam exigere.
 
 ###### s. c.
-Sed contra est quod Ezech. XVIII dicitur, inter alia quae ad virum iustum requiruntur, *usuram et superabundantiam non acceperit*.
+Sed contra est quod [[Ez 18]] dicitur, inter alia quae ad virum iustum requiruntur, *usuram et superabundantiam non acceperit*.
 
 ###### co.
 Respondeo dicendum quod, secundum philosophum, in IV Ethic., omne illud pro pecunia habetur cuius pretium potest pecunia mensurari. Et ideo sicut si aliquis pro pecunia mutuata, vel quacumque alia re quae ex ipso usu consumitur, pecuniam accipit ex pacto tacito vel expresso, peccat contra iustitiam, ut dictum est; ita etiam quicumque ex pacto tacito vel expresso quodcumque aliud acceperit cuius pretium pecunia mensurari potest, simile peccatum incurrit. Si vero accipiat aliquid huiusmodi non quasi exigens, nec quasi ex aliqua obligatione tacita vel expressa, sed sicut gratuitum donum, non peccat, quia etiam antequam pecuniam mutuasset, licite poterat aliquod donum gratis accipere, nec peioris conditionis efficitur per hoc quod mutuavit. Recompensationem vero eorum quae pecunia non mensurantur licet pro mutuo exigere, puta benevolentiam et amorem eius qui mutuavit, vel aliquid huiusmodi.

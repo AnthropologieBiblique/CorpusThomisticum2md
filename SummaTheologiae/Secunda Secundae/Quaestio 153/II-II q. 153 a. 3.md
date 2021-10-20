@@ -10,7 +10,7 @@ Praeterea, quilibet potest licite uti ut libet, eo quod suum est. Sed in actu ve
 Praeterea, omne peccatum habet vitium oppositum. Sed luxuriae nullum vitium videtur esse oppositum. Ergo luxuria non est peccatum.
 
 ###### s. c.
-Sed contra est quod causa est potior effectu. Sed vinum prohibetur propter luxuriam, secundum illud apostoli, Ephes. V, *nolite inebriari vino, in quo est luxuria*. Ergo luxuria est prohibita.
+Sed contra est quod causa est potior effectu. Sed vinum prohibetur propter luxuriam, secundum illud apostoli, [[Ep 5]], *nolite inebriari vino, in quo est luxuria*. Ergo luxuria est prohibita.
 
 ###### s. c.
 Praeterea, Galat. V, enumeratur inter opera carnis.

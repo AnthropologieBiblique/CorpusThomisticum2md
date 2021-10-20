@@ -10,7 +10,7 @@ Praeterea, omne quod quandoque est et quandoque non est, subiacet tempori. Sed A
 Praeterea, Augustinus probat incorruptibilitatem animae per hoc, quod per intellectum est capax veritatis. Sed sicut veritas est incorruptibilis, ita est aeterna. Ergo natura intellectualis et animae et Angeli, non solum est incorruptibilis, sed etiam aeterna.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. VIII, ex persona sapientiae genitae, *dominus possedit me ab initio viarum suarum, antequam quidquam faceret a principio*. Sed Angeli sunt facti a Deo, ut ostensum est. Ergo Angeli aliquando non fuerunt.
+Sed contra est quod dicitur [[Pr 8]], ex persona sapientiae genitae, *dominus possedit me ab initio viarum suarum, antequam quidquam faceret a principio*. Sed Angeli sunt facti a Deo, ut ostensum est. Ergo Angeli aliquando non fuerunt.
 
 ###### co.
 Respondeo dicendum quod solus Deus, pater et filius et spiritus sanctus, est ab aeterno. Hoc enim fides Catholica indubitanter tenet; et omne contrarium est sicut haereticum refutandum. Sic enim Deus creaturas produxit, quod eas ex nihilo fecit, idest postquam nihil fuerat.

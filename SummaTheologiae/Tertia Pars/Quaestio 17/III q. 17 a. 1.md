@@ -13,7 +13,7 @@ Praeterea, Christus non est tantum homo, quia, si purus homo esset, non esset De
 Praeterea, Christus est aliquid quod est pater, et est aliquid quod non est pater. Ergo Christus est aliquid et aliquid. Ergo Christus est duo.
 
 ###### arg. 5
-Praeterea, sicut in mysterio Trinitatis sunt tres personae in una natura, ita in mysterio incarnationis sunt duae naturae in una persona. Sed propter unitatem naturae, non obstante distinctione personae, pater et filius sunt unum, secundum illud Ioan. X, *ego et pater unum sumus*. Ergo, non obstante unitate personae, propter dualitatem naturarum Christus est duo.
+Praeterea, sicut in mysterio Trinitatis sunt tres personae in una natura, ita in mysterio incarnationis sunt duae naturae in una persona. Sed propter unitatem naturae, non obstante distinctione personae, pater et filius sunt unum, secundum illud [[Jn 10]], *ego et pater unum sumus*. Ergo, non obstante unitate personae, propter dualitatem naturarum Christus est duo.
 
 ###### arg. 6
 Praeterea, philosophus dicit, in III Physic., quod unum et duo denominative dicuntur. Sed Christus habet dualitatem naturarum. Ergo Christus est duo.

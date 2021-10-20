@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod audacia non sit peccatum. Dicitur enim Iob XXXIX, de equo, per quem significatur bonus praedicator, secundum Gregorium, in Moral., quod *audacter in occursum pergit armatis*. Sed nullum vitium cedit in commendationem alicuius. Ergo esse audacem non est peccatum.
+Ad primum sic proceditur. Videtur quod audacia non sit peccatum. Dicitur enim [[Jb 39]], de equo, per quem significatur bonus praedicator, secundum Gregorium, in Moral., quod *audacter in occursum pergit armatis*. Sed nullum vitium cedit in commendationem alicuius. Ergo esse audacem non est peccatum.
 
 ###### arg. 2
 Praeterea, sicut philosophus dicit, in VI Ethic., *oportet consiliari quidem tarde, operari autem velociter consiliata*. Sed ad hanc velocitatem operandi iuvat audacia. Ergo audacia non est peccatum, sed magis aliquid laudabile.
@@ -10,7 +10,7 @@ Praeterea, sicut philosophus dicit, in VI Ethic., *oportet consiliari quidem tar
 Praeterea, audacia est quaedam passio quae causatur a spe, ut supra habitum est, cum de passionibus ageretur. Sed spes non ponitur peccatum, sed magis virtus. Ergo nec audacia debet poni peccatum.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. VIII, *cum audace non eas in via, ne forte gravet mala sua in te*. Nullius autem societas est declinanda nisi propter peccatum. Ergo audacia est peccatum.
+Sed contra est quod dicitur [[Si 8]], *cum audace non eas in via, ne forte gravet mala sua in te*. Nullius autem societas est declinanda nisi propter peccatum. Ergo audacia est peccatum.
 
 ###### co.
 Respondeo dicendum quod audacia, sicut supra dictum est, est passio quaedam. Passio autem quandoque quidem est moderata secundum rationem, quandoque autem caret modo rationis, vel per excessum vel per defectum; et secundum hoc est passio vitiosa. Sumuntur autem quandoque nomina passionum a superabundanti, sicut ira dicitur non quaecumque, sed superabundans, prout scilicet est vitiosa. Et hoc etiam modo audacia, per superabundantiam dicta, ponitur esse peccatum.

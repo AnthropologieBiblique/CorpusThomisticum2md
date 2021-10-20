@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod non sit magis benefaciendum his qui sunt nobis magis coniuncti. Dicitur enim Luc. XIV, *cum facis prandium aut cenam, noli vocare amicos tuos neque fratres neque cognatos*. Sed isti sunt maxime coniuncti. Ergo non est magis benefaciendum coniunctis, sed potius extraneis indigentibus, sequitur enim, *sed cum facis convivium, voca pauperes et debiles,* et cetera.
+Ad tertium sic proceditur. Videtur quod non sit magis benefaciendum his qui sunt nobis magis coniuncti. Dicitur enim [[Lc 14]], *cum facis prandium aut cenam, noli vocare amicos tuos neque fratres neque cognatos*. Sed isti sunt maxime coniuncti. Ergo non est magis benefaciendum coniunctis, sed potius extraneis indigentibus, sequitur enim, *sed cum facis convivium, voca pauperes et debiles,* et cetera.
 
 ###### arg. 2
 Praeterea, maximum beneficium est quod homo aliquem in bello adiuvet. Sed miles in bello magis debet iuvare extraneum commilitonem quam consanguineum hostem. Ergo beneficia non sunt magis exhibenda magis coniunctis.

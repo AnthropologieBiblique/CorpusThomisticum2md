@@ -10,7 +10,7 @@ Praeterea, aeternitas durationem quandam significat. Duratio autem magis respici
 Praeterea, totum dicitur quod habet partes. Hoc autem aeternitati non convenit, cum sit simplex. Ergo inconvenienter dicitur tota.
 
 ###### arg. 4
-Praeterea, plures dies non possunt esse simul, nec plura tempora. Sed in aeternitate pluraliter dicuntur dies et tempora, dicitur enim Micheae V, *egressus eius ab initio, a diebus aeternitatis*; et ad Rom., XVI cap., *secundum revelationem mysterii temporibus aeternis taciti*. Ergo aeternitas non est tota simul.
+Praeterea, plures dies non possunt esse simul, nec plura tempora. Sed in aeternitate pluraliter dicuntur dies et tempora, dicitur enim [[Mi 5]], *egressus eius ab initio, a diebus aeternitatis*; et ad Rom., XVI cap., *secundum revelationem mysterii temporibus aeternis taciti*. Ergo aeternitas non est tota simul.
 
 ###### arg. 5
 Praeterea, totum et perfectum sunt idem. Posito igitur quod sit tota, superflue additur quod sit perfecta.

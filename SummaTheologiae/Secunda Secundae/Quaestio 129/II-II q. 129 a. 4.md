@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod magnanimitas non sit specialis virtus. N
 Praeterea, nulli speciali virtuti attribuuntur actus virtutum diversarum. Sed magnanimo attribuuntur diversarum virtutum actus, dicitur enim in IV Ethic., quod ad magnanimum pertinet non fugere commonentem, quod est actus prudentiae; neque facere iniusta, quod est actus iustitiae; et quod est promptus ad benefaciendum, quod est actus caritatis; et quod ministrat prompte, quod est actus liberalitatis; et quod est veridicus, quod est actus veritatis; et quod non est planctivus, quod est actus patientiae. Ergo magnanimitas non est virtus specialis.
 
 ###### arg. 3
-Praeterea, quaelibet virtus est quidam spiritualis ornatus animae, secundum illud Isaiae LXI, *induit me dominus vestimentis salutis*; et postea subdit, *quasi sponsam ornatam monilibus suis*. Sed magnanimitas est ornatus omnium virtutum, ut dicitur in IV Ethic. Ergo magnanimitas est generalis virtus.
+Praeterea, quaelibet virtus est quidam spiritualis ornatus animae, secundum illud [[Is 61]], *induit me dominus vestimentis salutis*; et postea subdit, *quasi sponsam ornatam monilibus suis*. Sed magnanimitas est ornatus omnium virtutum, ut dicitur in IV Ethic. Ergo magnanimitas est generalis virtus.
 
 ###### s. c.
 Sed contra est quod philosophus, in II Ethic., distinguit eam contra alias virtutes.

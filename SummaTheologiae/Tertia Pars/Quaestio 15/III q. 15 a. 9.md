@@ -1,7 +1,7 @@
 ### Articulus 9
 
 ###### arg. 1
-Ad nonum sic proceditur. Videtur quod in Christo non fuerit ira. Dicitur enim Iac. I, *ira enim viri iustitiam Dei non operatur*. Sed quidquid fuit in Christo ad iustitiam Dei pertinuit, ipse enim *factus est nobis iustitia a Deo*, ut dicitur I Cor. I. Ergo videtur quod in Christo non fuerit ira.
+Ad nonum sic proceditur. Videtur quod in Christo non fuerit ira. Dicitur enim [[Jc 1]], *ira enim viri iustitiam Dei non operatur*. Sed quidquid fuit in Christo ad iustitiam Dei pertinuit, ipse enim *factus est nobis iustitia a Deo*, ut dicitur [[1 Co 1]]. Ergo videtur quod in Christo non fuerit ira.
 
 ###### arg. 2
 Praeterea, ira mansuetudini opponitur, ut patet in IV Ethic. Sed Christus fuit maxime mansuetus. Ergo in Christo non fuit ira.
@@ -10,7 +10,7 @@ Praeterea, ira mansuetudini opponitur, ut patet in IV Ethic. Sed Christus fuit m
 Praeterea, Gregorius dicit, in V Moral., quod *ira per vitium excaecat oculum mentis; ira vero per zelum ipsum turbat*. Sed in Christo mentis oculus non fuit neque excaecatus neque turbatus. Ergo in Christo non fuit ira per vitium, nec ira per zelum.
 
 ###### s. c.
-Sed contra est quod Ioan. II dicitur de eo esse impletum quod in Psalmo legitur, *zelus domus tuae comedit me*.
+Sed contra est quod [[Jn 2]] dicitur de eo esse impletum quod in Psalmo legitur, *zelus domus tuae comedit me*.
 
 ###### co.
 Respondeo dicendum quod, sicut in secunda parte dictum est, ira est effectus tristitiae. Ex tristitia enim alicui illata consequitur in eo, circa sensitivam partem, appetitus repellendi illatam iniuriam vel sibi vel aliis. Et sic ira est passio composita ex tristitia et appetitu vindictae. Dictum est autem quod in Christo tristitia esse potuit. Appetitus etiam vindictae quandoque est cum peccato, quando scilicet aliquis vindictam quaerit sibi absque ordine rationis. Et sic ira in Christo esse non potuit, hoc enim dicitur ira per vitium. Quandoque vero talis appetitus est sine peccato, immo est laudabilis, puta cum aliquis appetit vindictam secundum ordinem iustitiae. Et hoc vocatur ira per zelum, dicit enim Augustinus, super Ioan., quod *zelo domus Dei comeditur qui omnia perversa quae videt cupit emendare; et, si emendare non possit, tolerat et gemit*. Et talis ira fuit in Christo.

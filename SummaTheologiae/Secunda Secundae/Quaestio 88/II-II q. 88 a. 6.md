@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod magis sit laudabile et meritorium facere aliquid sine voto quam cum voto. Dicit enim prosper, in II de vita Contempl., sic *abstinere vel ieiunare debemus ut non nos necessitati ieiunandi subdamus, ne iam non devoti, sed inviti rem voluntariam faciamus*. Sed ille qui vovet ieiunium subdit se necessitati ieiunandi. Ergo melius esset si ieiunaret sine voto.
 
 ###### arg. 2
-Praeterea, apostolus dicit, II Cor. IX, *unusquisque prout destinavit in corde suo, non ex tristitia aut ex necessitate, hilarem enim datorem diligit Deus*. Sed quidam ea quae vovent ex tristitia faciunt, et hoc videtur procedere ex necessitate quam votum imponit, quia necessitas contristans est, ut dicitur V Metaphys. Ergo melius est aliquid facere sine voto quam cum voto.
+Praeterea, apostolus dicit, [[2 Co 9]], *unusquisque prout destinavit in corde suo, non ex tristitia aut ex necessitate, hilarem enim datorem diligit Deus*. Sed quidam ea quae vovent ex tristitia faciunt, et hoc videtur procedere ex necessitate quam votum imponit, quia necessitas contristans est, ut dicitur V Metaphys. Ergo melius est aliquid facere sine voto quam cum voto.
 
 ###### arg. 3
 Praeterea, votum necessarium est ad hoc quod firmetur voluntas hominis ad rem quam vovet, ut supra habitum est. Sed non magis potest firmari voluntas ad aliquid faciendum quam cum actu facit illud. Ergo non melius est facere aliquid cum voto quam sine voto.

@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod tristitia non impediat omnem operationem. Sollicitudo enim ex tristitia causatur, ut patet per auctoritatem apostoli inductam. Sed sollicitudo adiuvat ad bene operandum, unde apostolus dicit, II ad Tim. II, *sollicite cura teipsum exhibere operarium inconfusibilem*. Ergo tristitia non impedit operationem, sed magis adiuvat ad bene operandum.
+Ad tertium sic proceditur. Videtur quod tristitia non impediat omnem operationem. Sollicitudo enim ex tristitia causatur, ut patet per auctoritatem apostoli inductam. Sed sollicitudo adiuvat ad bene operandum, unde apostolus dicit, [[2 Tm 2]], *sollicite cura teipsum exhibere operarium inconfusibilem*. Ergo tristitia non impedit operationem, sed magis adiuvat ad bene operandum.
 
 ###### arg. 2
 Praeterea, tristitia causat in multis concupiscentiam, ut dicitur in VII Ethic. Sed concupiscentia facit ad intensionem operationis. Ergo et tristitia.

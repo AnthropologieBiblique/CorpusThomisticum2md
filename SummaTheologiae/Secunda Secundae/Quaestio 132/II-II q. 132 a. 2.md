@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod inanis gloria magnanimitati non opponat
 Praeterea, inanis gloria non opponitur magnanimitati per defectum, sicut pusillanimitas, quae inani gloriae repugnans videtur. Similiter etiam nec per excessum, sic enim opponitur magnanimitati praesumptio et ambitio, ut dictum est, a quibus inanis gloria differt. Ergo inanis gloria non opponitur magnanimitati.
 
 ###### arg. 3
-Praeterea, Philipp. II, super illud, nihil per contentionem aut inanem gloriam, dicit Glossa, *erant aliqui inter eos dissentientes, inquieti, inanis gloriae causa contendentes*. Contentio autem non opponitur magnanimitati. Ergo neque inanis gloria.
+Praeterea, [[Ph 2]], super illud, nihil per contentionem aut inanem gloriam, dicit Glossa, *erant aliqui inter eos dissentientes, inquieti, inanis gloriae causa contendentes*. Contentio autem non opponitur magnanimitati. Ergo neque inanis gloria.
 
 ###### s. c.
 Sed contra est quod Tullius dicit, in I de Offic., *cavenda est gloriae cupiditas, eripit enim animi libertatem, pro qua magnanimis viris omnis debet esse contentio*. Ergo opponitur magnanimitati.

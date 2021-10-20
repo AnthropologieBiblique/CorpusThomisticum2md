@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod gula non sit peccatum. Dicit enim dominus, Matth. XV, *quod intrat in os, non coinquinat hominem*. Sed gula est circa cibos, qui intrant in hominem. Cum ergo omne peccatum coinquinet hominem, videtur quod gula non sit peccatum.
+Ad primum sic proceditur. Videtur quod gula non sit peccatum. Dicit enim dominus, [[Mt 15]], *quod intrat in os, non coinquinat hominem*. Sed gula est circa cibos, qui intrant in hominem. Cum ergo omne peccatum coinquinet hominem, videtur quod gula non sit peccatum.
 
 ###### arg. 2
 Praeterea, nullus peccat in eo quod vitare non potest. Sed gula consistit in immoderantia cibi, quam non potest homo vitare, dicit enim Gregorius, XXX Moral., *quia per esum voluptas necessitati miscetur, quid necessitas petat, et quid voluptas suppetat, ignoratur*; et Augustinus dicit, X Confess., *quis est, domine, qui aliquantulum extra metas necessitatis cibum non sumit?* Ergo gula non est peccatum.

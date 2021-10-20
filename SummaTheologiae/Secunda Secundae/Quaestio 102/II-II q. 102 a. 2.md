@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod ad observantiam non pertinet exhibere c
 Praeterea, ad iustitiam pertinet reddere debitum. Unde et ad observantiam, quae ponitur iustitiae pars. Sed cultum et honorem non debemus omnibus in dignitate constitutis, sed solum his qui super nos praelationem habent. Ergo inconvenienter determinatur quod eis observantia exhibet cultum et honorem.
 
 ###### arg. 3
-Praeterea, superioribus nostris in dignitate constitutis non solum debemus honorem, sed etiam timorem, et aliquam munerum largitionem, secundum illud ad Rom. XIII, *reddite omnibus debita, et cui tributum, tributum; cui vectigal, vectigal; cui timorem, timorem; cui honorem, honorem*. Debemus etiam eis reverentiam et subiectionem, secundum illud Heb. XIII, *obedite praepositis vestris, et subiacete eis*. Non ergo convenienter determinatur quod observantia exhibet cultum et honorem.
+Praeterea, superioribus nostris in dignitate constitutis non solum debemus honorem, sed etiam timorem, et aliquam munerum largitionem, secundum illud ad [[Rm 13]], *reddite omnibus debita, et cui tributum, tributum; cui vectigal, vectigal; cui timorem, timorem; cui honorem, honorem*. Debemus etiam eis reverentiam et subiectionem, secundum illud Heb. XIII, *obedite praepositis vestris, et subiacete eis*. Non ergo convenienter determinatur quod observantia exhibet cultum et honorem.
 
 ###### s. c.
 Sed contra est quod Tullius dicit, quod *observantia est per quam homines aliqua dignitate antecedentes quodam cultu et honore dignantur*.

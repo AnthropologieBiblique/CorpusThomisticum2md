@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod homo in primo statu decipi potuisset. Dicit enim apostolus, I ad Tim. II, quod *mulier seducta in praevaricatione fuit*.
+Ad quartum sic proceditur. Videtur quod homo in primo statu decipi potuisset. Dicit enim apostolus, [[1 Tm 2]], quod *mulier seducta in praevaricatione fuit*.
 
 ###### arg. 2
 Praeterea, Magister dicit, XXI dist. II Sent., quod *ideo mulier non horruit serpentem loquentem, quia officium loquendi eum accepisse a Deo putavit*. Sed hoc falsum erat. Ergo mulier decepta fuit ante peccatum.

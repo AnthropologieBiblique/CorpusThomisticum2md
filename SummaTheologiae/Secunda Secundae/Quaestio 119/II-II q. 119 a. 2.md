@@ -7,10 +7,10 @@ Ad secundum sic proceditur. Videtur quod prodigalitas non sit peccatum. Dicit en
 Praeterea, apostolus, I ad Tim. ult., dicit, *divitibus huius saeculi praecipe facile tribuere, communicare*. Sed hoc maxime faciunt prodigi. Ergo prodigalitas non est peccatum.
 
 ###### arg. 3
-Praeterea, ad prodigalitatem pertinet superabundare in datione et deficere in sollicitudine divitiarum. Sed hoc maxime convenit viris perfectis implentibus quod dominus dicit, Matth. VI, *nolite solliciti esse in crastinum*; et XIX, *vende omnia quae habes, et da pauperibus*. Ergo prodigalitas non est peccatum.
+Praeterea, ad prodigalitatem pertinet superabundare in datione et deficere in sollicitudine divitiarum. Sed hoc maxime convenit viris perfectis implentibus quod dominus dicit, [[Mt 6]], *nolite solliciti esse in crastinum*; et XIX, *vende omnia quae habes, et da pauperibus*. Ergo prodigalitas non est peccatum.
 
 ###### s. c.
-Sed contra est quod filius prodigus vituperatur de sua prodigalitate, Luc. XV.
+Sed contra est quod filius prodigus vituperatur de sua prodigalitate, [[Lc 15]].
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, prodigalitas opponitur avaritiae secundum oppositionem superabundantiae et defectus. Medium autem virtutis per utrumque horum corrumpitur. Ex hoc autem est aliquid vitiosum et peccatum quod corrumpit bonum virtutis. Unde relinquitur quod prodigalitas sit peccatum.

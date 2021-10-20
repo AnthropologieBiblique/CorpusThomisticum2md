@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod una persona non possit assumere naturam 
 Praeterea, sicut dicimus personam filii incarnatam, ita et naturam, *tota enim divina natura in una suarum hypostasum incarnata est*, ut dicit Damascenus, in III libro. Sed natura communis est tribus personis. Ergo et assumptio.
 
 ###### arg. 3
-Praeterea, sicut humana natura in Christo assumpta est a Deo, ita etiam et homines per gratiam assumuntur ab ipso, secundum illud Rom. XIV, *Deus illum assumpsit*. Sed haec assumptio communiter pertinet ad omnes personas. Ergo et prima.
+Praeterea, sicut humana natura in Christo assumpta est a Deo, ita etiam et homines per gratiam assumuntur ab ipso, secundum illud [[Rm 14]], *Deus illum assumpsit*. Sed haec assumptio communiter pertinet ad omnes personas. Ergo et prima.
 
 ###### s. c.
 Sed contra est quod Dionysius, II cap. de Div. Nom., incarnationis mysterium dicit pertinere ad discretam theologiam, secundum quam scilicet aliquid distinctum dicitur de divinis personis.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod ratio illa procedit ex parte operationis. Et sequer
 Ad secundum dicendum quod natura dicitur incarnata, sicut et assumens, ratione personae ad quam terminata est unio, sicut dictum est, non autem prout est communis tribus personis. Dicitur autem tota natura divina incarnata, non quia sit incarnata in omnibus personis, sed quia nihil deest de perfectione divinae naturae personae incarnatae.
 
 ###### ad 3
-Ad tertium dicendum quod assumptio quae fit per gratiam adoptionis, terminatur ad quandam participationem divinae naturae secundum assimilationem ad bonitatem illius, secundum illud II Pet. I, *ut divinae consortes naturae*, et cetera. Et ideo huiusmodi assumptio communis est tribus personis et ex parte principii et ex parte termini. Sed assumptio quae est per gratiam unionis, est communis ex parte principii, non autem ex parte termini, ut dictum est.
+Ad tertium dicendum quod assumptio quae fit per gratiam adoptionis, terminatur ad quandam participationem divinae naturae secundum assimilationem ad bonitatem illius, secundum illud [[2 P 1]], *ut divinae consortes naturae*, et cetera. Et ideo huiusmodi assumptio communis est tribus personis et ex parte principii et ex parte termini. Sed assumptio quae est per gratiam unionis, est communis ex parte principii, non autem ex parte termini, ut dictum est.
 

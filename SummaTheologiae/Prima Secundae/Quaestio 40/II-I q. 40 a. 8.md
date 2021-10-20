@@ -4,10 +4,10 @@
 Ad octavum sic proceditur. Videtur quod spes non adiuvet operationem, sed magis impediat. Ad spem enim securitas pertinet. Sed securitas parit negligentiam, quae impedit operationem. Ergo spes impedit operationem.
 
 ###### arg. 2
-Praeterea, tristitia impedit operationem, ut supra dictum est. Sed spes quandoque causat tristitiam, dicitur enim Prov. XIII, *spes quae differtur, affligit animam*. Ergo spes impedit operationem.
+Praeterea, tristitia impedit operationem, ut supra dictum est. Sed spes quandoque causat tristitiam, dicitur enim [[Pr 13]], *spes quae differtur, affligit animam*. Ergo spes impedit operationem.
 
 ###### arg. 3
-Praeterea, desperatio contrariatur spei, ut dictum est. Sed desperatio, maxime in rebus bellicis, adiuvat operationem, dicitur enim II Reg. II, quod *periculosa res est desperatio*. Ergo spes facit contrarium effectum, impediendo scilicet operationem.
+Praeterea, desperatio contrariatur spei, ut dictum est. Sed desperatio, maxime in rebus bellicis, adiuvat operationem, dicitur enim [[2S 2]], quod *periculosa res est desperatio*. Ergo spes facit contrarium effectum, impediendo scilicet operationem.
 
 ###### s. c.
 Sed contra est quod dicitur I ad Cor. IX, quod *qui arat, debet arare in spe fructus percipiendi*. Et eadem ratio est in omnibus aliis.

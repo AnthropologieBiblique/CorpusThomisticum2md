@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod Deus sit beatitudo cuiuslibet beati. Deu
 Praeterea, beatitudo est finis rationalis naturae ultimus. Sed esse ultimum finem rationalis naturae, soli Deo convenit. Ergo beatitudo cuiuslibet beati est solus Deus.
 
 ###### s. c.
-Sed contra, beatitudo unius est maior beatitudine alterius, secundum illud I Cor. XV, *stella differt a stella in claritate*. Sed Deo nihil est maius. Ergo beatitudo est aliquid aliud quam Deus.
+Sed contra, beatitudo unius est maior beatitudine alterius, secundum illud [[1 Co 15]], *stella differt a stella in claritate*. Sed Deo nihil est maius. Ergo beatitudo est aliquid aliud quam Deus.
 
 ###### co.
 Respondeo dicendum quod beatitudo intellectualis naturae consistit in actu intellectus. In quo duo possunt considerari, scilicet obiectum actus, quod est intelligibile; et ipse actus, qui est intelligere. Si igitur beatitudo consideretur ex parte ipsius obiecti, sic solus Deus est beatitudo, quia ex hoc solo est aliquis beatus, quod Deum intelligit; secundum illud Augustini, in V libro Confess., *beatus est qui te novit, etiam si alia ignoret*. Sed ex parte actus intelligentis, beatitudo est quid creatum in creaturis beatis, in Deo autem est etiam secundum hoc, aliquid increatum.

@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod prophetae ipsam Dei essentiam videant. Quia super illud Isaiae XXXVIII, dispone domui tuae etc., dicit Glossa, *prophetae in ipso libro praescientiae Dei, in quo omnia scripta sunt, legere possunt*. Sed praescientia Dei est ipsa eius essentia. Ergo prophetae vident ipsam Dei essentiam.
+Ad primum sic proceditur. Videtur quod prophetae ipsam Dei essentiam videant. Quia super illud [[Is 38]], dispone domui tuae etc., dicit Glossa, *prophetae in ipso libro praescientiae Dei, in quo omnia scripta sunt, legere possunt*. Sed praescientia Dei est ipsa eius essentia. Ergo prophetae vident ipsam Dei essentiam.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in IX de Trin., quod *in illa aeterna veritate, ex qua temporalia facta sunt omnia, formam secundum quam sumus, et secundum quam operamur, visu mentis aspicimus*. Sed prophetae altissimam inter omnes homines habent divinorum cognitionem. Ergo ipsi maxime divinam essentiam vident.

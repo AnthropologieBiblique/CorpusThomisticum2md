@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod filius Dei humanam naturam assumere debuit in omnibus individuis. Id enim quod primo et per se assumptum est, est natura humana. Sed quod convenit per se alicui naturae, convenit omnibus in eadem natura existentibus. Ergo conveniens fuit ut natura humana assumeretur a Dei verbo in omnibus suppositis.
 
 ###### arg. 2
-Praeterea, incarnatio divina processit ex divina caritate, ideo dicitur Ioan. III, *sic Deus dilexit mundum ut filium suum unigenitum daret*. Sed caritas facit ut aliquis se communicet amicis quantum possibile est. Possibile autem fuit filio Dei ut plures naturas hominum assumeret, ut supra dictum est, et, eadem ratione, omnes. Ergo conveniens fuit ut filius Dei assumeret naturam in omnibus suis suppositis.
+Praeterea, incarnatio divina processit ex divina caritate, ideo dicitur [[Jn 3]], *sic Deus dilexit mundum ut filium suum unigenitum daret*. Sed caritas facit ut aliquis se communicet amicis quantum possibile est. Possibile autem fuit filio Dei ut plures naturas hominum assumeret, ut supra dictum est, et, eadem ratione, omnes. Ergo conveniens fuit ut filius Dei assumeret naturam in omnibus suis suppositis.
 
 ###### arg. 3
 Praeterea, sapiens operator perficit opus suum breviori via qua potest. Sed brevior via fuisset si omnes homines assumpti fuissent ad naturalem filiationem, quam quod per unum filium naturalem multi in adoptionem filiorum adducantur, ut dicitur Galat. IV. Ergo natura humana debuit a filio Dei assumi in omnibus suppositis.
@@ -19,7 +19,7 @@ Respondeo dicendum quod non fuit conveniens quod humana natura in omnibus suis s
 Ad primum ergo dicendum quod assumi convenit secundum se humanae naturae, quia scilicet non convenit ei ratione personae, sicut naturae divinae convenit assumere ratione personae. Non autem quia convenit ei secundum se sicut pertinens ad principia essentialia eius, vel sicut naturalis eius proprietas, per quem modum conveniret omnibus eius suppositis.
 
 ###### ad 2
-Ad secundum dicendum quod dilectio Dei ad homines manifestatur non solum in ipsa assumptione humanae naturae, sed praecipue per ea quae passus est in natura humana pro aliis hominibus, secundum illud Rom. V, *commendat autem Deus suam caritatem in nobis, quia, cum inimici essemus, Christus pro nobis mortuus est*. Quod locum non haberet si in omnibus hominibus naturam humanam assumpsisset.
+Ad secundum dicendum quod dilectio Dei ad homines manifestatur non solum in ipsa assumptione humanae naturae, sed praecipue per ea quae passus est in natura humana pro aliis hominibus, secundum illud [[Rm 5]], *commendat autem Deus suam caritatem in nobis, quia, cum inimici essemus, Christus pro nobis mortuus est*. Quod locum non haberet si in omnibus hominibus naturam humanam assumpsisset.
 
 ###### ad 3
 Ad tertium dicendum quod ad brevitatem viae quam sapiens operator observat, pertinet quod non faciat per multa quod sufficienter potest fieri per unum. Et ideo convenientissimum fuit quod per unum hominem alii omnes salvarentur.

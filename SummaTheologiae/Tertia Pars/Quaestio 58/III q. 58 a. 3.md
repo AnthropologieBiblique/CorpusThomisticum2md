@@ -4,10 +4,10 @@
 Ad tertium sic proceditur. Videtur quod sedere ad dexteram patris non conveniat Christo secundum quod homo. Ut enim Damascenus dicit *dexteram patris dicimus gloriam et honorem divinitatis*. Sed honor et gloria divinitatis non convenit Christo secundum quod homo. Ergo videtur quod Christus, secundum quod homo, non sedeat ad dexteram patris.
 
 ###### arg. 2
-Praeterea, sedere ad dexteram regnantis subiectionem excludere videtur, quia qui sedet ad dexteram regnantis, quodammodo illi conregnat. Christus autem, secundum quod homo, est subiectus patri, ut dicitur I Cor. XV. Ergo videtur quod Christus, secundum quod homo, non sit ad dexteram patris.
+Praeterea, sedere ad dexteram regnantis subiectionem excludere videtur, quia qui sedet ad dexteram regnantis, quodammodo illi conregnat. Christus autem, secundum quod homo, est subiectus patri, ut dicitur [[1 Co 15]]. Ergo videtur quod Christus, secundum quod homo, non sit ad dexteram patris.
 
 ###### arg. 3
-Praeterea, Rom. VIII, super illud, *qui est ad dexteram Dei*, exponit Glossa, *idest, aequalis patri in honore quo Deus pater est; vel, ad dexteram patris, idest in potioribus bonis Dei*. Et super illud Heb. I, *sedet ad dexteram Dei in excelsis*, Glossa, *idest, ad aequalitatem patris, super omnia et loco et dignitate*. Sed esse aequalem Deo non convenit Christo secundum quod homo, nam secundum hoc ipse dicit, Ioan. XIV, *pater maior me est*. Ergo videtur quod sedere ad dexteram patris non conveniat Christo secundum quod homo.
+Praeterea, [[Rm 8]], super illud, *qui est ad dexteram Dei*, exponit Glossa, *idest, aequalis patri in honore quo Deus pater est; vel, ad dexteram patris, idest in potioribus bonis Dei*. Et super illud Heb. I, *sedet ad dexteram Dei in excelsis*, Glossa, *idest, ad aequalitatem patris, super omnia et loco et dignitate*. Sed esse aequalem Deo non convenit Christo secundum quod homo, nam secundum hoc ipse dicit, [[Jn 14]], *pater maior me est*. Ergo videtur quod sedere ad dexteram patris non conveniat Christo secundum quod homo.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in sermone de symbolo, *ipsam dexteram intelligite potestatem quam accepit ille homo susceptus a Deo, ut veniat iudicaturus qui prius venerat iudicandus*.

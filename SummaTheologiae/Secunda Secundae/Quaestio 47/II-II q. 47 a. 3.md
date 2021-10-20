@@ -19,7 +19,7 @@ Respondeo dicendum quod, sicut supra dictum est, ad prudentiam pertinet non solu
 Ad primum ergo dicendum quod ratio primo quidem et principaliter est universalium, potest tamen universales rationes ad particularia applicare (unde syllogismorum conclusiones non solum sunt universales, sed etiam particulares); quia intellectus per quandam reflexionem se ad materiam extendit, ut dicitur in III de anima.
 
 ###### ad 2
-Ad secundum dicendum quod quia infinitas singularium non potest ratione humana comprehendi, inde est quod sunt incertae providentiae nostrae, ut dicitur Sap. IX. Tamen per experientiam singularia infinita reducuntur ad aliqua finita quae ut in pluribus accidunt, quorum cognitio sufficit ad prudentiam humanam.
+Ad secundum dicendum quod quia infinitas singularium non potest ratione humana comprehendi, inde est quod sunt incertae providentiae nostrae, ut dicitur [[Sg 9]]. Tamen per experientiam singularia infinita reducuntur ad aliqua finita quae ut in pluribus accidunt, quorum cognitio sufficit ad prudentiam humanam.
 
 ###### ad 3
 Ad tertium dicendum quod, sicut philosophus dicit, in VI Ethic., prudentia non consistit in sensu exteriori, quo cognoscimus sensibilia propria, sed in sensu interiori, qui perficitur per memoriam et experimentum ad prompte iudicandum de particularibus expertis. Non tamen ita quod prudentia sit in sensu interiori sicut in subiecto principali, sed principaliter quidem est in ratione, per quandam autem applicationem pertingit ad huiusmodi sensum.

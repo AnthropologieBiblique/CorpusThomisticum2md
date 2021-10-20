@@ -7,10 +7,10 @@ Ad quartum sic proceditur. Videtur quod praedestinati non eligantur a Deo. Dicit
 Praeterea, electio est eorum quae sunt. Sed praedestinatio ab aeterno est etiam eorum quae non sunt. Ergo praedestinantur aliqui absque electione.
 
 ###### arg. 3
-Praeterea, electio quandam discretionem importat. *Sed Deus vult omnes homines salvos fieri*, ut dicitur I Tim. II. Ergo praedestinatio, quae praeordinat homines in salutem, est absque electione.
+Praeterea, electio quandam discretionem importat. *Sed Deus vult omnes homines salvos fieri*, ut dicitur [[1 Tm 2]]. Ergo praedestinatio, quae praeordinat homines in salutem, est absque electione.
 
 ###### s. c.
-Sed contra est quod dicitur Ephes. I, *elegit nos in ipso ante mundi constitutionem*.
+Sed contra est quod dicitur [[Ep 1]], *elegit nos in ipso ante mundi constitutionem*.
 
 ###### co.
 Respondeo dicendum quod praedestinatio, secundum rationem, praesupponit electionem; et electio dilectionem. Cuius ratio est, quia praedestinatio, ut dictum est, est pars providentiae. Providentia autem, sicut et prudentia, est ratio in intellectu existens, praeceptiva ordinationis aliquorum in finem, ut supra dictum est. Non autem praecipitur aliquid ordinandum in finem, nisi praeexistente voluntate finis. Unde praedestinatio aliquorum in salutem aeternam, praesupponit, secundum rationem, quod Deus illorum velit salutem. Ad quod pertinet electio et dilectio. Dilectio quidem, inquantum vult eis hoc bonum salutis aeternae, nam diligere est velle alicui bonum, ut supra dictum est. Electio autem, inquantum hoc bonum aliquibus prae aliis vult, cum quosdam reprobet, ut supra dictum est. Electio tamen et dilectio aliter ordinantur in nobis et in Deo, eo quod in nobis voluntas diligendo non causat bonum; sed ex bono praeexistente incitamur ad diligendum. Et ideo eligimus aliquem, quem diligamus, et sic electio dilectionem praecedit in nobis. In Deo autem est e converso. Nam voluntas eius, qua vult bonum alicui diligendo, est causa quod illud bonum ab eo prae aliis habeatur. Et sic patet quod dilectio praesupponitur electioni, secundum rationem; et electio praedestinationi. Unde omnes praedestinati sunt electi et dilecti.

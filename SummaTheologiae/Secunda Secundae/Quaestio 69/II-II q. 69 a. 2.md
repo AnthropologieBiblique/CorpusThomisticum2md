@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod accusato liceat calumniose se defendere
 Praeterea, accusator cum accusato colludens poenam recipit legibus constitutam, ut habetur, II, qu. III, non autem imponitur poena accusato propter hoc quod cum accusatore colludit. Ergo videtur quod liceat accusato calumniose se defendere.
 
 ###### arg. 3
-Praeterea, Prov. XIV dicitur, *sapiens timet et declinat a malo, stultus transilit et confidit*. Sed illud quod fit per sapientiam non est peccatum. Ergo si aliquis qualitercumque se liberet a malo, non peccat.
+Praeterea, [[Pr 14]] dicitur, *sapiens timet et declinat a malo, stultus transilit et confidit*. Sed illud quod fit per sapientiam non est peccatum. Ergo si aliquis qualitercumque se liberet a malo, non peccat.
 
 ###### s. c.
 Sed contra est quod etiam in causa criminali iuramentum de calumnia est praestandum, ut habetur extra, de iuramento Calum., inhaerentes. Quod non esset si calumniose defendere se liceret. Ergo non est licitum accusato calumniose se defendere.

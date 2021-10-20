@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod haeresis non sit infidelitatis species. I
 Praeterea, vitium praecipue accipit speciem a fine, unde philosophus dicit, in V Ethic., quod *ille qui moechatur ut furetur, magis est fur quam moechus*. Sed finis haeresis est commodum temporale, et maxime principatus et gloria, quod pertinet ad vitium superbiae vel cupiditatis, dicit enim Augustinus, in libro de Util. Cred., quod *haereticus est qui alicuius temporalis commodi, et maxime gloriae principatusque sui gratia, falsas ac novas opiniones vel gignit vel sequitur*. Ergo haeresis non est species infidelitatis, sed magis superbiae.
 
 ###### arg. 3
-Praeterea, infidelitas, cum sit in intellectu, non videtur ad carnem pertinere. Sed haeresis pertinet ad opera carnis, dicit enim apostolus, ad Gal. V, *manifesta sunt opera carnis, quae sunt fornicatio, immunditia*; et inter cetera postmodum subdit, dissensiones, sectae, quae sunt idem quod haereses. Ergo haeresis non est infidelitatis species.
+Praeterea, infidelitas, cum sit in intellectu, non videtur ad carnem pertinere. Sed haeresis pertinet ad opera carnis, dicit enim apostolus, ad [[Ga 5]], *manifesta sunt opera carnis, quae sunt fornicatio, immunditia*; et inter cetera postmodum subdit, dissensiones, sectae, quae sunt idem quod haereses. Ergo haeresis non est infidelitatis species.
 
 ###### s. c.
 Sed contra est quod falsitas veritati opponitur. Sed *haereticus est qui falsas vel novas opiniones vel gignit vel sequitur*. Ergo opponitur veritati, cui fides innititur. Ergo sub infidelitate continetur.

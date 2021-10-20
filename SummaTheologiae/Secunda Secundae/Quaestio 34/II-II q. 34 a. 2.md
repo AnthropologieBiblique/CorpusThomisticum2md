@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod odium Dei non sit maximum peccatorum. Gravissimum enim peccatum est peccatum in spiritum sanctum, quod est irremissibile, ut dicitur Matth. XII. Sed odium Dei non computatur inter species peccati in spiritum sanctum; ut ex supradictis patet. Ergo odium Dei non est gravissimum peccatorum.
+Ad secundum sic proceditur. Videtur quod odium Dei non sit maximum peccatorum. Gravissimum enim peccatum est peccatum in spiritum sanctum, quod est irremissibile, ut dicitur [[Mt 12]]. Sed odium Dei non computatur inter species peccati in spiritum sanctum; ut ex supradictis patet. Ergo odium Dei non est gravissimum peccatorum.
 
 ###### arg. 2
 Praeterea, peccatum consistit in elongatione a Deo. Sed magis videtur esse elongatus a Deo infidelis, qui nec Dei cognitionem habet, quam fidelis, qui saltem, quamvis Deum odio habet, eum tamen cognoscit. Ergo videtur quod gravius sit peccatum infidelitatis quam peccatum odii in Deum.

@@ -10,7 +10,7 @@ Praeterea, verba requiruntur in sacramentis inquantum sunt principaliter signifi
 Praeterea, corruptio cuiuslibet rei variat eius speciem. Sed quidam corrupte verba proferunt, nec tamen propter hoc impediri creditur sacramentorum effectus, alioquin illiterati et balbi qui sacramenta conferunt, frequenter defectum in sacramentis inducerent. Ergo videtur quod non requirantur in sacramentis determinata verba.
 
 ###### s. c.
-Sed contra est quod dominus determinata verba protulit in consecratione sacramenti Eucharistiae, dicens, Matth. XXVI, *hoc est corpus meum*. Similiter etiam mandavit discipulis ut sub determinata forma verborum baptizarent, dicens, Matth. ult., *euntes, docete omnes gentes, baptizantes eos in nomine patris et filii et spiritus sancti*.
+Sed contra est quod dominus determinata verba protulit in consecratione sacramenti Eucharistiae, dicens, [[Mt 26]], *hoc est corpus meum*. Similiter etiam mandavit discipulis ut sub determinata forma verborum baptizarent, dicens, Matth. ult., *euntes, docete omnes gentes, baptizantes eos in nomine patris et filii et spiritus sancti*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, in sacramentis verba se habent per modum formae, res autem sensibiles per modum materiae. In omnibus autem compositis ex materia et forma principium determinationis est ex parte formae, quae est quodammodo finis et terminus materiae. Et ideo principalius requiritur ad esse rei determinata forma quam determinata materia, materia enim determinata quaeritur ut sit proportionata determinatae formae. Cum igitur in sacramentis requirantur determinatae res sensibiles, quae se habent in sacramentis sicut materia, multo magis requiritur in eis determinata forma verborum.

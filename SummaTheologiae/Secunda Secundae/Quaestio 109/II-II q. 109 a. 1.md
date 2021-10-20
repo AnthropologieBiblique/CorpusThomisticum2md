@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod veritas non sit virtus. Prima enim virtutum est fides, cuius obiectum est veritas. Cum igitur obiectum sit prius habitu et actu, videtur quod veritas non sit virtus, sed aliquid prius virtute.
 
 ###### arg. 2
-Praeterea, sicut philosophus dicit, in IV Ethic., ad veritatem pertinet quod aliquis confiteatur *existentia circa seipsum, et neque maiora neque minora*. Sed hoc non semper est laudabile, neque in bonis, quia dicitur Prov. XXVII, *laudet te alienus, et non os tuum*; nec etiam in malis, quia contra quosdam dicitur Isaiae III, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo veritas non est virtus.
+Praeterea, sicut philosophus dicit, in IV Ethic., ad veritatem pertinet quod aliquis confiteatur *existentia circa seipsum, et neque maiora neque minora*. Sed hoc non semper est laudabile, neque in bonis, quia dicitur [[Pr 27]], *laudet te alienus, et non os tuum*; nec etiam in malis, quia contra quosdam dicitur [[Is 3]], *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo veritas non est virtus.
 
 ###### arg. 3
 Praeterea, omnis virtus aut est theologica, aut intellectualis, aut moralis. Sed veritas non est virtus theologica, quia non habet Deum pro obiecto, sed res temporales; dicit enim Tullius quod *veritas est per quam immutata ea quae sunt aut fuerunt aut futura sunt, dicuntur*. Similiter etiam non est virtus intellectualis, sed finis earum. Neque etiam est virtus moralis, quia non consistit in medio inter superfluum et diminutum; quanto enim aliquis plus dicit verum, tanto melius est. Ergo veritas non est virtus.

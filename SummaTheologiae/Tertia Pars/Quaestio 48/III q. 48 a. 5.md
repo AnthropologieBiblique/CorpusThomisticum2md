@@ -7,7 +7,7 @@ Ad quintum sic proceditur. Videtur quod esse redemptorem non sit proprium Christ
 Praeterea, ille dicitur redimere qui dat pretium redemptionis. Sed Deus pater dedit filium suum redemptionem pro peccatis nostris, secundum illud Psalmi, *redemptionem misit dominus populo suo*; Glossa, *idest Christum, qui dat redemptionem captivis*. Ergo non solum Christus, sed etiam Deus pater nos redemit.
 
 ###### arg. 3
-Praeterea, non solum passio Christi, sed etiam aliorum sanctorum, proficua fuit ad nostram salutem, secundum illud Coloss. I, *gaudeo in passionibus pro vobis, et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius*, quod est Ecclesia. Ergo non solum Christus debet dici redemptor, sed etiam alii sancti.
+Praeterea, non solum passio Christi, sed etiam aliorum sanctorum, proficua fuit ad nostram salutem, secundum illud [[Col 1]], *gaudeo in passionibus pro vobis, et adimpleo ea quae desunt passionum Christi in carne mea pro corpore eius*, quod est Ecclesia. Ergo non solum Christus debet dici redemptor, sed etiam alii sancti.
 
 ###### s. c.
 Sed contra est quod dicitur Galat. III, *Christus nos redemit de maledicto legis, factus pro nobis maledictum*. Sed solus Christus factus est pro nobis maledictum. Ergo solus Christus debet dici noster redemptor.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod Glossa sic exponit, *tu, Deus veritatis, redemisti 
 Ad secundum dicendum quod pretium redemptionis nostrae homo Christus solvit immediate, sed de mandato patris sicut primordialis auctoris.
 
 ###### ad 3
-Ad tertium dicendum quod passiones sanctorum proficiunt Ecclesiae, non quidem per modum redemptionis, sed per modum exhortationis et exempli, secundum illud II Cor. I, *sive tribulamur pro vestra exhortatione et salute*.
+Ad tertium dicendum quod passiones sanctorum proficiunt Ecclesiae, non quidem per modum redemptionis, sed per modum exhortationis et exempli, secundum illud [[2 Co 1]], *sive tribulamur pro vestra exhortatione et salute*.
 

@@ -1,13 +1,13 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod astutia non sit speciale peccatum. Verba enim sacrae Scripturae non inducunt aliquem ad peccatum. Inducunt autem ad astutiam, secundum illud Prov. I, *ut detur parvulis astutia*. Ergo astutia non est peccatum.
+Ad tertium sic proceditur. Videtur quod astutia non sit speciale peccatum. Verba enim sacrae Scripturae non inducunt aliquem ad peccatum. Inducunt autem ad astutiam, secundum illud [[Pr 1]], *ut detur parvulis astutia*. Ergo astutia non est peccatum.
 
 ###### arg. 2
-Praeterea, Prov. XIII dicitur, *astutus omnia agit cum consilio*. Aut ergo ad finem bonum; aut ad finem malum. Si ad finem bonum, non videtur esse peccatum. Si autem ad finem malum, videtur pertinere ad prudentiam carnis vel saeculi. Ergo astutia non est speciale peccatum a prudentia carnis distinctum.
+Praeterea, [[Pr 13]] dicitur, *astutus omnia agit cum consilio*. Aut ergo ad finem bonum; aut ad finem malum. Si ad finem bonum, non videtur esse peccatum. Si autem ad finem malum, videtur pertinere ad prudentiam carnis vel saeculi. Ergo astutia non est speciale peccatum a prudentia carnis distinctum.
 
 ###### arg. 3
-Praeterea, Gregorius, X Moral., exponens illud Iob XII, *deridetur iusti simplicitas*, dicit, *sapientia huius mundi est cor machinationibus tegere, sensum verbis velare, quae falsa sunt vera ostendere, quae vera sunt falsa demonstrare*. Et postea subdit, *haec prudentia usu a iuvenibus scitur, a pueris pretio discitur*. Sed ea quae praedicta sunt videntur ad astutiam pertinere. Ergo astutia non distinguitur a prudentia carnis vel mundi; et ita non videtur esse speciale peccatum.
+Praeterea, Gregorius, X Moral., exponens illud [[Jb 12]], *deridetur iusti simplicitas*, dicit, *sapientia huius mundi est cor machinationibus tegere, sensum verbis velare, quae falsa sunt vera ostendere, quae vera sunt falsa demonstrare*. Et postea subdit, *haec prudentia usu a iuvenibus scitur, a pueris pretio discitur*. Sed ea quae praedicta sunt videntur ad astutiam pertinere. Ergo astutia non distinguitur a prudentia carnis vel mundi; et ita non videtur esse speciale peccatum.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, II ad Cor. IV, *abdicamus occulta dedecoris, non ambulantes in astutia, neque adulterantes verbum Dei*. Ergo astutia est quoddam peccatum.

@@ -10,7 +10,7 @@ Praeterea, dona spiritus sancti sunt communia omnibus sanctis, ut supra dictum e
 Praeterea, donum est perfectius virtute, ut supra dictum est. Ergo unum donum sufficit ad perfectionem unius virtutis. Sed virtuti fidei respondet donum intellectus, ut supra dictum est. Ergo non respondet ei donum scientiae. Nec apparet cui alii virtuti respondeat. Ergo, cum dona sint perfectiones virtutum, ut supra dictum est, videtur quod scientia non sit donum.
 
 ###### s. c.
-Sed contra est quod Isaiae XI computatur inter septem dona.
+Sed contra est quod [[Is 11]] computatur inter septem dona.
 
 ###### co.
 Respondeo dicendum quod gratia est perfectior quam natura, unde non deficit in his in quibus homo per naturam perfici potest. Cum autem homo per naturalem rationem assentit secundum intellectum alicui veritati, dupliciter perficitur circa veritatem illam, primo quidem, quia capit eam; secundo, quia de ea certum iudicium habet. Et ideo ad hoc quod intellectus humanus perfecte assentiat veritati fidei duo requiruntur. Quorum unum est quod sane capiat ea quae proponuntur, quod pertinet ad donum intellectus, ut supra dictum est. Aliud autem est ut habeat certum et rectum iudicium de eis, discernendo scilicet credenda non credendis. Et ad hoc necessarium est donum scientiae.

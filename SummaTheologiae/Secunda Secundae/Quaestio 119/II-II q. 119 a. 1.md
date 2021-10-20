@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod prodigalitas non opponatur avaritiae. Opp
 Praeterea, opposita sunt circa idem. Sed avaritia, secundum quod opponitur liberalitati, est circa passiones quasdam quibus homo afficitur ad pecuniam. Prodigalitas autem non videtur esse circa aliquas animae passiones, non enim afficitur circa pecunias, nec circa aliquid aliud huiusmodi. Non ergo prodigalitas opponitur avaritiae.
 
 ###### arg. 3
-Praeterea, peccatum principaliter recipit speciem a fine, ut supra habitum est. Sed prodigalitas semper videtur ordinari ad aliquem finem illicitum, propter quem bona sua expendit, et praecipue propter voluptates, unde et Luc. XV dicitur de filio prodigo quod *dissipavit substantiam suam luxuriose vivendo*. Ergo videtur quod prodigalitas opponatur magis temperantiae et insensibilitati quam avaritiae et liberalitati.
+Praeterea, peccatum principaliter recipit speciem a fine, ut supra habitum est. Sed prodigalitas semper videtur ordinari ad aliquem finem illicitum, propter quem bona sua expendit, et praecipue propter voluptates, unde et [[Lc 15]] dicitur de filio prodigo quod *dissipavit substantiam suam luxuriose vivendo*. Ergo videtur quod prodigalitas opponatur magis temperantiae et insensibilitati quam avaritiae et liberalitati.
 
 ###### s. c.
 Sed contra est quod philosophus, in II et IV Ethic., ponit prodigalitatem oppositam liberalitati et illiberalitati, quam nunc avaritiam dicimus.

@@ -1,16 +1,16 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod filius non sit aequalis patri secundum potentiam. Dicitur enim Ioan. V, *non potest filius a se facere quidquam, nisi quod viderit patrem facientem*. Pater autem a se potest facere. Ergo pater maior est filio secundum potentiam.
+Ad sextum sic proceditur. Videtur quod filius non sit aequalis patri secundum potentiam. Dicitur enim [[Jn 5]], *non potest filius a se facere quidquam, nisi quod viderit patrem facientem*. Pater autem a se potest facere. Ergo pater maior est filio secundum potentiam.
 
 ###### arg. 2
-Praeterea, maior est potentia eius qui praecipit et docet, quam eius qui obedit et audit. Sed pater mandat filio, secundum illud Ioan. XIV, *sicut mandatum dedit mihi pater, sic facio*. Pater etiam docet filium, secundum illud Ioan. V, *pater diligit filium, et omnia demonstrat ei quae ipse facit*. Similiter et filius audit, secundum illud Ioan. V, *sicut audio, iudico*. Ergo pater est maioris potentiae quam filius.
+Praeterea, maior est potentia eius qui praecipit et docet, quam eius qui obedit et audit. Sed pater mandat filio, secundum illud [[Jn 14]], *sicut mandatum dedit mihi pater, sic facio*. Pater etiam docet filium, secundum illud [[Jn 14]], *pater diligit filium, et omnia demonstrat ei quae ipse facit*. Similiter et filius audit, secundum illud [[Jn 14]], *sicut audio, iudico*. Ergo pater est maioris potentiae quam filius.
 
 ###### arg. 3
 Praeterea, ad omnipotentiam patris pertinet quod possit filium generare sibi aequalem, dicit enim Augustinus, in libro contra Maximin., *si non potuit generare sibi aequalem, ubi est omnipotentia Dei patris?* Sed filius non potest generare filium, ut supra ostensum est. Non ergo quidquid pertinet ad omnipotentiam patris, potest filius. Et ita non est ei in potestate aequalis.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. V, *quaecumque pater facit, haec et filius similiter facit*.
+Sed contra est quod dicitur [[Jn 5]], *quaecumque pater facit, haec et filius similiter facit*.
 
 ###### co.
 Respondeo dicendum quod necesse est dicere quod filius est aequalis patri in potestate. Potentia enim agendi consequitur perfectionem naturae, videmus enim in creaturis quod quanto aliquid habet perfectiorem naturam, tanto est maioris virtutis in agendo. Ostensum est autem supra quod ipsa ratio divinae paternitatis et filiationis exigit quod filius sit aequalis patri in magnitudine, idest in perfectione naturae. Unde relinquitur quod filius sit aequalis patri in potestate. Et eadem ratio est de spiritu sancto respectu utriusque.

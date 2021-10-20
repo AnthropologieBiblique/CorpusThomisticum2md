@@ -1,13 +1,13 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod homo sine gratia per sua naturalia possit praecepta legis implere. Dicit enim apostolus, ad Rom. II, quod *gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt*. Sed illud quod naturaliter homo facit, potest per seipsum facere absque gratia. Ergo homo potest legis praecepta facere absque gratia.
+Ad quartum sic proceditur. Videtur quod homo sine gratia per sua naturalia possit praecepta legis implere. Dicit enim apostolus, ad [[Rm 2]], quod *gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt*. Sed illud quod naturaliter homo facit, potest per seipsum facere absque gratia. Ergo homo potest legis praecepta facere absque gratia.
 
 ###### arg. 2
 Praeterea, Hieronymus dicit, in expositione Catholicae fidei, *illos esse maledicendos qui Deum praecepisse homini aliquid impossibile dicunt*. Sed impossibile est homini quod per seipsum implere non potest. Ergo homo potest implere omnia praecepta legis per seipsum.
 
 ###### arg. 3
-Praeterea, inter omnia praecepta legis maximum est illud, *diliges dominum Deum tuum ex toto corde tuo*; ut patet Matth. XXII. Sed hoc mandatum potest homo implere ex solis naturalibus, diligendo Deum super omnia, ut supra dictum est. Ergo omnia mandata legis potest homo implere sine gratia.
+Praeterea, inter omnia praecepta legis maximum est illud, *diliges dominum Deum tuum ex toto corde tuo*; ut patet [[Mt 22]]. Sed hoc mandatum potest homo implere ex solis naturalibus, diligendo Deum super omnia, ut supra dictum est. Ergo omnia mandata legis potest homo implere sine gratia.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de haeresibus, hoc pertinere ad haeresim Pelagianorum, ut credant *sine gratia posse hominem facere omnia divina mandata*.

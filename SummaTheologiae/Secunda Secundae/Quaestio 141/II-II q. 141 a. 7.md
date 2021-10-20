@@ -4,7 +4,7 @@
 Ad septimum sic proceditur. Videtur quod temperantia non sit virtus cardinalis. Bonum enim virtutis moralis a ratione dependet. Sed temperantia est circa ea quae magis distant a ratione, scilicet circa delectationes quae sunt nobis et brutis communes, ut dicitur in III Ethic. Ergo temperantia non videtur esse principalis virtus.
 
 ###### arg. 2
-Praeterea, quanto aliquid est magis impetuosum, tanto difficilius videtur esse ad refrenandum. Sed ira, quam refrenat mansuetudo, videtur esse impetuosior quam concupiscentia, quam refrenat temperantia, dicitur enim Prov. XXVII, *ira non habet misericordiam, nec erumpens furor, et impetum concitati spiritus ferre quis poterit?* Ergo mansuetudo est principalior virtus quam temperantia.
+Praeterea, quanto aliquid est magis impetuosum, tanto difficilius videtur esse ad refrenandum. Sed ira, quam refrenat mansuetudo, videtur esse impetuosior quam concupiscentia, quam refrenat temperantia, dicitur enim [[Pr 27]], *ira non habet misericordiam, nec erumpens furor, et impetum concitati spiritus ferre quis poterit?* Ergo mansuetudo est principalior virtus quam temperantia.
 
 ###### arg. 3
 Praeterea, spes est principalior motus animae quam desiderium seu concupiscentia, ut supra habitum est. Sed humilitas refrenat praesumptionem immoderatae spei. Ergo humilitas videtur esse principalior virtus quam temperantia, quae refrenat concupiscentiam.

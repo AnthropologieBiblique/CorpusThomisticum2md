@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod Christus non debeat dici conceptus de spiritu sancto. Quia super illud Rom. XI, *ex ipso et per ipsum et in ipso sunt omnia*, dicit Glossa Augustini, *attendendum quod non ait de ipso, sed ex ipso. Ex ipso enim caelum sunt et terra, quia fecit ea. Non autem de ipso, quia non de substantia sua*. Sed spiritus sanctus non formavit corpus Christi de substantia sua. Ergo Christus non debet dici conceptus de spiritu sancto.
+Ad secundum sic proceditur. Videtur quod Christus non debeat dici conceptus de spiritu sancto. Quia super illud [[Rm 11]], *ex ipso et per ipsum et in ipso sunt omnia*, dicit Glossa Augustini, *attendendum quod non ait de ipso, sed ex ipso. Ex ipso enim caelum sunt et terra, quia fecit ea. Non autem de ipso, quia non de substantia sua*. Sed spiritus sanctus non formavit corpus Christi de substantia sua. Ergo Christus non debet dici conceptus de spiritu sancto.
 
 ###### arg. 2
 Praeterea, principium activum de quo aliquid concipitur, se habet sicut semen in generatione. Sed spiritus sanctus non se habuit sicut semen in conceptione Christi. Dicit enim Hieronymus, in Exposit. Catholicae fidei, *non, sicut quidam sceleratissimi opinantur, spiritum sanctum dicimus fuisse pro semine, sed potentia et virtute creatoris dicimus esse operatum*, idest formatum, *corpus Christi*. Non ergo debet dici quod Christus sit conceptus de spiritu sancto.
@@ -10,7 +10,7 @@ Praeterea, principium activum de quo aliquid concipitur, se habet sicut semen in
 Praeterea, nihil unum de duobus formatur nisi aliquo modo commixtis. Sed corpus Christi formatum est de virgine Maria. Si ergo Christus dicatur conceptus de spiritu sancto, videtur quod facta sit commixtio quaedam spiritus sancti et materiae quam virgo ministravit, quod patet esse falsum. Non ergo Christus debet dici conceptus de spiritu sancto.
 
 ###### s. c.
-Sed contra est quod dicitur Matth. I, *antequam convenirent, inventa est in utero habens de spiritu sancto*.
+Sed contra est quod dicitur [[Mt 1]], *antequam convenirent, inventa est in utero habens de spiritu sancto*.
 
 ###### co.
 Respondeo dicendum quod conceptio non attribuitur soli corpori Christi, sed etiam ipsi Christo ratione ipsius corporis. In spiritu autem sancto duplex habitudo consideratur respectu Christi. Nam ad ipsum filium Dei, qui dicitur esse conceptus, habet habitudinem consubstantialitatis, ad corpus autem eius habet habitudinem causae efficientis. Haec autem praepositio de utramque habitudinem designat, sicut cum dicimus hominem aliquem de suo patre. Et ideo convenienter dicere possumus Christum esse conceptum de spiritu sancto, hoc modo quod efficacia spiritus sancti referatur ad corpus assumptum, consubstantialitas ad personam assumentem.

@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod peccatum timoris non opponatur fortitudini. Fortitudo enim est circa pericula mortis, ut supra habitum est. Sed peccatum timoris non semper pertinet ad pericula mortis. Quia super illud Psalmi, beati omnes qui timent dominum, dicit Glossa quod *humanus timor est quo timemus pati pericula carnis, vel perdere mundi bona*. Et super illud Matth. XXVI, oravit tertio eundem sermonem etc., dicit Glossa quod triplex est malus timor, scilicet timor mortis, timor vilitatis, et timor doloris. Non ergo peccatum timoris opponitur fortitudini.
+Ad secundum sic proceditur. Videtur quod peccatum timoris non opponatur fortitudini. Fortitudo enim est circa pericula mortis, ut supra habitum est. Sed peccatum timoris non semper pertinet ad pericula mortis. Quia super illud Psalmi, beati omnes qui timent dominum, dicit Glossa quod *humanus timor est quo timemus pati pericula carnis, vel perdere mundi bona*. Et super illud [[Mt 26]], oravit tertio eundem sermonem etc., dicit Glossa quod triplex est malus timor, scilicet timor mortis, timor vilitatis, et timor doloris. Non ergo peccatum timoris opponitur fortitudini.
 
 ###### arg. 2
 Praeterea, praecipuum quod commendatur in fortitudine est quod exponit se periculis mortis. Sed quandoque aliquis ex timore servitutis vel ignominiae exponit se morti, sicut Augustinus, in I de Civ. Dei, narrat de Catone, qui, ut non incurreret Caesaris servitutem, morti se tradidit. Ergo peccatum timoris non opponitur fortitudini, sed magis habet similitudinem cum ipsa.

@@ -4,10 +4,10 @@
 Ad tertium sic proceditur. Videtur quod Deus non propter seipsum, sed propter aliud diligatur ex caritate. Dicit enim Gregorius, in quadam homilia, *ex his quae novit animus discit incognita amare*. Vocat autem incognita intelligibilia et divina, cognita autem sensibilia. Ergo Deus est propter alia diligendus.
 
 ###### arg. 2
-Praeterea, amor sequitur cognitionem. Sed Deus per aliud cognoscitur, secundum illud Rom. I. *Invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Ergo etiam propter aliud amatur, et non propter se.
+Praeterea, amor sequitur cognitionem. Sed Deus per aliud cognoscitur, secundum illud [[Rm 1]]. *Invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Ergo etiam propter aliud amatur, et non propter se.
 
 ###### arg. 3
-Praeterea, spes generat caritatem, ut dicitur in Glossa Matth. I. *Timor etiam caritatem introducit*; ut Augustinus dicit, super Prim. Canonic. Ioan. Sed spes expectat aliquid adipisci a Deo, timor autem refugit aliquid quod a Deo infligi potest. Ergo videtur quod Deus propter aliquod bonum speratum, vel propter aliquod malum timendum sit amandus. Non ergo est amandus propter seipsum.
+Praeterea, spes generat caritatem, ut dicitur in Glossa [[Mt 1]]. *Timor etiam caritatem introducit*; ut Augustinus dicit, super Prim. Canonic. Ioan. Sed spes expectat aliquid adipisci a Deo, timor autem refugit aliquid quod a Deo infligi potest. Ergo videtur quod Deus propter aliquod bonum speratum, vel propter aliquod malum timendum sit amandus. Non ergo est amandus propter seipsum.
 
 ###### s. c.
 Sed contra est quod, sicut Augustinus dicit, in I de Doct. Christ., *frui est amore inhaerere alicui propter seipsum*. Sed Deo fruendum est, ut in eodem libro dicitur. Ergo Deus diligendus est propter seipsum.
@@ -19,7 +19,7 @@ Respondeo dicendum quod ly propter importat habitudinem alicuius causae. Est aut
 Ad primum ergo dicendum quod ex his quae animus novit discit incognita amare, non quod cognita sint ratio diligendi ipsa incognita per modum causae formalis vel finalis vel efficientis, sed quia per hoc homo disponitur ad amandum incognita.
 
 ###### ad 2
-Ad secundum dicendum quod cognitio Dei acquiritur quidem per alia, sed postquam iam cognoscitur, non per alia cognoscitur, sed per seipsum; secundum illud Ioan. IV. *Iam non propter tuam loquelam credimus, ipsi enim vidimus, et scimus quia hic est vere salvator mundi*.
+Ad secundum dicendum quod cognitio Dei acquiritur quidem per alia, sed postquam iam cognoscitur, non per alia cognoscitur, sed per seipsum; secundum illud [[Jn 4]]. *Iam non propter tuam loquelam credimus, ipsi enim vidimus, et scimus quia hic est vere salvator mundi*.
 
 ###### ad 3
 Ad tertium dicendum quod spes et timor ducunt ad caritatem per modum dispositionis cuiusdam, ut ex supradictis patet.

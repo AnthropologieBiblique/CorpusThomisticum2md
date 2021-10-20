@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod filius non sit aequalis patri in magnitudine. Dicit enim ipse, Ioan. XIV, *pater maior me est*; et apostolus, I Cor. XV, *ipse filius subiectus erit illi qui sibi subiecit omnia*.
+Ad quartum sic proceditur. Videtur quod filius non sit aequalis patri in magnitudine. Dicit enim ipse, [[Jn 14]], *pater maior me est*; et apostolus, [[1 Co 15]], *ipse filius subiectus erit illi qui sibi subiecit omnia*.
 
 ###### arg. 2
 Praeterea, paternitas pertinet ad dignitatem patris. Sed paternitas non convenit filio. Ergo non quidquid dignitatis habet pater, habet filius. Ergo non est aequalis patri in magnitudine.

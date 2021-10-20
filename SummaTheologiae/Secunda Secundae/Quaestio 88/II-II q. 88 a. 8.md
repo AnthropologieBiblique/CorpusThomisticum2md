@@ -13,7 +13,7 @@ Praeterea, maius est facere quam promittere. Sed religiosi qui sunt sub potestat
 Praeterea, quicumque facit quod de iure facere non potest, peccat. Sed subditi non peccant vovendo, quia hoc nunquam invenitur prohibitum. Ergo videtur quod de iure possunt vovere.
 
 ###### s. c.
-Sed contra est quod Num. XXX mandatur quod, *si mulier in domo patris sui, et adhuc in puellari aetate, aliquid voverit*, non tenetur rea voti nisi pater eius consenserit. Et idem dicit de muliere habente virum. Ergo, pari ratione, nec aliae personae alterius potestati subiectae possunt se voto obligare.
+Sed contra est quod [[Nb 30]] mandatur quod, *si mulier in domo patris sui, et adhuc in puellari aetate, aliquid voverit*, non tenetur rea voti nisi pater eius consenserit. Et idem dicit de muliere habente virum. Ergo, pari ratione, nec aliae personae alterius potestati subiectae possunt se voto obligare.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, votum est promissio quaedam Deo facta. Nullus autem potest per promissionem se firmiter obligare ad id quod est in potestate alterius, sed solum ad id quod est omnino in sua potestate. Quicumque autem est subiectus alicui, quantum ad id in quo est subiectus, non est suae potestatis facere quod vult, sed dependet ex voluntate alterius. Et ideo non potest se per votum firmiter obligare, in his in quibus alteri subiicitur, sine consensu sui superioris.

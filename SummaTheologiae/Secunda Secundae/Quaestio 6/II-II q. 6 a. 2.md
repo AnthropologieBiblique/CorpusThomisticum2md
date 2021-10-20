@@ -1,13 +1,13 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod fides informis non sit donum Dei. Dicitur enim Deut. XXXII, quod Dei perfecta sunt opera. Fides autem informis est quiddam imperfectum. Ergo fides informis non est opus Dei.
+Ad secundum sic proceditur. Videtur quod fides informis non sit donum Dei. Dicitur enim [[Dt 32]], quod Dei perfecta sunt opera. Fides autem informis est quiddam imperfectum. Ergo fides informis non est opus Dei.
 
 ###### arg. 2
 Praeterea, sicut actus dicitur deformis propter hoc quod caret debita forma, ita etiam fides dicitur informis propter hoc quod caret debita forma. Sed actus deformis peccati non est a Deo, ut supra dictum est. Ergo neque etiam fides informis est a Deo.
 
 ###### arg. 3
-Praeterea, quaecumque Deus sanat totaliter sanat, dicitur enim Ioan. VII, *si circumcisionem accipit homo in sabbato ut non solvatur lex Moysi, mihi indignamini quia totum hominem salvum feci in sabbato*. Sed per fidem homo sanatur ab infidelitate. Quicumque ergo donum fidei a Deo accipit simul sanatur ab omnibus peccatis. Sed hoc non fit nisi per fidem formatam. Ergo sola fides formata est donum Dei. Non ergo fides informis.
+Praeterea, quaecumque Deus sanat totaliter sanat, dicitur enim [[Jn 7]], *si circumcisionem accipit homo in sabbato ut non solvatur lex Moysi, mihi indignamini quia totum hominem salvum feci in sabbato*. Sed per fidem homo sanatur ab infidelitate. Quicumque ergo donum fidei a Deo accipit simul sanatur ab omnibus peccatis. Sed hoc non fit nisi per fidem formatam. Ergo sola fides formata est donum Dei. Non ergo fides informis.
 
 ###### s. c.
 Sed contra est quod quaedam Glossa dicit, I ad Cor. XIII, quod *fides quae est sine caritate est donum Dei*. Sed fides quae est sine caritate est fides informis. Ergo fides informis est donum Dei.

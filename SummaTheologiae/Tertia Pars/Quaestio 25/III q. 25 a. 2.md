@@ -4,10 +4,10 @@
 Ad secundum sic proceditur. Videtur quod humanitas Christi non sit adoranda adoratione latriae. Quia super illud Psalmi, *adorate scabellum pedum eius quoniam sanctum est*, dicit Glossa, *caro a verbo Dei assumpta sine impietate adoratur a nobis, quia nemo spiritualiter carnem eius manducat nisi prius adoret; non illa dico adoratione quae latria est, quae soli creatori debetur*. Caro autem est pars humanitatis. Ergo humanitas Christi non est adoranda adoratione latriae.
 
 ###### arg. 2
-Praeterea, cultus latriae nulli creaturae debetur, ex hoc enim reprobantur gentiles quod coluerunt et servierunt creaturae, ut dicitur Rom. I. Sed humanitas Christi est creatura. Ergo non est adoranda adoratione latriae.
+Praeterea, cultus latriae nulli creaturae debetur, ex hoc enim reprobantur gentiles quod coluerunt et servierunt creaturae, ut dicitur [[Rm 1]]. Sed humanitas Christi est creatura. Ergo non est adoranda adoratione latriae.
 
 ###### arg. 3
-Praeterea, adoratio latriae debetur Deo in recognitionem maximi dominii, secundum illud Deut. VI, *dominum Deum tuum adorabis, et illi soli servies*. Sed Christus, secundum quod homo, est minor patre. Ergo humanitas eius non est adoratione latriae adoranda.
+Praeterea, adoratio latriae debetur Deo in recognitionem maximi dominii, secundum illud [[Dt 6]], *dominum Deum tuum adorabis, et illi soli servies*. Sed Christus, secundum quod homo, est minor patre. Ergo humanitas eius non est adoratione latriae adoranda.
 
 ###### s. c.
 Sed contra est quod Damascenus dicit, in IV libro, *adoratur autem caro Christi, incarnato Deo verbo, non propter seipsam, sed propter unitum ei secundum hypostasim verbum Dei*. Et super illud Psalmi, *adorate scabellum pedum eius*, dicit Glossa, *qui adorat corpus Christi, non terram intuetur, sed illum potius cuius scabellum est, in cuius honore scabellum adorat*. Sed verbum incarnatum adoratur adoratione latriae. Ergo etiam corpus eius, sive eius humanitas.

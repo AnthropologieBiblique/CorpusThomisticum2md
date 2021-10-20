@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod non sint quinque genera potentiarum anima
 Praeterea, potentiae animae sunt principia operum vitae. Sed quatuor modis dicitur aliquid vivere. Dicit enim philosophus, in II de anima, *multipliciter ipso vivere dicto, etsi unum aliquod horum insit solum, aliquid dicimus vivere; ut intellectus, et sensus, motus et status secundum locum, adhuc autem motus secundum alimentum, et decrementum et augmentum*. Ergo tantum quatuor sunt genera potentiarum animae, appetitivo excluso.
 
 ###### arg. 3
-Praeterea, ad illud quod est commune omnibus potentiis, non debet deputari aliquod speciale animae genus. Sed appetere convenit cuilibet potentiae animae. Visus enim appetit visibile conveniens, unde dicitur Eccli. XL, *gratiam et speciem desiderabit oculus, et super hoc virides sationes*. Et eadem ratione, quaelibet alia potentia desiderat obiectum sibi conveniens. Ergo non debet poni appetitivum unum speciale genus potentiarum animae.
+Praeterea, ad illud quod est commune omnibus potentiis, non debet deputari aliquod speciale animae genus. Sed appetere convenit cuilibet potentiae animae. Visus enim appetit visibile conveniens, unde dicitur [[Si 40]], *gratiam et speciem desiderabit oculus, et super hoc virides sationes*. Et eadem ratione, quaelibet alia potentia desiderat obiectum sibi conveniens. Ergo non debet poni appetitivum unum speciale genus potentiarum animae.
 
 ###### arg. 4
 Praeterea, principium movens in animalibus est sensus, aut intellectus, aut appetitus, ut dicitur in III de anima. Non ergo motivum debet poni speciale genus animae praeter praedicta.

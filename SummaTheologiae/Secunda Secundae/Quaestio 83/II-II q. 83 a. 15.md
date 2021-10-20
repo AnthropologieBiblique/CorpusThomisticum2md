@@ -1,13 +1,13 @@
 ### Articulus 15
 
 ###### arg. 1
-Ad quintumdecimum sic proceditur. Videtur quod oratio non sit meritoria. Omne enim meritum procedit a gratia. Sed oratio praecedit gratiam, quia etiam ipsa gratia per orationem impetratur, secundum illud Luc. XI, *pater vester de caelo dabit spiritum bonum petentibus se*. Ergo oratio non est actus meritorius.
+Ad quintumdecimum sic proceditur. Videtur quod oratio non sit meritoria. Omne enim meritum procedit a gratia. Sed oratio praecedit gratiam, quia etiam ipsa gratia per orationem impetratur, secundum illud [[Lc 11]], *pater vester de caelo dabit spiritum bonum petentibus se*. Ergo oratio non est actus meritorius.
 
 ###### arg. 2
 Praeterea, si oratio aliquid meretur, maxime videtur mereri illud quod orando petitur. Sed hoc non semper meretur, quia multoties etiam sanctorum orationes non exaudiuntur; sicut Paulus non est exauditus petens removeri a se stimulum carnis. Ergo oratio non est actus meritorius.
 
 ###### arg. 3
-Praeterea, oratio praecipue fidei innititur, secundum illud Iac. I, *postulet autem in fide, nihil haesitans*. Fides autem non sufficit ad merendum, ut patet in his qui habent fidem informem. Ergo oratio non est actus meritorius.
+Praeterea, oratio praecipue fidei innititur, secundum illud [[Jc 1]], *postulet autem in fide, nihil haesitans*. Fides autem non sufficit ad merendum, ut patet in his qui habent fidem informem. Ergo oratio non est actus meritorius.
 
 ###### s. c.
 Sed contra est quod super illud Psalm., *oratio mea in sinu meo convertetur*, dicit Glossa, *etsi eis non profuit, ego tamen non sum frustratus mea mercede*. Merces autem non debetur nisi merito. Ergo oratio habet rationem meriti.

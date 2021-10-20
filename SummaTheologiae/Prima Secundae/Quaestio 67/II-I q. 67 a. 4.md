@@ -7,10 +7,10 @@ Ad quartum sic proceditur. Videtur quod spes maneat post mortem in statu gloriae
 Praeterea, spei opponitur timor. Sed timor manet post hanc vitam, et in beatis quidem timor filialis, qui manet in saeculum; et in damnatis timor poenarum. Ergo spes, pari ratione, potest permanere.
 
 ###### arg. 3
-Praeterea, sicut spes est futuri boni, ita et desiderium. Sed in beatis est desiderium futuri boni, et quantum ad gloriam corporis, quam animae beatorum desiderant, ut dicit Augustinus, XII super Gen. ad Litt.; et etiam quantum ad gloriam animae, secundum illud Eccli. XXIV, *qui edunt me, adhuc esurient, et qui bibunt me, adhuc sitient*; et I Petr. I, dicitur, *in quem desiderant Angeli prospicere*. Ergo videtur quod possit esse spes post hanc vitam in beatis.
+Praeterea, sicut spes est futuri boni, ita et desiderium. Sed in beatis est desiderium futuri boni, et quantum ad gloriam corporis, quam animae beatorum desiderant, ut dicit Augustinus, XII super Gen. ad Litt.; et etiam quantum ad gloriam animae, secundum illud [[Si 24]], *qui edunt me, adhuc esurient, et qui bibunt me, adhuc sitient*; et I Petr. I, dicitur, *in quem desiderant Angeli prospicere*. Ergo videtur quod possit esse spes post hanc vitam in beatis.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, Rom. VIII, *quod videt quis, quid sperat?* Sed beati vident id quod est obiectum spei, scilicet Deum. Ergo non sperant.
+Sed contra est quod apostolus dicit, [[Rm 8]], *quod videt quis, quid sperat?* Sed beati vident id quod est obiectum spei, scilicet Deum. Ergo non sperant.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, id quod de ratione sui importat imperfectionem subiecti, non potest simul stare cum subiecto opposita perfectione perfecto. Sicut patet quod motus in ratione sui importat imperfectionem subiecti, est enim actus existentis in potentia, inquantum huiusmodi, unde quando illa potentia reducitur ad actum, iam cessat motus; non enim adhuc albatur, postquam iam aliquid factum est album. Spes autem importat motum quendam in id quod non habetur; ut patet ex his quae supra de passione spei diximus. Et ideo quando habebitur id quod speratur, scilicet divina fruitio, iam spes esse non poterit.

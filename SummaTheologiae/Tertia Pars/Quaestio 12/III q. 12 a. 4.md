@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod Christus ab Angelis scientiam acceperit. Dicitur enim Luc. XXII quod *apparuit Christo Angelus de caelo confortans eum*. Sed confortatio fit per verba exhortatoria docentis, secundum illud Iob IV, *ecce, docuisti plurimos, et manus lassas roborasti, vacillantes confirmaverunt sermones tui*. Ergo Christus ab Angelis doctus est.
+Ad quartum sic proceditur. Videtur quod Christus ab Angelis scientiam acceperit. Dicitur enim [[Lc 22]] quod *apparuit Christo Angelus de caelo confortans eum*. Sed confortatio fit per verba exhortatoria docentis, secundum illud [[Jb 4]], *ecce, docuisti plurimos, et manus lassas roborasti, vacillantes confirmaverunt sermones tui*. Ergo Christus ab Angelis doctus est.
 
 ###### arg. 2
 Praeterea, Dionysius dicit, IV cap. Cael. Hier., *video enim quod et ipse Iesus, supercaelestium substantiarum supersubstantialis substantia, ad nostram intransmutabiliter veniens, obedienter subiicitur patris et Dei per Angelos formationibus*. Videtur igitur quod ipse Christus ordinationi legis divinae subiici voluerit, per quam homines, mediantibus Angelis, erudiuntur.

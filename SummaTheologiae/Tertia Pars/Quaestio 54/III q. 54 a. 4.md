@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod corpus Christi cum cicatricibus resurgere non debuerit. Dicitur enim I Cor. XV, quod *mortui resurgent incorrupti*. Sed cicatrices et vulnera ad quandam corruptionem pertinent et defectum. Non ergo fuit conveniens ut Christus, qui resurrectionis auctor est, cum cicatricibus resurgeret.
+Ad quartum sic proceditur. Videtur quod corpus Christi cum cicatricibus resurgere non debuerit. Dicitur enim [[1 Co 15]], quod *mortui resurgent incorrupti*. Sed cicatrices et vulnera ad quandam corruptionem pertinent et defectum. Non ergo fuit conveniens ut Christus, qui resurrectionis auctor est, cum cicatricibus resurgeret.
 
 ###### arg. 2
 Praeterea, corpus Christi integrum resurrexit, sicut dictum est. Sed aperturae vulnerum contrariantur integritati corporis, quia per eas discontinuatur corpus. Non ergo videtur fuisse conveniens quod in Christi corpore aperturae vulnerum remanerent, etsi remanerent ibi quaedam vulnerum insignia, quae sufficiebant ad aspectum, ad quem Thomas credidit, cui dictum est, *quia vidisti me, Thoma, credidisti*.
@@ -10,7 +10,7 @@ Praeterea, corpus Christi integrum resurrexit, sicut dictum est. Sed aperturae v
 Praeterea, Damascenus dicit, in IV libro, quod *post resurrectionem de Christo dicuntur quaedam vere quidem, non autem secundum naturam, sed secundum dispensationem, ad certificandum quod ipsum quod passum est corpus resurrexit, ut cicatrices*. Cessante autem causa, cessat effectus. Ergo videtur quod, certificatis discipulis de sua resurrectione, cicatrices ulterius non habuit. Sed non conveniebat immutabilitati gloriae quod aliquid assumeret quod in eo perpetuo non remaneret. Videtur ergo quod non debuerit corpus cum cicatricibus in resurrectione resumere.
 
 ###### s. c.
-Sed contra est quod dominus dicit Thomae, Ioan. XX, *infer digitum tuum huc, et vide manus meas, et affer manum tuam et mitte in latus meum*.
+Sed contra est quod dominus dicit Thomae, [[Jn 20]], *infer digitum tuum huc, et vide manus meas, et affer manum tuam et mitte in latus meum*.
 
 ###### co.
 Respondeo dicendum quod conveniens fuit animam Christi in resurrectione corpus cum cicatricibus resumere. Primo quidem, propter gloriam ipsius Christi. Dicit enim Beda, super Luc., quod non ex impotentia curandi cicatrices servavit, sed *ut in perpetuum victoriae suae circumferat triumphum*. Unde et Augustinus dicit, in XXII de Civ. Dei, quod *fortassis in illo regno in corporibus martyrum videbimus vulnerum cicatrices quae pro Christi nomine pertulerunt, non enim deformitas in eis, sed dignitas erit; et quaedam, quamvis in corpore, non corporis, sed virtutis pulchritudo fulgebit*. Secundo, ad confirmandum corda discipulorum circa fidem suae resurrectionis. *Tertio, ut patri, pro nobis supplicans, quale genus mortis pro homine pertulerit, semper ostendat. Quarto, ut sua morte redemptis quam misericorditer sint adiuti, propositis eiusdem mortis indiciis, insinuet. Postremo, ut in iudicio quam iuste damnentur, ibidem annuntiet*. Unde, sicut Augustinus dicit, in libro de symbolo, *sciebat Christus quare cicatrices in suo corpore servaret. Sicut enim demonstravit Thomae non credenti nisi tangeret et videret, ita etiam inimicis vulnera demonstraturus est sua, ut convincens eos veritas dicat, ecce hominem quem crucifixistis. Videtis vulnera quae infixistis. Agnoscitis latus quod pupugistis. Quoniam per vos, et propter vos apertum est, nec tamen intrare voluistis*.

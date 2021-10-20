@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod amor non sit in concupiscibili. Dicitur enim Sap. VIII, hanc, scilicet sapientiam, amavi et exquisivi a iuventute mea. Sed concupiscibilis, cum sit pars appetitus sensitivi, non potest tendere in sapientiam, quae non comprehenditur sensu. Ergo amor non est in concupiscibili.
+Ad primum sic proceditur. Videtur quod amor non sit in concupiscibili. Dicitur enim [[Sg 8]], hanc, scilicet sapientiam, amavi et exquisivi a iuventute mea. Sed concupiscibilis, cum sit pars appetitus sensitivi, non potest tendere in sapientiam, quae non comprehenditur sensu. Ergo amor non est in concupiscibili.
 
 ###### arg. 2
 Praeterea, amor videtur esse idem cuilibet passioni, dicit enim Augustinus, in XIV de Civ. Dei, *amor inhians habere quod amatur, cupiditas est; id autem habens, eoque fruens, laetitia; fugiens quod ei adversatur, timor est; idque si acciderit sentiens, tristitia est*. Sed non omnis passio est in concupiscibili; sed timor, etiam hic enumeratus, est in irascibili. Ergo non est simpliciter dicendum quod amor sit in concupiscibili.

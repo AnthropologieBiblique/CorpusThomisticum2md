@@ -16,7 +16,7 @@ Sed contra est quod Hugo de sancto Victore dicit, quod *sacramentum ex sanctific
 Respondeo dicendum quod multipliciter dicitur aliquid esse in alio, inter quos duplici modo gratia est in sacramentis. Uno modo, sicut in signis, nam sacramentum est signum gratiae. Alio modo, sicut in causa. Nam, sicut dictum est, sacramentum novae legis est instrumentalis gratiae causa. Unde gratia est in sacramento novae legis, non quidem secundum similitudinem speciei, sicut effectus est in causa univoca; neque etiam secundum aliquam formam propriam et permanentem proportionatam ad talem effectum, sicut sunt effectus in causis non univocis, puta res generatae in sole; sed secundum quandam instrumentalem virtutem, quae est fluens et incompleta in esse naturae, ut infra dicetur.
 
 ###### ad 1
-Ad primum ergo dicendum quod gratia non dicitur esse in sacramento sicut in subiecto; neque sicut in vase prout vas est locus quidam, sed prout vas dicitur instrumentum alicuius operis faciendi, secundum quod dicitur Ezech. IX, *unusquisque vas interfectionis habet in manu sua*.
+Ad primum ergo dicendum quod gratia non dicitur esse in sacramento sicut in subiecto; neque sicut in vase prout vas est locus quidam, sed prout vas dicitur instrumentum alicuius operis faciendi, secundum quod dicitur [[Ez 9]], *unusquisque vas interfectionis habet in manu sua*.
 
 ###### ad 2
 Ad secundum dicendum quod, quamvis accidens non transeat a subiecto in subiectum, transit tamen a causa per instrumentum aliqualiter in subiectum, non ut eodem modo sit in eis, sed in unoquoque secundum propriam rationem.

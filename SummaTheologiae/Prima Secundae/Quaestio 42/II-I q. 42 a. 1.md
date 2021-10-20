@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod bonum sit obiectum timoris. Dicit enim Au
 Praeterea, philosophus dicit, in II Rhetoric., quod *potestas, et super alium ipsum esse, est terribile*. Sed huiusmodi est quoddam bonum. Ergo bonum est obiectum timoris.
 
 ###### arg. 3
-Praeterea, in Deo nihil malum esse potest. Sed mandatur nobis ut Deum timeamus; secundum illud Psalmi XXXIII, *timete dominum, omnes sancti eius*. Ergo etiam timor est de bono.
+Praeterea, in Deo nihil malum esse potest. Sed mandatur nobis ut Deum timeamus; secundum illud [[Ps 33]], *timete dominum, omnes sancti eius*. Ergo etiam timor est de bono.
 
 ###### s. c.
 Sed contra est quod Damascenus dicit, in II libro, quod timor est de malo futuro.

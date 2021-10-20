@@ -10,7 +10,7 @@ Praeterea, fides nostra derivatur a scientia Christi, unde dicitur Heb. XII, *as
 Praeterea, scientiae distinguuntur secundum diversas rationes scibilium. Sed anima Christi omnia scivit secundum unam rationem, scilicet secundum lumen divinitus infusum. Ergo in Christo fuit tantum unus habitus scientiae.
 
 ###### s. c.
-Sed contra est quod Zach. III dicitur quod super lapidem unum, idest Christum, sunt septem oculi. Per oculum autem scientia intelligitur. Ergo videtur quod in Christo fuerunt plures habitus scientiae.
+Sed contra est quod [[Za 3]] dicitur quod super lapidem unum, idest Christum, sunt septem oculi. Per oculum autem scientia intelligitur. Ergo videtur quod in Christo fuerunt plures habitus scientiae.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, scientia indita animae Christi habuit modum connaturalem animae humanae. Est autem connaturale animae humanae ut recipiat species in minori universalitate quam Angeli, ita scilicet quod diversas naturas specificas per diversas intelligibiles species cognoscat. Ex hoc autem contingit quod in nobis sunt diversi habitus scientiarum, quia sunt diversa scibilium genera, inquantum scilicet ea quae reducuntur in unum genus, eodem habitu scientiae cognoscuntur; sicut dicitur in I Poster. quod *una scientia est quae est unius generis subiecti*. Et ideo scientia indita animae Christi fuit distincta secundum diversos habitus.

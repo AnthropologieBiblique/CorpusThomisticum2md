@@ -10,7 +10,7 @@ Praeterea, omne quod est compositum ex contrariis, est naturaliter corruptibile,
 Praeterea, calidum naturaliter consumit humidum. Vita autem hominis conservatur per calidum et humidum. Cum igitur operationes vitae expleantur per actum caloris naturalis, ut dicitur in II de anima, videtur quod mors et huiusmodi defectus sint homini naturales.
 
 ###### s. c.
-Sed contra, quidquid est homini naturale, Deus in homine fecit. Sed Deus mortem non fecit, ut dicitur Sap. I. Ergo mors non est homini naturalis.
+Sed contra, quidquid est homini naturale, Deus in homine fecit. Sed Deus mortem non fecit, ut dicitur [[Sg 1]]. Ergo mors non est homini naturalis.
 
 ###### s. c.
 Praeterea, id quod est secundum naturam, non potest dici poena nec malum, quia unicuique rei est conveniens id quod est ei naturale. Sed mors et huiusmodi defectus sunt poena peccati originalis, ut supra dictum est. Ergo non sunt homini naturales.

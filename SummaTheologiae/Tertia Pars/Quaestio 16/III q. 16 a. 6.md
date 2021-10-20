@@ -4,13 +4,13 @@
 Ad sextum sic proceditur. Videtur quod haec sit falsa, Deus factus est homo. Cum enim homo significet substantiam, fieri hominem est fieri simpliciter. Sed haec est falsa, Deus factus est simpliciter. Ergo haec est falsa, Deus factus est homo.
 
 ###### arg. 2
-Praeterea, fieri hominem est mutari. Sed Deus non potest esse subiectum mutationis, secundum illud Malach. III, *ego dominus, et non mutor*. Ergo videtur quod haec sit falsa, Deus factus est homo.
+Praeterea, fieri hominem est mutari. Sed Deus non potest esse subiectum mutationis, secundum illud [[Ml 3]], *ego dominus, et non mutor*. Ergo videtur quod haec sit falsa, Deus factus est homo.
 
 ###### arg. 3
 Praeterea, homo, secundum quod de Christo dicitur, supponit personam filii Dei. Sed haec est falsa, Deus factus est persona filii Dei. Ergo haec est falsa, Deus factus est homo.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. I, *verbum caro factum est*. Et sicut Athanasius dicit, in epistola ad Epictetum, *quod dixit verbum caro factum est, simile est ac si diceretur, homo factus est*.
+Sed contra est quod dicitur [[Jn 1]], *verbum caro factum est*. Et sicut Athanasius dicit, in epistola ad Epictetum, *quod dixit verbum caro factum est, simile est ac si diceretur, homo factus est*.
 
 ###### co.
 Respondeo dicendum quod unumquodque dicitur esse factum illud quod de novo incipit praedicari de ipso. Esse autem hominem vere praedicatur de Deo, sicut dictum est, ita tamen quod non convenit Deo esse hominem ab aeterno, sed ex tempore per assumptionem humanae naturae. Et ideo haec est vera, Deus factus est homo. Diversimode tamen intelligitur a diversis, sicut et haec, Deus est homo, ut supra dictum est.

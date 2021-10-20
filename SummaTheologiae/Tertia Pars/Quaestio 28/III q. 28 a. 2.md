@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod mater Christi non fuerit virgo in partu
 Praeterea, nihil in mysterio Christi esse debuit per quod corpus eius phantasticum appareret. Sed hoc non videtur vero corpori, sed phantastico convenire, ut possit per clausa transire, eo quod duo corpora simul esse non possunt. Non igitur debuit ex matris utero clauso corpus Christi prodire. Et ita non decuit quod esset virgo in partu.
 
 ###### arg. 3
-Praeterea, sicut Gregorius dicit, in homilia octavarum Paschae, per hoc quod, ianuis clausis, ad discipulos post resurrectionem intravit dominus, ostendit corpus suum esse eiusdem naturae et alterius gloriae, et sic per clausa transire videtur ad gloriam corporis pertinere. Sed corpus Christi in sua conceptione non fuit gloriosum, sed passibile, habens similitudinem carnis peccati, ut apostolus dicit, Rom. VIII. Non ergo exivit per virginis uterum clausum.
+Praeterea, sicut Gregorius dicit, in homilia octavarum Paschae, per hoc quod, ianuis clausis, ad discipulos post resurrectionem intravit dominus, ostendit corpus suum esse eiusdem naturae et alterius gloriae, et sic per clausa transire videtur ad gloriam corporis pertinere. Sed corpus Christi in sua conceptione non fuit gloriosum, sed passibile, habens similitudinem carnis peccati, ut apostolus dicit, [[Rm 8]]. Non ergo exivit per virginis uterum clausum.
 
 ###### s. c.
 Sed contra est quod in quodam sermone Ephesini Concilii dicitur, *natura post partum nescit ulterius virginem. Gratia vero et parientem ostendit, et matrem fecit, et virginitati non nocuit*. Fuit ergo mater Christi virgo etiam in partu.

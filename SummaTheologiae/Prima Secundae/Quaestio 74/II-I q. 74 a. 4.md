@@ -10,7 +10,7 @@ Praeterea, peccatum mortale contrariatur virtuti. Sed virtus potest esse in sens
 Praeterea, veniale peccatum est dispositio ad mortale. Sed dispositio et habitus sunt in eodem. Cum igitur veniale peccatum sit in sensualitate, ut dictum est; etiam mortale peccatum esse poterit in eadem.
 
 ###### s. c.
-Sed contra est quod Augustinus dicit, in libro Retract., et habetur in Glossa Rom. VII, inordinatus concupiscentiae motus (qui est peccatum sensualitatis) potest etiam esse in his qui sunt in gratia, in quibus tamen peccatum mortale non invenitur. Ergo inordinatus motus sensualitatis non est peccatum mortale.
+Sed contra est quod Augustinus dicit, in libro Retract., et habetur in Glossa [[Rm 7]], inordinatus concupiscentiae motus (qui est peccatum sensualitatis) potest etiam esse in his qui sunt in gratia, in quibus tamen peccatum mortale non invenitur. Ergo inordinatus motus sensualitatis non est peccatum mortale.
 
 ###### co.
 Respondeo dicendum quod, sicut inordinatio corrumpens principium vitae corporalis, causat corporalem mortem; ita etiam inordinatio corrumpens principium spiritualis vitae, quod est finis ultimus, causat mortem spiritualem peccati mortalis, ut supra dictum est. Ordinare autem aliquid in finem non est sensualitatis, sed solum rationis. Inordinatio autem a fine non est nisi eius cuius est ordinare in finem. Unde peccatum mortale non potest esse in sensualitate, sed solum in ratione.

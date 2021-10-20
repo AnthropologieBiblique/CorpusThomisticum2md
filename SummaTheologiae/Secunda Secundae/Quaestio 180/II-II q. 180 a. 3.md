@@ -10,7 +10,7 @@ Praeterea, apostolus, II ad Cor. III, dicit, *nos autem, revelata facie gloriam 
 Praeterea, Bernardus dicit, in libro de Consid., quod *prima et maxima contemplatio est admiratio maiestatis*. Sed admiratio, secundum Damascenum, ponitur species timoris. Ergo videtur quod plures actus ad vitam contemplativam requirantur.
 
 ###### arg. 4
-Praeterea, ad vitam contemplativam pertinere dicuntur oratio, lectio et meditatio. Pertinet etiam ad vitam contemplativam auditus, nam de Maria, per quam vita contemplativa significatur, dicitur, Luc. X, quod *sedens secus pedes domini, audiebat verba illius*. Ergo videtur quod plures actus ad vitam contemplativam requirantur.
+Praeterea, ad vitam contemplativam pertinere dicuntur oratio, lectio et meditatio. Pertinet etiam ad vitam contemplativam auditus, nam de Maria, per quam vita contemplativa significatur, dicitur, [[Lc 10]], quod *sedens secus pedes domini, audiebat verba illius*. Ergo videtur quod plures actus ad vitam contemplativam requirantur.
 
 ###### s. c.
 Sed contra est quod vita hic dicitur operatio cui homo principaliter intendit. Si igitur sunt plures operationes vitae contemplativae, non erit una vita contemplativa, sed plures.
@@ -28,5 +28,5 @@ Ad secundum dicendum quod, sicut dicit Glossa Augustini ibidem, *speculantes dic
 Ad tertium dicendum quod admiratio est species timoris consequens apprehensionem alicuius rei excedentis nostram facultatem. Unde admiratio est actus consequens contemplationem sublimis veritatis. Dictum est enim quod contemplatio in affectu terminatur.
 
 ###### ad 4
-Ad quartum dicendum quod homo ad cognitionem veritatis pertingit dupliciter. Uno modo, per ea quae ab alio accipit. Et sic quidem, quantum ad ea quae homo a Deo accipit, necessaria est oratio, secundum illud Sap. VII, *invocavi, et venit in me spiritus sapientiae*. Quantum vero ad ea quae accipit ab homine, necessarius est auditus, secundum quod accipit ex voce loquentis; et lectio, secundum quod accipit ex eo quod per Scripturam est traditum. Alio modo, necessarium est quod adhibeat proprium studium. Et sic requiritur meditatio.
+Ad quartum dicendum quod homo ad cognitionem veritatis pertingit dupliciter. Uno modo, per ea quae ab alio accipit. Et sic quidem, quantum ad ea quae homo a Deo accipit, necessaria est oratio, secundum illud [[Sg 7]], *invocavi, et venit in me spiritus sapientiae*. Quantum vero ad ea quae accipit ab homine, necessarius est auditus, secundum quod accipit ex voce loquentis; et lectio, secundum quod accipit ex eo quod per Scripturam est traditum. Alio modo, necessarium est quod adhibeat proprium studium. Et sic requiritur meditatio.
 

@@ -10,7 +10,7 @@ Praeterea, in operibus Dei multo minus est aliquid superfluum quam in operibus n
 Praeterea, natura non facit per duo, quod potest facere per unum, et multo minus Deus. Sed Deus inseruit animae nostrae semina virtutum, ut dicit Glossa Heb. I. Ergo non oportet quod alias virtutes in nobis per infusionem causet.
 
 ###### s. c.
-Sed contra est quod dicitur Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem*.
+Sed contra est quod dicitur [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem*.
 
 ###### co.
 Respondeo dicendum quod oportet effectus esse suis causis et principiis proportionatos. Omnes autem virtutes tam intellectuales quam morales, quae ex nostris actibus acquiruntur, procedunt ex quibusdam naturalibus principiis in nobis praeexistentibus, ut supra dictum est. Loco quorum naturalium principiorum, conferuntur nobis a Deo virtutes theologicae, quibus ordinamur ad finem supernaturalem, sicut supra dictum est. Unde oportet quod his etiam virtutibus theologicis proportionaliter respondeant alii habitus divinitus causati in nobis, qui sic se habeant ad virtutes theologicas sicut se habent virtutes morales et intellectuales ad principia naturalia virtutum.

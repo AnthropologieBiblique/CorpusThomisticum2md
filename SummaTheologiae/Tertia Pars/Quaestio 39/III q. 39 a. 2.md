@@ -10,7 +10,7 @@ Praeterea, Baptismus Ioannis, sicut dicit Chrysostomus, *medium fuit inter Bapti
 Praeterea, omne quod in rebus humanis est optimum, debet attribui Christo. Sed Baptismus Ioannis non tenet supremum locum inter Baptismata. Ergo non convenit Christum baptizari Baptismo Ioannis.
 
 ###### s. c.
-Sed contra est quod dicitur Matth. III, quod *venit Iesus in Iordanem ut baptizaretur a Ioanne*.
+Sed contra est quod dicitur [[Mt 3]], quod *venit Iesus in Iordanem ut baptizaretur a Ioanne*.
 
 ###### co.
 Respondeo dicendum quod, sicut Augustinus dicit, super Ioan., *baptizatus dominus baptizabat non Baptismate quo baptizatus est*. Unde, cum ipse baptizaret Baptismo proprio, consequens est quod non fuerit baptizatus suo Baptismate, sed Baptismate Ioannis. Et hoc fuit conveniens, primo quidem, propter conditionem Baptismi Ioannis, qui non baptizavit in spiritu, sed solum in aqua. Christus autem spirituali Baptismate non indigebat, qui a principio suae conceptionis gratia spiritus sancti repletus fuit, ut patet ex dictis. Et haec est ratio Chrysostomi. Secundo, ut Beda dicit, baptizatus est Baptismo Ioannis, ut Baptismo suo Baptismum Ioannis comprobaret. Tertio, sicut Gregorius Nazianzenus dicit, *accedit Iesus ad Baptismum Ioannis sanctificaturus Baptismum*.

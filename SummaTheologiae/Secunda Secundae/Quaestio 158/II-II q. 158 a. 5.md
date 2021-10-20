@@ -7,7 +7,7 @@ Ad quintum sic proceditur. Videtur quod inconvenienter determinentur species ira
 Praeterea, difficiles, sive graves, dicit esse *quorum ira non commutatur sine cruciatu vel punitione*. Sed hoc etiam pertinet ad insolubilitatem irae. Ergo videtur quod idem sint difficiles et amari.
 
 ###### arg. 3
-Praeterea, dominus, Matth. V, ponit tres gradus irae, cum dicit, *qui irascitur fratri suo; et, qui dixerit fratri suo, raca; et, qui dixerit fratri suo, fatue* qui quidem gradus ad praedictas species non referuntur. Ergo videtur quod praedicta divisio irae non sit conveniens.
+Praeterea, dominus, [[Mt 5]], ponit tres gradus irae, cum dicit, *qui irascitur fratri suo; et, qui dixerit fratri suo, raca; et, qui dixerit fratri suo, fatue* qui quidem gradus ad praedictas species non referuntur. Ergo videtur quod praedicta divisio irae non sit conveniens.
 
 ###### s. c.
 Sed contra est quod Gregorius Nyssenus dicit quod tres sunt irascibilitatis species, scilicet ira quae vocatur fellea; et mania, quae dicitur insania; et furor. Quae tria videntur esse eadem tribus praemissis, nam iram felleam dicit esse quae principium et motum habet, quod philosophus attribuit acutis; maniam vero dicit esse iram quae permanet et in vetustatem devenit, quod philosophus attribuit amaris; furorem autem dicit esse iram quae observat tempus in supplicium, quod philosophus attribuit difficilibus. Et eandem etiam divisionem ponit Damascenus, in II libro. Ergo praedicta philosophi distinctio est conveniens.

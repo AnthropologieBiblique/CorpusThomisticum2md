@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod non sit aliqua lex humana. Lex enim natu
 Praeterea, lex habet rationem mensurae, ut dictum est. Sed ratio humana non est mensura rerum, sed potius e converso, ut in X Metaphys. dicitur. Ergo ex ratione humana nulla lex procedere potest.
 
 ###### arg. 3
-Praeterea, mensura debet esse certissima, ut dicitur in X Metaphys. Sed dictamen humanae rationis de rebus gerendis est incertum; secundum illud Sap. IX, *cogitationes mortalium timidae, et incertae providentiae nostrae*. Ergo ex ratione humana nulla lex procedere potest.
+Praeterea, mensura debet esse certissima, ut dicitur in X Metaphys. Sed dictamen humanae rationis de rebus gerendis est incertum; secundum illud [[Sg 9]], *cogitationes mortalium timidae, et incertae providentiae nostrae*. Ergo ex ratione humana nulla lex procedere potest.
 
 ###### s. c.
 Sed contra est quod Augustinus, in I de Lib. Arb., ponit duas leges, unam aeternam et aliam temporalem, quam dicit esse humanam.

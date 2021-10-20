@@ -13,10 +13,10 @@ Praeterea, lex importat ordinem ad finem. Sed nihil est aeternum quod ordinetur 
 Sed contra est quod Augustinus dicit, in I de Lib. Arb., *lex quae summa ratio nominatur, non potest cuipiam intelligenti non incommutabilis aeternaque videri*.
 
 ###### co.
-Respondeo dicendum quod, sicut supra dictum est, nihil est aliud lex quam quoddam dictamen practicae rationis in principe qui gubernat aliquam communitatem perfectam. Manifestum est autem, supposito quod mundus divina providentia regatur, ut in primo habitum est, quod tota communitas universi gubernatur ratione divina. Et ideo ipsa ratio gubernationis rerum in Deo sicut in principe universitatis existens, legis habet rationem. Et quia divina ratio nihil concipit ex tempore, sed habet aeternum conceptum, ut dicitur Prov. VIII; inde est quod huiusmodi legem oportet dicere aeternam.
+Respondeo dicendum quod, sicut supra dictum est, nihil est aliud lex quam quoddam dictamen practicae rationis in principe qui gubernat aliquam communitatem perfectam. Manifestum est autem, supposito quod mundus divina providentia regatur, ut in primo habitum est, quod tota communitas universi gubernatur ratione divina. Et ideo ipsa ratio gubernationis rerum in Deo sicut in principe universitatis existens, legis habet rationem. Et quia divina ratio nihil concipit ex tempore, sed habet aeternum conceptum, ut dicitur [[Pr 8]]; inde est quod huiusmodi legem oportet dicere aeternam.
 
 ###### ad 1
-Ad primum ergo dicendum quod ea quae in seipsis non sunt, apud Deum existunt, inquantum sunt ab ipso praecognita et praeordinata; secundum illud Rom. IV, *qui vocat ea quae non sunt, tanquam ea quae sunt*. Sic igitur aeternus divinae legis conceptus habet rationem legis aeternae, secundum quod a Deo ordinatur ad gubernationem rerum ab ipso praecognitarum.
+Ad primum ergo dicendum quod ea quae in seipsis non sunt, apud Deum existunt, inquantum sunt ab ipso praecognita et praeordinata; secundum illud [[Rm 4]], *qui vocat ea quae non sunt, tanquam ea quae sunt*. Sic igitur aeternus divinae legis conceptus habet rationem legis aeternae, secundum quod a Deo ordinatur ad gubernationem rerum ab ipso praecognitarum.
 
 ###### ad 2
 Ad secundum dicendum quod promulgatio fit et verbo et scripto; et utroque modo lex aeterna habet promulgationem ex parte Dei promulgantis, quia et verbum divinum est aeternum, et Scriptura libri vitae est aeterna. Sed ex parte creaturae audientis aut inspicientis, non potest esse promulgatio aeterna.

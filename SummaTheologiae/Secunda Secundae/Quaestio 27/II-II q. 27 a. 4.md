@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod Deus in hac vita non possit immediate am
 Praeterea, qui non potest quod minus est non potest quod maius est. Sed maius est amare Deum quam cognoscere ipsum, qui enim adhaeret Deo per amorem unus spiritus cum illo fit, ut dicitur I ad Cor. VI. Sed homo non potest Deum cognoscere immediate. Ergo multo minus amare.
 
 ###### arg. 3
-Praeterea, homo a Deo disiungitur per peccatum, secundum illud Isaiae LIX, *peccata vestra diviserunt inter vos et Deum vestrum*. Sed peccatum magis est in voluntate quam in intellectu. Ergo minus potest homo Deum diligere immediate quam immediate eum cognoscere.
+Praeterea, homo a Deo disiungitur per peccatum, secundum illud [[Is 59]], *peccata vestra diviserunt inter vos et Deum vestrum*. Sed peccatum magis est in voluntate quam in intellectu. Ergo minus potest homo Deum diligere immediate quam immediate eum cognoscere.
 
 ###### s. c.
 Sed contra est quod cognitio Dei, quia est mediata, dicitur aenigmatica, et evacuatur in patria, ut patet I ad Cor. XIII. Sed caritas non evacuatur, ut dicitur I ad Cor. XIII. Ergo caritas viae immediate Deo adhaeret.

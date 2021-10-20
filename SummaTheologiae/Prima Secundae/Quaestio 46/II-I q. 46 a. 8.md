@@ -7,7 +7,7 @@ Ad octavum sic proceditur. Videtur quod Damascenus inconvenienter assignet tres 
 Praeterea, Tullius, in IV de Tusculanis quaest., dicit quod *excandescentia Graece dicitur thymosis; et est ira modo nascens et modo desistens*. Thymosis autem secundum Damascenum, est idem quod furor. Non ergo furor tempus quaerit ad vindictam, sed tempore deficit.
 
 ###### arg. 3
-Praeterea, Gregorius, XXI Moral., ponit tres gradus irae, scilicet *iram sine voce, et iram cum voce, et iram cum verbo expresso*, secundum illa tria quae dominus ponit Matth. V, qui irascitur fratri suo, ubi tangitur ira sine voce; et postea subdit, qui dixerit fratri suo, raca, ubi tangitur ira cum voce, sed necdum pleno verbo formata; et postea dicit, qui autem dixerit fratri suo, fatue, ubi expletur vox perfectione sermonis. Ergo insufficienter divisit Damascenus iram, nihil ponens ex parte vocis.
+Praeterea, Gregorius, XXI Moral., ponit tres gradus irae, scilicet *iram sine voce, et iram cum voce, et iram cum verbo expresso*, secundum illa tria quae dominus ponit [[Mt 5]], qui irascitur fratri suo, ubi tangitur ira sine voce; et postea subdit, qui dixerit fratri suo, raca, ubi tangitur ira cum voce, sed necdum pleno verbo formata; et postea dicit, qui autem dixerit fratri suo, fatue, ubi expletur vox perfectione sermonis. Ergo insufficienter divisit Damascenus iram, nihil ponens ex parte vocis.
 
 ###### s. c.
 Sed contra est auctoritas Damasceni et Gregorii Nysseni.

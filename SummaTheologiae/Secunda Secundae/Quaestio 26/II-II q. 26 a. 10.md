@@ -7,7 +7,7 @@ Ad decimum sic proceditur. Videtur quod homo magis debeat diligere matrem quam p
 Praeterea, magis amantem debet homo magis diligere. Sed mater plus diligit filium quam pater, dicit enim philosophus, in IX Ethic., quod *matres magis sunt amatrices filiorum. Laboriosior enim est generatio matrum; et magis sciunt quoniam ipsarum sunt filii quam patres*. Ergo mater est magis diligenda quam pater.
 
 ###### arg. 3
-Praeterea, ei debetur maior dilectionis affectus qui pro nobis amplius laboravit, secundum illud Rom. ult., *salutate Mariam, quae multum laboravit in vobis*. Sed mater plus laborat in generatione et educatione quam pater, unde dicitur Eccli. VII, *gemitum matris tuae ne obliviscaris*. Ergo plus debet homo diligere matrem quam patrem.
+Praeterea, ei debetur maior dilectionis affectus qui pro nobis amplius laboravit, secundum illud Rom. ult., *salutate Mariam, quae multum laboravit in vobis*. Sed mater plus laborat in generatione et educatione quam pater, unde dicitur [[Si 7]], *gemitum matris tuae ne obliviscaris*. Ergo plus debet homo diligere matrem quam patrem.
 
 ###### s. c.
 Sed contra est quod Hieronymus dicit, super Ezech., quod *post Deum, omnium patrem, diligendus est pater*, et postea addit de matre.

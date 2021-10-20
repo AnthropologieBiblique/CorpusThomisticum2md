@@ -1,19 +1,19 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod mulier non possit baptizare. Legitur enim in Carthaginensi Concilio, *mulier, quamvis docta et sancta, viros in conventu docere, vel alios baptizare non praesumat*. Sed nullo modo licet mulieri docere in conventu, secundum illud I Cor. XIV, *turpe est mulieri in Ecclesia loqui*. Ergo videtur quod nec etiam aliquo modo liceat mulieri baptizare.
+Ad quartum sic proceditur. Videtur quod mulier non possit baptizare. Legitur enim in Carthaginensi Concilio, *mulier, quamvis docta et sancta, viros in conventu docere, vel alios baptizare non praesumat*. Sed nullo modo licet mulieri docere in conventu, secundum illud [[1 Co 14]], *turpe est mulieri in Ecclesia loqui*. Ergo videtur quod nec etiam aliquo modo liceat mulieri baptizare.
 
 ###### arg. 2
-Praeterea, baptizare pertinet ad officium praelationis, unde a sacerdotibus habentibus curam animarum debet accipi Baptismus. Sed hoc non potest competere feminae, secundum illud I Tim. II, *docere mulieri non permitto, nec dominari in viros, sed subditam esse*. Ergo mulier baptizare non potest.
+Praeterea, baptizare pertinet ad officium praelationis, unde a sacerdotibus habentibus curam animarum debet accipi Baptismus. Sed hoc non potest competere feminae, secundum illud [[1 Tm 2]], *docere mulieri non permitto, nec dominari in viros, sed subditam esse*. Ergo mulier baptizare non potest.
 
 ###### arg. 3
-Praeterea, in spirituali regeneratione videtur aqua habere locum materni uteri, ut Augustinus dicit, super illud Ioan. III, *nunquid homo potest in ventrem matris suae iterato introire et renasci?* Ille autem qui baptizat, videtur magis habere patris officium. Sed hoc non competit mulieri. Ergo mulier baptizare non potest.
+Praeterea, in spirituali regeneratione videtur aqua habere locum materni uteri, ut Augustinus dicit, super illud [[Jn 3]], *nunquid homo potest in ventrem matris suae iterato introire et renasci?* Ille autem qui baptizat, videtur magis habere patris officium. Sed hoc non competit mulieri. Ergo mulier baptizare non potest.
 
 ###### s. c.
 Sed contra est quod Urbanus Papa dicit, et habetur in decretis, XXX, qu. III, *super quibus consuluit nos tua dilectio, hoc videtur nobis hac sententia respondendum, ut Baptismus sit si, necessitate instante, femina puerum in nomine Trinitatis baptizaverit*.
 
 ###### co.
-Respondeo dicendum quod Christus est qui principaliter baptizat, secundum illud Ioan. I, *super quem videris spiritum descendentem et manentem, hic est qui baptizat*. Dicitur autem Coloss. III quod *in Christo non est masculus neque femina*. Et ideo, sicut masculus laicus potest baptizare, quasi minister Christi, ita etiam et femina. Quia tamen *caput mulieris est vir, et caput viri Christus*, ut dicitur I Cor. XI; non debet mulier baptizare si adsit copia viri. Sicut nec laicus praesente clerico, nec clericus praesente sacerdote. Qui tamen potest baptizare praesente episcopo, eo quod hoc pertinet ad officium sacerdotis.
+Respondeo dicendum quod Christus est qui principaliter baptizat, secundum illud [[Jn 1]], *super quem videris spiritum descendentem et manentem, hic est qui baptizat*. Dicitur autem [[Col 3]] quod *in Christo non est masculus neque femina*. Et ideo, sicut masculus laicus potest baptizare, quasi minister Christi, ita etiam et femina. Quia tamen *caput mulieris est vir, et caput viri Christus*, ut dicitur [[1 Co 11]]; non debet mulier baptizare si adsit copia viri. Sicut nec laicus praesente clerico, nec clericus praesente sacerdote. Qui tamen potest baptizare praesente episcopo, eo quod hoc pertinet ad officium sacerdotis.
 
 ###### ad 1
 Ad primum ergo dicendum quod, sicut mulieri non permittitur publice docere, potest tamen privata doctrina vel monitione aliquem instruere; ita non permittitur publice et solemniter baptizare, sed tamen potest baptizare in necessitatis articulo.

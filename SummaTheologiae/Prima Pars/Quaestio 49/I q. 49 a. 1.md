@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod bonum non possit esse causa mali. Dicitur enim Matth. VII, *non potest arbor bona malos fructus facere*.
+Ad primum sic proceditur. Videtur quod bonum non possit esse causa mali. Dicitur enim [[Mt 7]], *non potest arbor bona malos fructus facere*.
 
 ###### arg. 2
 Praeterea, unum contrariorum non potest esse causa alterius. Malum autem est contrarium bono. Ergo bonum non potest esse causa mali.

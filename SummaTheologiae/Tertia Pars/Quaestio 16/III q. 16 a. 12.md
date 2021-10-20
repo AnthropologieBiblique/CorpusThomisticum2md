@@ -1,7 +1,7 @@
 ### Articulus 12
 
 ###### arg. 1
-Ad duodecimum sic proceditur. Videtur quod Christus, secundum quod homo, sit hypostasis vel persona. Illud enim quod convenit cuilibet homini, convenit Christo secundum quod est homo, est enim aliis hominibus similis, secundum illud Philipp. II, *in similitudinem hominum factus*. Sed omnis homo est persona. Ergo Christus, secundum quod homo, est persona.
+Ad duodecimum sic proceditur. Videtur quod Christus, secundum quod homo, sit hypostasis vel persona. Illud enim quod convenit cuilibet homini, convenit Christo secundum quod est homo, est enim aliis hominibus similis, secundum illud [[Ph 2]], *in similitudinem hominum factus*. Sed omnis homo est persona. Ergo Christus, secundum quod homo, est persona.
 
 ###### arg. 2
 Praeterea, Christus, secundum quod homo, est substantia rationalis naturae. Non autem substantia universalis. Ergo substantia individua. Sed nihil aliud est persona quam *rationalis naturae individua substantia*, ut dicit Boetius, in libro de duabus naturis. Ergo Christus, secundum quod homo, est persona.

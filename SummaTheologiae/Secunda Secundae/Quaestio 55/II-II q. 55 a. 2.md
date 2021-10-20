@@ -1,10 +1,10 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod prudentia carnis sit peccatum mortale. Rebellare enim divinae legi est peccatum mortale quia per hoc dominus contemnitur. Sed prudentia carnis non est subiecta legi Dei, ut habetur Rom. VIII. Ergo prudentia carnis est peccatum mortale.
+Ad secundum sic proceditur. Videtur quod prudentia carnis sit peccatum mortale. Rebellare enim divinae legi est peccatum mortale quia per hoc dominus contemnitur. Sed prudentia carnis non est subiecta legi Dei, ut habetur [[Rm 8]]. Ergo prudentia carnis est peccatum mortale.
 
 ###### arg. 2
-Praeterea, omne peccatum in spiritum sanctum est peccatum mortale. Sed prudentia carnis videtur esse peccatum in spiritum sanctum, non enim potest esse subiecta legi Dei, ut dicitur Rom. VIII; et ita videtur esse peccatum irremissibile, quod est proprium peccati in spiritum sanctum. Ergo prudentia carnis est peccatum mortale.
+Praeterea, omne peccatum in spiritum sanctum est peccatum mortale. Sed prudentia carnis videtur esse peccatum in spiritum sanctum, non enim potest esse subiecta legi Dei, ut dicitur [[Rm 8]]; et ita videtur esse peccatum irremissibile, quod est proprium peccati in spiritum sanctum. Ergo prudentia carnis est peccatum mortale.
 
 ###### arg. 3
 Praeterea, maximo bono opponitur maximum malum; ut patet in VIII Ethic. Sed prudentia carnis opponitur prudentiae quae est praecipua inter virtutes morales. Ergo prudentia carnis est praecipuum inter peccata moralia. Et ita est peccatum mortale.

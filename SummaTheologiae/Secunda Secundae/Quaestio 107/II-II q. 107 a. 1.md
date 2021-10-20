@@ -7,10 +7,10 @@ Ad primum sic proceditur. Videtur quod ingratitudo non semper sit peccatum. Dici
 Praeterea, omne peccatum est in potestate peccantis, quia secundum Augustinum, *nullus peccat in eo quod vitare non potest*. Sed quandoque non est in potestate peccantis ingratitudinem vitare, puta cum non habet unde reddat. Oblivio etiam non est in potestate nostra, cum tamen Seneca dicat, in III de Benefic., quod *ingratissimus omnium est qui oblitus est*. Ergo ingratitudo non semper est peccatum.
 
 ###### arg. 3
-Praeterea, non videtur peccare qui non vult aliquid debere, secundum illud apostoli, Rom. XIII, *nemini quidquam debeatis*. Sed qui invitus debet ingratus est, ut Seneca dicit, in IV de Benefic. Ergo non semper ingratitudo est peccatum.
+Praeterea, non videtur peccare qui non vult aliquid debere, secundum illud apostoli, [[Rm 13]], *nemini quidquam debeatis*. Sed qui invitus debet ingratus est, ut Seneca dicit, in IV de Benefic. Ergo non semper ingratitudo est peccatum.
 
 ###### s. c.
-Sed contra est quod II ad Tim. III, ingratitudo connumeratur aliis peccatis, cum dicitur, *parentibus non obedientes, ingrati, scelesti*.
+Sed contra est quod [[2 Tm 3]], ingratitudo connumeratur aliis peccatis, cum dicitur, *parentibus non obedientes, ingrati, scelesti*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, debitum gratitudinis est quoddam debitum honestatis quam virtus requirit. Ex hoc autem aliquid est peccatum quod repugnat virtuti. Unde manifestum est quod omnis ingratitudo est peccatum.

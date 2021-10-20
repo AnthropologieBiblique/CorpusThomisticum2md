@@ -10,7 +10,7 @@ Praeterea, voluntas est appetitus quidam. Appetitus autem, cum sit rei non habit
 Praeterea, secundum philosophum, in III de anima, voluntas est movens motum. Sed Deus est primum movens immobile. Ut probatur VIII Physic. Ergo in Deo non est voluntas.
 
 ###### s. c.
-Sed contra est quod dicit apostolus, Rom. XII, *ut probetis quae sit voluntas Dei*.
+Sed contra est quod dicit apostolus, [[Rm 12]], *ut probetis quae sit voluntas Dei*.
 
 ###### co.
 Respondeo dicendum in Deo voluntatem esse, sicut et in eo est intellectus, voluntas enim intellectum consequitur. Sicut enim res naturalis habet esse in actu per suam formam, ita intellectus intelligens actu per suam formam intelligibilem. Quaelibet autem res ad suam formam naturalem hanc habet habitudinem, ut quando non habet ipsam, tendat in eam; et quando habet ipsam, quiescat in ea. Et idem est de qualibet perfectione naturali, quod est bonum naturae. Et haec habitudo ad bonum, in rebus carentibus cognitione, vocatur appetitus naturalis. Unde et natura intellectualis ad bonum apprehensum per formam intelligibilem, similem habitudinem habet, ut scilicet, cum habet ipsum, quiescat in illo; cum vero non habet, quaerat ipsum. Et utrumque pertinet ad voluntatem. Unde in quolibet habente intellectum, est voluntas; sicut in quolibet habente sensum, est appetitus animalis. Et sic oportet in Deo esse voluntatem, cum sit in eo intellectus. Et sicut suum intelligere est suum esse, ita suum velle.

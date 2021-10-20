@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod per ingratitudinem peccati sequentis con
 Praeterea, magis peccat qui offendit Deum quam qui offendit hominem. Sed servus manumissus ab aliquo domino reducitur in eandem servitutem a qua prius fuerat liberatus, vel etiam in graviorem. Ergo multo magis ille qui contra Deum peccat post liberationem a peccato, reducitur in tantum reatum poenae quantum primo habuerat.
 
 ###### arg. 3
-Praeterea, Matth. XVIII dicitur quod iratus dominus tradidit eum, cui replicantur peccata dimissa propter ingratitudinem, tortoribus, quoadusque redderet universum debitum. Sed hoc non esset nisi consurgeret ex ingratitudine tantus reatus quantus fuit omnium praeteritorum peccatorum. Ergo aequalis reatus per ingratitudinem redit.
+Praeterea, [[Mt 18]] dicitur quod iratus dominus tradidit eum, cui replicantur peccata dimissa propter ingratitudinem, tortoribus, quoadusque redderet universum debitum. Sed hoc non esset nisi consurgeret ex ingratitudine tantus reatus quantus fuit omnium praeteritorum peccatorum. Ergo aequalis reatus per ingratitudinem redit.
 
 ###### s. c.
 Sed contra est quod dicitur Deuteron. XXV, *pro mensura peccati erit et plagarum modus*. Ex quo patet quod ex parvo peccato non consurgit magnus reatus. Sed quandoque mortale peccatum sequens est multo minus quolibet peccatorum prius dimissorum. Non ergo ex peccato sequenti redit tantus reatus quantus fuit peccatorum prius dimissorum.

@@ -10,7 +10,7 @@ Praeterea, omne peccatum mortale opponitur alicui praecepto Decalogi. Sed blasph
 Praeterea, peccata quae absque deliberatione committuntur non sunt mortalia, propter quod primi motus non sunt peccata mortalia, quia deliberationem rationis praecedunt, ut ex supradictis patet. Sed blasphemia quandoque absque deliberatione procedit. Ergo non semper est peccatum mortale.
 
 ###### s. c.
-Sed contra est quod dicitur Levit. XXIV, *qui blasphemaverit nomen domini, morte moriatur*. Sed poena mortis non infertur nisi pro peccato mortali. Ergo blasphemia est peccatum mortale.
+Sed contra est quod dicitur [[Lv 24]], *qui blasphemaverit nomen domini, morte moriatur*. Sed poena mortis non infertur nisi pro peccato mortali. Ergo blasphemia est peccatum mortale.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, peccatum mortale est per quod homo separatur a primo principio spiritualis vitae, quod est caritas Dei. Unde quaecumque caritati repugnant, ex suo genere sunt peccata mortalia. Blasphemia autem secundum genus suum repugnat caritati divinae, quia derogat divinae bonitati, ut dictum est, quae est obiectum caritatis. Et ideo blasphemia est peccatum mortale ex suo genere.

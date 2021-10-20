@@ -7,7 +7,7 @@ Ad quintum sic proceditur. Videtur quod malum insufficienter dividatur per poena
 Praeterea, in rebus irrationalibus non invenitur culpa nec poena. Invenitur tamen in eis corruptio et defectus, quae ad rationem mali pertinent. Ergo non omne malum est poena vel culpa.
 
 ###### arg. 3
-Praeterea, tentatio quoddam malum est. Nec tamen est culpa, quia tentatio cui non consentitur, *non est peccatum, sed materia exercendae virtutis*, ut dicitur in Glossa II Cor. XII. Nec etiam poena, quia tentatio praecedit culpam, poena autem subsequitur. Insufficienter ergo malum dividitur per poenam et culpam.
+Praeterea, tentatio quoddam malum est. Nec tamen est culpa, quia tentatio cui non consentitur, *non est peccatum, sed materia exercendae virtutis*, ut dicitur in Glossa [[2 Co 12]]. Nec etiam poena, quia tentatio praecedit culpam, poena autem subsequitur. Insufficienter ergo malum dividitur per poenam et culpam.
 
 ###### s. c.
 Sed contra, videtur quod divisio sit superflua. Ut enim Augustinus dicit, in Enchirid., malum dicitur quia nocet. Quod autem nocet, poenale est. Omne ergo malum sub poena continetur.

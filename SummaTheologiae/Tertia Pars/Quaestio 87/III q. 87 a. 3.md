@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod peccata venialia non remittantur per asp
 Praeterea, quodlibet istorum relationem habet ad unum peccatum veniale, et ad omnia. Si ergo per aliquod istorum remittitur peccatum veniale, sequetur quod pari ratione remittantur omnia. Et ita per unam tunsionem pectoris, vel per unam aspersionem aquae benedictae, redderetur homo immunis ab omnibus peccatis venialibus. Quod videtur inconveniens.
 
 ###### arg. 3
-Praeterea, peccata venialia inducunt reatum alicuius poenae, licet temporalis, dicitur enim, I Cor. III, de eo qui *superaedificat lignum, faenum et stipulam, quod salvus erit, sic tamen quasi per ignem*. Sed huiusmodi per quae dicitur peccatum veniale remitti, vel nullam vel minimam poenam in se habent. Ergo non sufficiunt ad plenam remissionem venialium peccatorum.
+Praeterea, peccata venialia inducunt reatum alicuius poenae, licet temporalis, dicitur enim, [[1 Co 3]], de eo qui *superaedificat lignum, faenum et stipulam, quod salvus erit, sic tamen quasi per ignem*. Sed huiusmodi per quae dicitur peccatum veniale remitti, vel nullam vel minimam poenam in se habent. Ergo non sufficiunt ad plenam remissionem venialium peccatorum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de poenitentia, quod pro levibus peccatis pectora nostra tundimus, *et dicimus, dimitte nobis debita nostra*. Et ita videtur quod tunsio pectoris et oratio dominica causent remissionem peccatorum. Et eadem ratio videtur esse de aliis.

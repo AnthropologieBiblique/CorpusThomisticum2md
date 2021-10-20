@@ -10,7 +10,7 @@ Praeterea, natura facit quod melius est, et multo magis Deus. Sed melius esset e
 Praeterea, omne quod habet formam in materia, potest multiplicari secundum numerum, manente eadem specie, quia multiplicatio secundum numerum est ex materia. Sed mundus habet formam in materia, sicut enim cum dico homo, significo formam, cum autem dico hic homo, significo formam in materia; ita, cum dicitur mundus, significatur forma, cum autem dicitur hic mundus, significatur forma in materia. Ergo nihil prohibet esse plures mundos.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. I, *mundus per ipsum factus est*; ubi singulariter mundum nominavit, quasi uno solo mundo existente.
+Sed contra est quod dicitur [[Jn 1]], *mundus per ipsum factus est*; ubi singulariter mundum nominavit, quasi uno solo mundo existente.
 
 ###### co.
 Respondeo dicendum quod ipse ordo in rebus sic a Deo creatis existens, unitatem mundi manifestat. Mundus enim iste unus dicitur unitate ordinis, secundum quod quaedam ad alia ordinantur. Quaecumque autem sunt a Deo, ordinem habent ad invicem et ad ipsum Deum, ut supra ostensum est. Unde necesse est quod omnia ad unum mundum pertineant. Et ideo illi potuerunt ponere plures mundos, qui causam mundi non posuerunt aliquam sapientiam ordinantem, sed casum; ut Democritus, qui dixit ex concursu atomorum factum esse hunc mundum, et alios infinitos.

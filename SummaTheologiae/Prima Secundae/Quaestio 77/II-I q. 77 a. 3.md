@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod peccatum quod est ex passione, non debea
 Praeterea, infirmitas hominis maxime attenditur secundum illud quod est in eo fragilius. Hoc autem est caro, unde dicitur in Psalmo LXXVII, *recordatus est quia caro sunt*. Ergo magis debet dici peccatum ex infirmitate quod est ex aliquo corporis defectu, quam quod est ex animae passione.
 
 ###### arg. 3
-Praeterea, ad ea non videtur homo esse infirmus, quae eius voluntati subduntur. Sed facere vel non facere ea ad quae passio inclinat, hominis voluntati subditur, secundum illud Gen. IV, *sub te erit appetitus tuus, et tu dominaberis illius*. Ergo peccatum quod est ex passione, non est ex infirmitate.
+Praeterea, ad ea non videtur homo esse infirmus, quae eius voluntati subduntur. Sed facere vel non facere ea ad quae passio inclinat, hominis voluntati subditur, secundum illud [[Gn 4]], *sub te erit appetitus tuus, et tu dominaberis illius*. Ergo peccatum quod est ex passione, non est ex infirmitate.
 
 ###### s. c.
 Sed contra est quod Tullius, in IV libro de Tuscul. quaest., passiones animae aegritudines vocat. Aegritudines autem alio nomine infirmitates dicuntur. Ergo peccatum quod est ex passione, debet dici ex infirmitate.

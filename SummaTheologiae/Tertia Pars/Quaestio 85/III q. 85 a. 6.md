@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod poenitentia sit prima virtutum. Quia super illud Matth. III, *poenitentiam agite*, dicit Glossa, *prima virtus est per poenitentiam punire veterem hominem et vitia odire*.
+Ad sextum sic proceditur. Videtur quod poenitentia sit prima virtutum. Quia super illud [[Mt 3]], *poenitentiam agite*, dicit Glossa, *prima virtus est per poenitentiam punire veterem hominem et vitia odire*.
 
 ###### arg. 2
 Praeterea, recedere a termino prius esse videtur quam accedere ad terminum. Sed omnes aliae virtutes pertinere videntur ad accessum ad terminum, quia per omnes homo ordinatur ad bonum agendum. Poenitentia autem videtur ordinari ad recessum a malo. Ergo poenitentia videtur prior esse omnibus aliis virtutibus.

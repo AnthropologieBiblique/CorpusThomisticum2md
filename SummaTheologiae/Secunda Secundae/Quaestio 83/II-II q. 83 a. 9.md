@@ -1,7 +1,7 @@
 ### Articulus 9
 
 ###### arg. 1
-Ad nonum sic proceditur. Videtur quod inconvenienter septem petitiones orationis dominicae assignentur. Vanum enim est petere illud quod semper est. Sed nomen Dei semper est sanctum, secundum illud Luc. I, *sanctum nomen eius*. Regnum etiam eius est sempiternum, secundum illud Psalmo, *regnum tuum, domine, regnum omnium saeculorum*. Voluntas etiam Dei semper impletur, secundum illud Isaiae XLVI, omnis voluntas mea fiet. Vanum ergo est petere quod nomen Dei sanctificetur, quod regnum eius adveniat, et quod eius voluntas fiat.
+Ad nonum sic proceditur. Videtur quod inconvenienter septem petitiones orationis dominicae assignentur. Vanum enim est petere illud quod semper est. Sed nomen Dei semper est sanctum, secundum illud [[Lc 1]], *sanctum nomen eius*. Regnum etiam eius est sempiternum, secundum illud Psalmo, *regnum tuum, domine, regnum omnium saeculorum*. Voluntas etiam Dei semper impletur, secundum illud [[Is 46]], omnis voluntas mea fiet. Vanum ergo est petere quod nomen Dei sanctificetur, quod regnum eius adveniat, et quod eius voluntas fiat.
 
 ###### arg. 2
 Praeterea, prius est recedere a malo quam consequi bonum. Inconvenienter igitur videntur praeordinari petitiones quae pertinent ad consequendum bonum, petitionibus quae pertinent ad amotionem mali.
@@ -10,10 +10,10 @@ Praeterea, prius est recedere a malo quam consequi bonum. Inconvenienter igitur 
 Praeterea, ad hoc aliquid petitur ut donetur. Sed praecipuum donum Dei est spiritus sanctus, et ea quae nobis per ipsum dantur. Ergo videntur inconvenienter proponi petitiones, cum non respondeant donis spiritus sancti.
 
 ###### arg. 4
-Praeterea, secundum Lucam in oratione dominica ponuntur solum quinque petitiones, ut patet Luc. XI. Superfluum igitur fuit quod secundum Matthaeum septem petitiones ponuntur.
+Praeterea, secundum Lucam in oratione dominica ponuntur solum quinque petitiones, ut patet [[Lc 11]]. Superfluum igitur fuit quod secundum Matthaeum septem petitiones ponuntur.
 
 ###### arg. 5
-Praeterea, in vanum videtur captare benevolentiam eius qui benevolentia sua nos praevenit. Sed Deus nos sua benevolentia praevenit, quia ipse prior dilexit nos, ut dicitur I Ioan. IV. Superflue ergo praemittitur petitionibus, *pater noster, qui es in caelis*, quod videtur ad benevolentiam captandam pertinere.
+Praeterea, in vanum videtur captare benevolentiam eius qui benevolentia sua nos praevenit. Sed Deus nos sua benevolentia praevenit, quia ipse prior dilexit nos, ut dicitur [[1 Jn 4]]. Superflue ergo praemittitur petitionibus, *pater noster, qui es in caelis*, quod videtur ad benevolentiam captandam pertinere.
 
 ###### s. c.
 Sed in contrarium sufficit auctoritas Christi orationem instituentis.

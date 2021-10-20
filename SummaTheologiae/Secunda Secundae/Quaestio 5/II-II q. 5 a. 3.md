@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod alios articulos fidei, de quibus haereticus non err
 Ad secundum dicendum quod in diversis conclusionibus unius scientiae sunt diversa media per quae probantur, quorum unum potest cognosci sine alio. Et ideo homo potest scire quasdam conclusiones unius scientiae, ignoratis aliis. Sed omnibus articulis fidei inhaeret fides propter unum medium, scilicet propter veritatem primam propositam nobis in Scripturis secundum doctrinam Ecclesiae intellectis sane. Et ideo qui ab hoc medio decidit totaliter fide caret.
 
 ###### ad 3
-Ad tertium dicendum quod diversa praecepta legis possunt referri vel ad diversa motiva proxima, et sic unum sine alio servari potest. Vel ad unum motivum primum, quod est perfecte obedire Deo, a quo decidit quicumque unum praeceptum transgreditur, secundum illud Iac. II, *qui offendit in uno factus est omnium reus*.
+Ad tertium dicendum quod diversa praecepta legis possunt referri vel ad diversa motiva proxima, et sic unum sine alio servari potest. Vel ad unum motivum primum, quod est perfecte obedire Deo, a quo decidit quicumque unum praeceptum transgreditur, secundum illud [[Jc 2]], *qui offendit in uno factus est omnium reus*.
 

@@ -10,13 +10,13 @@ Praeterea, philosophus dicit, in III Ethic., quod electio est appetitus praecons
 Praeterea, liberum arbitrium se habet ad utrumque. Sed voluntas Christi fuit determinata ad bonum, quia non potuit peccare, sicut supra dictum est. Ergo in Christo non fuit liberum arbitrium.
 
 ###### s. c.
-Sed contra est quod dicitur Isaiae VII, *butyrum et mel comedet, ut sciat reprobare malum et eligere bonum*, quod est actus liberi arbitrii. Ergo in Christo fuit liberum arbitrium.
+Sed contra est quod dicitur [[Is 7]], *butyrum et mel comedet, ut sciat reprobare malum et eligere bonum*, quod est actus liberi arbitrii. Ergo in Christo fuit liberum arbitrium.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, in Christo fuit duplex actus voluntatis, unus quidem quo eius voluntas ferebatur in aliquid sicut secundum se volitum, quod pertinet ad rationem finis; alius autem secundum quem eius voluntas ferebatur in aliquid per ordinem ad aliud, quod pertinet ad rationem eius quod est ad finem. Differt autem, ut philosophus dicit, in III Ethic., electio a voluntate in hoc, quod voluntas, per se loquendo, est ipsius finis; electio autem eorum quae sunt ad finem. Et sic simplex voluntas est idem quod voluntas ut natura, electio autem est idem quod voluntas ut ratio, et est proprius actus liberi arbitrii, ut in prima parte dictum est. Et ideo, cum in Christo ponatur voluntas ut ratio, necesse est ibi ponere electionem, et per consequens liberum arbitrium, cuius actus est electio, ut in prima parte habitum est.
 
 ###### ad 1
-Ad primum ergo dicendum quod Damascenus excludit a Christo electionem secundum quod intelligit in nomine electionis importari dubitationem. Sed tamen dubitatio non est de necessitate electionis, quia etiam Deo competit eligere, secundum illud Ephes. I, *elegit nos in ipso ante mundi constitutionem*; cum tamen in Deo nulla sit dubitatio. Accidit autem dubitatio electioni, inquantum est in natura ignorante. Et idem dicendum est de aliis de quibus fit mentio in auctoritate praedicta.
+Ad primum ergo dicendum quod Damascenus excludit a Christo electionem secundum quod intelligit in nomine electionis importari dubitationem. Sed tamen dubitatio non est de necessitate electionis, quia etiam Deo competit eligere, secundum illud [[Ep 1]], *elegit nos in ipso ante mundi constitutionem*; cum tamen in Deo nulla sit dubitatio. Accidit autem dubitatio electioni, inquantum est in natura ignorante. Et idem dicendum est de aliis de quibus fit mentio in auctoritate praedicta.
 
 ###### ad 2
 Ad secundum dicendum quod electio praesupponit consilium, non tamen sequitur ex consilio nisi iam determinato per iudicium; illud enim quod iudicamus agendum post inquisitionem consilii, eligimus, ut dicitur in III Ethic. Et ideo, si aliquid iudicetur ut agendum absque dubitatione et inquisitione praecedente, hoc sufficit ad electionem. Et sic patet quod dubitatio, sive inquisitio, non per se pertinet ad electionem, sed solum secundum quod est in natura ignorante.

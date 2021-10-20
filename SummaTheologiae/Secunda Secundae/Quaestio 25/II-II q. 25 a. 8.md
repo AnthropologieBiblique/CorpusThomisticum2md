@@ -7,10 +7,10 @@ Ad octavum sic proceditur. Videtur quod non sit de necessitate caritatis ut inim
 Praeterea, caritas non tollit naturam. Sed unaquaeque res, etiam irrationalis, naturaliter odit suum contrarium, sicut ovis lupum, et aqua ignem. Ergo caritas non facit quod inimici diligantur.
 
 ###### arg. 3
-Praeterea, caritas non agit perperam. Sed hoc videtur esse perversum quod aliquis diligat inimicos, sicut et quod aliquis odio habeat amicos, unde II Reg. XIX exprobrando dicit Ioab ad David, *diligis odientes te, et odio habes diligentes te*. Ergo caritas non facit ut inimici diligantur.
+Praeterea, caritas non agit perperam. Sed hoc videtur esse perversum quod aliquis diligat inimicos, sicut et quod aliquis odio habeat amicos, unde [[2S 19]] exprobrando dicit Ioab ad David, *diligis odientes te, et odio habes diligentes te*. Ergo caritas non facit ut inimici diligantur.
 
 ###### s. c.
-Sed contra est quod dominus dicit, Matth. V, *diligite inimicos vestros*.
+Sed contra est quod dominus dicit, [[Mt 5]], *diligite inimicos vestros*.
 
 ###### co.
 Respondeo dicendum quod dilectio inimicorum tripliciter potest considerari. Uno quidem modo, ut inimici diligantur inquantum sunt inimici. Et hoc est perversum et caritati repugnans, quia hoc est diligere malum alterius. Alio modo potest accipi dilectio inimicorum quantum ad naturam, sed in universali. Et sic dilectio inimicorum est de necessitate caritatis, ut scilicet aliquis diligens Deum et proximum ab illa generalitate dilectionis proximi inimicos suos non excludat. Tertio modo potest considerari dilectio inimicorum in speciali, ut scilicet aliquis in speciali moveatur motu dilectionis ad inimicum. Et istud non est de necessitate caritatis absolute, quia nec etiam moveri motu dilectionis in speciali ad quoslibet homines singulariter est de necessitate caritatis, quia hoc esset impossibile. Est tamen de necessitate caritatis secundum praeparationem animi, ut scilicet homo habeat animum paratum ad hoc quod in singulari inimicum diligeret si necessitas occurreret. Sed quod absque articulo necessitatis homo etiam hoc actu impleat ut diligat inimicum propter Deum, hoc pertinet ad perfectionem caritatis. Cum enim ex caritate diligatur proximus propter Deum, quanto aliquis magis diligit Deum, tanto etiam magis ad proximum dilectionem ostendit, nulla inimicitia impediente. Sicut si aliquis multum diligeret aliquem hominem, amore ipsius filios eius amaret etiam sibi inimicos. Et secundum hunc modum loquitur Augustinus.

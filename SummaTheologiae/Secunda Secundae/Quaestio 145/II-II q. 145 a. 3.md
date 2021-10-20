@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod honestum non differat ab utili et delectabili. Dicitur enim honestum quod propter se appetitur. Sed delectatio propter se appetitur, *ridiculum enim videtur quaerere propter quid aliquis velit delectari*, ut philosophus dicit, in X Ethic. Ergo honestum non differt a delectabili.
 
 ###### arg. 2
-Praeterea, divitiae sub bono utili continentur, dicit enim Tullius, in II Rhet., *est aliquid non propter suam vim et naturam, sed propter fructum et utilitatem petendum, quod pecunia est*. Sed divitiae habent rationem honestatis, dicitur enim Eccli. XI, paupertas et honestas (idest divitiae) a Deo sunt; et XIII, pondus super se tollit qui honestiori (idest ditiori) se communicat. Ergo honestum non differt ab utili.
+Praeterea, divitiae sub bono utili continentur, dicit enim Tullius, in II Rhet., *est aliquid non propter suam vim et naturam, sed propter fructum et utilitatem petendum, quod pecunia est*. Sed divitiae habent rationem honestatis, dicitur enim [[Si 11]], paupertas et honestas (idest divitiae) a Deo sunt; et XIII, pondus super se tollit qui honestiori (idest ditiori) se communicat. Ergo honestum non differt ab utili.
 
 ###### arg. 3
 Praeterea, Tullius probat, in libro de Offic., quod nihil potest esse utile quod non sit honestum. Et hoc idem habetur per Ambrosium, in libro de Offic. Ergo utile non differt ab honesto.

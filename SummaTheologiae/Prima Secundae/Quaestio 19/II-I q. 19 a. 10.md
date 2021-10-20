@@ -10,7 +10,7 @@ Praeterea, Deus vult damnare aliquem, quem praescit in mortali peccato moriturum
 Praeterea, nullus tenetur velle aliquid quod est contra pietatem. Sed si homo vellet illud quod Deus vult, hoc esset quandoque contra pietatem, puta, cum Deus vult mori patrem alicuius, si filius hoc idem vellet, contra pietatem esset. Ergo non tenetur homo conformare voluntatem suam voluntati divinae in volito.
 
 ###### s. c.
-Sed contra est quia super illud Psalmi XXXII, *rectos decet collaudatio*, dicit Glossa, *rectum cor habet qui vult quod Deus vult*. Sed quilibet tenetur habere rectum cor. Ergo quilibet tenetur velle quod Deus vult.
+Sed contra est quia super illud [[Ps 32]], *rectos decet collaudatio*, dicit Glossa, *rectum cor habet qui vult quod Deus vult*. Sed quilibet tenetur habere rectum cor. Ergo quilibet tenetur velle quod Deus vult.
 
 ###### s. c.
 Praeterea, forma voluntatis est ex obiecto sicut et cuiuslibet actus. Si ergo tenetur homo conformare voluntatem suam voluntati divinae, sequitur quod teneatur conformare in volito.

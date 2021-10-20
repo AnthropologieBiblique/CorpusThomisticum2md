@@ -13,7 +13,7 @@ Praeterea, quod factum est, necesse est aliquando fieri. Sed non potest dici quo
 Praeterea, infinitam distantiam non est pertransire. Sed infinita distantia est inter ens et nihil. Ergo non contingit ex nihilo aliquid fieri.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. I, *in principio creavit Deus caelum et terram*.
+Sed contra est quod dicitur [[Gn 1]], *in principio creavit Deus caelum et terram*.
 
 ###### co.
 Respondeo dicendum quod non solum non est impossibile a Deo aliquid creari, sed necesse est ponere a Deo omnia creata esse, ut ex praemissis habetur. Quicumque enim facit aliquid ex aliquo, illud ex quo facit praesupponitur actioni eius, et non producitur per ipsam actionem, sicut artifex operatur ex rebus naturalibus, ut ex ligno et aere, quae per artis actionem non causantur, sed causantur per actionem naturae. Sed et ipsa natura causat res naturales quantum ad formam, sed praesupponit materiam. Si ergo Deus non ageret nisi ex aliquo praesupposito, sequeretur quod illud praesuppositum non esset causatum ab ipso. Ostensum est autem supra quod nihil potest esse in entibus quod non sit a Deo, qui est causa universalis totius esse. Unde necesse est dicere quod Deus ex nihilo res in esse producit.

@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod corpus Christi in sepulcro fuerit incineratum. Sicut enim mors est poena peccati primi parentis, ita etiam incineratio, dictum est enim primo homini post peccatum, *pulvis es, et in pulverem reverteris*, ut dicitur Gen. III. Sed Christus mortem sustinuit ut nos a morte liberaret. Ergo etiam incinerari debuit corpus eius, ut nos ab incineratione liberaret.
+Ad tertium sic proceditur. Videtur quod corpus Christi in sepulcro fuerit incineratum. Sicut enim mors est poena peccati primi parentis, ita etiam incineratio, dictum est enim primo homini post peccatum, *pulvis es, et in pulverem reverteris*, ut dicitur [[Gn 3]]. Sed Christus mortem sustinuit ut nos a morte liberaret. Ergo etiam incinerari debuit corpus eius, ut nos ab incineratione liberaret.
 
 ###### arg. 2
 Praeterea, corpus Christi fuit eiusdem naturae cum corporibus nostris. Sed corpora nostra statim post mortem resolvi incipiunt et ad putrefactionem disponuntur, quia, exhalante calido naturali, supervenit calor extraneus, qui putrefactionem causat. Ergo videtur quod similiter in corpore Christi acciderit.

@@ -1,13 +1,13 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod Christo non conveniat sedere ad dexteram Dei patris. Dextera enim et sinistra sunt differentiae positionum corporalium. Sed nihil corporale convenit Deo, quia *Deus spiritus est*, ut habetur Ioan. IV. Ergo videtur quod Christus non sedeat ad dexteram patris.
+Ad primum sic proceditur. Videtur quod Christo non conveniat sedere ad dexteram Dei patris. Dextera enim et sinistra sunt differentiae positionum corporalium. Sed nihil corporale convenit Deo, quia *Deus spiritus est*, ut habetur [[Jn 4]]. Ergo videtur quod Christus non sedeat ad dexteram patris.
 
 ###### arg. 2
 Praeterea, si aliquis sedet ad dexteram alicuius, ille sedet ad sinistram eius. Si ergo Christus sedet ad dexteram patris, sequitur quod pater sedeat ad sinistram filii. Quod est inconveniens.
 
 ###### arg. 3
-Praeterea, sedere et stare videntur oppositionem habere. Sed Stephanus dicit, Act. VII, *ecce, video caelos apertos, et filium hominis stantem a dextris virtutis Dei*. Ergo videtur quod Christus non sedeat ad dexteram patris.
+Praeterea, sedere et stare videntur oppositionem habere. Sed Stephanus dicit, [[Ac 7]], *ecce, video caelos apertos, et filium hominis stantem a dextris virtutis Dei*. Ergo videtur quod Christus non sedeat ad dexteram patris.
 
 ###### s. c.
 Sed contra est quod dicitur Marci ult., *dominus quidem Iesus, postquam locutus est eis, ascendit in caelum, et sedet a dextris Dei*.

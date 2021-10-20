@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod peccatum commissionis et omissionis specie differant. Delictum enim contra peccatum dividitur, Ephes. II, ubi dicitur, *cum essetis mortui delictis et peccatis vestris*. Et exponit ibi Glossa, *delictis, idest dimittendo quae iubentur; et peccatis, scilicet agendo prohibita*, ex quo patet quod per delictum intelligitur peccatum omissionis, per peccatum, peccatum commissionis. Differunt igitur specie, cum ex opposito dividantur, tanquam diversae species.
+Ad sextum sic proceditur. Videtur quod peccatum commissionis et omissionis specie differant. Delictum enim contra peccatum dividitur, [[Ep 2]], ubi dicitur, *cum essetis mortui delictis et peccatis vestris*. Et exponit ibi Glossa, *delictis, idest dimittendo quae iubentur; et peccatis, scilicet agendo prohibita*, ex quo patet quod per delictum intelligitur peccatum omissionis, per peccatum, peccatum commissionis. Differunt igitur specie, cum ex opposito dividantur, tanquam diversae species.
 
 ###### arg. 2
 Praeterea, peccato per se convenit quod sit contra legem Dei, ponitur enim in eius definitione, ut ex supradictis patet. Sed in lege Dei alia sunt praecepta affirmativa, contra quae est peccatum omissionis; et alia praecepta negativa, contra quae est peccatum commissionis. Ergo peccatum omissionis et peccatum commissionis differunt specie.

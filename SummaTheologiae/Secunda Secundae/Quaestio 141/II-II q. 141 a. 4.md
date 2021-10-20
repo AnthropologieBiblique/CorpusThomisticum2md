@@ -10,7 +10,7 @@ Praeterea, philosophus dicit, in IV Ethic., quod *ille qui est parvis dignus et 
 Praeterea, ea quae sunt unius generis, videntur eadem ratione pertinere ad materiam alicuius virtutis. Sed omnes delectationes sensuum videntur esse unius generis. Ergo pari ratione pertinent ad materiam temperantiae.
 
 ###### arg. 4
-Praeterea, delectationes spirituales sunt maiores quam corporales, ut supra habitum est, cum de passionibus ageretur. Sed quandoque propter concupiscentias delectationum spiritualium aliqui discedunt a legibus Dei et a statu virtutis, sicut propter curiositatem scientiae. Unde et primo homini Diabolus scientiam promisit, Gen. III, dicens, *eritis sicut dii, scientes bonum et malum*. Ergo non solum est temperantia circa delectationes tactus.
+Praeterea, delectationes spirituales sunt maiores quam corporales, ut supra habitum est, cum de passionibus ageretur. Sed quandoque propter concupiscentias delectationum spiritualium aliqui discedunt a legibus Dei et a statu virtutis, sicut propter curiositatem scientiae. Unde et primo homini Diabolus scientiam promisit, [[Gn 3]], dicens, *eritis sicut dii, scientes bonum et malum*. Ergo non solum est temperantia circa delectationes tactus.
 
 ###### arg. 5
 Praeterea, si delectationes tactus essent propria materia temperantiae, oporteret quod circa omnes delectationes tactus temperantia esset. Non autem est circa omnes, puta circa eas quae sunt in ludis. Ergo delectationes tactus non sunt propria materia temperantiae.

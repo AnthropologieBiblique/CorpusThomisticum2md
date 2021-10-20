@@ -7,10 +7,10 @@ Ad quartum sic proceditur. Videtur quod damnati non blasphement. Detinentur enim
 Praeterea, blasphemia, cum sit gravissimum peccatum, est maxime demeritorium. Sed in futura vita non est status merendi neque demerendi. Ergo nullus erit locus blasphemiae.
 
 ###### arg. 3
-Praeterea, Eccle. XI dicitur quod *in quocumque loco lignum ceciderit, ibi erit*, ex quo patet quod post hanc vitam homini non accrescit nec meritum nec peccatum quod non habuit in hac vita. Sed multi damnabuntur qui in hac vita non fuerunt blasphemi. Ergo nec in futura vita blasphemabunt.
+Praeterea, [[Qo 11]] dicitur quod *in quocumque loco lignum ceciderit, ibi erit*, ex quo patet quod post hanc vitam homini non accrescit nec meritum nec peccatum quod non habuit in hac vita. Sed multi damnabuntur qui in hac vita non fuerunt blasphemi. Ergo nec in futura vita blasphemabunt.
 
 ###### s. c.
-Sed contra est quod dicitur Apoc. XVI, *aestuaverunt homines aestu magno, et blasphemaverunt nomen domini habentis potestatem super has plagas*, ubi dicit Glossa quod *in Inferno positi, quamvis sciant se pro merito puniri, dolebunt tamen quod Deus tantam potentiam habeat quod plagas eis inferat*. Hoc autem esset blasphemia in praesenti. Ergo et in futuro.
+Sed contra est quod dicitur [[Ap 16]], *aestuaverunt homines aestu magno, et blasphemaverunt nomen domini habentis potestatem super has plagas*, ubi dicit Glossa quod *in Inferno positi, quamvis sciant se pro merito puniri, dolebunt tamen quod Deus tantam potentiam habeat quod plagas eis inferat*. Hoc autem esset blasphemia in praesenti. Ergo et in futuro.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, ad rationem blasphemiae pertinet detestatio divinae bonitatis. Illi autem qui sunt in Inferno retinebunt perversam voluntatem, aversam a Dei iustitia, in hoc quod diligunt ea pro quibus puniuntur, et vellent eis uti si possent, et odiunt poenas quae pro huiusmodi peccatis infliguntur; dolent tamen de peccatis quae commiserunt, non quia ipsa odiant, sed quia pro eis puniuntur. Sic ergo talis detestatio divinae iustitiae est in eis interior cordis blasphemia. Et credibile est quod post resurrectionem erit in eis etiam vocalis blasphemia, sicut in sanctis vocalis laus Dei.

@@ -7,10 +7,10 @@ Ad tertium sic proceditur. Videtur quod Christus non incoeperit miracula facere 
 Praeterea, Christus faciebat miracula secundum virtutem divinam. Sed virtus divina fuit in eo a principio suae conceptionis, ex tunc enim fuit Deus et homo. Ergo videtur quod a principio miracula fecerit.
 
 ###### arg. 3
-Praeterea, Christus post Baptismum et tentationem coepit discipulos congregare, ut legitur Matth. IV et Ioan. I. Sed discipuli praecipue congregati sunt ad ipsum propter miracula, sicut dicitur Luc. V, quod Petrum vocavit obstupescentem propter miraculum quod fecerat in captura piscium. Ergo videtur quod ante miraculum quod fecit in nuptiis, fecerit alia miracula.
+Praeterea, Christus post Baptismum et tentationem coepit discipulos congregare, ut legitur [[Mt 4]] et [[Jn 1]]. Sed discipuli praecipue congregati sunt ad ipsum propter miracula, sicut dicitur [[Lc 5]], quod Petrum vocavit obstupescentem propter miraculum quod fecerat in captura piscium. Ergo videtur quod ante miraculum quod fecit in nuptiis, fecerit alia miracula.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. II, *hoc fecit initium signorum Iesus in Cana Galilaeae*.
+Sed contra est quod dicitur [[Jn 2]], *hoc fecit initium signorum Iesus in Cana Galilaeae*.
 
 ###### co.
 Respondeo dicendum quod miracula facta sunt a Christo propter confirmationem eius doctrinae, et ad ostendendum virtutem divinam in ipso. Et ideo, quantum ad primum, non debuit ante miracula facere quam docere inciperet. Non autem debuit incipere docere ante perfectam aetatem, ut supra habitum est, cum de Baptismo eius ageretur. Quantum autem ad secundum, sic debuit per miracula divinitatem ostendere ut crederetur veritas humanitatis ipsius. Et ideo, sicut dicit Chrysostomus, super Ioan., *decenter non incoepit signa facere ex prima aetate, existimassent enim phantasiam esse incarnationem, et ante opportunum tempus cruci eum tradidissent*.

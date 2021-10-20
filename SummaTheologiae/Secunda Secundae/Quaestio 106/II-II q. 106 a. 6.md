@@ -19,7 +19,7 @@ Respondeo dicendum quod, sicut dictum est, recompensatio gratiae respicit benefi
 Ad primum ergo dicendum quod, sicut dictum est, in recompensatione beneficii magis est considerandus affectus benefici quam effectus. Si ergo consideremus effectum beneficii quod filius a parentibus accepit, scilicet esse et vivere, nihil aequale filius recompensare potest, ut philosophus dicit. Si autem attendamus ad ipsam voluntatem dantis et retribuentis, sic potest filius aliquid maius patri retribuere, ut Seneca dicit, in III de Benefic. Si tamen non posset, sufficeret ad gratitudinem recompensandi voluntas.
 
 ###### ad 2
-Ad secundum dicendum quod debitum gratitudinis ex caritate derivatur, quae, quanto plus solvitur, tanto magis debetur, secundum illud Rom. XIII, *nemini quidquam debeatis, nisi ut invicem diligatis*. Et ideo non est inconveniens si obligatio gratitudinis interminabilis sit.
+Ad secundum dicendum quod debitum gratitudinis ex caritate derivatur, quae, quanto plus solvitur, tanto magis debetur, secundum illud [[Rm 13]], *nemini quidquam debeatis, nisi ut invicem diligatis*. Et ideo non est inconveniens si obligatio gratitudinis interminabilis sit.
 
 ###### ad 3
 Ad tertium dicendum quod sicut in iustitia quae est virtus cardinalis, attenditur aequalitas rerum, ita in gratitudine attenditur aequalitas voluntatum, ut scilicet sicut ex promptitudine voluntatis beneficus aliquid exhibuit ad quod non tenebatur, ita etiam ille qui suscepit beneficium aliquid supra debitum recompenset.

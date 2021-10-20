@@ -1,10 +1,10 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod caritas in hac vita non possit esse perfecta. Maxime enim haec perfectio in apostolis fuisset. Sed in eis non fuit, dicit enim apostolus, ad Philipp. III, *non quod iam conprehenderim aut perfectus sim*. Ergo caritas in hac vita perfecta esse non potest.
+Ad octavum sic proceditur. Videtur quod caritas in hac vita non possit esse perfecta. Maxime enim haec perfectio in apostolis fuisset. Sed in eis non fuit, dicit enim apostolus, ad [[Ph 3]], *non quod iam conprehenderim aut perfectus sim*. Ergo caritas in hac vita perfecta esse non potest.
 
 ###### arg. 2
-Praeterea, Augustinus dicit, in libro octoginta trium quaest., quod *nutrimentum caritatis est diminutio cupiditatis; perfectio, nulla cupiditas*. Sed hoc non potest esse in hac vita, in qua sine peccato vivere non possumus, secundum illud I Ioan. I, *si dixerimus quia peccatum non habemus, nos ipsos seducimus*, omne autem peccatum ex aliqua inordinata cupiditate procedit. Ergo in hac vita caritas perfecta esse non potest.
+Praeterea, Augustinus dicit, in libro octoginta trium quaest., quod *nutrimentum caritatis est diminutio cupiditatis; perfectio, nulla cupiditas*. Sed hoc non potest esse in hac vita, in qua sine peccato vivere non possumus, secundum illud [[1 Jn 1]], *si dixerimus quia peccatum non habemus, nos ipsos seducimus*, omne autem peccatum ex aliqua inordinata cupiditate procedit. Ergo in hac vita caritas perfecta esse non potest.
 
 ###### arg. 3
 Praeterea, illud quod iam perfectum est non habet ulterius crescere. Sed caritas in hac vita semper potest augeri, ut dictum est. Ergo caritas in hac vita non potest esse perfecta.

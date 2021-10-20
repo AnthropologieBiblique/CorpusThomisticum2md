@@ -4,13 +4,13 @@
 Ad primum sic proceditur. Videtur quod blasphemia non opponatur confessioni fidei. Nam blasphemare est contumeliam vel aliquod convicium inferre in iniuriam creatoris. Sed hoc magis pertinet ad malevolentiam contra Deum quam ad infidelitatem. Ergo blasphemia non opponitur confessioni fidei.
 
 ###### arg. 2
-Praeterea, ad Ephes. IV, super illud, *blasphemia tollatur a vobis*, dicit Glossa, quae fit in Deum vel in sanctos. Sed confessio fidei non videtur esse nisi de his quae pertinent ad Deum, qui est fidei obiectum. Ergo blasphemia non semper opponitur confessioni fidei.
+Praeterea, ad [[Ep 4]], super illud, *blasphemia tollatur a vobis*, dicit Glossa, quae fit in Deum vel in sanctos. Sed confessio fidei non videtur esse nisi de his quae pertinent ad Deum, qui est fidei obiectum. Ergo blasphemia non semper opponitur confessioni fidei.
 
 ###### arg. 3
 Praeterea, a quibusdam dicitur quod sunt tres blasphemiae species, quarum una est cum attribuitur Deo quod ei non convenit; secunda est cum ab eo removetur quod ei convenit; tertia est cum attribuitur creaturae quod Deo appropriatur. Et sic videtur quod blasphemia non solum sit circa Deum, sed etiam circa creaturas. Fides autem habet Deum pro obiecto. Ergo blasphemia non opponitur confessioni fidei.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, I ad Tim. I, *prius fui blasphemus et persecutor*; et postea subdit, *ignorans feci in incredulitate*. Ex quo videtur quod blasphemia ad infidelitatem pertineat.
+Sed contra est quod apostolus dicit, [[1 Tm 1]], *prius fui blasphemus et persecutor*; et postea subdit, *ignorans feci in incredulitate*. Ex quo videtur quod blasphemia ad infidelitatem pertineat.
 
 ###### co.
 Respondeo dicendum quod nomen blasphemiae importare videtur quandam derogationem alicuius excellentis bonitatis, et praecipue divinae. Deus autem, ut Dionysius dicit, I cap. de Div. Nom., est ipsa essentia bonitatis. Unde quidquid Deo convenit pertinet ad bonitatem ipsius; et quidquid ad ipsum non pertinet longe est a ratione perfectae bonitatis, quae est eius essentia. Quicumque igitur vel negat aliquid de Deo quod ei convenit, vel asserit de eo quod ei non convenit, derogat divinae bonitati. Quod quidem potest contingere dupliciter, uno quidem modo, secundum solam opinionem intellectus; alio modo, coniuncta quadam affectus detestatione, sicut e contrario fides Dei per dilectionem perficitur ipsius. Huiusmodi igitur derogatio divinae bonitatis est vel secundum intellectum tantum; vel etiam secundum affectum. Si consistat tantum in corde, est cordis blasphemia. Si autem exterius prodeat per locutionem, est oris blasphemia. Et secundum hoc blasphemia confessioni opponitur.

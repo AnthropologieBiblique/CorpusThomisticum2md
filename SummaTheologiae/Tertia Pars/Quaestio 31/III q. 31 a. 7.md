@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod caro Christi in antiquis patribus peccato infecta non fuerit. Dicitur enim Sap. VII quod in divinam sapientiam nihil inquinatum incurrit. Christus autem est Dei sapientia, ut dicitur I ad Cor. I. Ergo caro Christi nunquam peccato inquinata fuit.
+Ad septimum sic proceditur. Videtur quod caro Christi in antiquis patribus peccato infecta non fuerit. Dicitur enim [[Sg 7]] quod in divinam sapientiam nihil inquinatum incurrit. Christus autem est Dei sapientia, ut dicitur I ad Cor. I. Ergo caro Christi nunquam peccato inquinata fuit.
 
 ###### arg. 2
 Praeterea, Damascenus dicit, in III libro, quod *Christus primitias nostrae naturae assumpsit*. Sed in primo statu caro humana non erat peccato infecta. Ergo caro Christi non fuit infecta nec in Adam nec in aliis patribus.

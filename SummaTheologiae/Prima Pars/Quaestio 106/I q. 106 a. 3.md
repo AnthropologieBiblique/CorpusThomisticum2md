@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod Angelus inferior superiorem illuminare possit. Ecclesiastica enim hierarchia derivata est a caelesti, et eam repraesentat, unde et superna Ierusalem dicitur mater nostra, Gal. IV. Sed in Ecclesia etiam superiores illuminantur ab inferioribus et docentur; secundum illud apostoli, I ad Cor. XIV, *potestis omnes per singulos prophetare, ut omnes discant, et omnes exhortentur*. Ergo et in caelesti hierarchia superiores ab inferioribus possunt illuminari.
+Ad tertium sic proceditur. Videtur quod Angelus inferior superiorem illuminare possit. Ecclesiastica enim hierarchia derivata est a caelesti, et eam repraesentat, unde et superna Ierusalem dicitur mater nostra, [[Ga 4]]. Sed in Ecclesia etiam superiores illuminantur ab inferioribus et docentur; secundum illud apostoli, I ad Cor. XIV, *potestis omnes per singulos prophetare, ut omnes discant, et omnes exhortentur*. Ergo et in caelesti hierarchia superiores ab inferioribus possunt illuminari.
 
 ###### arg. 2
 Praeterea, sicut ordo corporalium substantiarum dependet ex Dei voluntate, ita et ordo substantiarum spiritualium. Sed sicut dictum est, Deus quandoque praeter ordinem substantiarum corporalium operatur. Ergo quandoque etiam operatur praeter ordinem spiritualium substantiarum, illuminando inferiores non per medios superiores. Sic ergo inferiores illuminati a Deo, possunt superiores illuminare.

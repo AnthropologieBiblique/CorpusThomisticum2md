@@ -1,13 +1,13 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod iudici non liceat iudicare contra veritatem quam novit, propter ea quae in contrarium proponuntur. Dicitur enim Deut. XVII, *venies ad sacerdotes levitici generis, et ad iudicem qui fuerit in illo tempore, quaeresque ab eis, qui indicabunt tibi iudicii veritatem*. Sed quandoque aliqua proponuntur contra veritatem, sicut cum aliquid per falsos testes probatur. Ergo non licet iudici iudicare secundum ea quae proponuntur et probantur, contra veritatem quam ipse novit.
+Ad secundum sic proceditur. Videtur quod iudici non liceat iudicare contra veritatem quam novit, propter ea quae in contrarium proponuntur. Dicitur enim [[Dt 17]], *venies ad sacerdotes levitici generis, et ad iudicem qui fuerit in illo tempore, quaeresque ab eis, qui indicabunt tibi iudicii veritatem*. Sed quandoque aliqua proponuntur contra veritatem, sicut cum aliquid per falsos testes probatur. Ergo non licet iudici iudicare secundum ea quae proponuntur et probantur, contra veritatem quam ipse novit.
 
 ###### arg. 2
-Praeterea, homo in iudicando debet divino iudicio conformari, quia Dei iudicium est, ut dicitur Deut. I. Sed iudicium Dei est secundum veritatem, ut dicitur Rom. II, et Isaiae XI praedicitur de Christo, *non secundum visionem oculorum iudicabit, neque secundum auditum aurium arguet, sed iudicabit in iustitia pauperes, et arguet in aequitate pro mansuetis terrae*. Ergo iudex non debet, secundum ea quae coram ipso probantur, sententiam ferre contra ea quae ipse novit.
+Praeterea, homo in iudicando debet divino iudicio conformari, quia Dei iudicium est, ut dicitur [[Dt 1]]. Sed iudicium Dei est secundum veritatem, ut dicitur [[Rm 2]], et [[Is 11]] praedicitur de Christo, *non secundum visionem oculorum iudicabit, neque secundum auditum aurium arguet, sed iudicabit in iustitia pauperes, et arguet in aequitate pro mansuetis terrae*. Ergo iudex non debet, secundum ea quae coram ipso probantur, sententiam ferre contra ea quae ipse novit.
 
 ###### arg. 3
-Praeterea, idcirco in iudicio probationes requiruntur ut fides fiat iudici de rei veritate, unde in his quae sunt notoria non requiritur iudicialis ordo, secundum illud I ad Tim. V, *quorundam hominum peccata manifesta sunt, praecedentia ad iudicium*. Si ergo iudex per se cognoscat veritatem, non debet attendere ad ea quae probantur, sed sententiam ferre secundum veritatem quam novit.
+Praeterea, idcirco in iudicio probationes requiruntur ut fides fiat iudici de rei veritate, unde in his quae sunt notoria non requiritur iudicialis ordo, secundum illud [[1 Tm 5]], *quorundam hominum peccata manifesta sunt, praecedentia ad iudicium*. Si ergo iudex per se cognoscat veritatem, non debet attendere ad ea quae probantur, sed sententiam ferre secundum veritatem quam novit.
 
 ###### arg. 4
 Praeterea, nomen conscientiae importat applicationem scientiae ad aliquid agibile, ut in primo habitum est. Sed facere contra conscientiam est peccatum. Ergo iudex peccat si sententiam ferat, secundum allegata, contra conscientiam veritatis quam habet.

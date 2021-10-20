@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod etiam clerici teneantur decimas dare. Qu
 Praeterea, aliqui religiosi sunt clerici. Qui tamen tenentur dare decimas Ecclesiis ratione praediorum quae etiam manibus propriis excolunt. Ergo videtur quod clerici non sint immunes a solutione decimarum.
 
 ###### arg. 3
-Praeterea, sicut Num. XVIII praecipitur quod Levitae a populo decimas accipiant, ita etiam praecipitur quod ipsi dent decimas summo sacerdoti. Ergo, qua ratione laici debent dare decimas clericis, eadem ratione clerici debent dare decimas summo pontifici.
+Praeterea, sicut [[Nb 18]] praecipitur quod Levitae a populo decimas accipiant, ita etiam praecipitur quod ipsi dent decimas summo sacerdoti. Ergo, qua ratione laici debent dare decimas clericis, eadem ratione clerici debent dare decimas summo pontifici.
 
 ###### arg. 4
 Praeterea, sicut decimae debent cedere in sustentationem clericorum, ita etiam debent cedere in subventionem pauperum. Si ergo clerici excusantur a solutione decimarum, pari ratione excusantur et pauperes. Hoc autem est falsum. Ergo et primum.

@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod aliquis possit mereri sibi ipsi reparationem post lapsum. Illud enim quod iuste a Deo petitur, homo videtur posse mereri. Sed nihil iustius a Deo petitur, ut Augustinus dicit, quam quod reparetur post lapsum; secundum illud Psalmi LXX, *cum defecerit virtus mea, ne derelinquas me, domine*. Ergo homo potest mereri ut reparetur post lapsum.
+Ad septimum sic proceditur. Videtur quod aliquis possit mereri sibi ipsi reparationem post lapsum. Illud enim quod iuste a Deo petitur, homo videtur posse mereri. Sed nihil iustius a Deo petitur, ut Augustinus dicit, quam quod reparetur post lapsum; secundum illud [[Ps 70]], *cum defecerit virtus mea, ne derelinquas me, domine*. Ergo homo potest mereri ut reparetur post lapsum.
 
 ###### arg. 2
 Praeterea, multo magis homini prosunt opera sua quam prosint alii. Sed homo potest aliquo modo alteri mereri reparationem post lapsum, sicut et primam gratiam. Ergo multo magis sibi potest mereri ut reparetur post lapsum.
@@ -10,7 +10,7 @@ Praeterea, multo magis homini prosunt opera sua quam prosint alii. Sed homo pote
 Praeterea, homo qui aliquando fuit in gratia, per bona opera quae fecit, meruit sibi vitam aeternam; ut ex supradictis patet. Sed ad vitam aeternam non potest quis pervenire nisi reparetur per gratiam. Ergo videtur quod sibi meruit reparationem per gratiam.
 
 ###### s. c.
-Sed contra est quod dicitur Ezech. XVIII, *si averterit se iustus a iustitia sua, et fecerit iniquitatem; omnes iustitiae eius quas fecerat, non recordabuntur*. Ergo nihil valebunt ei praecedentia merita ad hoc quod resurgat. Non ergo aliquis potest sibi mereri reparationem post lapsum futurum.
+Sed contra est quod dicitur [[Ez 18]], *si averterit se iustus a iustitia sua, et fecerit iniquitatem; omnes iustitiae eius quas fecerat, non recordabuntur*. Ergo nihil valebunt ei praecedentia merita ad hoc quod resurgat. Non ergo aliquis potest sibi mereri reparationem post lapsum futurum.
 
 ###### co.
 Respondeo dicendum quod nullus potest sibi mereri reparationem post lapsum futurum, neque merito condigni, neque merito congrui. Merito quidem condigni hoc sibi mereri non potest, quia ratio huius meriti dependet ex motione divinae gratiae, quae quidem motio interrumpitur per sequens peccatum. Unde omnia beneficia quae postmodum aliquis a Deo consequitur, quibus reparatur, non cadunt sub merito; tanquam motione prioris gratiae usque ad hoc non se extendente. Meritum etiam congrui quo quis alteri primam gratiam meretur, impeditur ne consequatur effectum, propter impedimentum peccati in eo cui quis meretur. Multo igitur magis impeditur talis meriti efficacia per impedimentum quod est et in eo qui meretur et in eo cui meretur, hic enim utrumque in unam personam concurrit. Et ideo nullo modo aliquis potest sibi mereri reparationem post lapsum.

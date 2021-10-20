@@ -10,7 +10,7 @@ Praeterea, omnis creatura habet potentiam finitam. Sed nulla potentia finita se 
 Praeterea, forma et accidentia non habent materiam partem sui. Sed quandoque desinunt esse. Ergo in nihilum rediguntur.
 
 ###### s. c.
-Sed contra est quod dicitur Eccle. III. *Didici quod omnia opera quae fecit Deus, perseverant in aeternum*.
+Sed contra est quod dicitur [[Qo 3]]. *Didici quod omnia opera quae fecit Deus, perseverant in aeternum*.
 
 ###### co.
 Respondeo dicendum quod eorum quae a Deo fiunt circa creaturam, quaedam proveniunt secundum naturalem cursum rerum; quaedam vero miraculose operatur praeter ordinem naturalem creaturis inditum, ut infra dicetur. Quae autem facturus est Deus secundum ordinem naturalem rebus inditum, considerari possunt ex ipsis rerum naturis, quae vero miraculose fiunt, ordinantur ad gratiae manifestationem, secundum illud apostoli I ad Cor. XII, *unicuique datur manifestatio spiritus ad utilitatem*; et postmodum, inter cetera, subdit de miraculorum operatione. Creaturarum autem naturae hoc demonstrant, ut nulla earum in nihilum redigatur, quia vel sunt immateriales, et sic in eis non est potentia ad non esse; vel sunt materiales, et sic saltem remanent semper secundum materiam, quae incorruptibilis est, utpote subiectum existens generationis et corruptionis. Redigere etiam aliquid in nihilum, non pertinet ad gratiae manifestationem, cum magis per hoc divina potentia et bonitas ostendatur, quod res in esse conservat. Unde simpliciter dicendum est quod nihil omnino in nihilum redigetur.

@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod aliqua mora fuerit inter creationem et lapsum Angeli. Dicitur enim Ezech. XXVIII, *ambulasti perfectus in viis tuis a die conceptionis tuae, donec inventa est iniquitas in te*. Sed ambulatio, cum sit motus continuus, requirit aliquam moram. Ergo aliqua mora fuit inter creationem Diaboli et eius lapsum.
+Ad sextum sic proceditur. Videtur quod aliqua mora fuerit inter creationem et lapsum Angeli. Dicitur enim [[Ez 28]], *ambulasti perfectus in viis tuis a die conceptionis tuae, donec inventa est iniquitas in te*. Sed ambulatio, cum sit motus continuus, requirit aliquam moram. Ergo aliqua mora fuit inter creationem Diaboli et eius lapsum.
 
 ###### arg. 2
 Praeterea, Origenes dicit quod *serpens antiquus non statim supra pectus et ventrem suum ambulavit*; per quod intelligitur eius peccatum. Ergo Diabolus non statim post primum instans suae creationis peccavit.
@@ -13,7 +13,7 @@ Praeterea, posse peccare commune est homini et Angelo. Fuit autem aliqua mora in
 Praeterea, aliud instans fuit in quo Diabolus peccavit, ab instanti in quo creatus fuit. Sed inter quaelibet duo instantia cadit tempus medium. Ergo aliqua mora fuit inter creationem eius et lapsum.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. VIII, de Diabolo, quod *in veritate non stetit*. Et sicut Augustinus dicit, XI de Civ. Dei, *oportet ut hoc sic accipiamus, quod in veritate fuerit, sed non permanserit*.
+Sed contra est quod dicitur [[Jn 8]], de Diabolo, quod *in veritate non stetit*. Et sicut Augustinus dicit, XI de Civ. Dei, *oportet ut hoc sic accipiamus, quod in veritate fuerit, sed non permanserit*.
 
 ###### co.
 Respondeo dicendum quod circa hoc est duplex opinio. Sed probabilior, et sanctorum dictis magis consona est, quod statim post primum instans suae creationis Diabolus peccaverit. Et hoc necesse est dicere, si ponatur quod in primo instanti suae creationis in actum liberi arbitrii proruperit, et cum gratia fuerit creatus, ut supra diximus. Cum enim Angeli per unum actum meritorium ad beatitudinem perveniant, ut supra dictum est; si Diabolus in primo instanti, in gratia creatus, meruit, statim post primum instans beatitudinem accepisset, nisi statim impedimentum praestitisset peccando. Si vero ponatur quod Angelus in gratia creatus non fuerit; vel quod in primo instanti actum liberi arbitrii non potuerit habere; nihil prohibet aliquam moram fuisse inter creationem et lapsum.

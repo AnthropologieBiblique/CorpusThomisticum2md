@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod omnia peccata hominum sint ex suggestione Diaboli. Dicit enim Dionysius, IV cap. de Div. Nom., quod *multitudo Daemonum causa est omnium malorum et sibi et aliis*.
 
 ###### arg. 2
-Praeterea, quicumque peccat mortaliter, efficitur servus Diaboli; secundum illud Ioan. VIII, *qui facit peccatum, servus est peccati. Sed ei aliquis in servitutem addicitur, a quo superatus est*, ut dicitur II Petr. II. Ergo quicumque facit peccatum, superatus est a Diabolo.
+Praeterea, quicumque peccat mortaliter, efficitur servus Diaboli; secundum illud [[Jn 8]], *qui facit peccatum, servus est peccati. Sed ei aliquis in servitutem addicitur, a quo superatus est*, ut dicitur [[2 P 2]]. Ergo quicumque facit peccatum, superatus est a Diabolo.
 
 ###### arg. 3
 Praeterea, Gregorius dicit quod peccatum Diaboli est irreparabile, quia cecidit nullo suggerente. Si igitur aliqui homines peccarent per liberum arbitrium, nullo suggerente, eorum peccatum esset irremediabile, quod patet esse falsum. Ergo omnia peccata humana a Diabolo suggeruntur.

@@ -4,13 +4,13 @@
 Ad nonum sic proceditur. Videtur quod plures peccaverunt de Angelis, quam permanserunt. Quia, ut dicit philosophus, *malum est ut in pluribus, bonum ut in paucioribus*.
 
 ###### arg. 2
-Praeterea, iustitia et peccatum eadem ratione inveniuntur in Angelis et hominibus. Sed in hominibus plures inveniuntur mali quam boni; secundum illud Eccle. I, *stultorum infinitus est numerus*. Ergo pari ratione in Angelis.
+Praeterea, iustitia et peccatum eadem ratione inveniuntur in Angelis et hominibus. Sed in hominibus plures inveniuntur mali quam boni; secundum illud [[Qo 1]], *stultorum infinitus est numerus*. Ergo pari ratione in Angelis.
 
 ###### arg. 3
 Praeterea, Angeli distinguuntur secundum personas, et secundum ordines. Si igitur plures personae angelicae remanserunt, videtur etiam quod non de omnibus ordinibus aliqui peccaverunt.
 
 ###### s. c.
-Sed contra est quod dicitur IV Reg. VI, *plures nobiscum sunt quam cum illis*; quod exponitur de bonis Angelis qui sunt nobiscum in auxilium, et de malis qui nobis adversantur.
+Sed contra est quod dicitur [[2R 6]], *plures nobiscum sunt quam cum illis*; quod exponitur de bonis Angelis qui sunt nobiscum in auxilium, et de malis qui nobis adversantur.
 
 ###### co.
 Respondeo dicendum quod plures Angeli permanserunt quam peccaverunt. Quia peccatum est contra naturalem inclinationem, ea vero quae contra naturam fiunt, ut in paucioribus accidunt; natura enim consequitur suum effectum vel semper, vel ut in pluribus.

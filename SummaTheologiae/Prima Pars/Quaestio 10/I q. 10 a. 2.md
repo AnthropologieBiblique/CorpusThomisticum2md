@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod Deus non sit aeternus. Nihil enim factum potest dici de Deo. Sed aeternitas est aliquid factum, dicit enim Boetius quod *nunc fluens facit tempus, nunc stans facit aeternitatem*; et Augustinus dicit, in libro octoginta trium quaest., quod Deus est auctor aeternitatis. Ergo Deus non est aeternus.
 
 ###### arg. 2
-Praeterea, quod est ante aeternitatem et post aeternitatem, non mensuratur aeternitate. Sed Deus est ante aeternitatem, ut dicitur in libro de causis, et post aeternitatem; dicitur enim Exod. XV, quod *dominus regnabit in aeternum et ultra*. Ergo esse aeternum non convenit Deo.
+Praeterea, quod est ante aeternitatem et post aeternitatem, non mensuratur aeternitate. Sed Deus est ante aeternitatem, ut dicitur in libro de causis, et post aeternitatem; dicitur enim [[Ex 15]], quod *dominus regnabit in aeternum et ultra*. Ergo esse aeternum non convenit Deo.
 
 ###### arg. 3
 Praeterea, aeternitas mensura quaedam est. Sed Deo non convenit esse mensuratum. Ergo non competit ei esse aeternum.

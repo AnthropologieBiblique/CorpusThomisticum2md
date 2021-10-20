@@ -7,10 +7,10 @@ Ad secundum sic proceditur. Videtur quod non omnia appetant pacem. Pax enim, sec
 Praeterea, appetitus non fertur simul ad contraria. Sed multi sunt appetentes bella et dissensiones. Ergo non omnes appetunt pacem.
 
 ###### arg. 3
-Praeterea, solum bonum est appetibile. Sed quaedam pax videtur esse mala, alioquin dominus non diceret, Matth. X, *non veni mittere pacem*. Ergo non omnia pacem appetunt.
+Praeterea, solum bonum est appetibile. Sed quaedam pax videtur esse mala, alioquin dominus non diceret, [[Mt 10]], *non veni mittere pacem*. Ergo non omnia pacem appetunt.
 
 ###### arg. 4
-Praeterea, illud quod omnia appetunt videtur esse summum bonum, quod est ultimus finis. Sed pax non est huiusmodi, quia etiam in statu viae habetur; alioquin frustra dominus mandaret, Marc. IX, *pacem habete inter vos*. Ergo non omnia pacem appetunt.
+Praeterea, illud quod omnia appetunt videtur esse summum bonum, quod est ultimus finis. Sed pax non est huiusmodi, quia etiam in statu viae habetur; alioquin frustra dominus mandaret, [[Mc 9]], *pacem habete inter vos*. Ergo non omnia pacem appetunt.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, XIX de Civ. Dei, quod omnia pacem appetunt. Et idem etiam dicit Dionysius, XI cap. de Div. Nom.
@@ -25,7 +25,7 @@ Ad primum ergo dicendum quod pax importat unionem non solum appetitus intellectu
 Ad secundum dicendum quod illi etiam qui bella quaerunt et dissensiones non desiderant nisi pacem, quam se habere non aestimant. Ut enim dictum est, non est pax si quis cum alio concordet contra id quod ipse magis vellet. Et ideo homines quaerunt hanc concordiam rumpere bellando, tanquam defectum pacis habentem, ut ad pacem perveniant in qua nihil eorum voluntati repugnet. Et propter hoc omnes bellantes quaerunt per bella ad pacem aliquam pervenire perfectiorem quam prius haberent.
 
 ###### ad 3
-Ad tertium dicendum quod, quia pax consistit in quietatione et unione appetitus; sicut autem appetitus potest esse vel boni simpliciter vel boni apparentis, ita etiam et pax potest esse et vera et apparens, vera quidem pax non potest esse nisi circa appetitum veri boni; quia omne malum, etsi secundum aliquid appareat bonum, unde ex aliqua parte appetitum quietet, habet tamen multos defectus, ex quibus appetitus remanet inquietus et perturbatus. Unde pax vera non potest esse nisi in bonis et bonorum. Pax autem quae malorum est, est pax apparens et non vera. Unde dicitur Sap. XIV, *in magno viventes inscientiae bello, tot et tanta mala pacem arbitrati sunt*.
+Ad tertium dicendum quod, quia pax consistit in quietatione et unione appetitus; sicut autem appetitus potest esse vel boni simpliciter vel boni apparentis, ita etiam et pax potest esse et vera et apparens, vera quidem pax non potest esse nisi circa appetitum veri boni; quia omne malum, etsi secundum aliquid appareat bonum, unde ex aliqua parte appetitum quietet, habet tamen multos defectus, ex quibus appetitus remanet inquietus et perturbatus. Unde pax vera non potest esse nisi in bonis et bonorum. Pax autem quae malorum est, est pax apparens et non vera. Unde dicitur [[Sg 14]], *in magno viventes inscientiae bello, tot et tanta mala pacem arbitrati sunt*.
 
 ###### ad 4
 Ad quartum dicendum quod, cum vera pax non sit nisi de bono, sicut dupliciter habetur verum bonum, scilicet perfecte et imperfecte, ita est duplex pax vera. Una quidem perfecta, quae consistit in perfecta fruitione summi boni, per quam omnes appetitus uniuntur quietati in uno. Et hic est ultimus finis creaturae rationalis, secundum illud Psalm., *qui posuit fines tuos pacem*. Alia vero est pax imperfecta, quae habetur in hoc mundo. Quia etsi principalis animae motus quiescat in Deo, sunt tamen aliqua repugnantia et intus et extra quae perturbant hanc pacem.

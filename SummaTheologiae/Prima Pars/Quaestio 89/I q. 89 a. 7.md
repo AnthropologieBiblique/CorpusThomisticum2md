@@ -10,7 +10,7 @@ Praeterea, Augustinus dicit, in libro de divinatione Daemonum, quod *Daemones, p
 Praeterea, sicut distat aliquis secundum locum, ita secundum tempus sed distantia temporis impedit cognitionem animae separatae, non enim cognoscunt futura. Ergo videtur quod etiam distantia secundum locum animae separatae cognitionem impediat.
 
 ###### s. c.
-Sed contra est quod dicitur Luc. XVI, quod *dives cum esset in tormentis, elevans oculos suos, vidit Abraham a longe*. Ergo distantia localis non impedit animae separatae cognitionem.
+Sed contra est quod dicitur [[Lc 16]], quod *dives cum esset in tormentis, elevans oculos suos, vidit Abraham a longe*. Ergo distantia localis non impedit animae separatae cognitionem.
 
 ###### co.
 Respondeo dicendum quod quidam posuerunt quod anima separata cognosceret singularia abstrahendo a sensibilibus. Quod si esset verum, posset dici quod distantia localis impediret animae separatae cognitionem, requireretur enim quod vel sensibilia agerent in animam separatam, vel anima separata in sensibilia; et quantum ad utrumque, requireretur distantia determinata. Sed praedicta positio est impossibilis, quia abstractio specierum a sensibilibus fit mediantibus sensibus et aliis potentiis sensitivis, quae in anima separata actu non manent. Intelligit autem anima separata singularia per influxum specierum ex divino lumine, quod quidem lumen aequaliter se habet ad propinquum et distans. Unde distantia localis nullo modo impedit animae separatae cognitionem.

@@ -1,10 +1,10 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod dignitas donorum non attenditur secundum enumerationem qua enumerantur Isaiae XI. Illud enim videtur esse potissimum in donis, quod maxime Deus ab homine requirit. Sed maxime requirit Deus ab homine timorem, dicitur enim Deut. X, *et nunc, Israel, quid dominus Deus tuus petit a te, nisi ut timeas dominum Deum tuum?* Et Malach. I, dicitur, *si ego dominus, ubi timor meus?* Ergo videtur quod timor, qui enumeratur ultimo, non sit infimum donorum, sed maximum.
+Ad septimum sic proceditur. Videtur quod dignitas donorum non attenditur secundum enumerationem qua enumerantur [[Is 11]]. Illud enim videtur esse potissimum in donis, quod maxime Deus ab homine requirit. Sed maxime requirit Deus ab homine timorem, dicitur enim [[Dt 10]], *et nunc, Israel, quid dominus Deus tuus petit a te, nisi ut timeas dominum Deum tuum?* Et [[Ml 1]], dicitur, *si ego dominus, ubi timor meus?* Ergo videtur quod timor, qui enumeratur ultimo, non sit infimum donorum, sed maximum.
 
 ###### arg. 2
-Praeterea, pietas videtur esse quoddam bonum universale, dicit enim apostolus, I ad Tim. IV, quod *pietas ad omnia utilis est*. Sed bonum universale praefertur particularibus bonis. Ergo pietas, quae penultimo enumeratur, videtur esse potissimum donorum.
+Praeterea, pietas videtur esse quoddam bonum universale, dicit enim apostolus, [[1 Tm 4]], quod *pietas ad omnia utilis est*. Sed bonum universale praefertur particularibus bonis. Ergo pietas, quae penultimo enumeratur, videtur esse potissimum donorum.
 
 ###### arg. 3
 Praeterea, scientia perficit iudicium hominis; consilium autem ad inquisitionem pertinet. Sed iudicium praeeminet inquisitioni. Ergo scientia est potius donum quam consilium, cum tamen post enumeretur.
@@ -13,7 +13,7 @@ Praeterea, scientia perficit iudicium hominis; consilium autem ad inquisitionem 
 Praeterea, fortitudo pertinet ad vim appetitivam; scientia autem ad rationem. Sed ratio est eminentior quam vis appetitiva. Ergo et scientia est eminentius donum quam fortitudo, quae tamen primo enumeratur. Non ergo dignitas donorum attenditur secundum ordinem enumerationis eorum.
 
 ###### s. c.
-Sed contra est quod Augustinus dicit, in libro de Serm. Dom. in monte, *videtur mihi septiformis operatio spiritus sancti, de qua Isaias loquitur, his gradibus sententiisque congruere* (de quibus fit mentio Matth. V); sed interest ordinis. Nam ibi (scilicet in Isaia) *enumeratio ab excellentioribus coepit, hic vero, ab inferioribus*.
+Sed contra est quod Augustinus dicit, in libro de Serm. Dom. in monte, *videtur mihi septiformis operatio spiritus sancti, de qua Isaias loquitur, his gradibus sententiisque congruere* (de quibus fit mentio [[Mt 5]]); sed interest ordinis. Nam ibi (scilicet in Isaia) *enumeratio ab excellentioribus coepit, hic vero, ab inferioribus*.
 
 ###### co.
 Respondeo dicendum quod dignitas donorum dupliciter potest attendi, uno modo, simpliciter, scilicet per comparationem ad proprios actus prout procedunt a suis principiis; alio modo, secundum quid, scilicet per comparationem ad materiam. Simpliciter autem loquendo de dignitate donorum, eadem est ratio comparationis in ipsis et in virtutibus, quia dona ad omnes actus potentiarum animae perficiunt hominem, ad quos perficiunt virtutes, ut supra dictum est. Unde sicut virtutes intellectuales praeferuntur virtutibus moralibus; et in ipsis virtutibus intellectualibus contemplativae praeferuntur activis, ut sapientia intellectui, et scientia prudentiae et arti; ita tamen quod sapientia praefertur intellectui, et intellectus scientiae, sicut prudentia et synesis eubuliae, ita etiam in donis sapientia et intellectus, scientia et consilium, praeferuntur pietati et fortitudini et timori; in quibus etiam pietas praefertur fortitudini, et fortitudo timori, sicut iustitia fortitudini, et fortitudo temperantiae. Sed quantum ad materiam, fortitudo et consilium praeferuntur scientiae et pietati, quia scilicet fortitudo et consilium in arduis locum habent; pietas autem, et etiam scientia, in communibus. Sic igitur donorum dignitas ordini enumerationis respondet, partim quidem simpliciter, secundum quod sapientia et intellectus omnibus praeferuntur, partim autem secundum ordinem materiae, secundum quod consilium et fortitudo praeferuntur scientiae et pietati.

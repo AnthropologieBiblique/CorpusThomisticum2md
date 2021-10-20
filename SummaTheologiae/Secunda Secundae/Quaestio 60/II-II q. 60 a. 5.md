@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod non sit semper secundum leges scriptas iudicandum. Semper enim vitandum est iniustum iudicium. Sed quandoque leges scriptae iniustitiam continent, secundum illud Isaiae X, *vae qui condunt leges iniquas, et scribentes iniustitias scripserunt*. Ergo non semper est secundum leges scriptas iudicandum.
+Ad quintum sic proceditur. Videtur quod non sit semper secundum leges scriptas iudicandum. Semper enim vitandum est iniustum iudicium. Sed quandoque leges scriptae iniustitiam continent, secundum illud [[Is 10]], *vae qui condunt leges iniquas, et scribentes iniustitias scripserunt*. Ergo non semper est secundum leges scriptas iudicandum.
 
 ###### arg. 2
 Praeterea, iudicium oportet esse de singularibus eventibus. Sed nulla lex scripta potest omnes singulares eventus comprehendere, ut patet per philosophum, in V Ethic. Ergo videtur quod non semper sit secundum leges scriptas iudicandum.

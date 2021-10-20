@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod desperatio sine infidelitate esse non possit. Certitudo enim spei a fide derivatur. Sed manente causa non tollitur effectus. Ergo non potest aliquis certitudinem spei amittere desperando nisi fide sublata.
 
 ###### arg. 2
-Praeterea, praeferre culpam propriam bonitati vel misericordiae divinae est negare infinitatem divinae misericordiae vel bonitatis, quod est infidelitatis. Sed qui desperat culpam suam praefert misericordiae vel bonitati divinae, secundum illud Gen. IV, *maior est iniquitas mea quam ut veniam merear*. Ergo quicumque desperat est infidelis.
+Praeterea, praeferre culpam propriam bonitati vel misericordiae divinae est negare infinitatem divinae misericordiae vel bonitatis, quod est infidelitatis. Sed qui desperat culpam suam praefert misericordiae vel bonitati divinae, secundum illud [[Gn 4]], *maior est iniquitas mea quam ut veniam merear*. Ergo quicumque desperat est infidelis.
 
 ###### arg. 3
 Praeterea, quicumque incidit in haeresim damnatam est infidelis. Sed desperans videtur incidere in haeresim damnatam, scilicet Novatianorum, qui dicunt peccata non remitti post Baptismum. Ergo videtur quod quicumque desperat sit infidelis.

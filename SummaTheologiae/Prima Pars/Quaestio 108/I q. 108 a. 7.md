@@ -10,7 +10,7 @@ Praeterea, ad officium angelicorum ordinum pertinet purgare, illuminare et perfi
 Praeterea, apostolus dicit, ad Heb. I, de Angelis, quod *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ex quo patet quod officia Angelorum ordinantur ad hoc, quod homines ad salutem adducantur. Sed omnes electi usque ad diem iudicii salutem consequuntur. Non ergo post diem iudicii remanebunt officia et ordines Angelorum.
 
 ###### s. c.
-Sed contra est quod dicitur Iudic. V, stellae manentes in ordine et cursu suo, quod exponitur de Angelis. Ergo Angeli semper in suis ordinibus remanebunt.
+Sed contra est quod dicitur [[Jg 5]], stellae manentes in ordine et cursu suo, quod exponitur de Angelis. Ergo Angeli semper in suis ordinibus remanebunt.
 
 ###### co.
 Respondeo dicendum quod in ordinibus angelicis duo possunt considerari, scilicet distinctio graduum, et executio officiorum. Distinctio autem graduum est in Angelis secundum differentiam gratiae et naturae, ut supra dictum est. Et utraque differentia semper in Angelis remanebit. Non enim posset naturarum differentia ab eis auferri, nisi eis corruptis, differentia etiam gloriae erit in eis semper, secundum differentiam meriti praecedentis. Executio autem officiorum angelicorum aliquo modo remanebit post diem iudicii, et aliquo modo cessabit. Cessabit quidem, secundum quod eorum officia ordinantur ad perducendum aliquos ad finem, remanebit autem, secundum quod convenit in ultima finis consecutione. Sicut etiam alia sunt officia militarium ordinum in pugna, et in triumpho.

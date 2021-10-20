@@ -10,7 +10,7 @@ Praeterea, secundum Isidorum, honestas dicitur quasi honoris status. Sed multis 
 *Praeterea, principale virtutis consistit in interiori electione*, ut philosophus dicit, in VIII Ethic. Honestas autem magis videtur ad exteriorem conversationem pertinere, secundum illud I ad Cor. XIV, *omnia honeste et secundum ordinem fiant in vobis*. Ergo honestas non est idem virtuti.
 
 ###### arg. 4
-Praeterea, honestas videtur consistere in exterioribus divitiis, secundum illud Eccli. XI, *bona et mala, vita et mors, utraque a Deo sunt*. Sed in exterioribus divitiis non consistit virtus. Ergo honestas non est idem virtuti.
+Praeterea, honestas videtur consistere in exterioribus divitiis, secundum illud [[Si 11]], *bona et mala, vita et mors, utraque a Deo sunt*. Sed in exterioribus divitiis non consistit virtus. Ergo honestas non est idem virtuti.
 
 ###### s. c.
 Sed contra est quod Tullius, in I de Offic. et in II Rhet., dividit honestum in quatuor virtutes principales, in quas etiam dividitur virtus. Ergo honestum est idem virtuti.

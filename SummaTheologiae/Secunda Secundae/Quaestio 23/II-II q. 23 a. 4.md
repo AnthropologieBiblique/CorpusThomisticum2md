@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod caritas ponitur in definitione omnis virtutis, non 
 Ad secundum dicendum quod virtus vel ars ad quam pertinet finis ultimus, imperat virtutibus vel artibus ad quas pertinent alii fines secundarii, sicut militaris imperat equestri, ut dicitur in I Ethic. Et ideo, quia caritas habet pro obiecto ultimum finem humanae vitae, scilicet beatitudinem aeternam, ideo extendit se ad actus totius humanae vitae per modum imperii, non quasi immediate eliciens omnes actus virtutum.
 
 ###### ad 3
-Ad tertium dicendum quod praeceptum de diligendo dicitur esse iussio generalis, quia ad hoc reducuntur omnia alia praecepta sicut ad finem, secundum illud I ad Tim. I, *finis praecepti caritas est*.
+Ad tertium dicendum quod praeceptum de diligendo dicitur esse iussio generalis, quia ad hoc reducuntur omnia alia praecepta sicut ad finem, secundum illud [[1 Tm 1]], *finis praecepti caritas est*.
 

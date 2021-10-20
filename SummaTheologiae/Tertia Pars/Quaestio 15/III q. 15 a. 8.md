@@ -10,7 +10,7 @@ Praeterea, Damascenus dicit, in II libro, quod *admiratio est timor ex magna ima
 Praeterea, nullus admiratur de eo quod ipse facere potest. Sed Christus facere potuit quidquid magnum erat in rebus. Ergo videtur quod de nullo admirabatur.
 
 ###### s. c.
-Sed contra est quod dicitur Matth. VIII, audiens Iesus, scilicet verba centurionis, miratus est.
+Sed contra est quod dicitur [[Mt 8]], audiens Iesus, scilicet verba centurionis, miratus est.
 
 ###### co.
 Respondeo dicendum quod admiratio proprie est de novo aliquo insolito. In Christo autem non poterat esse aliquid novum et insolitum quantum ad scientiam divinam; neque etiam quantum ad scientiam humanam qua cognoscebat res in verbo; vel qua cognoscebat res per species inditas. Potuit tamen esse aliquid sibi novum et insolitum secundum scientiam experimentalem, secundum quam sibi poterant quotidie aliqua nova occurrere. Et ideo, si loquimur de Christo quantum ad scientiam divinam et scientiam beatam, vel etiam infusam, non fuit in Christo admiratio. Si autem loquamur de eo quantum ad scientiam experimentalem, sic admiratio in eo esse potuit. Et assumpsit hunc affectum ad nostram instructionem, ut scilicet doceat esse mirandum quod etiam ipse mirabatur. Unde Augustinus dicit, in I super Gen. contra Manich., *quod miratur dominus, nobis mirandum esse significat, quibus adhuc opus est sic moveri. Omnes ergo tales motus eius non perturbati animi signa sunt, sed docentis magisterium*.

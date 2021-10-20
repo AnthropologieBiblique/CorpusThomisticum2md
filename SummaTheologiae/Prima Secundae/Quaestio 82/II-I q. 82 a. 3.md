@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod peccatum originale non sit concupiscentia. Omne enim peccatum est contra naturam, ut dicit Damascenus, in II libro. Sed concupiscentia est secundum naturam, est enim proprius actus virtutis concupiscibilis, quae est potentia naturalis. Ergo concupiscentia non est peccatum originale.
 
 ###### arg. 2
-Praeterea, per peccatum originale sunt in nobis passiones peccatorum; ut patet per apostolum, Rom. VII. Sed multae aliae sunt passiones praeter concupiscentiam, ut supra habitum est. Ergo peccatum originale non magis est concupiscentia quam aliqua alia passio.
+Praeterea, per peccatum originale sunt in nobis passiones peccatorum; ut patet per apostolum, [[Rm 7]]. Sed multae aliae sunt passiones praeter concupiscentiam, ut supra habitum est. Ergo peccatum originale non magis est concupiscentia quam aliqua alia passio.
 
 ###### arg. 3
 Praeterea, per peccatum originale deordinantur omnes animae partes, ut dictum est. Sed intellectus est suprema inter animae partes; ut patet per philosophum, in X Ethic. Ergo peccatum originale magis est ignorantia quam concupiscentia.

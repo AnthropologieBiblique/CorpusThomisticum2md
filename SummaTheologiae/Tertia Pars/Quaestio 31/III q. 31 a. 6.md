@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod corpus Christi fuerit secundum aliquid signatum in Adam et in aliis patribus. Dicit enim Augustinus, X super Gen. ad Litt., quod caro Christi fuit in Adam et Abraham secundum corpulentam substantiam. Sed corpulenta substantia est quiddam signatum. Ergo caro Christi fuit in Adam et Abraham et in aliis patribus secundum aliquid signatum.
 
 ###### arg. 2
-Praeterea, Rom. I dicitur quod *Christus factus est ex semine David secundum carnem*. Sed semen David fuit aliquid signatum in ipso. Ergo Christus fuit in David secundum aliquid signatum, et eadem ratione in aliis patribus.
+Praeterea, [[Rm 1]] dicitur quod *Christus factus est ex semine David secundum carnem*. Sed semen David fuit aliquid signatum in ipso. Ergo Christus fuit in David secundum aliquid signatum, et eadem ratione in aliis patribus.
 
 ###### arg. 3
 Praeterea, Christus ad humanum genus affinitatem habet inquantum ex humano genere carnem assumpsit. Sed si caro illa non fuit secundum aliquid signatum in Adam, nullam videtur habere affinitatem ad humanum genus, quod ex Adam derivatur, sed magis ad alias res, unde materia carnis eius assumpta est. Videtur ergo quod caro Christi fuerit in Adam et aliis patribus secundum aliquid signatum.

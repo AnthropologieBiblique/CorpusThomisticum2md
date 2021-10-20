@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod ad iustificationem impii non requiratur motus fidei. Sicut enim per fidem iustificatur homo, ita etiam et per quaedam alia. Scilicet per timorem; de quo dicitur Eccli. I, *timor domini expellit peccatum, nam qui sine timore est, non poterit iustificari*. Et iterum per caritatem; secundum illud Luc. VII, *dimissa sunt ei peccata multa, quoniam dilexit multum*. Et iterum per humilitatem; secundum illud Iac. IV, *Deus superbis resistit, humilibus autem dat gratiam*. Et iterum per misericordiam; secundum illud Prov. XV, *per misericordiam et fidem purgantur peccata*. Non ergo magis motus fidei requiritur ad iustificationem quam motus praedictarum virtutum.
+Ad quartum sic proceditur. Videtur quod ad iustificationem impii non requiratur motus fidei. Sicut enim per fidem iustificatur homo, ita etiam et per quaedam alia. Scilicet per timorem; de quo dicitur [[Si 1]], *timor domini expellit peccatum, nam qui sine timore est, non poterit iustificari*. Et iterum per caritatem; secundum illud [[Lc 7]], *dimissa sunt ei peccata multa, quoniam dilexit multum*. Et iterum per humilitatem; secundum illud [[Jc 4]], *Deus superbis resistit, humilibus autem dat gratiam*. Et iterum per misericordiam; secundum illud [[Pr 15]], *per misericordiam et fidem purgantur peccata*. Non ergo magis motus fidei requiritur ad iustificationem quam motus praedictarum virtutum.
 
 ###### arg. 2
 Praeterea, actus fidei non requiritur ad iustificationem nisi inquantum per fidem homo cognoscit Deum. Sed etiam aliis modis potest homo Deum cognoscere, scilicet per cognitionem naturalem, et per donum sapientiae. Ergo non requiritur actus fidei ad iustificationem impii.
@@ -10,7 +10,7 @@ Praeterea, actus fidei non requiritur ad iustificationem nisi inquantum per fide
 Praeterea, diversi sunt articuli fidei. Si igitur actus fidei requiratur ad iustificationem impii, videtur quod oporteret hominem, quando primo iustificatur, de omnibus articulis fidei cogitare. Sed hoc videtur inconveniens, cum talis cogitatio longam temporis moram requirat. Ergo videtur quod actus fidei non requiratur ad iustificationem.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. V, *iustificati igitur ex fide, pacem habeamus ad Deum*.
+Sed contra est quod dicitur [[Rm 5]], *iustificati igitur ex fide, pacem habeamus ad Deum*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, motus liberi arbitrii requiritur ad iustificationem impii, secundum quod mens hominis movetur a Deo. Deus autem movet animam hominis convertendo eam ad seipsum; ut dicitur in Psalmo LXXXIV, secundum aliam litteram, *Deus, tu convertens vivificabis nos*. Et ideo ad iustificationem impii requiritur motus mentis quo convertitur in Deum. Prima autem conversio in Deum fit per fidem; secundum illud ad Heb. XI, *accedentem ad Deum oportet credere quia est*. Et ideo motus fidei requiritur ad iustificationem impii.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod motus fidei non est perfectus nisi sit caritate inf
 Ad secundum dicendum quod per cognitionem naturalem homo non convertitur in Deum inquantum est obiectum beatitudinis et iustificationis causa, unde talis cognitio non sufficit ad iustificationem. Donum autem sapientiae praesupponit cognitionem fidei, ut ex supradictis patet.
 
 ###### ad 3
-Ad tertium dicendum quod, sicut apostolus dicit, ad Rom. IV, *credenti in eum qui iustificat impium, reputabitur fides eius ad iustitiam, secundum propositum gratiae Dei*. Ex quo patet quod in iustificatione impii requiritur actus fidei quantum ad hoc, quod homo credat Deum esse iustificatorem hominum per mysterium Christi.
+Ad tertium dicendum quod, sicut apostolus dicit, ad [[Rm 4]], *credenti in eum qui iustificat impium, reputabitur fides eius ad iustitiam, secundum propositum gratiae Dei*. Ex quo patet quod in iustificatione impii requiritur actus fidei quantum ad hoc, quod homo credat Deum esse iustificatorem hominum per mysterium Christi.
 

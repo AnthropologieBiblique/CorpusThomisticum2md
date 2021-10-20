@@ -10,7 +10,7 @@ Praeterea, unum et multa non diversificant speciem virtutis. Sed iustitia legali
 Praeterea, inter unam singularem personam et multitudinem civitatis media est multitudo domestica. Si ergo est iustitia alia particularis per comparationem ad unam personam praeter iustitiam generalem, pari ratione debet esse alia iustitia oeconomica, quae ordinet hominem ad bonum commune unius familiae. Quod quidem non dicitur. Ergo nec aliqua particularis iustitia est praeter iustitiam legalem.
 
 ###### s. c.
-Sed contra est quod Chrysostomus dicit, super illud Matth. V, *beati qui esuriunt et sitiunt iustitiam, iustitiam autem dicit vel universalem virtutem, vel particularem avaritiae contrariam*.
+Sed contra est quod Chrysostomus dicit, super illud [[Mt 5]], *beati qui esuriunt et sitiunt iustitiam, iustitiam autem dicit vel universalem virtutem, vel particularem avaritiae contrariam*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, iustitia legalis non est essentialiter omnis virtus, sed oportet praeter iustitiam legalem, quae ordinat hominem immediate ad bonum commune, esse alias virtutes quae immediate ordinant hominem circa particularia bona. Quae quidem possunt esse vel ad seipsum, vel ad alteram singularem personam. Sicut ergo praeter iustitiam legalem oportet esse aliquas virtutes particulares quae ordinant hominem in seipso, puta temperantiam et fortitudinem; ita etiam praeter iustitiam legalem oportet esse particularem quandam iustitiam, quae ordinet hominem circa ea quae sunt ad alteram singularem personam.

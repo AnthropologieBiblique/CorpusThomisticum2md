@@ -10,7 +10,7 @@ Praeterea, Deus est primum rerum principium. Sed principia rerum videntur esse i
 Praeterea, ostensum est supra quod essentia Dei est ipsum esse. Sed ipsum esse videtur esse imperfectissimum, cum sit communissimum, et recipiens omnium additiones. Ergo Deus est imperfectus.
 
 ###### s. c.
-Sed contra est quod dicitur Matt. V, *estote perfecti, sicut et pater vester caelestis perfectus est*.
+Sed contra est quod dicitur [[Mt 5]], *estote perfecti, sicut et pater vester caelestis perfectus est*.
 
 ###### co.
 Respondeo dicendum quod, sicut philosophus narrat in XII Metaphys., quidam antiqui philosophi, scilicet Pythagorici et Speusippus, non attribuerunt optimum et perfectissimum primo principio. Cuius ratio est, quia philosophi antiqui consideraverunt principium materiale tantum, primum autem principium materiale imperfectissimum est. Cum enim materia, inquantum huiusmodi, sit in potentia, oportet quod primum principium materiale sit maxime in potentia; et ita maxime imperfectum. Deus autem ponitur primum principium, non materiale, sed in genere causae efficientis, et hoc oportet esse perfectissimum. Sicut enim materia, inquantum huiusmodi, est in potentia; ita agens, inquantum huiusmodi, est in actu. Unde primum principium activum oportet maxime esse in actu, et per consequens maxime esse perfectum. Secundum hoc enim dicitur aliquid esse perfectum, secundum quod est actu, nam perfectum dicitur, cui nihil deest secundum modum suae perfectionis.

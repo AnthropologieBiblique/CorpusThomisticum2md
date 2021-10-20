@@ -4,10 +4,10 @@
 Ad tertium sic proceditur. Videtur quod non convenienter inducti fuerint testes transfigurationis. Unusquisque enim maxime perhibere potest testimonium de notis. Sed qualis esset futura gloria, tempore transfigurationis Christi nulli homini per experimentum erat adhuc notum, sed solis Angelis. Ergo testes transfigurationis magis debuerunt esse Angeli quam homines.
 
 ###### arg. 2
-Praeterea, testes veritatis non decet aliqua fictio, sed veritas. Moyses autem et Elias non ibi vere affuerunt, sed imaginarie, dicit enim quaedam Glossa super illud Luc. IX, *erant autem Moyses et Elias etc., sciendum est, inquit, non corpus vel animas Moysi vel Eliae ibi apparuisse, sed in subiecta creatura illa corpora fuisse formata. Potest etiam credi ut angelico ministerio hoc factum esset, ut Angeli eorum personas assumerent*. Non ergo videtur quod fuerint convenientes testes.
+Praeterea, testes veritatis non decet aliqua fictio, sed veritas. Moyses autem et Elias non ibi vere affuerunt, sed imaginarie, dicit enim quaedam Glossa super illud [[Lc 9]], *erant autem Moyses et Elias etc., sciendum est, inquit, non corpus vel animas Moysi vel Eliae ibi apparuisse, sed in subiecta creatura illa corpora fuisse formata. Potest etiam credi ut angelico ministerio hoc factum esset, ut Angeli eorum personas assumerent*. Non ergo videtur quod fuerint convenientes testes.
 
 ###### arg. 3
-Praeterea, Act. X dicitur quod Christo *omnes prophetae testimonium perhibent*. Ergo non soli Moyses et Elias debuerunt adesse tanquam testes, sed etiam omnes prophetae.
+Praeterea, [[Ac 10]] dicitur quod Christo *omnes prophetae testimonium perhibent*. Ergo non soli Moyses et Elias debuerunt adesse tanquam testes, sed etiam omnes prophetae.
 
 ###### arg. 4
 Praeterea, gloria Christi fidelibus omnibus repromittitur, quos per suam transfigurationem ad illius gloriae desiderium accendere voluit. Non ergo solos Petrum et Iacobum et Ioannem in testimonium suae transfigurationis assumere debuit, sed omnes discipulos.
@@ -16,7 +16,7 @@ Praeterea, gloria Christi fidelibus omnibus repromittitur, quos per suam transfi
 In contrarium est evangelicae Scripturae auctoritas.
 
 ###### co.
-Respondeo dicendum quod Christus transfigurari voluit ut gloriam suam hominibus ostenderet, et ad eam desiderandam homines provocaret, sicut supra dictum est. Ad gloriam autem aeternae beatitudinis adducuntur homines per Christum, non solum qui post eum fuerunt, sed etiam qui eum praecesserunt, unde, eo ad passionem properante, tam *turbae quae sequebantur, quam quae praecedebant ei, clamabant, hosanna*, ut dicitur Matth. XXI, quasi salutem ab eo petentes. Et ideo conveniens fuit ut de praecedentibus ipsum testes adessent, scilicet Moyses et Elias; et de sequentibus, scilicet Petrus, Iacobus et Ioannes; ut *in ore duorum vel trium testium staret hoc verbum*.
+Respondeo dicendum quod Christus transfigurari voluit ut gloriam suam hominibus ostenderet, et ad eam desiderandam homines provocaret, sicut supra dictum est. Ad gloriam autem aeternae beatitudinis adducuntur homines per Christum, non solum qui post eum fuerunt, sed etiam qui eum praecesserunt, unde, eo ad passionem properante, tam *turbae quae sequebantur, quam quae praecedebant ei, clamabant, hosanna*, ut dicitur [[Mt 21]], quasi salutem ab eo petentes. Et ideo conveniens fuit ut de praecedentibus ipsum testes adessent, scilicet Moyses et Elias; et de sequentibus, scilicet Petrus, Iacobus et Ioannes; ut *in ore duorum vel trium testium staret hoc verbum*.
 
 ###### ad 1
 Ad primum ergo dicendum quod Christus per suam transfigurationem manifestavit discipulis corporis gloriam, quae ad solos homines pertinet. Et ideo convenienter non Angeli, sed homines pro testibus ad hoc inducuntur.

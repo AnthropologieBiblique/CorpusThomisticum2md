@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod pueri in statu innocentiae mox nati habuissent perfectum usum rationis. Nunc enim pueri perfectum usum rationis non habent propter hoc, quod anima per corpus aggravatur. Hoc autem tunc non erat, quia, ut dicitur Sap. IX, *corpus quod corrumpitur, aggravat animam*. Ergo ante peccatum et corruptionem a peccato subsecutam, pueri mox nati perfectum usum rationis habuissent.
+Ad secundum sic proceditur. Videtur quod pueri in statu innocentiae mox nati habuissent perfectum usum rationis. Nunc enim pueri perfectum usum rationis non habent propter hoc, quod anima per corpus aggravatur. Hoc autem tunc non erat, quia, ut dicitur [[Sg 9]], *corpus quod corrumpitur, aggravat animam*. Ergo ante peccatum et corruptionem a peccato subsecutam, pueri mox nati perfectum usum rationis habuissent.
 
 ###### arg. 2
 Praeterea, quaedam alia animalia mox nata habent naturalis industriae usum, sicut agnus statim fugit lupum. Multo ergo magis homines in statu innocentiae mox nati habuissent usum perfectum rationis.

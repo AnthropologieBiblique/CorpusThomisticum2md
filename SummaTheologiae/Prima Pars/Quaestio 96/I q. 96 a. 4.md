@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod homo in statu innocentiae homini non dominabatur. Dicit enim Augustinus, XIX de Civ. Dei, *hominem rationalem, ad imaginem suam factum, non voluit Deus nisi irrationabilibus dominari; non hominem homini, sed hominem pecori*.
 
 ###### arg. 2
-Praeterea, illud quod est introductum in poenam peccati, non fuisset in statu innocentiae. Sed hominem subesse homini, introductum est in poenam peccati, dictum est enim mulieri post peccatum, sub potestate viri eris, ut dicitur Gen. III. Ergo in statu innocentiae non erat homo homini subiectus.
+Praeterea, illud quod est introductum in poenam peccati, non fuisset in statu innocentiae. Sed hominem subesse homini, introductum est in poenam peccati, dictum est enim mulieri post peccatum, sub potestate viri eris, ut dicitur [[Gn 3]]. Ergo in statu innocentiae non erat homo homini subiectus.
 
 ###### arg. 3
 Praeterea, subiectio libertati opponitur. Sed libertas est unum de praecipuis bonis, quod in statu innocentiae non defuisset, quando nihil aberat quod bona voluntas cupere posset, ut Augustinus dicit XIV de Civ. Dei. Ergo homo homini in statu innocentiae non dominabatur.

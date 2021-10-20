@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod opera primi hominis fuerint minus efficacia ad merendum quam opera nostra. Gratia enim ex Dei misericordia datur, quae magis indigentibus subvenit magis. Sed nos indigemus magis gratia quam primus homo in statu innocentiae. Ergo copiosius infunditur nobis gratia. Quae cum sit radix meriti, opera nostra efficaciora ad merendum redduntur.
 
 ###### arg. 2
-Praeterea, ad meritum requiritur pugna quaedam et difficultas. Dicitur enim II ad Tim. II, *non coronabitur nisi qui legitime certaverit*. Et philosophus dicit, in II Ethic., quod *virtus est circa difficile et bonum*. Sed nunc est maior pugna et difficultas. Ergo et maior efficacia ad merendum.
+Praeterea, ad meritum requiritur pugna quaedam et difficultas. Dicitur enim [[2 Tm 2]], *non coronabitur nisi qui legitime certaverit*. Et philosophus dicit, in II Ethic., quod *virtus est circa difficile et bonum*. Sed nunc est maior pugna et difficultas. Ergo et maior efficacia ad merendum.
 
 ###### arg. 3
 Praeterea, Magister dicit, XXIV distinctione II libri Sent., quod *homo non meruisset, tentationi resistendo; nunc autem meretur qui tentationi resistit*. Ergo efficaciora sunt opera nostra ad merendum quam in primo statu.

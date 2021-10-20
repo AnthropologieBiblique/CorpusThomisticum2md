@@ -1,16 +1,16 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod lex nova non iustificet. Nullus enim iustificatur nisi legi Dei obediat; secundum illud ad Heb. V, *factus est*, scilicet Christus, *omnibus obtemperantibus sibi causa salutis aeternae*. Sed Evangelium non semper hoc operatur quod homines ei obediant, dicitur enim Rom. X, non omnes obediunt Evangelio. Ergo lex nova non iustificat.
+Ad secundum sic proceditur. Videtur quod lex nova non iustificet. Nullus enim iustificatur nisi legi Dei obediat; secundum illud ad Heb. V, *factus est*, scilicet Christus, *omnibus obtemperantibus sibi causa salutis aeternae*. Sed Evangelium non semper hoc operatur quod homines ei obediant, dicitur enim [[Rm 10]], non omnes obediunt Evangelio. Ergo lex nova non iustificat.
 
 ###### arg. 2
-Praeterea, apostolus probat, ad Rom., quod lex vetus non iustificabat, quia ea adveniente praevaricatio crevit, habetur enim ad Rom. IV, *lex iram operatur, ubi enim non est lex, nec praevaricatio*. Sed multo magis lex nova praevaricationem addidit, maiori enim poena est dignus qui post legem novam datam adhuc peccat; secundum illud Heb. X, *irritam quis faciens legem Moysi, sine ulla miseratione, duobus vel tribus testibus, moritur. Quanto magis putatis deteriora mereri supplicia, qui filium Dei conculcaverit, et cetera?* Ergo lex nova non iustificat, sicut nec vetus.
+Praeterea, apostolus probat, ad Rom., quod lex vetus non iustificabat, quia ea adveniente praevaricatio crevit, habetur enim ad [[Rm 4]], *lex iram operatur, ubi enim non est lex, nec praevaricatio*. Sed multo magis lex nova praevaricationem addidit, maiori enim poena est dignus qui post legem novam datam adhuc peccat; secundum illud Heb. X, *irritam quis faciens legem Moysi, sine ulla miseratione, duobus vel tribus testibus, moritur. Quanto magis putatis deteriora mereri supplicia, qui filium Dei conculcaverit, et cetera?* Ergo lex nova non iustificat, sicut nec vetus.
 
 ###### arg. 3
-Praeterea, iustificare est proprius effectus Dei; secundum illud ad Rom. VIII, Deus qui iustificat. Sed lex vetus fuit a Deo, sicut et lex nova. Ergo lex nova non magis iustificat quam lex vetus.
+Praeterea, iustificare est proprius effectus Dei; secundum illud ad [[Rm 8]], Deus qui iustificat. Sed lex vetus fuit a Deo, sicut et lex nova. Ergo lex nova non magis iustificat quam lex vetus.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Rom. I, *non erubesco Evangelium, virtus enim Dei est in salutem omni credenti*. Non autem est salus nisi iustificatis. Ergo lex Evangelii iustificat.
+Sed contra est quod apostolus dicit, ad [[Rm 1]], *non erubesco Evangelium, virtus enim Dei est in salutem omni credenti*. Non autem est salus nisi iustificatis. Ergo lex Evangelii iustificat.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, ad legem Evangelii duo pertinent. Unum quidem principaliter, scilicet ipsa gratia spiritus sancti interius data. Et quantum ad hoc, nova lex iustificat. Unde Augustinus dicit, in libro de spiritu et littera, ibi, scilicet in veteri testamento, lex extrinsecus posita est, qua iniusti terrerentur, hic, scilicet in novo testamento, intrinsecus data est, qua iustificarentur. Aliud pertinet ad legem Evangelii secundario, scilicet documenta fidei, et praecepta ordinantia affectum humanum et humanos actus. Et quantum ad hoc, lex nova non iustificat. Unde apostolus dicit, II ad Cor. III, *littera occidit, spiritus autem vivificat*. Et Augustinus exponit, in libro de spiritu et littera, quod per litteram intelligitur quaelibet Scriptura extra homines existens, etiam moralium praeceptorum qualia continentur in Evangelio. Unde etiam littera Evangelii occideret, nisi adesset interius gratia fidei sanans.

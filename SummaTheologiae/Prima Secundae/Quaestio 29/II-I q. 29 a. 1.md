@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod obiectum et causa odii non sit malum. Omne enim quod est, inquantum huiusmodi bonum est. Si igitur obiectum odii sit malum, sequitur quod nulla res odio habeatur, sed solum defectus alicuius rei. Quod patet esse falsum.
 
 ###### arg. 2
-Praeterea, odire malum est laudabile, unde in laudem quorundam dicitur II Machab. III, quod *leges optime custodiebantur, propter Oniae pontificis pietatem, et animos odio habentes mala*. Si igitur nihil oditur nisi malum, sequitur quod omne odium sit laudabile. Quod patet esse falsum.
+Praeterea, odire malum est laudabile, unde in laudem quorundam dicitur [[2 M 3]], quod *leges optime custodiebantur, propter Oniae pontificis pietatem, et animos odio habentes mala*. Si igitur nihil oditur nisi malum, sequitur quod omne odium sit laudabile. Quod patet esse falsum.
 
 ###### arg. 3
 Praeterea, idem non est simul bonum et malum. Sed idem diversis est odibile et amabile. Ergo odium non solum est mali, sed etiam boni.

@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod voluntas humana in Christo non voluerit aliud quam quod Deus vult. Dicitur enim in Psalmo, ex persona Christi, *ut facerem voluntatem tuam, Deus meus, volui*. Sed ille qui vult voluntatem alicuius facere, vult quod ille vult. Ergo videtur quod voluntas humana Christi nihil aliud voluerit quam voluntas ipsius divina.
 
 ###### arg. 2
-Praeterea, anima Christi habuit perfectissimam caritatem, quae etiam comprehensionem nostrae scientiae excedit, secundum illud Ephes. III, *supereminentem scientiae caritatem Christi*. Sed caritatis est facere quod homo idem velit quod Deus, unde et philosophus, in IX Ethic., dicit quod unum de amicabilibus est eadem velle et eligere. Ergo voluntas humana in Christo nihil aliud voluit quam divina.
+Praeterea, anima Christi habuit perfectissimam caritatem, quae etiam comprehensionem nostrae scientiae excedit, secundum illud [[Ep 3]], *supereminentem scientiae caritatem Christi*. Sed caritatis est facere quod homo idem velit quod Deus, unde et philosophus, in IX Ethic., dicit quod unum de amicabilibus est eadem velle et eligere. Ergo voluntas humana in Christo nihil aliud voluit quam divina.
 
 ###### arg. 3
 Praeterea, Christus fuit verus comprehensor. Sed sancti qui sunt comprehensores in patria, nihil aliud volunt quam quod Deus vult. Alioquin, non essent beati, quia non haberent quidquid vellent, beatus enim est qui habet quidquid vult et nihil mali vult, ut dicit Augustinus, in libro de Trin. Ergo Christus nihil aliud voluit secundum voluntatem humanam quam quod voluit voluntas divina.

@@ -10,10 +10,10 @@ Praeterea, Christus ab initio suae conceptionis meruit et sibi et nobis, ut supr
 Praeterea, radix merendi est caritas. Sed caritas Christi non fuit magis augmentata in passione quam ante. Ergo non magis meruit salutem nostram patiendo quam ante fecerat.
 
 ###### s. c.
-Sed contra est quod, super illud Philipp. II, *propter quod et Deus exaltavit illum* etc., dicit Augustinus, *humilitas passionis claritatis est meritum, claritas humilitatis est praemium*. Sed ipse clarificatus est non solum in seipso, sed etiam in suis fidelibus, ut ipse dicit, Ioan. XVII. Ergo videtur quod ipse meruit salutem suorum fidelium.
+Sed contra est quod, super illud [[Ph 2]], *propter quod et Deus exaltavit illum* etc., dicit Augustinus, *humilitas passionis claritatis est meritum, claritas humilitatis est praemium*. Sed ipse clarificatus est non solum in seipso, sed etiam in suis fidelibus, ut ipse dicit, [[Jn 17]]. Ergo videtur quod ipse meruit salutem suorum fidelium.
 
 ###### co.
-Respondeo dicendum quod, sicut supra dictum est, Christo data est gratia non solum sicut singulari personae, sed inquantum est caput Ecclesiae, ut scilicet ab ipso redundaret ad membra. Et ideo opera Christi hoc modo se habent tam ad se quam ad sua membra, sicut se habent opera alterius hominis in gratia constituti ad ipsum. Manifestum est autem quod quicumque in gratia constitutus propter iustitiam patitur, ex hoc ipso meretur sibi salutem, secundum illud Matth. V, *beati qui persecutionem patiuntur propter iustitiam*. Unde Christus non solum per suam passionem sibi, sed etiam omnibus suis membris meruit salutem.
+Respondeo dicendum quod, sicut supra dictum est, Christo data est gratia non solum sicut singulari personae, sed inquantum est caput Ecclesiae, ut scilicet ab ipso redundaret ad membra. Et ideo opera Christi hoc modo se habent tam ad se quam ad sua membra, sicut se habent opera alterius hominis in gratia constituti ad ipsum. Manifestum est autem quod quicumque in gratia constitutus propter iustitiam patitur, ex hoc ipso meretur sibi salutem, secundum illud [[Mt 5]], *beati qui persecutionem patiuntur propter iustitiam*. Unde Christus non solum per suam passionem sibi, sed etiam omnibus suis membris meruit salutem.
 
 ###### ad 1
 Ad primum ergo dicendum quod passio inquantum huiusmodi, habet principium ab exteriori. Sed secundum quod eam aliquis voluntarie sustinet, habet principium ab interiori.

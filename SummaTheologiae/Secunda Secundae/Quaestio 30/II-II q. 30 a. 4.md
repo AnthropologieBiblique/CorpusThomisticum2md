@@ -1,16 +1,16 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod misericordia sit maxima virtutum. Maxime enim ad virtutem pertinere videtur cultus divinus. Sed misericordia cultui divino praefertur, secundum illud Osee VI et Matth. XII, *misericordiam volo, et non sacrificium*. Ergo misericordia est maxima virtus.
+Ad quartum sic proceditur. Videtur quod misericordia sit maxima virtutum. Maxime enim ad virtutem pertinere videtur cultus divinus. Sed misericordia cultui divino praefertur, secundum illud [[Os 6]] et [[Mt 12]], *misericordiam volo, et non sacrificium*. Ergo misericordia est maxima virtus.
 
 ###### arg. 2
-Praeterea, super illud I ad Tim. IV, *pietas ad omnia utilis est*, dicit Glossa Ambrosii, *omnis summa disciplinae Christianae in misericordia et pietate est*. Sed disciplina Christiana continet omnem virtutem. Ergo summa totius virtutis in misericordia consistit.
+Praeterea, super illud [[1 Tm 4]], *pietas ad omnia utilis est*, dicit Glossa Ambrosii, *omnis summa disciplinae Christianae in misericordia et pietate est*. Sed disciplina Christiana continet omnem virtutem. Ergo summa totius virtutis in misericordia consistit.
 
 ###### arg. 3
-Praeterea, virtus est quae bonum facit habentem. Ergo tanto aliqua virtus est melior quanto facit hominem Deo similiorem, quia per hoc melior est homo quod Deo est similior. Sed hoc maxime facit misericordia, quia de Deo dicitur in Psalm. quod *miserationes eius sunt super omnia opera eius*. Unde et Luc. VI dominus dicit, *estote misericordes, sicut et pater vester misericors est*. Misericordia igitur est maxima virtutum.
+Praeterea, virtus est quae bonum facit habentem. Ergo tanto aliqua virtus est melior quanto facit hominem Deo similiorem, quia per hoc melior est homo quod Deo est similior. Sed hoc maxime facit misericordia, quia de Deo dicitur in Psalm. quod *miserationes eius sunt super omnia opera eius*. Unde et [[Lc 6]] dominus dicit, *estote misericordes, sicut et pater vester misericors est*. Misericordia igitur est maxima virtutum.
 
 ###### s. c.
-Sed contra est quod apostolus, ad Coloss. III, cum dixisset, *induite vos, sicut dilecti Dei, viscera misericordiae* etc., postea subdit, *super omnia, caritatem habete*. Ergo misericordia non est maxima virtutum.
+Sed contra est quod apostolus, ad [[Col 3]], cum dixisset, *induite vos, sicut dilecti Dei, viscera misericordiae* etc., postea subdit, *super omnia, caritatem habete*. Ergo misericordia non est maxima virtutum.
 
 ###### co.
 Respondeo dicendum quod aliqua virtus potest esse maxima dupliciter, uno modo, secundum se; alio modo, per comparationem ad habentem. Secundum se quidem misericordia maxima est. Pertinet enim ad misericordiam quod alii effundat; et, quod plus est, quod defectus aliorum sublevet; et hoc est maxime superioris. Unde et misereri ponitur proprium Deo, et in hoc maxime dicitur eius omnipotentia manifestari. Sed quoad habentem, misericordia non est maxima, nisi ille qui habet sit maximus, qui nullum supra se habeat, sed omnes sub se. Ei enim qui supra se aliquem habet maius est et melius coniungi superiori quam supplere defectum inferioris. Et ideo quantum ad hominem, qui habet Deum superiorem, caritas, per quam Deo unitur, est potior quam misericordia, per quam defectus proximorum supplet. Sed inter omnes virtutes quae ad proximum pertinent potissima est misericordia, sicut etiam est potioris actus, nam supplere defectum alterius, inquantum huiusmodi, est superioris et melioris.

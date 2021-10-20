@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod gravitas peccatorum non differat secundum dignitatem virtutum quibus peccata opponuntur, ut scilicet maiori virtuti gravius peccatum opponatur. Quia ut dicitur Prov. XV, *in abundanti iustitia virtus maxima est*. Sed sicut dicit dominus, Matth. V, abundans iustitia cohibet iram; quae est minus peccatum quam homicidium, quod cohibet minor iustitia. Ergo maximae virtuti opponitur minimum peccatum.
+Ad quartum sic proceditur. Videtur quod gravitas peccatorum non differat secundum dignitatem virtutum quibus peccata opponuntur, ut scilicet maiori virtuti gravius peccatum opponatur. Quia ut dicitur [[Pr 15]], *in abundanti iustitia virtus maxima est*. Sed sicut dicit dominus, [[Mt 5]], abundans iustitia cohibet iram; quae est minus peccatum quam homicidium, quod cohibet minor iustitia. Ergo maximae virtuti opponitur minimum peccatum.
 
 ###### arg. 2
 Praeterea, in II Ethic. dicitur quod virtus est circa difficile et bonum, ex quo videtur quod maior virtus sit circa magis difficile. Sed minus est peccatum si homo deficiat in magis difficili, quam si deficiat in minus difficili. Ergo maiori virtuti minus peccatum opponitur.

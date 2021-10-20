@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod Angeli non sint consecuti gratiam et gloriam secundum quantitatem suorum naturalium. Gratia enim ex mera Dei voluntate datur. Ergo et quantitas gratiae dependet ex voluntate Dei, et non ex quantitate naturalium.
 
 ###### arg. 2
-Praeterea, magis propinquum videtur ad gratiam actus humanus quam natura, quia actus humanus praeparatorius est ad gratiam. Sed gratia non est ex operibus, ut dicitur Rom. XI. Multo igitur minus quantitas gratiae in Angelis est secundum quantitatem naturalium.
+Praeterea, magis propinquum videtur ad gratiam actus humanus quam natura, quia actus humanus praeparatorius est ad gratiam. Sed gratia non est ex operibus, ut dicitur [[Rm 11]]. Multo igitur minus quantitas gratiae in Angelis est secundum quantitatem naturalium.
 
 ###### arg. 3
 Praeterea, homo et Angelus pariter ordinantur ad beatitudinem vel gratiam. Sed homini non datur plus de gratia secundum gradum naturalium. Ergo nec Angelo.

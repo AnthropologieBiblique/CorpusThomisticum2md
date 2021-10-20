@@ -1,16 +1,16 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod lex vetus non fuerit data per Angelos, sed immediate a Deo. Angelus enim nuntius dicitur, et sic nomen Angeli ministerium importat, non dominium; secundum illud Psalmi CII, *benedicite domino, omnes Angeli eius, ministri eius*. Sed vetus lex a domino tradita esse perhibetur, dicitur enim Exod. XX, *locutusque est dominus sermones hos*, et postea subditur, *ego enim sum dominus Deus tuus*. Et idem modus loquendi frequenter repetitur in Exodo, et in libris consequentibus legis. Ergo lex est immediate data a Deo.
+Ad tertium sic proceditur. Videtur quod lex vetus non fuerit data per Angelos, sed immediate a Deo. Angelus enim nuntius dicitur, et sic nomen Angeli ministerium importat, non dominium; secundum illud [[Ps 102]], *benedicite domino, omnes Angeli eius, ministri eius*. Sed vetus lex a domino tradita esse perhibetur, dicitur enim [[Ex 20]], *locutusque est dominus sermones hos*, et postea subditur, *ego enim sum dominus Deus tuus*. Et idem modus loquendi frequenter repetitur in Exodo, et in libris consequentibus legis. Ergo lex est immediate data a Deo.
 
 ###### arg. 2
-Praeterea, sicut dicitur Ioan. I, lex per Moysen data est. Sed Moyses immediate accepit a Deo, dicitur enim Exod. XXXIII, *loquebatur dominus ad Moysen facie ad faciem, sicut loqui solet homo ad amicum suum*. Ergo lex vetus immediate data est a Deo.
+Praeterea, sicut dicitur [[Jn 1]], lex per Moysen data est. Sed Moyses immediate accepit a Deo, dicitur enim [[Ex 33]], *loquebatur dominus ad Moysen facie ad faciem, sicut loqui solet homo ad amicum suum*. Ergo lex vetus immediate data est a Deo.
 
 ###### arg. 3
 Praeterea, ad solum principem pertinet legem ferre, ut supra dictum est. Sed solus Deus est princeps salutis animarum, *Angeli vero sunt administratorii spiritus*, ut dicitur ad Heb. I. Ergo lex vetus per Angelos dari non debuit, cum ordinaretur ad animarum salutem.
 
 ###### s. c.
-Sed contra est quod dicit apostolus, ad Gal. III, *lex data est per Angelos in manu mediatoris*. Et Act. VII, dicit Stephanus, *accepistis legem in dispositione Angelorum*.
+Sed contra est quod dicit apostolus, ad [[Ga 3]], *lex data est per Angelos in manu mediatoris*. Et [[Ac 7]], dicit Stephanus, *accepistis legem in dispositione Angelorum*.
 
 ###### co.
 Respondeo dicendum quod lex data est a Deo per Angelos. Et praeter generalem rationem, quam Dionysius assignat, in IV cap. Cael. Hier., quod *divina debent deferri ad homines mediantibus Angelis*, specialis ratio est quare legem veterem per Angelos dari oportuit. Dictum est enim quod lex vetus imperfecta erat, sed disponebat ad salutem perfectam generis humani, quae futura erat per Christum. Sic autem videtur in omnibus potestatibus et artibus ordinatis, quod ille qui est superior, principalem et perfectum actum operatur per seipsum; ea vero quae disponunt ad perfectionem ultimam, operatur per suos ministros; sicut navifactor compaginat navem per seipsum, sed praeparat materiam per artifices subministrantes. Et ideo conveniens fuit ut lex perfecta novi testamenti daretur immediate per ipsum Deum hominem factum; lex autem vetus per ministros Dei, scilicet per Angelos, daretur hominibus. Et per hunc modum apostolus, in principio ad Heb., probat eminentiam novae legis ad veterem, quia in novo testamento locutus est nobis Deus in filio suo, in veteri autem testamento est sermo factus per Angelos.

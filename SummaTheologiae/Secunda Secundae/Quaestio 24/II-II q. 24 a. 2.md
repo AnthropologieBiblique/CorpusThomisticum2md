@@ -7,13 +7,13 @@ Ad secundum sic proceditur. Videtur quod caritas non causetur in nobis ex infusi
 Praeterea, quanto aliquid est magis diligibile, tanto facilius diligi potest. Sed Deus est maxime diligibilis, cum sit summe bonus. Ergo facilius est ipsum diligere quam alia. Sed ad alia diligenda non indigemus aliquo habitu infuso. Ergo nec etiam ad diligendum Deum.
 
 ###### arg. 3
-Praeterea, apostolus dicit, I ad Tim. I, *finis praecepti est caritas de corde bono et conscientia pura et fide non ficta*. Sed haec tria pertinent ad actus humanos. Ergo caritas causatur in nobis ex actibus praecedentibus, et non ex infusione.
+Praeterea, apostolus dicit, [[1 Tm 1]], *finis praecepti est caritas de corde bono et conscientia pura et fide non ficta*. Sed haec tria pertinent ad actus humanos. Ergo caritas causatur in nobis ex actibus praecedentibus, et non ex infusione.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, Rom. V, *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*.
+Sed contra est quod apostolus dicit, [[Rm 5]], *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*.
 
 ###### co.
-Respondeo dicendum quod, sicut dictum est, caritas est amicitia quaedam hominis ad Deum fundata super communicationem beatitudinis aeternae. Haec autem communicatio non est secundum bona naturalia, sed secundum dona gratuita, quia, ut dicitur Rom. VI, *gratia Dei vita aeterna*. Unde et ipsa caritas facultatem naturae excedit. Quod autem excedit naturae facultatem non potest esse neque naturale neque per potentias naturales acquisitum, quia effectus naturalis non transcendit suam causam. Unde caritas non potest neque naturaliter nobis inesse, neque per vires naturales est acquisita, sed per infusionem spiritus sancti, qui est amor patris et filii, cuius participatio in nobis est ipsa caritas creata, sicut supra dictum est.
+Respondeo dicendum quod, sicut dictum est, caritas est amicitia quaedam hominis ad Deum fundata super communicationem beatitudinis aeternae. Haec autem communicatio non est secundum bona naturalia, sed secundum dona gratuita, quia, ut dicitur [[Rm 6]], *gratia Dei vita aeterna*. Unde et ipsa caritas facultatem naturae excedit. Quod autem excedit naturae facultatem non potest esse neque naturale neque per potentias naturales acquisitum, quia effectus naturalis non transcendit suam causam. Unde caritas non potest neque naturaliter nobis inesse, neque per vires naturales est acquisita, sed per infusionem spiritus sancti, qui est amor patris et filii, cuius participatio in nobis est ipsa caritas creata, sicut supra dictum est.
 
 ###### ad 1
 Ad primum ergo dicendum quod Dionysius loquitur de dilectione Dei quae fundatur super communicatione naturalium bonorum, et ideo naturaliter omnibus inest. Sed caritas fundatur super quadam communicatione supernaturali. Unde non est similis ratio.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod Dionysius loquitur de dilectione Dei quae fundatur 
 Ad secundum dicendum quod sicut Deus secundum se est maxime cognoscibilis, non tamen nobis, propter defectum nostrae cognitionis, quae dependet a rebus sensibilibus; ita etiam Deus in se est maxime diligibilis inquantum est obiectum beatitudinis, sed hoc modo non est maxime diligibilis a nobis, propter inclinationem affectus nostri ad visibilia bona. Unde oportet quod ad Deum hoc modo maxime diligendum nostris cordibus caritas infundatur.
 
 ###### ad 3
-Ad tertium dicendum quod cum caritas dicitur in nobis procedere *ex corde bono et conscientia pura et fide non ficta*, hoc referendum est ad actum caritatis, qui ex praemissis excitatur. Vel etiam hoc dicitur quia huiusmodi actus disponunt hominem ad recipiendum caritatis infusionem. Et similiter etiam dicendum est de eo quod Augustinus dicit, quod timor introducit caritatem, et de hoc quod dicitur in Glossa Matth. I, quod *fides generat spem, et spes caritatem*.
+Ad tertium dicendum quod cum caritas dicitur in nobis procedere *ex corde bono et conscientia pura et fide non ficta*, hoc referendum est ad actum caritatis, qui ex praemissis excitatur. Vel etiam hoc dicitur quia huiusmodi actus disponunt hominem ad recipiendum caritatis infusionem. Et similiter etiam dicendum est de eo quod Augustinus dicit, quod timor introducit caritatem, et de hoc quod dicitur in Glossa [[Mt 1]], quod *fides generat spem, et spes caritatem*.
 

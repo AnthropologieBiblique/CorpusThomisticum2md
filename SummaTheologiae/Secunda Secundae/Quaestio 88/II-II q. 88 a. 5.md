@@ -10,7 +10,7 @@ Praeterea, secundum Tullium, ad religionem pertinet cultum et caeremoniam Deo of
 Praeterea, cultus religionis non debet exhiberi nisi Deo. Sed votum non solum fit Deo, sed etiam sanctis et praelatis, quibus religiosi profitentes obedientiam vovent. Ergo votum non est religionis actus.
 
 ###### s. c.
-Sed contra est quod dicitur Isaiae XIX, *colent eum in hostiis et muneribus, et vota vovebunt domino et solvent*. Sed colere Deum est proprie religionis sive latriae. Ergo votum est actus latriae sive religionis.
+Sed contra est quod dicitur [[Is 19]], *colent eum in hostiis et muneribus, et vota vovebunt domino et solvent*. Sed colere Deum est proprie religionis sive latriae. Ergo votum est actus latriae sive religionis.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, omne opus virtutis ad religionem seu latriam pertinet per modum imperii, secundum quod ad divinam reverentiam ordinatur, quod est proprius finis latriae. Ordinare autem alios actus in manifestum est autem ex praedictis quod votum est quaedam imperatas. Et ideo ipsa ordinatio actuum cuiuscumque virtutis in servitium Dei est proprius actus latriae. Manifestum est autem ex praedictis quod votum est quaedam promissio Deo facta, et quod promissio nihil est aliud quam ordinatio quaedam eius quod promittitur in eum cui promittitur. Unde votum est ordinatio quaedam eorum quae quis vovet in divinum cultum seu obsequium. Et sic patet quod vovere proprie est actus latriae seu religionis.

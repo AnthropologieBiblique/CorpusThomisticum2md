@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod occidere hominem peccatorem liceat privatae personae. In lege enim divina nihil illicitum mandatur. Sed Exod. XXXII praecepit Moyses, *occidat unusquisque proximum suum, fratrem et amicum suum*, pro peccato vituli conflatilis. Ergo etiam privatis personis licet peccatorem occidere.
+Ad tertium sic proceditur. Videtur quod occidere hominem peccatorem liceat privatae personae. In lege enim divina nihil illicitum mandatur. Sed [[Ex 32]] praecepit Moyses, *occidat unusquisque proximum suum, fratrem et amicum suum*, pro peccato vituli conflatilis. Ergo etiam privatis personis licet peccatorem occidere.
 
 ###### arg. 2
 Praeterea, homo propter peccatum bestiis comparatur, ut dictum est. Sed occidere bestiam sylvestrem, maxime nocentem, cuilibet privatae personae licet. Ergo, pari ratione, occidere hominem peccatorem.

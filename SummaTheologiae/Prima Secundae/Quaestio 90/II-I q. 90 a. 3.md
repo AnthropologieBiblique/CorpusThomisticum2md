@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod cuiuslibet ratio sit factiva legis. Dicit enim apostolus, ad Rom. II, quod *cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt, ipsi sibi sunt lex*. Hoc autem communiter de omnibus dicit. Ergo quilibet potest facere sibi legem.
+Ad tertium sic proceditur. Videtur quod cuiuslibet ratio sit factiva legis. Dicit enim apostolus, ad [[Rm 2]], quod *cum gentes, quae legem non habent, naturaliter ea quae legis sunt faciunt, ipsi sibi sunt lex*. Hoc autem communiter de omnibus dicit. Ergo quilibet potest facere sibi legem.
 
 ###### arg. 2
 Praeterea, sicut philosophus dicit, in libro II Ethic., *intentio legislatoris est ut inducat hominem ad virtutem*. Sed quilibet homo potest alium inducere ad virtutem. Ergo cuiuslibet hominis ratio est factiva legis.

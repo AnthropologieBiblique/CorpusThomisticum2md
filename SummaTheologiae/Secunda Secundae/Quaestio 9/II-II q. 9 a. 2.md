@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod scientiae donum sit circa res divinas. 
 Praeterea, donum scientiae est dignius quam scientia acquisita. Sed aliqua scientia acquisita est circa res divinas, sicut scientia metaphysicae. Ergo multo magis donum scientiae est circa res divinas.
 
 ###### arg. 3
-Praeterea, sicut dicitur Rom. I, *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Si igitur est scientia circa res creatas, videtur quod etiam sit circa res divinas.
+Praeterea, sicut dicitur [[Rm 1]], *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Si igitur est scientia circa res creatas, videtur quod etiam sit circa res divinas.
 
 ###### s. c.
 Sed contra est quod Augustinus, XIV de Trin., dicit, *rerum divinarum scientia proprie sapientia nuncupetur, humanarum autem proprie scientiae nomen obtineat*.

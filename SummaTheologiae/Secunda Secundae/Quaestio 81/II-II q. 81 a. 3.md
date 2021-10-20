@@ -10,10 +10,10 @@ Praeterea, unius virtutis unus videtur esse actus, habitus enim distinguuntur se
 Praeterea, adoratio ad religionem pertinet. Sed adoratio alia ratione adhibetur imaginibus, et alia ipsi Deo. Cum ergo diversa ratio distinguat virtutes, videtur quod religio non sit una virtus.
 
 ###### s. c.
-Sed contra est quod dicitur Ephes. IV, *unus Deus, una fides*. Sed vera religio protestatur fidem unius Dei. Ergo religio est una virtus.
+Sed contra est quod dicitur [[Ep 4]], *unus Deus, una fides*. Sed vera religio protestatur fidem unius Dei. Ergo religio est una virtus.
 
 ###### co.
-Respondeo dicendum quod, sicut supra habitum est, habitus distinguuntur secundum diversam rationem obiecti. Ad religionem autem pertinet exhibere reverentiam uni Deo secundum unam rationem, inquantum scilicet est primum principium creationis et gubernationis rerum, unde ipse dicit, Malach. I, *si ego pater, ubi honor meus?* Patris enim est et producere et gubernare. Et ideo manifestum est quod religio est una virtus.
+Respondeo dicendum quod, sicut supra habitum est, habitus distinguuntur secundum diversam rationem obiecti. Ad religionem autem pertinet exhibere reverentiam uni Deo secundum unam rationem, inquantum scilicet est primum principium creationis et gubernationis rerum, unde ipse dicit, [[Ml 1]], *si ego pater, ubi honor meus?* Patris enim est et producere et gubernare. Et ideo manifestum est quod religio est una virtus.
 
 ###### ad 1
 Ad primum ergo dicendum quod tres personae divinae sunt unum principium creationis et gubernationis rerum, et ideo eis una religione servitur. Diversae autem rationes attributorum concurrunt ad rationem primi principii, quia Deus producit omnia et gubernat sapientia, voluntate et potentia bonitatis suae. Et ideo religio est una virtus.

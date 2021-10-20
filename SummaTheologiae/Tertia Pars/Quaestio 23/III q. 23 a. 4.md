@@ -19,7 +19,7 @@ Respondeo dicendum quod filiatio proprie convenit hypostasi vel personae, non au
 Ad primum ergo dicendum quod, sicut filiatio non proprie convenit naturae, ita nec adoptio. Et ideo, cum dicitur quod carnis humanitas adoptatur, impropria est locutio, et accipitur ibi adoptio pro unione humanae naturae ad personam filii.
 
 ###### ad 2
-Ad secundum dicendum quod similitudo illa Augustini est intelligenda quantum ad principium, quia scilicet, sicut sine meritis habet quilibet homo ut sit Christianus, ita ille homo sine meritis habuit ut esset Christus. Est tamen differentia quantum ad terminum, quia scilicet Christus per gratiam unionis est filius naturalis; alius autem per gratiam habitualem est filius adoptivus. Gratia autem habitualis in Christo non facit de nonfilio filium adoptivum, sed est quidam effectus filiationis in anima Christi, secundum illud Ioan. I, *vidimus gloriam eius quasi unigeniti a patre, plenum gratiae et veritatis*.
+Ad secundum dicendum quod similitudo illa Augustini est intelligenda quantum ad principium, quia scilicet, sicut sine meritis habet quilibet homo ut sit Christianus, ita ille homo sine meritis habuit ut esset Christus. Est tamen differentia quantum ad terminum, quia scilicet Christus per gratiam unionis est filius naturalis; alius autem per gratiam habitualem est filius adoptivus. Gratia autem habitualis in Christo non facit de nonfilio filium adoptivum, sed est quidam effectus filiationis in anima Christi, secundum illud [[Jn 1]], *vidimus gloriam eius quasi unigeniti a patre, plenum gratiae et veritatis*.
 
 ###### ad 3
 Ad tertium dicendum quod esse creaturam, et etiam servitus vel subiectio ad Deum, non solum respicit personam, sed etiam naturam, quod non potest dici de filiatione. Et ideo non est similis ratio.

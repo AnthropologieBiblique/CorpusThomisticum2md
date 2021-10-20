@@ -7,10 +7,10 @@ Ad tertium sic proceditur. Videtur quod sapientia non sit practica, sed speculat
 Praeterea, practicus intellectus est circa operabilia, quae sunt contingentia. Sed sapientia est circa divina, quae sunt aeterna et necessaria. Ergo sapientia non potest esse practica.
 
 ###### arg. 3
-Praeterea, Gregorius dicit, in VI Moral., quod *in contemplatione principium, quod Deus est, quaeritur, in operatione autem sub gravi necessitatis fasce laboratur*. Sed ad sapientiam pertinet divinorum visio, ad quam non pertinet sub aliquo fasce laborare, quia ut dicitur Sap. VIII, *non habet amaritudinem conversatio eius, nec taedium convictus illius*. Ergo sapientia est contemplativa tantum, non autem practica sive activa.
+Praeterea, Gregorius dicit, in VI Moral., quod *in contemplatione principium, quod Deus est, quaeritur, in operatione autem sub gravi necessitatis fasce laboratur*. Sed ad sapientiam pertinet divinorum visio, ad quam non pertinet sub aliquo fasce laborare, quia ut dicitur [[Sg 8]], *non habet amaritudinem conversatio eius, nec taedium convictus illius*. Ergo sapientia est contemplativa tantum, non autem practica sive activa.
 
 ###### s. c.
-Sed contra est quod dicitur ad Coloss. IV, *in sapientia ambulate ad eos qui foris sunt*. Hoc autem pertinet ad actionem. Ergo sapientia non solum est speculativa, sed etiam practica.
+Sed contra est quod dicitur ad [[Col 4]], *in sapientia ambulate ad eos qui foris sunt*. Hoc autem pertinet ad actionem. Ergo sapientia non solum est speculativa, sed etiam practica.
 
 ###### co.
 Respondeo dicendum quod, sicut Augustinus dicit, in XII de Trin., superior pars rationis sapientiae deputatur, inferior autem scientiae. Superior autem ratio, ut ipse in eodem libro dicit, intendit rationibus supernis, scilicet divinis, et conspiciendis et consulendis, conspiciendis quidem, secundum quod divina in seipsis contemplatur; consulendis autem, secundum quod per divina iudicat de humanis, per divinas regulas dirigens actus humanos. Sic igitur sapientia, secundum quod est donum, non solum est speculativa, sed etiam practica.

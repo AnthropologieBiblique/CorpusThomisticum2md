@@ -1,16 +1,16 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod iustitia non semper sit ad alterum. Dicit enim apostolus, ad Rom. III, quod *iustitia Dei est per fidem Iesu Christi*. Sed fides non dicitur per comparationem unius hominis ad alterum. Ergo neque iustitia.
+Ad secundum sic proceditur. Videtur quod iustitia non semper sit ad alterum. Dicit enim apostolus, ad [[Rm 3]], quod *iustitia Dei est per fidem Iesu Christi*. Sed fides non dicitur per comparationem unius hominis ad alterum. Ergo neque iustitia.
 
 ###### arg. 2
-Praeterea, secundum Augustinum, in libro de moribus Eccles., ad iustitiam pertinet, ob hoc quod servit Deo, *bene imperare ceteris, quae homini sunt subiecta*. Sed appetitus sensitivus est homini subiectus, ut patet Gen. IV, ubi dicitur, subter te erit appetitus eius, scilicet peccati, et tu dominaberis illius. Ergo ad iustitiam pertinet dominari proprio appetitui. Et sic erit iustitia ad seipsum.
+Praeterea, secundum Augustinum, in libro de moribus Eccles., ad iustitiam pertinet, ob hoc quod servit Deo, *bene imperare ceteris, quae homini sunt subiecta*. Sed appetitus sensitivus est homini subiectus, ut patet [[Gn 4]], ubi dicitur, subter te erit appetitus eius, scilicet peccati, et tu dominaberis illius. Ergo ad iustitiam pertinet dominari proprio appetitui. Et sic erit iustitia ad seipsum.
 
 ###### arg. 3
 Praeterea, iustitia Dei est aeterna. Sed nihil aliud fuit Deo coaeternum. Ergo de ratione iustitiae non est quod sit ad alterum.
 
 ###### arg. 4
-Praeterea, sicut operationes quae sunt ad alterum indigent rectificari, ita etiam operationes quae sunt ad seipsum. Sed per iustitiam rectificantur operationes, secundum illud Prov. XI, *iustitia simplicis dirigit viam eius*. Ergo iustitia non solum est circa ea quae sunt ad alterum, sed etiam circa ea quae sunt ad seipsum.
+Praeterea, sicut operationes quae sunt ad alterum indigent rectificari, ita etiam operationes quae sunt ad seipsum. Sed per iustitiam rectificantur operationes, secundum illud [[Pr 11]], *iustitia simplicis dirigit viam eius*. Ergo iustitia non solum est circa ea quae sunt ad alterum, sed etiam circa ea quae sunt ad seipsum.
 
 ###### s. c.
 Sed contra est quod Tullius dicit, in I de Offic., quod *iustitiae ea ratio est qua societas hominum inter ipsos, et vitae communitas continetur*. Sed hoc importat respectum ad alterum. Ergo iustitia est solum circa ea quae sunt ad alterum.

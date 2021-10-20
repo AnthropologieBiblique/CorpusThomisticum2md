@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod infideles nullo modo compellendi sint ad fidem. Dicitur enim Matth. XIII quod servi patrisfamilias in cuius agro erant zizania seminata quaesierunt ab eo, *vis imus et colligimus ea? Et ipse respondit, non, ne forte, colligentes zizania, eradicetis simul cum eis triticum*. Ubi dicit Chrysostomus, *haec dixit dominus prohibens occisiones fieri. Nec enim oportet interficere haereticos, quia si eos occideritis, necesse est multos sanctorum simul subverti*. Ergo videtur quod pari ratione nec aliqui infideles sint ad fidem cogendi.
+Ad octavum sic proceditur. Videtur quod infideles nullo modo compellendi sint ad fidem. Dicitur enim [[Mt 13]] quod servi patrisfamilias in cuius agro erant zizania seminata quaesierunt ab eo, *vis imus et colligimus ea? Et ipse respondit, non, ne forte, colligentes zizania, eradicetis simul cum eis triticum*. Ubi dicit Chrysostomus, *haec dixit dominus prohibens occisiones fieri. Nec enim oportet interficere haereticos, quia si eos occideritis, necesse est multos sanctorum simul subverti*. Ergo videtur quod pari ratione nec aliqui infideles sint ad fidem cogendi.
 
 ###### arg. 2
 Praeterea, in decretis, dist. XLV, sic dicitur, *de Iudaeis praecepit sancta synodus nemini deinceps ad credendum vim inferre*. Ergo pari ratione nec alii infideles sunt ad fidem cogendi.
@@ -10,10 +10,10 @@ Praeterea, in decretis, dist. XLV, sic dicitur, *de Iudaeis praecepit sancta syn
 Praeterea, Augustinus dicit quod cetera potest homo nolens, credere nonnisi volens. Sed voluntas cogi non potest. Ergo videtur quod infideles non sint ad fidem cogendi.
 
 ###### arg. 4
-Praeterea, Ezech. XVIII dicitur ex persona Dei, *nolo mortem peccatoris*. Sed nos debemus voluntatem nostram conformare divinae, ut supra dictum est. Ergo etiam nos non debemus velle quod infideles occidantur.
+Praeterea, [[Ez 18]] dicitur ex persona Dei, *nolo mortem peccatoris*. Sed nos debemus voluntatem nostram conformare divinae, ut supra dictum est. Ergo etiam nos non debemus velle quod infideles occidantur.
 
 ###### s. c.
-Sed contra est quod dicitur Luc. XIV, *exi in vias et saepes et compelle intrare, ut impleatur domus mea*. Sed homines in domum Dei, idest in Ecclesiam, intrant per fidem. Ergo aliqui sunt compellendi ad fidem.
+Sed contra est quod dicitur [[Lc 14]], *exi in vias et saepes et compelle intrare, ut impleatur domus mea*. Sed homines in domum Dei, idest in Ecclesiam, intrant per fidem. Ergo aliqui sunt compellendi ad fidem.
 
 ###### co.
 Respondeo dicendum quod infidelium quidam sunt qui nunquam susceperunt fidem, sicut gentiles et Iudaei. Et tales nullo modo sunt ad fidem compellendi, ut ipsi credant, quia credere voluntatis est. Sunt tamen compellendi a fidelibus, si facultas adsit, ut fidem non impediant vel blasphemiis, vel malis persuasionibus, vel etiam apertis persecutionibus. Et propter hoc fideles Christi frequenter contra infideles bellum movent, non quidem ut eos ad credendum cogant (quia si etiam eos vicissent et captivos haberent, in eorum libertate relinquerent an credere vellent), sed propter hoc ut eos compellant ne fidem Christi impediant. Alii vero sunt infideles qui quandoque fidem susceperunt et eam profitentur, sicut haeretici vel quicumque apostatae. Et tales sunt etiam corporaliter compellendi ut impleant quod promiserunt et teneant quod semel susceperunt.

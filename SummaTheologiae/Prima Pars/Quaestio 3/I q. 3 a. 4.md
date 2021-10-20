@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod in Deo non sit idem essentia et esse. Si enim hoc sit, tunc ad esse divinum nihil additur. Sed esse cui nulla fit additio, est esse commune quod de omnibus praedicatur, sequitur ergo quod Deus sit ens commune praedicabile de omnibus. Hoc autem est falsum, secundum illud Sap. XIV, *incommunicabile nomen lignis et lapidibus imposuerunt*. Ergo esse Dei non est eius essentia.
+Ad quartum sic proceditur. Videtur quod in Deo non sit idem essentia et esse. Si enim hoc sit, tunc ad esse divinum nihil additur. Sed esse cui nulla fit additio, est esse commune quod de omnibus praedicatur, sequitur ergo quod Deus sit ens commune praedicabile de omnibus. Hoc autem est falsum, secundum illud [[Sg 14]], *incommunicabile nomen lignis et lapidibus imposuerunt*. Ergo esse Dei non est eius essentia.
 
 ###### arg. 2
 Praeterea, de Deo scire possumus an sit, ut supra dictum est. Non autem possumus scire quid sit. Ergo non est idem esse Dei, et quod quid est eius, sive quidditas vel natura.

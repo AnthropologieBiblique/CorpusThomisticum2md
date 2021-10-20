@@ -1,7 +1,7 @@
 ### Articulus 10
 
 ###### arg. 1
-Ad decimum sic proceditur. Videtur quod in voto dispensari non possit. Minus enim est commutari votum quam in eo dispensari. Sed votum non potest commutari, dicitur enim Levit. XXVII, *animal quod immolari potest domino, si quis voverit, sanctum erit, et mutari non poterit, nec melius malo nec peius bono*. Ergo multo minus potest dispensari in voto.
+Ad decimum sic proceditur. Videtur quod in voto dispensari non possit. Minus enim est commutari votum quam in eo dispensari. Sed votum non potest commutari, dicitur enim [[Lv 27]], *animal quod immolari potest domino, si quis voverit, sanctum erit, et mutari non poterit, nec melius malo nec peius bono*. Ergo multo minus potest dispensari in voto.
 
 ###### arg. 2
 Praeterea, in his quae sunt de lege naturae et in praeceptis divinis non potest per hominem dispensari, et praecipue in praeceptis primae tabulae, quae ordinantur directe ad dilectionem Dei, quae est ultimus praeceptorum finis. Sed implere votum est de lege naturae; et est etiam praeceptum legis divinae, ut ex supra dictis patet; et pertinet ad praecepta primae tabulae, cum sit actus latriae. Ergo in voto dispensari non potest.

@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod non sit de ratione virtutis quod sit habitus bonus. Peccatum enim in malo semper sumitur. Sed etiam peccati est aliqua virtus; secundum illud I ad Cor. XV, *virtus peccati lex*. Ergo virtus non semper est habitus bonus.
 
 ###### arg. 2
-Praeterea, virtus potentiae respondet. Sed potentia non solum se habet ad bonum, sed etiam ad malum; secundum illud Isaiae V, *vae, qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem*. Ergo etiam virtus se habet et ad bonum et ad malum.
+Praeterea, virtus potentiae respondet. Sed potentia non solum se habet ad bonum, sed etiam ad malum; secundum illud [[Is 5]], *vae, qui potentes estis ad bibendum vinum, et viri fortes ad miscendam ebrietatem*. Ergo etiam virtus se habet et ad bonum et ad malum.
 
 ###### arg. 3
 Praeterea, secundum apostolum, II ad Cor. XII, virtus in infirmitate perficitur. Sed infirmitas est quoddam malum. Ergo virtus non solum se habet ad bonum, sed etiam ad malum.

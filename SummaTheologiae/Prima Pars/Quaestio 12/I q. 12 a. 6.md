@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod videntium essentiam Dei unus alio perfectius non videat. Dicitur enim I Ioan. III, *videbimus eum sicuti est*. Sed ipse uno modo est. Ergo uno modo videbitur ab omnibus. Non ergo perfectius et minus perfecte.
+Ad sextum sic proceditur. Videtur quod videntium essentiam Dei unus alio perfectius non videat. Dicitur enim [[1 Jn 3]], *videbimus eum sicuti est*. Sed ipse uno modo est. Ergo uno modo videbitur ab omnibus. Non ergo perfectius et minus perfecte.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in libro octoginta trium qq., quod unam rem non potest unus alio plus intelligere. Sed omnes videntes Deum per essentiam, intelligunt Dei essentiam, intellectu enim videtur Deus, non sensu, ut supra habitum est. Ergo videntium divinam essentiam unus alio non clarius videt.
@@ -10,7 +10,7 @@ Praeterea, Augustinus dicit, in libro octoginta trium qq., quod unam rem non pot
 Praeterea, quod aliquid altero perfectius videatur, ex duobus contingere potest, vel ex parte obiecti visibilis; vel ex parte potentiae visivae videntis. Ex parte autem obiecti, per hoc quod obiectum perfectius in vidente recipitur, scilicet secundum perfectiorem similitudinem. Quod in proposito locum non habet, Deus enim non per aliquam similitudinem, sed per eius essentiam praesens est intellectui essentiam eius videnti. Relinquitur ergo quod, si unus alio perfectius eum videat, quod hoc sit secundum differentiam potentiae intellectivae. Et ita sequitur quod cuius potentia intellectiva naturaliter est sublimior, clarius eum videat. Quod est inconveniens, cum hominibus promittatur in beatitudine aequalitas Angelorum.
 
 ###### s. c.
-Sed contra est quod vita aeterna in visione Dei consistit, secundum illud Ioan. XVII, *haec est vita aeterna,* et cetera. Ergo, si omnes aequaliter Dei essentiam vident, in vita aeterna omnes erunt aequales. Cuius contrarium dicit apostolus, I Cor. XV, *stella differt a stella in claritate*.
+Sed contra est quod vita aeterna in visione Dei consistit, secundum illud [[Jn 17]], *haec est vita aeterna,* et cetera. Ergo, si omnes aequaliter Dei essentiam vident, in vita aeterna omnes erunt aequales. Cuius contrarium dicit apostolus, [[1 Co 15]], *stella differt a stella in claritate*.
 
 ###### co.
 Respondeo dicendum quod videntium Deum per essentiam unus alio perfectius eum videbit. Quod quidem non erit per aliquam Dei similitudinem perfectiorem in uno quam in alio, cum illa visio non sit futura per aliquam similitudinem, ut ostensum est. Sed hoc erit per hoc, quod intellectus unius habebit maiorem virtutem seu facultatem ad videndum Deum, quam alterius. Facultas autem videndi Deum non competit intellectui creato secundum suam naturam, sed per lumen gloriae, quod intellectum in quadam deiformitate constituit, ut ex superioribus patet. Unde intellectus plus participans de lumine gloriae, perfectius Deum videbit. Plus autem participabit de lumine gloriae, qui plus habet de caritate, quia ubi est maior caritas, ibi est maius desiderium; et desiderium quodammodo facit desiderantem aptum et paratum ad susceptionem desiderati. Unde qui plus habebit de caritate, perfectius Deum videbit, et beatior erit.

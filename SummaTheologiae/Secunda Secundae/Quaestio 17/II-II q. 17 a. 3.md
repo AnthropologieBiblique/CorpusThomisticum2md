@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod aliquis possit sperare alteri beatitudinem aeternam. Dicit enim apostolus, Philipp. I, *confidens hoc ipsum, quia qui coepit in vobis opus bonum perficiet usque in diem Christi Iesu*. Perfectio aut illius diei erit beatitudo aeterna. Ergo aliquis potest alteri sperare beatitudinem aeternam.
+Ad tertium sic proceditur. Videtur quod aliquis possit sperare alteri beatitudinem aeternam. Dicit enim apostolus, [[Ph 1]], *confidens hoc ipsum, quia qui coepit in vobis opus bonum perficiet usque in diem Christi Iesu*. Perfectio aut illius diei erit beatitudo aeterna. Ergo aliquis potest alteri sperare beatitudinem aeternam.
 
 ###### arg. 2
 Praeterea, ea quae a Deo petimus speramus obtinere ab eo. Sed a Deo petimus quod alios ad beatitudinem aeternam perducat, secundum illud Iac. ult., *orate pro invicem ut salvemini*. Ergo possumus aliis sperare beatitudinem aeternam.

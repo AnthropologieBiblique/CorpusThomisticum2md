@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod in Daemonibus sit illuminatio. Illuminat
 Praeterea, corpus quod superabundat in lumine, potest illuminare corpus quod in lumine deficit; sicut sol lunam. Sed superiores Daemones magis abundant in participatione luminis naturalis. Ergo videtur quod superiores Daemones possunt inferiores illuminare.
 
 ###### s. c.
-Sed contra, illuminatio cum purgatione est et perfectione, ut supra dictum est. Sed purgare non convenit Daemonibus; secundum illud Eccli. XXXIV, *ab immundo quid mundabitur?* Ergo etiam neque illuminare.
+Sed contra, illuminatio cum purgatione est et perfectione, ut supra dictum est. Sed purgare non convenit Daemonibus; secundum illud [[Si 34]], *ab immundo quid mundabitur?* Ergo etiam neque illuminare.
 
 ###### co.
 Respondeo dicendum quod in Daemonibus non potest esse illuminatio proprie. Dictum est enim supra quod illuminatio proprie est manifestatio veritatis, secundum quod habet ordinem ad Deum, qui illuminat omnem intellectum. Alia autem manifestatio veritatis potest esse locutio; sicut cum unus Angelus alteri suum conceptum manifestat. Perversitas autem Daemonum hoc habet, quod unus alium non intendit ordinare ad Deum, sed magis ab ordine divino abducere. Et ideo unus Daemon alium non illuminat; sed unus alii suum conceptum per modum locutionis intimare potest.

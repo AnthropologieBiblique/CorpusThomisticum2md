@@ -7,7 +7,7 @@ Ad sextum sic proceditur. Videtur quod intellectus possit esse falsus. Dicit eni
 Praeterea, opinio et ratiocinatio ad intellectum pertinent. Sed in utraque istarum invenitur falsitas. Ergo potest esse falsitas in intellectu.
 
 ###### arg. 3
-Praeterea, peccatum in parte intellectiva est. Sed peccatum cum falsitate est, errant enim qui operantur malum, ut dicitur Prov. XIV. Ergo falsitas potest esse in intellectu.
+Praeterea, peccatum in parte intellectiva est. Sed peccatum cum falsitate est, errant enim qui operantur malum, ut dicitur [[Pr 14]]. Ergo falsitas potest esse in intellectu.
 
 ###### s. c.
 Sed contra est quod dicit Augustinus, in libro octoginta trium quaest., quod *omnis qui fallitur, id in quo fallitur non intelligit*. Et philosophus dicit, in libro de anima, quod *intellectus semper est rectus*.

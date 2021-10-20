@@ -1,10 +1,10 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod amor sui non sit principium omnis peccati. Id enim quod est secundum se bonum et debitum, non est propria causa peccati. Sed amor sui est secundum se bonum et debitum, unde et praecipitur homini ut diligat proximum sicut seipsum, Levit. XIX. Ergo amor sui non potest esse propria causa peccati.
+Ad quartum sic proceditur. Videtur quod amor sui non sit principium omnis peccati. Id enim quod est secundum se bonum et debitum, non est propria causa peccati. Sed amor sui est secundum se bonum et debitum, unde et praecipitur homini ut diligat proximum sicut seipsum, [[Lv 19]]. Ergo amor sui non potest esse propria causa peccati.
 
 ###### arg. 2
-Praeterea, apostolus dicit, Rom. VII, *occasione accepta, peccatum per mandatum operatum est in me omnem concupiscentiam*, ubi Glossa dicit quod *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*, quod dicitur propter hoc, quia concupiscentia est causa omnis peccati. Sed concupiscentia est alia passio ab amore, ut supra habitum est. Ergo amor sui non est causa omnis peccati.
+Praeterea, apostolus dicit, [[Rm 7]], *occasione accepta, peccatum per mandatum operatum est in me omnem concupiscentiam*, ubi Glossa dicit quod *bona est lex, quae, dum concupiscentiam prohibet, omne malum prohibet*, quod dicitur propter hoc, quia concupiscentia est causa omnis peccati. Sed concupiscentia est alia passio ab amore, ut supra habitum est. Ergo amor sui non est causa omnis peccati.
 
 ###### arg. 3
 Praeterea, Augustinus, super illud Psalmi, incensa igni et suffossa, dicit quod omne peccatum est *ex amore male inflammante, vel ex timore male humiliante*. Non ergo solus amor sui est causa peccati.

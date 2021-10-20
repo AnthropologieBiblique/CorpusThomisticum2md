@@ -7,7 +7,7 @@ Ad septimum sic proceditur. Videtur quod species sacramentales non frangantur in
 Praeterea, fractionem sequitur sonus. Sed species sacramentales non sunt sonabiles, dicit enim philosophus, II de anima, quod sonabile est corpus durum habens superficiem levem. Ergo species sacramentales non franguntur.
 
 ###### arg. 3
-Praeterea, eiusdem videtur esse frangi et masticari. Sed verum corpus Christi est quod manducatur, secundum illud Ioan. VI, *qui manducat meam carnem et bibit meum sanguinem*. Ergo corpus Christi est quod frangitur et masticatur. Unde et in confessione Berengarii dicitur, *consentio sanctae Romanae Ecclesiae, et corde et ore profiteor panem et vinum quae in altari ponuntur, post consecrationem verum corpus et sanguinem Christi esse, et in veritate manibus sacerdotum tractari, frangi et fidelium dentibus atteri*. Non ergo fractio debet attribui sacramentalibus speciebus.
+Praeterea, eiusdem videtur esse frangi et masticari. Sed verum corpus Christi est quod manducatur, secundum illud [[Jn 6]], *qui manducat meam carnem et bibit meum sanguinem*. Ergo corpus Christi est quod frangitur et masticatur. Unde et in confessione Berengarii dicitur, *consentio sanctae Romanae Ecclesiae, et corde et ore profiteor panem et vinum quae in altari ponuntur, post consecrationem verum corpus et sanguinem Christi esse, et in veritate manibus sacerdotum tractari, frangi et fidelium dentibus atteri*. Non ergo fractio debet attribui sacramentalibus speciebus.
 
 ###### s. c.
 Sed contra est quod fractio fit per divisionem quanti. Sed nullum quantum ibi dividitur nisi species sacramentales, quia neque corpus Christi, quod est incorruptibile; neque substantia panis, quae non manet. Ergo species sacramentales franguntur.

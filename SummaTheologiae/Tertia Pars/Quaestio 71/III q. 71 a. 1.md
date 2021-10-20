@@ -13,7 +13,7 @@ Praeterea, in catechismo confitetur catechizatus suam fidem. Confiteri autem fid
 Sed contra est quod Rabanus, de institutione clericorum, dicit, *ante Baptismum, catechizandi debet hominem praevenire officium, ut fidei primum catechumenus accipiat rudimentum*.
 
 ###### co.
-Respondeo dicendum quod, sicut supra dictum est, Baptismus est fidei sacramentum, cum sit quaedam professio fidei Christianae. Ad hoc autem quod aliquis fidem accipiat, requiritur quod de fide instruatur, secundum illud Rom. X, *quomodo credent quem non audierunt? Quomodo autem audient sine praedicante?* Et ideo ante Baptismum convenienter praecedit catechismus. Unde et dominus, praeceptum baptizandi discipulis tradens, praemittit doctrinam Baptismo, dicens, *euntes, docete omnes gentes, baptizantes eos,* et cetera.
+Respondeo dicendum quod, sicut supra dictum est, Baptismus est fidei sacramentum, cum sit quaedam professio fidei Christianae. Ad hoc autem quod aliquis fidem accipiat, requiritur quod de fide instruatur, secundum illud [[Rm 10]], *quomodo credent quem non audierunt? Quomodo autem audient sine praedicante?* Et ideo ante Baptismum convenienter praecedit catechismus. Unde et dominus, praeceptum baptizandi discipulis tradens, praemittit doctrinam Baptismo, dicens, *euntes, docete omnes gentes, baptizantes eos,* et cetera.
 
 ###### ad 1
 Ad primum ergo dicendum quod vita gratiae, in qua regeneratur aliquis, praesupponit vitam naturae rationalis, in qua potest homo particeps esse doctrinae.

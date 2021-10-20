@@ -13,7 +13,7 @@ Praeterea, quanto aliquod agens est virtuosius, tanto ad magis distans eius acti
 Praeterea, Daemones res aliquae sunt. Nec tamen Deus est in Daemonibus, non enim est conventio lucis ad tenebras, ut dicitur II ad Cor. VI. Ergo Deus non est in omnibus rebus.
 
 ###### s. c.
-Sed contra, ubicumque operatur aliquid, ibi est. Sed Deus operatur in omnibus, secundum illud Isaiae XXVI, *omnia opera nostra operatus es in nobis, domine*. Ergo Deus est in omnibus rebus.
+Sed contra, ubicumque operatur aliquid, ibi est. Sed Deus operatur in omnibus, secundum illud [[Is 26]], *omnia opera nostra operatus es in nobis, domine*. Ergo Deus est in omnibus rebus.
 
 ###### co.
 Respondeo dicendum quod Deus est in omnibus rebus, non quidem sicut pars essentiae, vel sicut accidens, sed sicut agens adest ei in quod agit. Oportet enim omne agens coniungi ei in quod immediate agit, et sua virtute illud contingere, unde in VII Physic. probatur quod motum et movens oportet esse simul. Cum autem Deus sit ipsum esse per suam essentiam, oportet quod esse creatum sit proprius effectus eius; sicut ignire est proprius effectus ignis. Hunc autem effectum causat Deus in rebus, non solum quando primo esse incipiunt, sed quandiu in esse conservantur; sicut lumen causatur in aere a sole quandiu aer illuminatus manet. Quandiu igitur res habet esse, tandiu oportet quod Deus adsit ei, secundum modum quo esse habet. Esse autem est illud quod est magis intimum cuilibet, et quod profundius omnibus inest, cum sit formale respectu omnium quae in re sunt, ut ex supra dictis patet. Unde oportet quod Deus sit in omnibus rebus, et intime.

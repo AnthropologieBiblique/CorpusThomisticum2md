@@ -7,7 +7,7 @@ Ad quintum sic proceditur. Videtur quod sapientia non sit maxima inter virtutes 
 Praeterea, de ratione virtutis est quod ordinet hominem ad felicitatem, est enim virtus dispositio perfecti ad optimum, ut dicitur in VII Physic. Sed prudentia est recta ratio agibilium, per quae homo ad felicitatem perducitur, sapientia autem non considerat humanos actus, quibus ad beatitudinem pervenitur. Ergo prudentia est maior virtus quam sapientia.
 
 ###### arg. 3
-Praeterea, quanto cognitio est perfectior, tanto videtur esse maior. Sed perfectiorem cognitionem habere possumus de rebus humanis, de quibus est scientia, quam de rebus divinis, de quibus est sapientia, ut distinguit Augustinus in XII de Trin., quia divina incomprehensibilia sunt, secundum illud Iob XXXVI, *ecce Deus magnus, vincens scientiam nostram*. Ergo scientia est maior virtus quam sapientia.
+Praeterea, quanto cognitio est perfectior, tanto videtur esse maior. Sed perfectiorem cognitionem habere possumus de rebus humanis, de quibus est scientia, quam de rebus divinis, de quibus est sapientia, ut distinguit Augustinus in XII de Trin., quia divina incomprehensibilia sunt, secundum illud [[Jb 36]], *ecce Deus magnus, vincens scientiam nostram*. Ergo scientia est maior virtus quam sapientia.
 
 ###### arg. 4
 Praeterea, cognitio principiorum est dignior quam cognitio conclusionum. Sed sapientia concludit ex principiis indemonstrabilibus, quorum est intellectus; sicut et aliae scientiae. Ergo intellectus est maior virtus quam sapientia.

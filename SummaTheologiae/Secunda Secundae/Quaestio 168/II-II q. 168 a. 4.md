@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod in defectu ludi non consistat aliquod peccatum. Nullum enim peccatum indicitur poenitenti. Sed Augustinus dicit, de poenitente loquens, *cohibeat se a ludis, a spectaculis saeculi, qui perfectam vult consequi remissionis gratiam*. Ergo in defectu ludi non est aliquod peccatum.
 
 ###### arg. 2
-Praeterea, nullum peccatum ponitur in commendatione sanctorum. Sed in commendatione quorundam ponitur quod a ludo abstinuerunt, dicitur enim Ierem. XV, non sedi in Concilio ludentium; et Tobiae III dicitur, *nunquam cum ludentibus miscui me, neque cum his qui in levitate ambulant, participem me praebui*. Ergo in defectu ludi non potest esse peccatum.
+Praeterea, nullum peccatum ponitur in commendatione sanctorum. Sed in commendatione quorundam ponitur quod a ludo abstinuerunt, dicitur enim [[Jr 15]], non sedi in Concilio ludentium; et Tobiae III dicitur, *nunquam cum ludentibus miscui me, neque cum his qui in levitate ambulant, participem me praebui*. Ergo in defectu ludi non potest esse peccatum.
 
 ###### arg. 3
 Praeterea, Andronicus ponit austeritatem, quam inter virtutes numerat, esse *habitum secundum quem aliqui neque afferunt aliis delectationes collocutionum, neque ab aliis recipiunt*. Sed hoc pertinet ad defectum ludi. Ergo defectus ludi magis pertinet ad virtutem quam ad vitium.

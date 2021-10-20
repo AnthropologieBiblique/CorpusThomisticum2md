@@ -1,10 +1,10 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod contumelia non oriatur ex ira. Quia dicitur Prov. XI, *ubi superbia, ibi contumelia*. Sed ira est vitium distinctum a superbia. Ergo contumelia non oritur ex ira.
+Ad quartum sic proceditur. Videtur quod contumelia non oriatur ex ira. Quia dicitur [[Pr 11]], *ubi superbia, ibi contumelia*. Sed ira est vitium distinctum a superbia. Ergo contumelia non oritur ex ira.
 
 ###### arg. 2
-Praeterea, Prov. XX dicitur, *omnes stulti miscentur contumeliis*. Sed stultitia est vitium oppositum sapientiae, ut supra habitum est, ira autem opponitur mansuetudini. Ergo contumelia non oritur ex ira.
+Praeterea, [[Pr 20]] dicitur, *omnes stulti miscentur contumeliis*. Sed stultitia est vitium oppositum sapientiae, ut supra habitum est, ira autem opponitur mansuetudini. Ergo contumelia non oritur ex ira.
 
 ###### arg. 3
 Praeterea, nullum peccatum diminuitur ex sua causa. Sed peccatum contumeliae diminuitur si ex ira proferatur, gravius enim peccat qui ex odio contumeliam infert quam qui ex ira. Ergo contumelia non oritur ex ira.

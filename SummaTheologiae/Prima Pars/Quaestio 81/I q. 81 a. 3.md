@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod irascibilis et concupiscibilis non obediant rationi. Irascibilis enim et concupiscibilis sunt partes sensualitatis. Sed sensualitas non obedit rationi, unde per serpentem significatur, ut dicit Augustinus, XII de Trin. Ergo irascibilis et concupiscibilis non obediunt rationi.
 
 ###### arg. 2
-Praeterea, quod obedit alicui, non repugnat ei. Sed irascibilis et concupiscibilis repugnant rationi; secundum illud apostoli, ad Rom. VII, *video aliam legem in membris meis, repugnantem legi mentis meae*. Ergo irascibilis et concupiscibilis non obediunt rationi.
+Praeterea, quod obedit alicui, non repugnat ei. Sed irascibilis et concupiscibilis repugnant rationi; secundum illud apostoli, ad [[Rm 7]], *video aliam legem in membris meis, repugnantem legi mentis meae*. Ergo irascibilis et concupiscibilis non obediunt rationi.
 
 ###### arg. 3
 Praeterea, sicut rationali parte animae inferior est vis appetitiva, ita etiam et vis sensitiva. Sed sensitiva pars animae non obedit rationi, non enim audimus nec videmus quando volumus. Ergo similiter neque vires sensitivi appetitus, scilicet irascibilis et concupiscibilis, obediunt rationi.

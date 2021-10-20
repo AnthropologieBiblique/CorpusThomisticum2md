@@ -13,7 +13,7 @@ Praeterea, duplex est amor, scilicet concupiscentiae, et amicitiae. Sed Deus cre
 Praeterea, in Psalmo dicitur, *odisti omnes qui operantur iniquitatem*. Nihil autem simul odio habetur et amatur. Ergo Deus non omnia amat.
 
 ###### s. c.
-Sed contra est quod dicitur Sap. XI, *diligis omnia quae sunt, et nihil odisti eorum quae fecisti*.
+Sed contra est quod dicitur [[Sg 11]], *diligis omnia quae sunt, et nihil odisti eorum quae fecisti*.
 
 ###### co.
 Respondeo dicendum quod Deus omnia existentia amat. Nam omnia existentia, inquantum sunt, bona sunt, ipsum enim esse cuiuslibet rei quoddam bonum est, et similiter quaelibet perfectio ipsius. Ostensum est autem supra quod voluntas Dei est causa omnium rerum et sic oportet quod intantum habeat aliquid esse, aut quodcumque bonum, inquantum est volitum a Deo. Cuilibet igitur existenti Deus vult aliquod bonum. Unde, cum amare nil aliud sit quam velle bonum alicui, manifestum est quod Deus omnia quae sunt, amat. Non tamen eo modo sicut nos. Quia enim voluntas nostra non est causa bonitatis rerum, sed ab ea movetur sicut ab obiecto, amor noster, quo bonum alicui volumus, non est causa bonitatis ipsius, sed e converso bonitas eius, vel vera vel aestimata, provocat amorem, quo ei volumus et bonum conservari quod habet, et addi quod non habet, et ad hoc operamur. Sed amor Dei est infundens et creans bonitatem in rebus.

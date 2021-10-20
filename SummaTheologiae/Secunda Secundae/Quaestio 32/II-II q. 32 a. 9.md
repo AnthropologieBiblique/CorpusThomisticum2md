@@ -1,16 +1,16 @@
 ### Articulus 9
 
 ###### arg. 1
-Ad nonum sic proceditur. Videtur quod non sit magis propinquioribus eleemosyna facienda. Dicitur enim Eccli. XII, *da misericordi, et ne suscipias peccatorem, benefac humili, et non des impio*. Sed quandoque contingit quod propinqui nostri sunt peccatores et impii. Ergo non sunt eis magis eleemosynae faciendae.
+Ad nonum sic proceditur. Videtur quod non sit magis propinquioribus eleemosyna facienda. Dicitur enim [[Si 12]], *da misericordi, et ne suscipias peccatorem, benefac humili, et non des impio*. Sed quandoque contingit quod propinqui nostri sunt peccatores et impii. Ergo non sunt eis magis eleemosynae faciendae.
 
 ###### arg. 2
-Praeterea, eleemosynae sunt faciendae propter retributionem mercedis aeternae, secundum illud Matth. VI, *et pater tuus, qui videt in abscondito, reddet tibi*. Sed retributio aeterna maxime acquiritur ex eleemosynis quae sanctis erogantur, secundum illud Luc. XVI, *facite vobis amicos de mammona iniquitatis, ut, cum defeceritis, recipiant vos in aeterna tabernacula*; quod exponens Augustinus, in libro de Verb. Dom., dicit, *qui sunt qui habebunt aeterna habitacula nisi sancti Dei? Et qui sunt qui ab eis accipiendi sunt in tabernacula nisi qui eorum indigentiae serviunt?* Ergo magis sunt eleemosynae dandae sanctioribus quam propinquioribus.
+Praeterea, eleemosynae sunt faciendae propter retributionem mercedis aeternae, secundum illud [[Mt 6]], *et pater tuus, qui videt in abscondito, reddet tibi*. Sed retributio aeterna maxime acquiritur ex eleemosynis quae sanctis erogantur, secundum illud [[Lc 16]], *facite vobis amicos de mammona iniquitatis, ut, cum defeceritis, recipiant vos in aeterna tabernacula*; quod exponens Augustinus, in libro de Verb. Dom., dicit, *qui sunt qui habebunt aeterna habitacula nisi sancti Dei? Et qui sunt qui ab eis accipiendi sunt in tabernacula nisi qui eorum indigentiae serviunt?* Ergo magis sunt eleemosynae dandae sanctioribus quam propinquioribus.
 
 ###### arg. 3
 Praeterea, maxime homo est sibi propinquus. Sed sibi non potest homo eleemosynam facere. Ergo videtur quod non sit magis facienda eleemosyna personae magis coniunctae.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, I ad Tim. V, *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*.
+Sed contra est quod apostolus dicit, [[1 Tm 5]], *si quis suorum, et maxime domesticorum curam non habet, fidem negavit et est infideli deterior*.
 
 ###### co.
 Respondeo dicendum quod, sicut Augustinus dicit, in I de Doct. Christ., illi qui sunt nobis magis coniuncti quasi quadam sorte nobis obveniunt, ut eis magis providere debemus. Est tamen circa hoc discretionis ratio adhibenda, secundum differentiam coniunctionis et sanctitatis et utilitatis. Nam multo sanctiori magis indigentiam patienti, et magis utili ad commune bonum, est magis eleemosyna danda quam personae propinquiori; maxime si non sit multum coniuncta, cuius cura specialis nobis immineat, et si magnam necessitatem non patiatur.

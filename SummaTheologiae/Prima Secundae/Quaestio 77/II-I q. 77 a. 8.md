@@ -10,7 +10,7 @@ Praeterea, causa non est potior effectu. Sed passio non potest esse peccatum mor
 Praeterea, passio abducit a ratione, ut ex dictis patet. Sed rationis est converti ad Deum vel averti ab eo, in quo consistit ratio peccati mortalis. Peccatum ergo quod est ex passione, non potest esse mortale.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, Rom. VII, quod *passiones peccatorum operantur in membris nostris ad fructificandum morti*. Hoc autem est proprium mortalis peccati, quod fructificet morti. Ergo peccatum quod est ex passione, potest esse mortale.
+Sed contra est quod apostolus dicit, [[Rm 7]], quod *passiones peccatorum operantur in membris nostris ad fructificandum morti*. Hoc autem est proprium mortalis peccati, quod fructificet morti. Ergo peccatum quod est ex passione, potest esse mortale.
 
 ###### co.
 Respondeo dicendum quod peccatum mortale, ut supra dictum est, consistit in aversione ab ultimo fine, qui est Deus, quae quidem aversio pertinet ad rationem deliberantem, cuius etiam est ordinare in finem. Hoc igitur solo modo potest contingere quod inclinatio animae in aliquid quod contrariatur ultimo fini, non sit peccatum mortale quia ratio deliberans non potest occurrere, quod contingit in subitis motibus. Cum autem ex passione aliquis procedit ad actum peccati, vel ad consensum deliberatum, hoc non fit subito. Unde ratio deliberans potest hic occurrere, potest enim excludere, vel saltem impedire passionem, ut dictum est. Unde si non occurrat, est peccatum mortale, sicut videmus quod multa homicidia et adulteria per passionem committuntur.

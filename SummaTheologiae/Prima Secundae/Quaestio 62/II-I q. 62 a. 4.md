@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod non sit hic ordo theologicarum virtutum, quod fides sit prior spe, et spes prior caritate. Radix enim est prior eo quod est ex radice. Sed caritas est radix omnium virtutum; secundum illud ad Ephes. III, *in caritate radicati et fundati*. Ergo caritas est prior aliis.
+Ad quartum sic proceditur. Videtur quod non sit hic ordo theologicarum virtutum, quod fides sit prior spe, et spes prior caritate. Radix enim est prior eo quod est ex radice. Sed caritas est radix omnium virtutum; secundum illud ad [[Ep 3]], *in caritate radicati et fundati*. Ergo caritas est prior aliis.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in I de Doct. Christ., *non potest aliquis diligere quod esse non crediderit. Porro si credit et diligit, bene agendo efficit ut etiam speret*. Ergo videtur quod fides praecedat caritatem, et caritas spem.

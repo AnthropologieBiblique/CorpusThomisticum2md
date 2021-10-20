@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod passiones eaedem sint in irascibili et in concupiscibili. Dicit enim philosophus, in II Ethic., quod passiones animae sunt quas sequitur gaudium et tristitia. Sed gaudium et tristitia sunt in concupiscibili. Ergo omnes passiones sunt in concupiscibili. Non ergo sunt aliae in irascibili, et aliae in concupiscibili.
 
 ###### arg. 2
-Praeterea, Matth. XIII, super illud, *simile est regnum caelorum fermento* etc., dicit Glossa Hieronymi, *in ratione possideamus prudentiam, in irascibili odium vitiorum, in concupiscibili desiderium virtutum*. Sed odium est in concupiscibili, sicut et amor, cui contrariatur, ut dicitur in II Topic. Ergo eadem passio est in concupiscibili et irascibili.
+Praeterea, [[Mt 13]], super illud, *simile est regnum caelorum fermento* etc., dicit Glossa Hieronymi, *in ratione possideamus prudentiam, in irascibili odium vitiorum, in concupiscibili desiderium virtutum*. Sed odium est in concupiscibili, sicut et amor, cui contrariatur, ut dicitur in II Topic. Ergo eadem passio est in concupiscibili et irascibili.
 
 ###### arg. 3
 Praeterea, passiones et actus differunt specie secundum obiecta. Sed passionum irascibilis et concupiscibilis eadem obiecta sunt, scilicet bonum et malum. Ergo eaedem sunt passiones irascibilis et concupiscibilis.

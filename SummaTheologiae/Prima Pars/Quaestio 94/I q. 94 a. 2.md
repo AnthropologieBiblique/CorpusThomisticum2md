@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod Adam in statu innocentiae Angelos per essentiam viderit. Dicit enim Gregorius, in IV Dialog., *in Paradiso quippe assueverat homo verbis Dei perfrui, beatorum Angelorum spiritibus cordis munditia et celsitudine visionis interesse*.
 
 ###### arg. 2
-Praeterea, anima in statu praesenti impeditur a cognitione substantiarum separatarum, ex hoc quod est unita corpori corruptibili, quod aggravat animam, ut dicitur Sap. IX. Unde et anima separata substantias separatas videre potest, ut supra dictum est. Sed anima primi hominis non aggravabatur a corpore, cum non esset corruptibile. Ergo poterat videre substantias separatas.
+Praeterea, anima in statu praesenti impeditur a cognitione substantiarum separatarum, ex hoc quod est unita corpori corruptibili, quod aggravat animam, ut dicitur [[Sg 9]]. Unde et anima separata substantias separatas videre potest, ut supra dictum est. Sed anima primi hominis non aggravabatur a corpore, cum non esset corruptibile. Ergo poterat videre substantias separatas.
 
 ###### arg. 3
 Praeterea, una substantia separata cognoscit aliam cognoscendo seipsam, ut dicitur in libro de causis. Sed anima primi hominis cognoscebat seipsam. Ergo cognoscebat substantias separatas.

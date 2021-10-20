@@ -4,7 +4,7 @@
 Ad septimum sic proceditur. Videtur quod Angeli possent sacramenta ministrare. Quidquid enim potest minister inferior, potest et superior, sicut quidquid potest diaconus, potest et sacerdos, sed non convertitur. Sed Angeli sunt superiores ministri in ordine hierarchico quam etiam quicumque homines, ut patet per Dionysium, in libro Cael. Hier. Ergo, cum homines possint ministrare in sacramentis, videtur quod multo magis Angeli.
 
 ###### arg. 2
-Praeterea, homines sancti assimilantur Angelis in caelo, ut dicitur Matth. XXII. Sed aliqui sancti in caelo existentes possunt ministrare in sacramentis, quia character sacramentalis est indelebilis, ut dictum est. Ergo videtur quod etiam Angeli in sacris possint ministrare.
+Praeterea, homines sancti assimilantur Angelis in caelo, ut dicitur [[Mt 22]]. Sed aliqui sancti in caelo existentes possunt ministrare in sacramentis, quia character sacramentalis est indelebilis, ut dictum est. Ergo videtur quod etiam Angeli in sacris possint ministrare.
 
 ###### arg. 3
 Praeterea, sicut supra dictum est, Diabolus est caput malorum, et mali sunt membra eius. Sed per malos possunt dispensari sacramenta. Ergo videtur quod etiam per Daemones.

@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod bonum secundum rationem sit prius quam 
 Praeterea, illud est prius secundum rationem, quod ad plura se extendit. Sed bonum ad plura se extendit quam ens, quia, ut dicit Dionysius, V cap. de Div. Nom., *bonum se extendit ad existentia et non existentia, ens vero ad existentia tantum*. Ergo bonum est prius secundum rationem quam ens.
 
 ###### arg. 3
-Praeterea, quod est universalius, est prius secundum rationem. Sed bonum videtur universalius esse quam ens, quia bonum habet rationem appetibilis; quibusdam autem appetibile est ipsum non esse; dicitur enim, Matth. XXVI, de Iuda, *bonum erat ei, si natus non fuisset* et cetera. Ergo bonum est prius quam ens, secundum rationem.
+Praeterea, quod est universalius, est prius secundum rationem. Sed bonum videtur universalius esse quam ens, quia bonum habet rationem appetibilis; quibusdam autem appetibile est ipsum non esse; dicitur enim, [[Mt 26]], de Iuda, *bonum erat ei, si natus non fuisset* et cetera. Ergo bonum est prius quam ens, secundum rationem.
 
 ###### arg. 4
 Praeterea, non solum esse est appetibile, sed et vita et sapientia, et multa huiusmodi, et sic videtur quod esse sit quoddam particulare appetibile, et bonum, universale. Bonum ergo simpliciter est prius secundum rationem quam ens.

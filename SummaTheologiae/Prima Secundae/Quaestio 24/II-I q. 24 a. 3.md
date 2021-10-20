@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod passio quaecumque semper diminuat de bonitate actus moralis. Omne enim quod impedit iudicium rationis, ex quo dependet bonitas actus moralis, diminuit per consequens bonitatem actus moralis. Sed omnis passio impedit iudicium rationis, dicit enim Sallustius, in Catilinario, *omnes homines qui de rebus dubiis consultant, ab odio, ira, amicitia atque misericordia vacuos esse decet*. Ergo omnis passio diminuit bonitatem moralis actus.
 
 ###### arg. 2
-Praeterea, actus hominis, quanto est Deo similior, tanto est melior, unde dicit apostolus, Ephes. V, *estote imitatores Dei, sicut filii carissimi. Sed Deus et sancti Angeli sine ira puniunt, sine miseriae compassione subveniunt* ut Augustinus dicit, in IX de Civ. Dei. Ergo est melius huiusmodi opera bona agere sine passione animae, quam cum passione.
+Praeterea, actus hominis, quanto est Deo similior, tanto est melior, unde dicit apostolus, [[Ep 5]], *estote imitatores Dei, sicut filii carissimi. Sed Deus et sancti Angeli sine ira puniunt, sine miseriae compassione subveniunt* ut Augustinus dicit, in IX de Civ. Dei. Ergo est melius huiusmodi opera bona agere sine passione animae, quam cum passione.
 
 ###### arg. 3
 Praeterea, sicut malum morale attenditur per ordinem ad rationem, ita et bonum morale. Sed malum morale diminuitur per passionem, minus enim peccat qui peccat ex passione, quam qui peccat ex industria. Ergo maius bonum operatur qui operatur bonum sine passione, quam qui operatur cum passione.

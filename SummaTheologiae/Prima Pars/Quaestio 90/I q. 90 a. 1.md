@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod anima non sit facta, sed sit de substantia Dei. Dicitur enim Gen. II, *formavit Deus hominem de limo terrae, et inspiravit in faciem eius spiraculum vitae, et factus est homo in animam viventem*. Sed ille qui spirat, aliquid a se emittit. Ergo anima qua homo vivit, est aliquid de substantia Dei.
+Ad primum sic proceditur. Videtur quod anima non sit facta, sed sit de substantia Dei. Dicitur enim [[Gn 2]], *formavit Deus hominem de limo terrae, et inspiravit in faciem eius spiraculum vitae, et factus est homo in animam viventem*. Sed ille qui spirat, aliquid a se emittit. Ergo anima qua homo vivit, est aliquid de substantia Dei.
 
 ###### arg. 2
 Praeterea, sicut supra habitum est, anima est forma simplex. Sed forma est actus. Ergo anima est actus purus, quod est solius Dei. Ergo anima est de substantia Dei.

@@ -10,10 +10,10 @@ Praeterea, nullus tenetur ad impossibile. Sed quandoque aliquis non potest stati
 Praeterea, restitutio est quidam actus virtutis, scilicet iustitiae. Tempus autem est una de circumstantiis quae requiruntur ad actus virtutum. Cum igitur aliae circumstantiae non sint determinatae in actibus virtutum, sed determinabiles secundum rationem prudentiae; videtur quod nec in restitutione sit tempus determinatum, ut scilicet aliquis teneatur ad statim restituendum.
 
 ###### s. c.
-Sed contra est quod eadem ratio esse videtur in omnibus quae sunt restituenda. Sed ille qui conducit opera mercenarii non potest differre restitutionem, ut patet per illud quod habetur Levit. XIX *non morabitur opus mercenarii tui apud te usque mane*. Ergo neque in aliis restitutionibus faciendis potest fieri dilatio, sed statim restituere oportet.
+Sed contra est quod eadem ratio esse videtur in omnibus quae sunt restituenda. Sed ille qui conducit opera mercenarii non potest differre restitutionem, ut patet per illud quod habetur [[Lv 19]] *non morabitur opus mercenarii tui apud te usque mane*. Ergo neque in aliis restitutionibus faciendis potest fieri dilatio, sed statim restituere oportet.
 
 ###### co.
-Respondeo dicendum quod sicut accipere rem alienam est peccatum contra iustitiam, ita etiam detinere eam, quia per hoc quod aliquis detinet rem alienam invito domino, impedit eum ab usu rei suae, et sic ei facit iniuriam. Manifestum est autem quod nec per modicum tempus licet in peccato morari, sed quilibet tenetur statim peccatum deserere, secundum illud Eccli. XXI, *quasi a facie colubri fuge peccatum*. Et ideo quilibet tenetur statim restituere, vel petere dilationem ab eo qui potest usum rei concedere.
+Respondeo dicendum quod sicut accipere rem alienam est peccatum contra iustitiam, ita etiam detinere eam, quia per hoc quod aliquis detinet rem alienam invito domino, impedit eum ab usu rei suae, et sic ei facit iniuriam. Manifestum est autem quod nec per modicum tempus licet in peccato morari, sed quilibet tenetur statim peccatum deserere, secundum illud [[Si 21]], *quasi a facie colubri fuge peccatum*. Et ideo quilibet tenetur statim restituere, vel petere dilationem ab eo qui potest usum rei concedere.
 
 ###### ad 1
 Ad primum ergo dicendum quod praeceptum de restitutione facienda, quamvis secundum formam sit affirmativum, implicat tamen in se negativum praeceptum, quo prohibemur rem alterius detinere.

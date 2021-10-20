@@ -13,7 +13,7 @@ Praeterea, iudicium rationis evidentius fit ex adiunctione contrarii, quia contr
 Sed contra est quod Gregorius dicit, in V Moral., quod *ira intelligentiae lucem subtrahit, cum mentem permovendo confundit*.
 
 ###### co.
-Respondeo dicendum quod mens vel ratio quamvis non utatur organo corporali in suo proprio actu; tamen, quia indiget ad sui actum quibusdam viribus sensitivis, quorum actus impediuntur corpore perturbato; necesse est quod perturbationes corporales etiam iudicium rationis impediant, sicut patet in ebrietate et somno. Dictum est autem quod ira maxime facit perturbationem corporalem circa cor, ita ut etiam usque ad exteriora membra derivetur. Unde ira, inter ceteras passiones, manifestius impedit iudicium rationis; secundum illud Psalmi XXX, *conturbatus est in ira oculus meus*.
+Respondeo dicendum quod mens vel ratio quamvis non utatur organo corporali in suo proprio actu; tamen, quia indiget ad sui actum quibusdam viribus sensitivis, quorum actus impediuntur corpore perturbato; necesse est quod perturbationes corporales etiam iudicium rationis impediant, sicut patet in ebrietate et somno. Dictum est autem quod ira maxime facit perturbationem corporalem circa cor, ita ut etiam usque ad exteriora membra derivetur. Unde ira, inter ceteras passiones, manifestius impedit iudicium rationis; secundum illud [[Ps 30]], *conturbatus est in ira oculus meus*.
 
 ###### ad 1
 Ad primum ergo dicendum quod a ratione est principium irae, quantum ad motum appetitivum, qui est formalis in ira. Sed perfectum iudicium rationis passio irae praeoccupat quasi non perfecte rationem audiens, propter commotionem caloris velociter impellentis, quae est materialis in ira. Et quantum ad hoc, impedit iudicium rationis.

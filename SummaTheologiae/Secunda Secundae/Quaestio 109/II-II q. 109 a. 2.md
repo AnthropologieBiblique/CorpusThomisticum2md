@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod veritas non sit specialis virtus. Verum
 Praeterea, manifestatio eius quod ad ipsum hominem pertinet, est actus veritatis de qua nunc loquimur. Sed hoc pertinet ad quamlibet virtutem, quilibet enim virtutis habitus manifestatur per proprium actum. Ergo veritas non est specialis virtus.
 
 ###### arg. 3
-Praeterea, veritas vitae dicitur qua aliquis recte vivit, de qua dicitur Isaiae XXXVIII, memento, quaeso, *quomodo ambulaverim coram te in veritate et in corde perfecto*. Sed qualibet virtute recte vivitur, ut patet per definitionem virtutis supra positam. Ergo veritas non est specialis virtus.
+Praeterea, veritas vitae dicitur qua aliquis recte vivit, de qua dicitur [[Is 38]], memento, quaeso, *quomodo ambulaverim coram te in veritate et in corde perfecto*. Sed qualibet virtute recte vivitur, ut patet per definitionem virtutis supra positam. Ergo veritas non est specialis virtus.
 
 ###### arg. 4
 Praeterea, veritas videtur idem esse simplicitati, quia utrique opponitur simulatio. Sed simplicitas non est specialis virtus, quia facit intentionem rectam, quod requiritur in omni virtute. Ergo etiam veritas non est specialis virtus.

@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod annexio secundariae virtutis ad principalem non sol
 Ad secundum dicendum quod illa perseverantia de qua philosophus loquitur, non moderatur aliquas passiones, sed consistit solum in quadam firmitate rationis et voluntatis. Sed perseverantia secundum quod ponitur virtus, moderatur aliquas passiones, scilicet timorem fatigationis aut defectus propter diuturnitatem. Unde haec virtus est in irascibili, sicut et fortitudo.
 
 ###### ad 3
-Ad tertium dicendum quod Augustinus ibi loquitur de perseverantia non secundum quod nominat habitum virtutis, sed secundum quod nominat actum virtutis continuatum usque in finem, secundum illud Matth. XXIV *qui perseveraverit usque in finem, hic salvus erit*. Et ideo contra rationem perseverantiae sic acceptae esset quod amitteretur, quia iam non duraret usque in finem.
+Ad tertium dicendum quod Augustinus ibi loquitur de perseverantia non secundum quod nominat habitum virtutis, sed secundum quod nominat actum virtutis continuatum usque in finem, secundum illud [[Mt 24]] *qui perseveraverit usque in finem, hic salvus erit*. Et ideo contra rationem perseverantiae sic acceptae esset quod amitteretur, quia iam non duraret usque in finem.
 

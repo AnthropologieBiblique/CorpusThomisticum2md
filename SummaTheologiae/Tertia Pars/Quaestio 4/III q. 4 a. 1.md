@@ -7,13 +7,13 @@ Ad primum sic proceditur. Videtur quod humana natura non fuerit magis assumptibi
 Praeterea, similitudo est ratio faciens ad congruitatem incarnationis divinae personae, ut supra dictum est. Sed sicut in natura rationali invenitur similitudo imaginis, ita in natura irrationali invenitur similitudo vestigii. Ergo creatura irrationalis assumptibilis fuit, sicut humana natura.
 
 ###### arg. 3
-Praeterea, in natura angelica invenitur expressior Dei similitudo quam in natura humana, sicut Gregorius dicit, in homilia de centum ovibus, introducens illud Ezech. XXVIII, *tu signaculum similitudinis*. Invenitur etiam in Angelo peccatum, sicut in homine, secundum illud Iob IV, *in Angelis suis reperit pravitatem*. Ergo natura angelica fuit ita assumptibilis sicut natura hominis.
+Praeterea, in natura angelica invenitur expressior Dei similitudo quam in natura humana, sicut Gregorius dicit, in homilia de centum ovibus, introducens illud [[Ez 28]], *tu signaculum similitudinis*. Invenitur etiam in Angelo peccatum, sicut in homine, secundum illud [[Jb 4]], *in Angelis suis reperit pravitatem*. Ergo natura angelica fuit ita assumptibilis sicut natura hominis.
 
 ###### arg. 4
 Praeterea, cum Deo competat summa perfectio, tanto magis est Deo aliquid simile, quanto est magis perfectum. Sed totum universum est magis perfectum quam partes eius, inter quas est humana natura. Ergo totum universum est magis assumptibile quam humana natura.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. VIII, ex ore sapientiae genitae, *deliciae meae esse cum filiis hominum*. Et ita videtur esse quaedam congruentia unionis filii Dei ad humanam naturam.
+Sed contra est quod dicitur [[Pr 8]], ex ore sapientiae genitae, *deliciae meae esse cum filiis hominum*. Et ita videtur esse quaedam congruentia unionis filii Dei ad humanam naturam.
 
 ###### co.
 Respondeo dicendum quod aliquid assumptibile dicitur quasi aptum assumi a divina persona. Quae quidem aptitudo non potest intelligi secundum potentiam passivam naturalem, quae non se extendit ad id quod transcendit ordinem naturalem, quem transcendit unio personalis creaturae ad Deum. Unde relinquitur quod assumptibile aliquid dicatur secundum congruentiam ad unionem praedictam. Quae quidem congruentia attenditur secundum duo in humana natura, scilicet secundum eius dignitatem; et necessitatem. Secundum dignitatem quidem, quia humana natura, inquantum est rationalis et intellectualis, nata est contingere aliqualiter ipsum verbum per suam operationem, cognoscendo scilicet et amando ipsum. Secundum necessitatem autem, quia indigebat reparatione, cum subiaceret originali peccato. Haec autem duo soli humanae naturae conveniunt, nam creaturae irrationali deest congruitas dignitatis; naturae autem angelicae deest congruitas praedictae necessitatis. Unde relinquitur quod sola natura humana sit assumptibilis.

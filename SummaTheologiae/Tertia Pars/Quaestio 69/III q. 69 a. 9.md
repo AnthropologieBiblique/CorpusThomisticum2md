@@ -10,7 +10,7 @@ Praeterea, in Baptismo operatur virtus divina, quae potest voluntatem hominis mu
 Praeterea, Baptismi effectus est gratia, cui peccatum opponitur. Sed multa sunt alia peccata graviora quam fictio, de quibus non dicitur quod effectum Baptismi impediant. Ergo neque fictio impedit effectum Baptismi.
 
 ###### s. c.
-Sed contra est quod dicitur Sap. I, *spiritus sanctus disciplinae effugiet fictum*. Sed effectus Baptismi est a spiritu sancto. Ergo fictio impedit effectum Baptismi.
+Sed contra est quod dicitur [[Sg 1]], *spiritus sanctus disciplinae effugiet fictum*. Sed effectus Baptismi est a spiritu sancto. Ergo fictio impedit effectum Baptismi.
 
 ###### co.
 Respondeo dicendum quod, sicut Damascenus dicit, *Deus non cogit hominem ad iustitiam*. Et ideo ad hoc quod aliquis iustificetur per Baptismum, requiritur quod voluntas hominis amplectatur et Baptismum et Baptismi effectum. Dicitur autem aliquis fictus per hoc quod voluntas eius contradicit vel Baptismo, vel eius effectui. Nam secundum Augustinum, quatuor modis dicitur aliquis fictus, uno modo, ille qui non credit, cum tamen Baptismus sit fidei sacramentum; alio modo, per hoc quod contemnit ipsum sacramentum; tertio modo, per hoc quod aliter celebrat sacramentum, non servans ritum Ecclesiae; quarto, per hoc quod aliquis indevote accedit. Unde manifestum est quod fictio impedit effectum Baptismi.

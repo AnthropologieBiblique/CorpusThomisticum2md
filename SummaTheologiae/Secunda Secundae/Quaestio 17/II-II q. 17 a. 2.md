@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod beatitudo aeterna non sit obiectum proprium spei. Illud enim homo non sperat quod omnem animi sui motum excedit, cum spei actus sit quidam animi motus. Sed beatitudo aeterna excedit omnem humani animi motum, dicit enim apostolus, I ad Cor. II, quod *in cor hominis non ascendit*. Ergo beatitudo non est proprium obiectum spei.
 
 ###### arg. 2
-Praeterea, petitio est spei interpretativa, dicitur enim in Psalm., *revela domino viam tuam et spera in eo, et ipse faciet*. Sed homo petit a Deo licite non solum beatitudinem aeternam, sed etiam bona praesentis vitae tam spiritualia quam temporalia, et etiam liberationem a malis, quae in beatitudine aeterna non erunt, ut patet in oratione dominica, Matth. VI. Ergo beatitudo aeterna non est proprium obiectum spei.
+Praeterea, petitio est spei interpretativa, dicitur enim in Psalm., *revela domino viam tuam et spera in eo, et ipse faciet*. Sed homo petit a Deo licite non solum beatitudinem aeternam, sed etiam bona praesentis vitae tam spiritualia quam temporalia, et etiam liberationem a malis, quae in beatitudine aeterna non erunt, ut patet in oratione dominica, [[Mt 6]]. Ergo beatitudo aeterna non est proprium obiectum spei.
 
 ###### arg. 3
 Praeterea, spei obiectum est arduum. Sed in comparatione ad hominem multa alia sunt ardua quam beatitudo aeterna. Ergo beatitudo aeterna non est proprium obiectum spei.

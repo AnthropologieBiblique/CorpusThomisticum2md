@@ -7,10 +7,10 @@ Ad sextum sic proceditur. Videtur quod voluntas non a solo Deo moveatur sicut ab
 Praeterea, actus voluntatis sequitur actum intellectus. Sed intellectus hominis reducitur in suum actum non solum a Deo, sed etiam ab Angelo per illuminationes, ut Dionysius dicit. Ergo eadem ratione et voluntas.
 
 ###### arg. 3
-Praeterea, Deus non est causa nisi bonorum; secundum illud Gen. I, *vidit Deus cuncta quae fecerat, et erant valde bona*. Si ergo a solo Deo voluntas hominis moveretur, nunquam moveretur ad malum, cum tamen voluntas sit qua peccatur et recte vivitur, ut Augustinus dicit.
+Praeterea, Deus non est causa nisi bonorum; secundum illud [[Gn 1]], *vidit Deus cuncta quae fecerat, et erant valde bona*. Si ergo a solo Deo voluntas hominis moveretur, nunquam moveretur ad malum, cum tamen voluntas sit qua peccatur et recte vivitur, ut Augustinus dicit.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Philipp. II, *Deus est qui operatur in nobis velle et perficere*.
+Sed contra est quod apostolus dicit, ad [[Ph 2]], *Deus est qui operatur in nobis velle et perficere*.
 
 ###### co.
 Respondeo dicendum quod motus voluntatis est ab intrinseco, sicut et motus naturalis. Quamvis autem rem naturalem possit aliquid movere quod non est causa naturae rei motae, tamen motum naturalem causare non potest nisi quod est aliqualiter causa naturae. Movetur enim lapis sursum ab homine, qui naturam lapidis non causat, sed hic motus non est lapidi naturalis, naturalis autem motus eius non causatur nisi ab eo quod causat naturam. Unde dicitur in VIII Physic. quod generans movet secundum locum gravia et levia. Sic ergo hominem, voluntatem habentem, contingit moveri ab aliquo qui non est causa eius, sed quod motus voluntarius eius sit ab aliquo principio extrinseco quod non est causa voluntatis, est impossibile. Voluntatis autem causa nihil aliud esse potest quam Deus. Et hoc patet dupliciter. Primo quidem, ex hoc quod voluntas est potentia animae rationalis, quae a solo Deo causatur per creationem, ut in primo dictum est. Secundo vero ex hoc patet, quod voluntas habet ordinem ad universale bonum. Unde nihil aliud potest esse voluntatis causa, nisi ipse Deus, qui est universale bonum. Omne autem aliud bonum per participationem dicitur, et est quoddam particulare bonum, particularis autem causa non dat inclinationem universalem. Unde nec materia prima, quae est in potentia ad omnes formas, potest causari ab aliquo particulari agente.

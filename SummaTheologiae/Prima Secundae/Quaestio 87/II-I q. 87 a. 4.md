@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod peccato debeatur poena infinita secundum quantitatem. Dicitur enim Ierem. X, *corripe me, domine, veruntamen in iudicio, et non in furore tuo, ne forte ad nihilum redigas me*. Ira autem vel furor Dei metaphorice significat vindictam divinae iustitiae, redigi autem in nihilum est poena infinita, sicut et ex nihilo aliquid facere est virtutis infinitae. Ergo secundum vindictam divinam, peccatum punitur poena infinita secundum quantitatem.
+Ad quartum sic proceditur. Videtur quod peccato debeatur poena infinita secundum quantitatem. Dicitur enim [[Jr 10]], *corripe me, domine, veruntamen in iudicio, et non in furore tuo, ne forte ad nihilum redigas me*. Ira autem vel furor Dei metaphorice significat vindictam divinae iustitiae, redigi autem in nihilum est poena infinita, sicut et ex nihilo aliquid facere est virtutis infinitae. Ergo secundum vindictam divinam, peccatum punitur poena infinita secundum quantitatem.
 
 ###### arg. 2
 Praeterea, quantitati culpae respondet quantitas poenae; secundum illud Deuteron. XXV, *pro mensura peccati erit et plagarum modus*. Sed peccatum quod contra Deum committitur, est infinitum, tanto enim gravius est peccatum, quanto maior est persona contra quam peccatur, sicut gravius peccatum est percutere principem quam percutere hominem privatum; Dei autem magnitudo est infinita. Ergo poena infinita debetur pro peccato quod contra Deum committitur.
@@ -16,7 +16,7 @@ Sed contra est quia secundum hoc omnium mortalium peccatorum poenae essent aequa
 Respondeo dicendum quod poena proportionatur peccato. In peccato autem duo sunt. Quorum unum est aversio ab incommutabili bono, quod est infinitum, unde ex hac parte peccatum est infinitum. Aliud quod est in peccato, est inordinata conversio ad commutabile bonum. Et ex hac parte peccatum est finitum, tum quia ipsum bonum commutabile est finitum; tum quia ipsa conversio est finita, non enim possunt esse actus creaturae infiniti. Ex parte igitur aversionis, respondet peccato poena damni, quae etiam est infinita, est enim amissio infiniti boni, scilicet Dei. Ex parte autem inordinatae conversionis, respondet ei poena sensus, quae etiam est finita.
 
 ###### ad 1
-Ad primum ergo dicendum quod omnino redigi in nihilum eum qui peccat, non convenit divinae iustitiae, quia repugnat perpetuitati poenae, quae est secundum divinam iustitiam, ut dictum est. Sed in nihilum redigi dicitur qui spiritualibus bonis privatur; secundum illud I Cor. XIII, *si non habuero caritatem, nihil sum*.
+Ad primum ergo dicendum quod omnino redigi in nihilum eum qui peccat, non convenit divinae iustitiae, quia repugnat perpetuitati poenae, quae est secundum divinam iustitiam, ut dictum est. Sed in nihilum redigi dicitur qui spiritualibus bonis privatur; secundum illud [[1 Co 13]], *si non habuero caritatem, nihil sum*.
 
 ###### ad 2
 Ad secundum dicendum quod ratio illa procedit de peccato ex parte aversionis, sic enim homo contra Deum peccat.

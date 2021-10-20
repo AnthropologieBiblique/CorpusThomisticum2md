@@ -13,7 +13,7 @@ Praeterea, omne nomen proprium alicuius personae significat proprietatem aliquam
 Praeterea, quicumque intelligit, intelligendo concipit verbum. Sed filius intelligit. Ergo filii est aliquod verbum. Et sic non est proprium filii esse verbum.
 
 ###### arg. 5
-Praeterea, Hebr. I dicitur de filio, portans omnia verbo virtutis suae, ex quo Basilius accipit quod spiritus sanctus sit verbum filii. Non est ergo proprium filii esse verbum.
+Praeterea, [[He 1]] dicitur de filio, portans omnia verbo virtutis suae, ex quo Basilius accipit quod spiritus sanctus sit verbum filii. Non est ergo proprium filii esse verbum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, VI de Trin., *verbum solus filius accipitur*.

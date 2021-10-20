@@ -4,10 +4,10 @@
 Ad quartum sic proceditur. Videtur quod prudentia non sit virtus. Dicit enim Augustinus, in I de Lib. Arb., quod prudentia est appetendarum et vitandarum rerum scientia. Sed scientia contra virtutem dividitur; ut patet in praedicamentis. Ergo prudentia non est virtus.
 
 ###### arg. 2
-Praeterea, virtutis non est virtus. Sed artis est virtus; ut philosophus dicit, in VI Ethic. Ergo ars non est virtus. Sed in arte est prudentia, dicitur enim II Paral. II de Hiram quod *sciebat caelare omnem sculpturam, et adinvenire prudenter quodcumque in opere necessarium est*. Ergo prudentia non est virtus.
+Praeterea, virtutis non est virtus. Sed artis est virtus; ut philosophus dicit, in VI Ethic. Ergo ars non est virtus. Sed in arte est prudentia, dicitur enim [[2 Ch 2]] de Hiram quod *sciebat caelare omnem sculpturam, et adinvenire prudenter quodcumque in opere necessarium est*. Ergo prudentia non est virtus.
 
 ###### arg. 3
-Praeterea, nulla virtus potest esse immoderata. Sed prudentia est immoderata, alioquin frustra diceretur in Prov. XXIII, *prudentiae tuae pone modum*. Ergo prudentia non est virtus.
+Praeterea, nulla virtus potest esse immoderata. Sed prudentia est immoderata, alioquin frustra diceretur in [[Pr 23]], *prudentiae tuae pone modum*. Ergo prudentia non est virtus.
 
 ###### s. c.
 Sed contra est quod Gregorius, in II Moral., prudentiam, temperantiam, fortitudinem et iustitiam dicit esse quatuor virtutes.

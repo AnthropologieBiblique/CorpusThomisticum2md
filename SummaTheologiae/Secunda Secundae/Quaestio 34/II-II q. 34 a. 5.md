@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod odium sit vitium capitale. Odium enim directe opponitur caritati. Sed caritas est principalissima virtutum et mater aliarum. Ergo odium est maxime vitium capitale, et principium omnium aliorum.
 
 ###### arg. 2
-Praeterea, peccata oriuntur in nobis secundum inclinationem passionum, secundum illud ad Rom. VII, *passiones peccatorum operabantur in membris nostris, ut fructificarent morti*. Sed in passionibus animae ex amore et odio videntur omnes aliae sequi, ut ex supradictis patet. Ergo odium debet poni inter vitia capitalia.
+Praeterea, peccata oriuntur in nobis secundum inclinationem passionum, secundum illud ad [[Rm 7]], *passiones peccatorum operabantur in membris nostris, ut fructificarent morti*. Sed in passionibus animae ex amore et odio videntur omnes aliae sequi, ut ex supradictis patet. Ergo odium debet poni inter vitia capitalia.
 
 ###### arg. 3
 Praeterea, vitium est malum morale. Sed odium principalius respicit malum quam alia passio. Ergo videtur quod odium debet poni vitium capitale.

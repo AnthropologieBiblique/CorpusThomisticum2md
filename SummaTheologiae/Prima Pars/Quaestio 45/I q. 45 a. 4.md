@@ -10,7 +10,7 @@ Praeterea, quod creatur est ex nihilo. Composita autem non sunt ex nihilo, sed e
 Praeterea, illud proprie producitur per primam emanationem, quod supponitur in secunda, sicut res naturalis per generationem naturalem, quae supponitur in operatione artis. Sed illud quod supponitur in generatione naturali, est materia. Ergo materia est quae proprie creatur, et non compositum.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. I, *in principio creavit Deus caelum et terram*. Caelum autem et terra sunt res compositae subsistentes. Ergo horum proprie est creatio.
+Sed contra est quod dicitur [[Gn 1]], *in principio creavit Deus caelum et terram*. Caelum autem et terra sunt res compositae subsistentes. Ergo horum proprie est creatio.
 
 ###### co.
 Respondeo dicendum quod creari est quoddam fieri, ut dictum est. Fieri autem ordinatur ad esse rei. Unde illis proprie convenit fieri et creari, quibus convenit esse. Quod quidem convenit proprie subsistentibus, sive sint simplicia, sicut substantiae separatae; sive sint composita, sicut substantiae materiales. Illi enim proprie convenit esse, quod habet esse; et hoc est subsistens in suo esse. Formae autem et accidentia, et alia huiusmodi, non dicuntur entia quasi ipsa sint, sed quia eis aliquid est; ut albedo ea ratione dicitur ens, quia ea subiectum est album. Unde, secundum philosophum, accidens magis proprie dicitur entis quam ens. Sicut igitur accidentia et formae, et huiusmodi, quae non subsistunt, magis sunt coexistentia quam entia; ita magis debent dici concreata quam creata. Proprie vero creata sunt subsistentia.

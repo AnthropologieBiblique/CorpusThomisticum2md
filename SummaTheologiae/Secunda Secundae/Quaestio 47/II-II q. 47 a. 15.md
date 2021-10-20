@@ -4,7 +4,7 @@
 Ad decimumquintum sic proceditur. Videtur quod prudentia insit nobis a natura. Dicit enim philosophus, in VI Ethic., quod ea quae pertinent ad prudentiam naturalia videntur esse, scilicet synesis, gnome et huiusmodi, non autem ea quae pertinent ad sapientiam speculativam. Sed eorum quae sunt unius generis eadem est originis ratio. Ergo etiam prudentia inest nobis a natura.
 
 ###### arg. 2
-Praeterea, aetatum variatio est secundum naturam. Sed prudentia consequitur aetates, secundum illud Iob XII, *in antiquis est sapientia, et in multo tempore prudentia*. Ergo prudentia est naturalis.
+Praeterea, aetatum variatio est secundum naturam. Sed prudentia consequitur aetates, secundum illud [[Jb 12]], *in antiquis est sapientia, et in multo tempore prudentia*. Ergo prudentia est naturalis.
 
 ###### arg. 3
 Praeterea, prudentia magis convenit naturae humanae quam naturae brutorum animalium. Sed bruta animalia habent quasdam naturales prudentias; ut patet per philosophum, in VIII de historiis Animal. Ergo prudentia est naturalis.

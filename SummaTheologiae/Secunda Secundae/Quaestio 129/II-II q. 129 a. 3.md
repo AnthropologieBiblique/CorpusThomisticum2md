@@ -16,7 +16,7 @@ Praeterea, nulla virtus opponitur alteri virtuti. Sed magnanimitas opponitur hum
 Praeterea, cuiuslibet virtutis proprietates sunt laudabiles. Sed magnanimitas habet quasdam proprietates vituperabiles, primo quidem, quod non est memor benefactorum; secundo, quod est otiosus et tardus; tertio, quod utitur ironia ad multos; quarto, quod non potest alii convivere; quinto, quod magis possidet infructuosa quam fructuosa. Ergo magnanimitas non est virtus.
 
 ###### s. c.
-Sed contra est quod in laudem quorundam dicitur, II Machab. XIV, *Nicanor audiens virtutem comitum Iudae, et animi magnitudinem quam pro patriae certaminibus habebant,* et cetera. Laudabilia autem sunt solum virtutum opera. Ergo magnanimitas, ad quam pertinet magnum animum habere, est virtus.
+Sed contra est quod in laudem quorundam dicitur, [[2 M 14]], *Nicanor audiens virtutem comitum Iudae, et animi magnitudinem quam pro patriae certaminibus habebant,* et cetera. Laudabilia autem sunt solum virtutum opera. Ergo magnanimitas, ad quam pertinet magnum animum habere, est virtus.
 
 ###### co.
 Respondeo dicendum quod ad rationem virtutis humanae pertinet ut in rebus humanis bonum rationis servetur, quod est proprium hominis bonum. Inter ceteras autem res humanas exteriores, honores praecipuum locum tenent, sicut dictum est. Et inde magnanimitas, quae modum rationis ponit circa magnos honores, est virtus.

@@ -10,10 +10,10 @@ Praeterea, sicut adeptio beatitudinis est quoddam bonum arduum, ita etiam eius c
 Praeterea, per virtutem spei potest aliquis beatitudinem sperare non solum sibi sed etiam aliis, ut supra dictum est. Sed beati qui sunt in patria sperant beatitudinem aliis, alioquin non rogarent pro eis. Ergo in beatis potest esse spes.
 
 ###### arg. 4
-Praeterea, ad beatitudinem sanctorum pertinet non solum gloria animae sed etiam gloria corporis. Sed animae sanctorum qui sunt in patria expectant adhuc gloriam corporis, ut patet Apoc. VI, et XII super Gen. ad Litt. Ergo spes potest esse in beatis.
+Praeterea, ad beatitudinem sanctorum pertinet non solum gloria animae sed etiam gloria corporis. Sed animae sanctorum qui sunt in patria expectant adhuc gloriam corporis, ut patet [[Ap 6]], et XII super Gen. ad Litt. Ergo spes potest esse in beatis.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Rom. VIII, *quod videt quis, quid sperat?* Sed beati fruuntur Dei visione. Ergo in eis spes locum non habet.
+Sed contra est quod apostolus dicit, ad [[Rm 8]], *quod videt quis, quid sperat?* Sed beati fruuntur Dei visione. Ergo in eis spes locum non habet.
 
 ###### co.
 Respondeo dicendum quod, subtracto eo quod dat speciem rei, solvitur species, et res non potest eadem remanere, sicut remota forma corporis naturalis, non remanet idem secundum speciem. Spes autem recipit speciem a suo obiecto principali, sicut et ceterae virtutes, ut ex supradictis patet. Obiectum autem principale eius est beatitudo aeterna secundum quod est possibilis haberi ex auxilio divino, ut supra dictum est. Quia ergo bonum arduum possibile non cadit sub ratione spei nisi secundum quod est futurum, ideo, cum beatitudo iam non fuerit futura sed praesens, non potest ibi esse virtus spei. Et ideo spes, sicut et fides, evacuatur in patria, et neutrum eorum in beatis esse potest.

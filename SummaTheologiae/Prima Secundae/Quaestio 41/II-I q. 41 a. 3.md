@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod timor aliquis sit naturalis. Dicit enim 
 Praeterea, timor ex amore oritur, ut dictum est. Sed est aliquis amor naturalis, ut Dionysius dicit, IV cap. de Div. Nom. Ergo etiam est aliquis timor naturalis.
 
 ###### arg. 3
-Praeterea, timor opponitur spei, ut supra dictum est. Sed est aliqua spes naturae, ut patet per id quod dicitur Rom. IV, de Abraham, quod contra spem naturae, in spem gratiae credidit. Ergo etiam est aliquis timor naturae.
+Praeterea, timor opponitur spei, ut supra dictum est. Sed est aliqua spes naturae, ut patet per id quod dicitur [[Rm 4]], de Abraham, quod contra spem naturae, in spem gratiae credidit. Ergo etiam est aliquis timor naturae.
 
 ###### s. c.
 Sed contra, ea quae sunt naturalia, communiter inveniuntur in rebus animatis et inanimatis. Sed timor non invenitur in rebus inanimatis. Ergo timor non est naturalis.

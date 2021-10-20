@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod Deus aequaliter diligat omnia. Dicitur enim Sap. VI, *aequaliter est ei cura de omnibus*. Sed providentia Dei, quam habet de rebus, est ex amore quo amat res. Ergo aequaliter amat omnia.
+Ad tertium sic proceditur. Videtur quod Deus aequaliter diligat omnia. Dicitur enim [[Sg 6]], *aequaliter est ei cura de omnibus*. Sed providentia Dei, quam habet de rebus, est ex amore quo amat res. Ergo aequaliter amat omnia.
 
 ###### arg. 2
 Praeterea, amor Dei est eius essentia. Sed essentia Dei magis et minus non recipit. Ergo nec amor eius. Non igitur quaedam aliis magis amat.

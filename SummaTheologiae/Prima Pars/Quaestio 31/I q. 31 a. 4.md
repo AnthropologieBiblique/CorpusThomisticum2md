@@ -1,10 +1,10 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod dictio exclusiva possit adiungi termino personali, etiam si praedicatum sit commune. Dicit enim dominus, ad patrem loquens, Ioan. XVII, *ut cognoscant te, solum Deum verum*. Ergo solus pater est Deus verus.
+Ad quartum sic proceditur. Videtur quod dictio exclusiva possit adiungi termino personali, etiam si praedicatum sit commune. Dicit enim dominus, ad patrem loquens, [[Jn 17]], *ut cognoscant te, solum Deum verum*. Ergo solus pater est Deus verus.
 
 ###### arg. 2
-Praeterea, Matth. XI dicitur, nemo novit filium nisi pater; quod idem significat ac si diceretur, solus pater novit filium. Sed nosse filium est commune. Ergo idem quod prius.
+Praeterea, [[Mt 11]] dicitur, nemo novit filium nisi pater; quod idem significat ac si diceretur, solus pater novit filium. Sed nosse filium est commune. Ergo idem quod prius.
 
 ###### arg. 3
 Praeterea, dictio exclusiva non excludit illud quod est de intellectu termini cui adiungitur, unde non excludit partem, neque universale, non enim sequitur, solus Socrates est albus, ergo manus eius non est alba; vel, ergo homo non est albus. Sed una persona est in intellectu alterius, sicut pater in intellectu filii, et e converso. Non ergo per hoc quod dicitur, solus pater est Deus, excluditur filius vel spiritus sanctus. Et sic videtur haec locutio esse vera.

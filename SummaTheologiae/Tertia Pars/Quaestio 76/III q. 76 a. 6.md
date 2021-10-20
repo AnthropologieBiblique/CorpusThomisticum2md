@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod corpus Christi sit mobiliter in hoc sacramento. Dicit enim philosophus, in II Topic., quod, *moventibus nobis, moventur ea quae in nobis sunt*. Quod quidem verum est etiam de spirituali substantia animae. Sed Christus est in hoc sacramento, ut supra habitum est. Ergo movetur ad motum ipsius.
 
 ###### arg. 2
-Praeterea, veritas debet respondere figurae. Sed de agno paschali, qui erat figura huius sacramenti, *non remanebat quidquam usque mane*, sicut praecipitur Exod. XII. Ergo neque etiam, si hoc sacramentum reservetur in crastinum, erit ibi corpus Christi. Et ita non est immobiliter in hoc sacramento.
+Praeterea, veritas debet respondere figurae. Sed de agno paschali, qui erat figura huius sacramenti, *non remanebat quidquam usque mane*, sicut praecipitur [[Ex 12]]. Ergo neque etiam, si hoc sacramentum reservetur in crastinum, erit ibi corpus Christi. Et ita non est immobiliter in hoc sacramento.
 
 ###### arg. 3
 Praeterea, si corpus Christi remaneat sub hoc sacramento etiam in crastino, pari ratione remanebit et per totum sequens tempus, non enim potest dici quod desinat ibi esse cessantibus speciebus, quia esse corporis Christi non dependet a speciebus illis. Non autem remanet sub hoc sacramento Christus per totum tempus futurum. Videtur ergo quod statim in crastino, vel post modicum tempus, desinat esse sub hoc sacramento. Et ita videtur quod Christus mobiliter sit in hoc sacramento.

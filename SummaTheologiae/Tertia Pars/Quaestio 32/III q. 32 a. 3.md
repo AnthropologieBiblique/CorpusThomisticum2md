@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod spiritus sanctus debeat dici pater Chris
 Praeterea, sicut mentes aliorum sanctorum formantur per spiritum sanctum, ita etiam corpus Christi est per spiritum sanctum formatum. Sed alii sancti, propter praedictam formationem, dicuntur filii totius Trinitatis, et per consequens spiritus sancti. Videtur ergo quod Christus debeat dici filius spiritus sancti, inquantum corpus eius est spiritu sancto formatum.
 
 ###### arg. 3
-Praeterea, Deus dicitur pater noster secundum hoc quod nos fecit, secundum illud Deut. XXXII, *nonne ipse est pater tuus, qui possedit et fecit et creavit te?* Sed spiritus sanctus fecit corpus Christi, ut dictum est. Ergo spiritus sanctus debet dici pater Christi secundum corpus ab ipso formatum.
+Praeterea, Deus dicitur pater noster secundum hoc quod nos fecit, secundum illud [[Dt 32]], *nonne ipse est pater tuus, qui possedit et fecit et creavit te?* Sed spiritus sanctus fecit corpus Christi, ut dictum est. Ergo spiritus sanctus debet dici pater Christi secundum corpus ab ipso formatum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in Enchirid., *natus est Christus de spiritu sancto non sicut filius, et de Maria virgine sicut filius*.

@@ -4,7 +4,7 @@
 Ad octavum sic proceditur. Videtur quod voluntas Dei rebus volitis necessitatem imponat. Dicit enim Augustinus, in Enchirid., *nullus fit salvus, nisi quem Deus voluerit salvari. Et ideo rogandus est ut velit, quia necesse est fieri, si voluerit*.
 
 ###### arg. 2
-Praeterea, omnis causa quae non potest impediri, ex necessitate suum effectum producit, quia et natura semper idem operatur, nisi aliquid impediat, ut dicitur in II Physic. Sed voluntas Dei non potest impediri, dicit enim apostolus, ad Rom. IX, *voluntati enim eius quis resistit?* Ergo voluntas Dei imponit rebus volitis necessitatem.
+Praeterea, omnis causa quae non potest impediri, ex necessitate suum effectum producit, quia et natura semper idem operatur, nisi aliquid impediat, ut dicitur in II Physic. Sed voluntas Dei non potest impediri, dicit enim apostolus, ad [[Rm 9]], *voluntati enim eius quis resistit?* Ergo voluntas Dei imponit rebus volitis necessitatem.
 
 ###### arg. 3
 Praeterea, illud quod habet necessitatem ex priori, est necessarium absolute, sicut animal mori est necessarium, quia est ex contrariis compositum. Sed res creatae a Deo, comparantur ad voluntatem divinam sicut ad aliquid prius, a quo habent necessitatem, cum haec conditionalis sit vera, si aliquid Deus vult, illud est; omnis autem conditionalis vera est necessaria. Sequitur ergo quod omne quod Deus vult, sit necessarium absolute.

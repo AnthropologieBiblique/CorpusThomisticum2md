@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod praesumptio non sit peccatum. Nullum enim peccatum est ratio quod homo exaudiatur a Deo. Sed per praesumptionem aliqui exaudiuntur a Deo, dicitur enim Iudith IX, *exaudi me miseram deprecantem et de tua misericordia praesumentem*. Ergo praesumptio de divina misericordia non est peccatum.
+Ad secundum sic proceditur. Videtur quod praesumptio non sit peccatum. Nullum enim peccatum est ratio quod homo exaudiatur a Deo. Sed per praesumptionem aliqui exaudiuntur a Deo, dicitur enim [[Jdt 9]], *exaudi me miseram deprecantem et de tua misericordia praesumentem*. Ergo praesumptio de divina misericordia non est peccatum.
 
 ###### arg. 2
 Praeterea, praesumptio importat superexcessum spei. Sed in spe quae habetur de Deo non potest esse superexcessus, cum eius potentia et misericordia sint infinita. Ergo videtur quod praesumptio non sit peccatum.

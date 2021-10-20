@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod in morte Christi fuerit separatio divinitatis ab anima. Dicit enim dominus, Ioan. X, *nemo tollit animam meam a me, sed ego pono eam, et iterum sumo eam*. Non autem videtur quod corpus animam ponere possit, eam a se separando, quia anima non subiicitur potestati corporis, sed potius e converso. Et sic videtur quod Christo secundum quod est verbum Dei, conveniat animam suam ponere. Hoc autem est eam a se separare. Ergo per mortem anima eius fuit a divinitate separata.
+Ad tertium sic proceditur. Videtur quod in morte Christi fuerit separatio divinitatis ab anima. Dicit enim dominus, [[Jn 10]], *nemo tollit animam meam a me, sed ego pono eam, et iterum sumo eam*. Non autem videtur quod corpus animam ponere possit, eam a se separando, quia anima non subiicitur potestati corporis, sed potius e converso. Et sic videtur quod Christo secundum quod est verbum Dei, conveniat animam suam ponere. Hoc autem est eam a se separare. Ergo per mortem anima eius fuit a divinitate separata.
 
 ###### arg. 2
 Praeterea, Athanasius dicit *maledictum qui totum hominem quem assumpsit Dei filius, denuo assumptum vel liberatum, tertia die a mortuis resurrexisse non confitetur*. Sed non potuit totus homo denuo assumi, nisi aliquando fuerit totus homo a Dei verbo separatus. Totus autem homo componitur ex anima et corpore. Ergo aliquando fuit facta separatio divinitatis et a corpore et ab anima.

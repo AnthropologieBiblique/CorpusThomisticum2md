@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod requiratur determinata quantitas panis et vini ad materiam huius sacramenti. Effectus enim gratiae non sunt minus ordinati quam effectus naturae. Sed, sicut dicitur in II de anima, *omnium natura constantium positus est terminus et ratio magnitudinis et augmenti*. Ergo multo magis in hoc sacramento, quod dicitur Eucharistia, idest bona gratia, requiritur determinata quantitas panis et vini.
 
 ###### arg. 2
-Praeterea, ministris Ecclesiae non est a Christo data potestas ad ea quae pertinent ad irrisionem fidei et sacramentorum eius, secundum illud II Cor. X, *secundum potestatem quam dedit mihi Deus in aedificationem, et non in destructionem*. Sed hoc esset ad irrisionem sacramenti, si sacerdos vellet consecrare totum panem qui venditur in foro, et totum vinum quod est in cellario. Ergo hoc facere non potest.
+Praeterea, ministris Ecclesiae non est a Christo data potestas ad ea quae pertinent ad irrisionem fidei et sacramentorum eius, secundum illud [[2 Co 10]], *secundum potestatem quam dedit mihi Deus in aedificationem, et non in destructionem*. Sed hoc esset ad irrisionem sacramenti, si sacerdos vellet consecrare totum panem qui venditur in foro, et totum vinum quod est in cellario. Ergo hoc facere non potest.
 
 ###### arg. 3
 Praeterea, si aliquis baptizetur in mari, non tota aqua maris sanctificatur per formam Baptismi, sed sola illa aqua qua corpus baptizati abluitur. Ergo nec in hoc sacramento superflua quantitas panis consecrari potest.

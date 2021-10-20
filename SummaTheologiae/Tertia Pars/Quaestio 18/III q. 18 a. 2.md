@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod in Christo non fuerit aliqua voluntas sensualitatis, praeter rationis voluntatem. Dicit enim philosophus, in III de anima, quod *voluntas in ratione est, in sensitivo autem appetitu est irascibilis et concupiscibilis*. Sed sensualitas significat appetitum sensitivum. Ergo non fuit in Christo voluntas sensualitatis.
 
 ###### arg. 2
-Praeterea, secundum Augustinum, XII de Trin., sensualitas significatur per serpentem. Sed nihil serpentinum fuit in Christo, habuit enim similitudinem animalis venenosi sine veneno, ut dicit Augustinus, super illud Ioan. III, *sicut exaltavit Moyses serpentem in deserto*. Ergo in Christo non fuit voluntas sensualitatis.
+Praeterea, secundum Augustinum, XII de Trin., sensualitas significatur per serpentem. Sed nihil serpentinum fuit in Christo, habuit enim similitudinem animalis venenosi sine veneno, ut dicit Augustinus, super illud [[Jn 3]], *sicut exaltavit Moyses serpentem in deserto*. Ergo in Christo non fuit voluntas sensualitatis.
 
 ###### arg. 3
 Praeterea, voluntas sequitur naturam, ut dictum est. Sed in Christo non fuit nisi una natura praeter divinam. Ergo in Christo non fuit nisi una voluntas humana.

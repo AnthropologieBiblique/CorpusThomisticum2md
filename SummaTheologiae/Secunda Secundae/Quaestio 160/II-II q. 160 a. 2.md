@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod modestia sit solum circa exteriores actiones. Interiores enim motus passionum aliis noti esse non possunt. Sed apostolus, Philipp. IV, mandat ut modestia nostra nota sit omnibus hominibus. Ergo modestia est solum circa exteriores actiones.
+Ad secundum sic proceditur. Videtur quod modestia sit solum circa exteriores actiones. Interiores enim motus passionum aliis noti esse non possunt. Sed apostolus, [[Ph 4]], mandat ut modestia nostra nota sit omnibus hominibus. Ergo modestia est solum circa exteriores actiones.
 
 ###### arg. 2
 Praeterea, virtutes quae sunt circa passiones, distinguuntur a virtute iustitiae, quae est circa operationes. Sed modestia videtur esse una virtus. Si ergo est circa operationes exteriores, non erit circa aliquas interiores passiones.

@@ -25,7 +25,7 @@ Respondeo dicendum quod per iustitiam originalem perfecte ratio continebat infer
 Ad primum ergo dicendum quod nihil prohibet id quod est effectus unius peccati, esse causam peccati alterius. Ex hoc enim quod anima deordinatur per peccatum praecedens, facilius inclinatur ad peccandum.
 
 ###### ad 2
-Ad secundum dicendum quod malitia non sumitur hic pro peccato, sed pro quadam pronitate voluntatis ad malum; secundum quod dicitur Gen. VIII, *proni sunt sensus hominis ad malum ab adolescentia sua*.
+Ad secundum dicendum quod malitia non sumitur hic pro peccato, sed pro quadam pronitate voluntatis ad malum; secundum quod dicitur [[Gn 8]], *proni sunt sensus hominis ad malum ab adolescentia sua*.
 
 ###### ad 3
 Ad tertium dicendum quod, sicut supra dictum est, concupiscentia intantum est naturalis homini, inquantum subditur rationi. Quod autem excedat limites rationis, hoc est homini contra naturam.

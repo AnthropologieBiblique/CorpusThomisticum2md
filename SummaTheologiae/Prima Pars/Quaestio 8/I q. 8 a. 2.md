@@ -10,7 +10,7 @@ Praeterea, sicut se habet tempus ad successiva, ita se habet locus ad permanenti
 Praeterea, quod est totum alicubi, nihil eius est extra locum illum. Sed Deus, si est in aliquo loco, totus est ibi, non enim habet partes. Ergo nihil eius est extra locum illum. Ergo Deus non est ubique.
 
 ###### s. c.
-Sed contra est quod dicitur Ierem. XXIII, *caelum et terram ego impleo*.
+Sed contra est quod dicitur [[Jr 23]], *caelum et terram ego impleo*.
 
 ###### co.
 Respondeo dicendum quod, cum locus sit res quaedam, esse aliquid in loco potest intelligi dupliciter, vel per modum aliarum rerum, idest sicut dicitur aliquid esse in aliis rebus quocumque modo, sicut accidentia loci sunt in loco; vel per modum proprium loci, sicut locata sunt in loco. Utroque autem modo, secundum aliquid, Deus est in omni loco, quod est esse ubique. Primo quidem, sicut est in omnibus rebus, ut dans eis esse et virtutem et operationem, sic enim est in omni loco, ut dans ei esse et virtutem locativam. Item, locata sunt in loco inquantum replent locum, et Deus omnem locum replet. Non sicut corpus, corpus enim dicitur replere locum, inquantum non compatitur secum aliud corpus; sed per hoc quod Deus est in aliquo loco, non excluditur quin alia sint ibi, imo per hoc replet omnia loca, quod dat esse omnibus locatis, quae replent omnia loca.

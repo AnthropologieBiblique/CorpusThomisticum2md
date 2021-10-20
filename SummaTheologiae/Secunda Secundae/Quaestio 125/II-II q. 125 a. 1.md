@@ -4,13 +4,13 @@
 Ad primum sic proceditur. Videtur quod timor non sit peccatum. Timor enim est passio quaedam, ut supra habitum est. Sed passionibus nec laudamur nec vituperamur, ut dicitur in II Ethic. Cum igitur omne peccatum sit vituperabile, videtur quod timor non sit peccatum.
 
 ###### arg. 2
-Praeterea, nihil quod in lege divina mandatur est peccatum, quia lex domini est immaculata, ut dicitur in Psalmo. Sed timor mandatur in lege Dei, dicitur enim ad Ephes. VI, *servi, obedite dominis carnalibus, cum timore et tremore*. Timor ergo non est peccatum.
+Praeterea, nihil quod in lege divina mandatur est peccatum, quia lex domini est immaculata, ut dicitur in Psalmo. Sed timor mandatur in lege Dei, dicitur enim ad [[Ep 6]], *servi, obedite dominis carnalibus, cum timore et tremore*. Timor ergo non est peccatum.
 
 ###### arg. 3
 Praeterea, nihil quod naturaliter inest homini est peccatum, quia peccatum est contra naturam, ut Damascenus dicit, II libro. Sed timere est homini naturale, unde philosophus dicit, in III Ethic., quod *erit aliquis insanus, vel sine sensu doloris, si nihil timeat, neque terraemotum neque inundationes*. Ergo timor non est peccatum.
 
 ###### s. c.
-Sed contra est quod dominus dicit, Matth. X, *nolite timere eos qui occidunt corpus*. Et Ezech. II dicitur, *ne timeas eos, neque sermones eorum metuas*.
+Sed contra est quod dominus dicit, [[Mt 10]], *nolite timere eos qui occidunt corpus*. Et [[Ez 2]] dicitur, *ne timeas eos, neque sermones eorum metuas*.
 
 ###### co.
 Respondeo dicendum quod aliquid dicitur esse peccatum in actibus humanis propter inordinationem, nam bonum humani actus in ordine quodam existit, ut ex supra dictis patet. Est autem hic debitus ordo, ut appetitus regimini rationis subdatur. Ratio autem dictat aliqua esse fugienda, et aliqua esse prosequenda; et inter fugienda, quaedam dictat magis esse fugienda quam alia; et similiter inter prosequenda, quaedam dictat esse magis prosequenda quam alia; et quantum est bonum prosequendum, tantum est aliquod oppositum malum fugiendum. Inde est quod ratio dictat quaedam bona magis esse prosequenda quam quaedam mala fugienda. Quando ergo appetitus fugit ea quae ratio dictat esse sustinenda ne desistat ab aliis quae magis prosequi debet, timor inordinatus est, et habet rationem peccati. Quando vero appetitus timendo refugit id quod est secundum rationem fugiendum, tunc appetitus non est inordinatus, nec peccatum.

@@ -1,10 +1,10 @@
 ### Articulus 16
 
 ###### arg. 1
-Ad sextumdecimum sic proceditur. Videtur quod peccatores orando non impetrent aliquid a Deo. Dicitur enim Ioan. IX, *scimus quia peccatores Deus non audit*. Quod consonat ei quod dicitur Prov. XXVIII, *qui declinat aures suas ne audiat legem, oratio eius erit execrabilis*, oratio autem execrabilis non impetrat aliquid a Deo. Ergo peccatores non impetrant aliquid a Deo.
+Ad sextumdecimum sic proceditur. Videtur quod peccatores orando non impetrent aliquid a Deo. Dicitur enim [[Jn 9]], *scimus quia peccatores Deus non audit*. Quod consonat ei quod dicitur [[Pr 28]], *qui declinat aures suas ne audiat legem, oratio eius erit execrabilis*, oratio autem execrabilis non impetrat aliquid a Deo. Ergo peccatores non impetrant aliquid a Deo.
 
 ###### arg. 2
-Praeterea, iusti impetrant a Deo illud quod merentur, ut supra habitum est. Sed peccatores nihil possunt mereri, quia gratia carent, et etiam caritate, quae est virtus pietatis, ut dicit Glossa, II ad Tim. III, super illud, *habentes quidem speciem pietatis, virtutem autem eius abnegantes*; et ita non pie orant, quod requiritur ad hoc quod oratio impetret, ut supra dictum est. Ergo peccatores nihil impetrant orando.
+Praeterea, iusti impetrant a Deo illud quod merentur, ut supra habitum est. Sed peccatores nihil possunt mereri, quia gratia carent, et etiam caritate, quae est virtus pietatis, ut dicit Glossa, [[2 Tm 3]], super illud, *habentes quidem speciem pietatis, virtutem autem eius abnegantes*; et ita non pie orant, quod requiritur ad hoc quod oratio impetret, ut supra dictum est. Ergo peccatores nihil impetrant orando.
 
 ###### arg. 3
 Praeterea, Chrysostomus dicit, super Matth., *pater non libenter exaudit orationem quam filius non dictavit*. Sed in oratione quam Christus dictavit dicitur, *dimitte nobis debita nostra, sicut et nos dimittimus debitoribus nostris*, quod peccatores non faciunt. Ergo vel mentiuntur hoc dicentes, et sic non sunt exauditione digni, vel, si non dicant, non exaudiuntur, quia formam orandi a Christo institutam non servant.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod, sicut Augustinus dicit, super Ioan., illud verbum 
 Ad secundum dicendum quod peccator non potest pie orare quasi eius oratio ex habitu virtutis informetur. Potest tamen eius oratio esse pia quantum ad hoc quod petit aliquid ad pietatem pertinens, sicut ille qui non habet habitum iustitiae, potest aliquid iustum velle, ut ex supradictis patet. Et quamvis eius oratio non sit meritoria, potest tamen esse impetrativa, quia meritum innititur iustitiae, sed impetratio gratiae.
 
 ###### ad 3
-Ad tertium dicendum quod, sicut dictum est, oratio dominica profertur ex persona communi totius Ecclesiae. Et ideo si aliquis nolens dimittere debita proximo dicat orationem dominicam, non mentitur, quamvis hoc quod dicit non sit verum quantum ad suam personam, est enim verum quantum ad personam Ecclesiae. Extra quam est merito, et ideo fructu orationis caret. Quandoque tamen aliqui peccatores parati sunt debitoribus suis remittere. Et ideo ipsi orantes exaudiuntur, secundum illud Eccli. XXVIII, *relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur*.
+Ad tertium dicendum quod, sicut dictum est, oratio dominica profertur ex persona communi totius Ecclesiae. Et ideo si aliquis nolens dimittere debita proximo dicat orationem dominicam, non mentitur, quamvis hoc quod dicit non sit verum quantum ad suam personam, est enim verum quantum ad personam Ecclesiae. Extra quam est merito, et ideo fructu orationis caret. Quandoque tamen aliqui peccatores parati sunt debitoribus suis remittere. Et ideo ipsi orantes exaudiuntur, secundum illud [[Si 28]], *relinque proximo tuo nocenti te, et tunc deprecanti tibi peccata solventur*.
 

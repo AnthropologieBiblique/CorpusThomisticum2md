@@ -28,5 +28,5 @@ Ad secundum dicendum quod iudicialia praecepta sunt quaedam determinationes mora
 Ad tertium dicendum quod ea quae pertinent ad bonum commune oportet diversimode dispensari secundum hominum diversitatem. Et ideo non fuerunt ponenda inter praecepta Decalogi, sed inter praecepta iudicialia.
 
 ###### ad 4
-Ad quartum dicendum quod praecepta Decalogi pertinent ad caritatem sicut ad finem, secundum illud I ad Tim. I, *finis praecepti caritas est*. Sed ad iustitiam pertinent inquantum immediate sunt de actibus iustitiae.
+Ad quartum dicendum quod praecepta Decalogi pertinent ad caritatem sicut ad finem, secundum illud [[1 Tm 1]], *finis praecepti caritas est*. Sed ad iustitiam pertinent inquantum immediate sunt de actibus iustitiae.
 

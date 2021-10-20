@@ -1,16 +1,16 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod timor non sit effectus fidei. Effectus enim non praecedit causam. Sed timor praecedit fidem, dicitur enim Eccli. II, *qui timetis Deum, credite illi*. Ergo timor non est effectus fidei.
+Ad primum sic proceditur. Videtur quod timor non sit effectus fidei. Effectus enim non praecedit causam. Sed timor praecedit fidem, dicitur enim [[Si 2]], *qui timetis Deum, credite illi*. Ergo timor non est effectus fidei.
 
 ###### arg. 2
-Praeterea, idem non est causa contrariorum. Sed timor et spes sunt contraria, ut supra dictum est, fides autem generat spem, ut dicitur in Glossa, Matth. I. Ergo non est causa timoris.
+Praeterea, idem non est causa contrariorum. Sed timor et spes sunt contraria, ut supra dictum est, fides autem generat spem, ut dicitur in Glossa, [[Mt 1]]. Ergo non est causa timoris.
 
 ###### arg. 3
 Praeterea, contrarium non est causa contrarii. Sed obiectum fidei est quoddam bonum, quod est veritas prima, obiectum autem timoris est malum, ut supra dictum est. Actus autem habent speciem ex obiectis, secundum supradicta. Ergo fides non est causa timoris.
 
 ###### s. c.
-Sed contra est quod dicitur Iac. II, *Daemones credunt et contremiscunt*.
+Sed contra est quod dicitur [[Jc 2]], *Daemones credunt et contremiscunt*.
 
 ###### co.
 Respondeo dicendum quod timor est quidam motus appetitivae virtutis, ut supra dictum est. Omnium autem appetitivorum motuum principium est bonum vel malum apprehensum. Unde oportet quod timoris et omnium appetitivorum motuum sit principium aliqua apprehensio. Per fidem autem fit in nobis quaedam apprehensio de quibusdam malis poenalibus quae secundum divinum iudicium inferuntur, et per hunc modum fides est causa timoris quo quis timet a Deo puniri, qui est timor servilis. Est etiam causa timoris filialis, quo quis timet separari a Deo, vel quo quis refugit se Deo comparare reverendo ipsum; inquantum per fidem hanc existimationem habemus de Deo, quod sit quoddam immensum et altissimum bonum, a quo separari est pessimum et cui velle aequari est malum. Sed primi timoris, scilicet servilis, est causa fides informis. Sed secundi timoris, scilicet filialis, est causa fides formata, quae per caritatem facit hominem Deo inhaerere et ei subiici.

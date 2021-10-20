@@ -1,13 +1,13 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod sacramentum non sit signum nisi unius rei. Id enim quo multa significantur, est signum ambiguum, et per consequens fallendi occasio, sicut patet de nominibus aequivocis. Sed omnis fallacia debet removeri a Christiana religione, secundum illud Coloss. II, *videte ne quis vos seducat per philosophiam et inanem fallaciam*. Ergo videtur quod sacramentum non sit signum plurium rerum.
+Ad tertium sic proceditur. Videtur quod sacramentum non sit signum nisi unius rei. Id enim quo multa significantur, est signum ambiguum, et per consequens fallendi occasio, sicut patet de nominibus aequivocis. Sed omnis fallacia debet removeri a Christiana religione, secundum illud [[Col 2]], *videte ne quis vos seducat per philosophiam et inanem fallaciam*. Ergo videtur quod sacramentum non sit signum plurium rerum.
 
 ###### arg. 2
 Praeterea, sicut dictum est, sacramentum significat rem sacram inquantum est humanae sanctificationis causa. Sed una sola est causa sanctificationis humanae, scilicet sanguis Christi, secundum illud Heb. ult., *Iesus, ut sanctificaret per suum sanguinem populum, extra portam passus est*. Ergo videtur quod sacramentum non significet plura.
 
 ###### arg. 3
-Praeterea, dictum est quod sacramentum proprie significat ipsum finem sanctificationis. Sed finis sanctificationis est vita aeterna, secundum illud Rom. VI, *habetis fructum vestrum in sanctificatione, finem vero vitam aeternam*. Ergo videtur quod sacramenta non significent nisi unam rem, scilicet vitam aeternam.
+Praeterea, dictum est quod sacramentum proprie significat ipsum finem sanctificationis. Sed finis sanctificationis est vita aeterna, secundum illud [[Rm 6]], *habetis fructum vestrum in sanctificatione, finem vero vitam aeternam*. Ergo videtur quod sacramenta non significent nisi unam rem, scilicet vitam aeternam.
 
 ###### s. c.
 Sed contra est quod in sacramento altaris est duplex res significata, scilicet corpus Christi verum et mysticum, ut Augustinus dicit, in libro sententiarum prosperi.

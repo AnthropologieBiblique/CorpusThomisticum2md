@@ -13,7 +13,7 @@ Praeterea, sicut votum abstinentiae observatum potest vergere in periculum perso
 Praeterea, sicut sub professione religionis, ex qua votum solemnizatur, continetur votum continentiae, ita etiam et votum paupertatis et obedientiae. Sed in voto paupertatis et obedientiae potest dispensari, sicut patet in illis qui post professionem ad episcopatum assumuntur. Ergo videtur quod in solemni voto continentiae possit dispensari.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. XXVI, *omnis ponderatio non est digna animae continentis*.
+Sed contra est quod dicitur [[Si 26]], *omnis ponderatio non est digna animae continentis*.
 
 ###### s. c.
 Praeterea, extra, de statu Monach., in fine illius decretalis, cum ad monasterium, dicitur, abdicatio proprietatis, *sicut etiam custodia castitatis, adeo est annexa regulae monachali ut contra eam nec summus pontifex possit indulgere*.

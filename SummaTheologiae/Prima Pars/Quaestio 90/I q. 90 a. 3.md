@@ -10,7 +10,7 @@ Praeterea, finis rerum respondet principio, Deus enim est principium et finis re
 *Praeterea, perfectum est quod potest sibi simile facere*, ut dicitur in IV Meteor. Sed spirituales substantiae sunt multo magis perfectae quam corporales. Cum ergo corpora faciant sibi similia secundum speciem, multo magis Angeli poterunt facere aliquid infra se secundum speciem naturae, scilicet animam rationalem.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. II, quod *Deus ipse inspiravit in faciem hominis spiraculum vitae*.
+Sed contra est quod dicitur [[Gn 2]], quod *Deus ipse inspiravit in faciem hominis spiraculum vitae*.
 
 ###### co.
 Respondeo dicendum quod quidam posuerunt quod Angeli, secundum quod operantur in virtute Dei, causant animas rationales. Sed hoc est omnino impossibile, et a fide alienum. Ostensum est enim quod anima rationalis non potest produci nisi per creationem. Solus autem Deus potest creare. Quia solius primi agentis est agere, nullo praesupposito, cum semper agens secundum praesupponat aliquid a primo agente, ut supra habitum est. Quod autem agit aliquid ex aliquo praesupposito, agit transmutando. Et ideo nullum aliud agens agit nisi transmutando; sed solus Deus agit creando. Et quia anima rationalis non potest produci per transmutationem alicuius materiae, ideo non potest produci nisi a Deo immediate.

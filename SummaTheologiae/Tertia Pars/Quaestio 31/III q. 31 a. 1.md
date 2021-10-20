@@ -1,13 +1,13 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod caro Christi non fuerit sumpta ex Adam. Dicit enim apostolus, I Cor. XV, *primus homo de terra, terrenus, secundus homo de caelo, caelestis*. Primus autem homo est Adam, secundus homo est Christus. Ergo Christus non est ex Adam, sed habet ab eo distinctam originem.
+Ad primum sic proceditur. Videtur quod caro Christi non fuerit sumpta ex Adam. Dicit enim apostolus, [[1 Co 15]], *primus homo de terra, terrenus, secundus homo de caelo, caelestis*. Primus autem homo est Adam, secundus homo est Christus. Ergo Christus non est ex Adam, sed habet ab eo distinctam originem.
 
 ###### arg. 2
 Praeterea, conceptio Christi debuit esse maxime miraculosa. Sed maius est miraculum formare corpus hominis ex limo terrae quam ex materia humana, quae de Adam trahitur. Ergo videtur quod non fuit conveniens Christum ab Adam carnem assumpsisse. Ergo videtur quod corpus Christi non debuit formari de massa humani generis derivata ab Adam, sed de aliqua alia materia.
 
 ###### arg. 3
-*Praeterea, peccatum in hunc mundum intravit per hominem unum*, scilicet Adam, quia omnes in eo gentes originaliter peccaverunt, ut patet Rom. V. Sed si corpus Christi fuisset ab Adam sumptum, ipse etiam in Adam originaliter fuisset quando peccavit. Ergo peccatum originale contraxisset. Quod non decebat Christi puritatem. Non ergo corpus Christi est formatum de materia sumpta ab Adam.
+*Praeterea, peccatum in hunc mundum intravit per hominem unum*, scilicet Adam, quia omnes in eo gentes originaliter peccaverunt, ut patet [[Rm 5]]. Sed si corpus Christi fuisset ab Adam sumptum, ipse etiam in Adam originaliter fuisset quando peccavit. Ergo peccatum originale contraxisset. Quod non decebat Christi puritatem. Non ergo corpus Christi est formatum de materia sumpta ab Adam.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, ad Heb. II, *nusquam Angelos apprehendit*, scilicet filius Dei, *sed semen Abrahae apprehendit*. Semen autem Abrahae sumptum est ab Adam. Ergo corpus Christi fuit formatum de materia ex Adam sumpta.

@@ -1,7 +1,7 @@
 ### Articulus 12
 
 ###### arg. 1
-Ad duodecimum sic proceditur. Videtur quod synderesis sit quaedam specialis potentia ab aliis distincta. Ea enim quae cadunt sub una divisione, videntur esse unius generis. Sed in Glossa Hieronymi Ezech. I, dividitur synderesis contra irascibilem et concupiscibilem et rationalem; quae sunt quaedam potentiae. Ergo synderesis est quaedam potentia.
+Ad duodecimum sic proceditur. Videtur quod synderesis sit quaedam specialis potentia ab aliis distincta. Ea enim quae cadunt sub una divisione, videntur esse unius generis. Sed in Glossa Hieronymi [[Ez 1]], dividitur synderesis contra irascibilem et concupiscibilem et rationalem; quae sunt quaedam potentiae. Ergo synderesis est quaedam potentia.
 
 ###### arg. 2
 Praeterea, opposita sunt unius generis. Sed synderesis et sensualitas opponi videntur, quia synderesis semper inclinat ad bonum, sensualitas autem semper ad malum; unde per serpentem significatur, ut patet per Augustinum, XII de Trin. Videtur ergo quod synderesis sit potentia, sicut et sensualitas.

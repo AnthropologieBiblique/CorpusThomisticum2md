@@ -1,7 +1,7 @@
 ### Articulus 12
 
 ###### arg. 1
-Ad duodecimum sic proceditur. Videtur quod passio Christi sit eius divinitati attribuenda. Dicitur enim I Cor. II, *si cognovissent, nunquam dominum gloriae crucifixissent*. Sed dominus gloriae est Christus secundum divinitatem. Ergo passio Christi competit ei secundum divinitatem.
+Ad duodecimum sic proceditur. Videtur quod passio Christi sit eius divinitati attribuenda. Dicitur enim [[1 Co 2]], *si cognovissent, nunquam dominum gloriae crucifixissent*. Sed dominus gloriae est Christus secundum divinitatem. Ergo passio Christi competit ei secundum divinitatem.
 
 ###### arg. 2
 Praeterea, principium salutis humanae est ipsa divinitas, secundum illud Psalmi, *salus autem iustorum a domino*. Si ergo passio Christi ad eius divinitatem non pertineret, videtur quod non posset esse nobis fructifera.

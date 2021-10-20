@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod etiam creaturae irrationales sint ex caritate diligendae. Per caritatem enim maxime conformamur Deo. Sed Deus diligit creaturas irrationales ex caritate, diligit enim omnia quae sunt, ut habetur Sap. XI; et omne quod diligit, seipso diligit, qui est caritas. Ergo et nos debemus creaturas irrationales ex caritate diligere.
+Ad tertium sic proceditur. Videtur quod etiam creaturae irrationales sint ex caritate diligendae. Per caritatem enim maxime conformamur Deo. Sed Deus diligit creaturas irrationales ex caritate, diligit enim omnia quae sunt, ut habetur [[Sg 11]]; et omne quod diligit, seipso diligit, qui est caritas. Ergo et nos debemus creaturas irrationales ex caritate diligere.
 
 ###### arg. 2
 Praeterea, caritas principaliter fertur in Deum, ad alia autem se extendit secundum quod ad Deum pertinent. Sed sicut creatura rationalis pertinet ad Deum inquantum habet similitudinem imaginis, ita etiam creatura irrationalis inquantum habet similitudinem vestigii. Ergo caritas etiam se extendit ad creaturas irrationales.

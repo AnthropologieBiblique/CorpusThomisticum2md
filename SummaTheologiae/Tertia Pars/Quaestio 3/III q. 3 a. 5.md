@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod nulla alia persona divina potuit humanam naturam assumere, praeter personam filii. Per huiusmodi enim assumptionem factum est quod Deus sit filius hominis. Sed inconveniens esset quod esse filium conveniret patri vel spiritui sancto, hoc enim vergeret in confusionem divinarum personarum. Ergo pater et spiritus sanctus carnem assumere non possent.
 
 ###### arg. 2
-Praeterea, per incarnationem divinam homines sunt assecuti adoptionem filiorum, secundum illud Rom. VIII, *non accepistis spiritum servitutis iterum in timore, sed spiritum adoptionis filiorum*. Sed filiatio adoptiva est participata similitudo filiationis naturalis, quae non convenit nec patri nec spiritui sancto, unde dicitur Rom. VIII, *quos praescivit et praedestinavit conformes fieri imaginis filii sui*. Ergo videtur quod nulla alia persona potuit incarnari praeter personam filii.
+Praeterea, per incarnationem divinam homines sunt assecuti adoptionem filiorum, secundum illud [[Rm 8]], *non accepistis spiritum servitutis iterum in timore, sed spiritum adoptionis filiorum*. Sed filiatio adoptiva est participata similitudo filiationis naturalis, quae non convenit nec patri nec spiritui sancto, unde dicitur [[Rm 8]], *quos praescivit et praedestinavit conformes fieri imaginis filii sui*. Ergo videtur quod nulla alia persona potuit incarnari praeter personam filii.
 
 ###### arg. 3
 Praeterea, filius dicitur missus, et genitus nativitate temporali, secundum quod incarnatus est. Sed patri non convenit mitti, qui est innascibilis, ut in prima parte habitum est. Ergo saltem persona patris non potuit incarnari.

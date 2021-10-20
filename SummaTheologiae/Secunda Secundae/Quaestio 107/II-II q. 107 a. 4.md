@@ -1,16 +1,16 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod ingratis sint beneficia subtrahenda. Dicitur enim Sap. XVI, *ingratis spes tanquam hibernalis glacies tabescet*. Non autem eius spes tabesceret si non esset ei beneficium subtrahendum. Ergo sunt subtrahenda beneficia ingratis.
+Ad quartum sic proceditur. Videtur quod ingratis sint beneficia subtrahenda. Dicitur enim [[Sg 16]], *ingratis spes tanquam hibernalis glacies tabescet*. Non autem eius spes tabesceret si non esset ei beneficium subtrahendum. Ergo sunt subtrahenda beneficia ingratis.
 
 ###### arg. 2
 Praeterea, nullus debet alteri praebere occasionem peccandi. Sed ingratus beneficium recipiens sumit ingratitudinis occasionem ergo non est ingrato beneficium dandum.
 
 ###### arg. 3
-*Praeterea, in quo quis peccat, per hoc et torquetur*, ut dicitur Sap. XI. Sed ille qui ingratus est beneficio accepto, peccat contra beneficium. Ergo est beneficio privandus.
+*Praeterea, in quo quis peccat, per hoc et torquetur*, ut dicitur [[Sg 11]]. Sed ille qui ingratus est beneficio accepto, peccat contra beneficium. Ergo est beneficio privandus.
 
 ###### s. c.
-Sed contra est quod dicitur Luc. VI, quod *altissimus benignus est super ingratos et malos*. Sed eius per imitationem nos filios esse oportet, ut ibidem dicitur. Ergo non debemus beneficia ingratis subtrahere.
+Sed contra est quod dicitur [[Lc 6]], quod *altissimus benignus est super ingratos et malos*. Sed eius per imitationem nos filios esse oportet, ut ibidem dicitur. Ergo non debemus beneficia ingratis subtrahere.
 
 ###### co.
 Respondeo dicendum quod circa ingratum duo consideranda sunt. Primo quidem, quid ipse dignus sit pati. Et sic certum est quod meretur beneficii subtractionem. Alio modo, considerandum est quid oporteat beneficum facere. Primo namque, debet non esse facilis ad ingratitudinem iudicandam, quia frequenter aliquis, ut Seneca dicit, qui non reddidit, gratus est; quia forte non occurrit ei facultas aut debita opportunitas reddendi. Secundo, debet tendere ad hoc quod de ingrato gratum faciat, quod si non potest primo beneficio facere, forte faciet secundo. Si vero ex beneficiis multiplicatis ingratitudinem augeat et peior fiat, debet a beneficiorum exhibitione cessare.

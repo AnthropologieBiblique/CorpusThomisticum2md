@@ -1,13 +1,13 @@
 ### Articulus 12
 
 ###### arg. 1
-Ad duodecimum sic proceditur. Videtur quod paupertas spiritus non sit beatitudo respondens dono timoris. Timor enim est initium spiritualis vitae, ut ex dictis patet. Sed paupertas pertinet ad perfectionem vitae spiritualis, secundum illud Matth. XIX, *si vis perfectus esse, vade et vende omnia quae habes, et da pauperibus*. Ergo paupertas spiritus non respondet dono timoris.
+Ad duodecimum sic proceditur. Videtur quod paupertas spiritus non sit beatitudo respondens dono timoris. Timor enim est initium spiritualis vitae, ut ex dictis patet. Sed paupertas pertinet ad perfectionem vitae spiritualis, secundum illud [[Mt 19]], *si vis perfectus esse, vade et vende omnia quae habes, et da pauperibus*. Ergo paupertas spiritus non respondet dono timoris.
 
 ###### arg. 2
 Praeterea, in Psalm. dicitur, *confige timore tuo carnes meas*, ex quo videtur quod ad timorem pertineat carnem reprimere. Sed ad repressionem carnis maxime videtur pertinere beatitudo luctus. Ergo beatitudo luctus magis respondet dono timoris quam beatitudo paupertatis.
 
 ###### arg. 3
-Praeterea, donum timoris respondet virtuti spei, sicut dictum est. Sed spei maxime videtur respondere beatitudo ultima, quae est, *beati pacifici, quoniam filii Dei vocabuntur*, quia, ut dicitur Rom. V, *gloriamur in spe gloriae filiorum Dei*. Ergo illa beatitudo magis respondet dono timoris quam paupertas spiritus.
+Praeterea, donum timoris respondet virtuti spei, sicut dictum est. Sed spei maxime videtur respondere beatitudo ultima, quae est, *beati pacifici, quoniam filii Dei vocabuntur*, quia, ut dicitur [[Rm 5]], *gloriamur in spe gloriae filiorum Dei*. Ergo illa beatitudo magis respondet dono timoris quam paupertas spiritus.
 
 ###### arg. 4
 Praeterea, supra dictum est quod beatitudinibus respondent fructus. Sed nihil in fructibus invenitur respondere dono timoris. Ergo etiam neque in beatitudinibus aliquid ei respondet.

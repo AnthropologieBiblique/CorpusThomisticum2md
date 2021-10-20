@@ -7,7 +7,7 @@ Ad decimum sic proceditur. Videtur quod intentio recta ministri requiratur ad pe
 Praeterea, perversa intentio deterior esse videtur quam intentio iocosa. Sed intentio iocosa tollit sacramentum, puta si aliquis non serio, sed ludo aliquem baptizaret. Ergo multo magis perversa intentio aufert sacramentum, puta si aliquis aliquem baptizaret ut postmodum eum occideret.
 
 ###### arg. 3
-Praeterea, perversa intentio facit totum opus vitiosum, secundum illud Luc. XI, *si oculus tuus fuerit nequam, totum corpus tuum tenebrosum erit*. Sed sacramenta Christi non possunt inquinari per malos homines, sicut Augustinus dicit, contra Petilianum. Ergo videtur quod, si sit perversa intentio ministri, non sit ibi verum sacramentum.
+Praeterea, perversa intentio facit totum opus vitiosum, secundum illud [[Lc 11]], *si oculus tuus fuerit nequam, totum corpus tuum tenebrosum erit*. Sed sacramenta Christi non possunt inquinari per malos homines, sicut Augustinus dicit, contra Petilianum. Ergo videtur quod, si sit perversa intentio ministri, non sit ibi verum sacramentum.
 
 ###### s. c.
 Sed contra est quod perversa intentio pertinet ad malitiam ministri. Sed malitia ministri non tollit sacramentum. Ergo nec perversa intentio.

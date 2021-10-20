@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod omnia peccata procedant ex tentatione Diaboli. Dicit enim Dionysius, IV cap. de Div. Nom., quod *multitudo Daemonum est causa omnium malorum et sibi et aliis*. Et Damascenus dicit quod *omnis malitia et omnis immunditia a Diabolo excogitatae sunt*.
 
 ###### arg. 2
-Praeterea, de quolibet peccatore dici posset quod dominus de Iudaeis dicit, Ioan. VIII, *vos ex patre Diabolo estis*. Hoc autem est inquantum ipsi ex Diaboli suggestione peccabant. Omne ergo peccatum est ex suggestione Diaboli.
+Praeterea, de quolibet peccatore dici posset quod dominus de Iudaeis dicit, [[Jn 8]], *vos ex patre Diabolo estis*. Hoc autem est inquantum ipsi ex Diaboli suggestione peccabant. Omne ergo peccatum est ex suggestione Diaboli.
 
 ###### arg. 3
 Praeterea, sicut Angeli deputantur ad custodiam hominum, ita Daemones ad impugnationem. Sed omnia bona quae facimus, ex suggestione bonorum Angelorum procedunt, quia divina ad nos mediantibus Angelis perferuntur. Ergo et omnia mala quae facimus, proveniunt ex suggestione Diaboli.

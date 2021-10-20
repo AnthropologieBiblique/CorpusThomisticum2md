@@ -4,10 +4,10 @@
 Ad quintum sic proceditur. Videtur quod virginitas sit maxima virtutum. Dicit enim Cyprianus, in libro de Virginit., *nunc nobis ad virgines sermo est. Quarum quo sublimior gloria est, maior et cura. Flos est ille ecclesiastici germinis, decus atque ornamentum gratiae spiritualis, illustrior portio gregis Christi*.
 
 ###### arg. 2
-Praeterea, maius praemium debetur maiori virtuti. Sed virginitati debetur maximum praemium, scilicet fructus centesimus, ut patet Matth. XIII, in Glossa. Ergo virginitas est maxima virtutum.
+Praeterea, maius praemium debetur maiori virtuti. Sed virginitati debetur maximum praemium, scilicet fructus centesimus, ut patet [[Mt 13]], in Glossa. Ergo virginitas est maxima virtutum.
 
 ###### arg. 3
-Praeterea, tanto aliqua virtus est maior, quanto per eam magis aliquis Christo conformatur. Sed maxime aliquis conformatur Christo per virginitatem, dicitur enim Apoc. XIV de virginibus, quod sequuntur agnum quocumque ierit, et quod *cantant canticum novum, quod nemo alius poterat dicere*. Ergo virginitas est maxima virtutum.
+Praeterea, tanto aliqua virtus est maior, quanto per eam magis aliquis Christo conformatur. Sed maxime aliquis conformatur Christo per virginitatem, dicitur enim [[Ap 14]] de virginibus, quod sequuntur agnum quocumque ierit, et quod *cantant canticum novum, quod nemo alius poterat dicere*. Ergo virginitas est maxima virtutum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de Virginit., *nemo, quantum puto, ausus fuit virginitatem praeferre monasterio*. Et in eodem libro dicit, *praeclarissimum testimonium perhibet ecclesiastica auctoritas, in qua fidelibus notum est quo loco martyres, et quo defunctae sanctimoniales ad altaris sacramenta recitentur*. Per quod datur intelligi quod martyrium virginitati praefertur, et similiter monasterii status.

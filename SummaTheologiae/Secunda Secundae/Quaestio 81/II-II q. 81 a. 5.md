@@ -7,7 +7,7 @@ Ad quintum sic proceditur. Videtur quod religio sit virtus theologica. Dicit eni
 Praeterea, virtus theologica dicitur quae habet Deum pro obiecto. Religio autem habet Deum pro obiecto, quia ad solum Deum ordinat, ut dictum est. Ergo religio est virtus theologica.
 
 ###### arg. 3
-Praeterea, omnis virtus vel est theologica, vel intellectualis, vel moralis, ut ex supradictis patet. Manifestum est autem quod religio non est virtus intellectualis, quia eius perfectio non attenditur secundum considerationem veri. Similiter etiam non est virtus moralis, cuius proprium est tenere medium inter superfluum et diminutum, non enim aliquis potest superflue Deum colere, secundum illud Eccli. XLIII, *benedicentes dominum, exaltate illum quantum potestis, maior enim est omni laude*. Ergo relinquitur quod sit virtus theologica.
+Praeterea, omnis virtus vel est theologica, vel intellectualis, vel moralis, ut ex supradictis patet. Manifestum est autem quod religio non est virtus intellectualis, quia eius perfectio non attenditur secundum considerationem veri. Similiter etiam non est virtus moralis, cuius proprium est tenere medium inter superfluum et diminutum, non enim aliquis potest superflue Deum colere, secundum illud [[Si 43]], *benedicentes dominum, exaltate illum quantum potestis, maior enim est omni laude*. Ergo relinquitur quod sit virtus theologica.
 
 ###### s. c.
 Sed contra est quod ponitur pars iustitiae, quae est virtus moralis.

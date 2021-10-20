@@ -1,10 +1,10 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur conveniens fuisse quod discipuli viderent Christum resurgere. Ad discipulos enim pertinebat resurrectionem Christi testificari, secundum illud Act. IV, *virtute magna reddebant apostoli testimonium resurrectionis Iesu Christi, domini nostri*. Sed certissimum est testimonium de visu. Ergo conveniens fuisset ut ipsam resurrectionem Christi viderent.
+Ad secundum sic proceditur. Videtur conveniens fuisse quod discipuli viderent Christum resurgere. Ad discipulos enim pertinebat resurrectionem Christi testificari, secundum illud [[Ac 4]], *virtute magna reddebant apostoli testimonium resurrectionis Iesu Christi, domini nostri*. Sed certissimum est testimonium de visu. Ergo conveniens fuisset ut ipsam resurrectionem Christi viderent.
 
 ###### arg. 2
-Praeterea, ad certitudinem fidei habendam, discipuli ascensionem Christi viderunt, secundum illud Act. I, *videntibus illis, elevatus est*. Sed similiter oporteret de resurrectione Christi certam fidem habere. Ergo videtur quod, discipulis videntibus, debuerit Christus resurgere.
+Praeterea, ad certitudinem fidei habendam, discipuli ascensionem Christi viderunt, secundum illud [[Ac 1]], *videntibus illis, elevatus est*. Sed similiter oporteret de resurrectione Christi certam fidem habere. Ergo videtur quod, discipulis videntibus, debuerit Christus resurgere.
 
 ###### arg. 3
 Praeterea, resurrectio Lazari quoddam indicium fuit futurae resurrectionis Christi. Sed, discipulis videntibus, dominus Lazarum suscitavit. Ergo videtur quod etiam Christus resurgere debuerit, discipulis videntibus.
@@ -13,7 +13,7 @@ Praeterea, resurrectio Lazari quoddam indicium fuit futurae resurrectionis Chris
 Sed contra est quod dicitur Marci ult., *resurgens dominus mane prima sabbati, apparuit primo Mariae Magdalenae*. Sed Maria Magdalena non vidit eum resurgere, sed, cum eum quaereret in sepulcro, audivit ab Angelo, *surrexit dominus, non est hic*. Ergo nullus vidit eum resurgere.
 
 ###### co.
-Respondeo dicendum quod, sicut apostolus dicit, Rom. XIII, *quae a Deo sunt, ordinata sunt*. Est autem hic ordo divinitus institutus, ut ea quae supra homines sunt, hominibus per Angelos revelentur, ut patet per Dionysium, IV cap. Cael. Hier. Christus autem resurgens non rediit ad vitam communiter omnibus notam, sed ad vitam quandam immortalem et Deo conformem, secundum illud Rom. VI, *quod enim vivit, vivit Deo*. Et ideo ipsa Christi resurrectio non debuit immediate ab hominibus videri, sed eis ab Angelis nuntiari. Unde Hilarius dicit, super Matth., quod *ideo Angelus prior resurrectionis est index, ut quodam famulatu paternae voluntatis resurrectio nuntiaretur*.
+Respondeo dicendum quod, sicut apostolus dicit, [[Rm 13]], *quae a Deo sunt, ordinata sunt*. Est autem hic ordo divinitus institutus, ut ea quae supra homines sunt, hominibus per Angelos revelentur, ut patet per Dionysium, IV cap. Cael. Hier. Christus autem resurgens non rediit ad vitam communiter omnibus notam, sed ad vitam quandam immortalem et Deo conformem, secundum illud [[Rm 13]], *quod enim vivit, vivit Deo*. Et ideo ipsa Christi resurrectio non debuit immediate ab hominibus videri, sed eis ab Angelis nuntiari. Unde Hilarius dicit, super Matth., quod *ideo Angelus prior resurrectionis est index, ut quodam famulatu paternae voluntatis resurrectio nuntiaretur*.
 
 ###### ad 1
 Ad primum ergo dicendum quod apostoli potuerunt testificari Christi resurrectionem etiam de visu, quia Christum post resurrectionem viventem oculata fide viderunt, quem mortuum sciverant. Sed sicut ad visionem beatam pervenitur per auditum fidei, ita ad visionem Christi resurgentis pervenerunt homines per ea quae prius ab Angelis audierunt.

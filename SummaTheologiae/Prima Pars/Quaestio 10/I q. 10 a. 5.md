@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod aevum non sit aliud a tempore. Dicit enim Augustinus, VIII super Gen. ad Litt., quod *Deus movet creaturam spiritualem per tempus*. Sed aevum dicitur esse mensura spiritualium substantiarum. Ergo tempus non differt ab aevo.
 
 ###### arg. 2
-Praeterea, de ratione temporis est quod habeat prius et posterius, de ratione vero aeternitatis est quod sit tota simul, ut dictum est. Sed aevum non est aeternitas, dicitur enim Eccli. I, quod sapientia aeterna est ante aevum. Ergo non est totum simul, sed habet prius et posterius, et ita est tempus.
+Praeterea, de ratione temporis est quod habeat prius et posterius, de ratione vero aeternitatis est quod sit tota simul, ut dictum est. Sed aevum non est aeternitas, dicitur enim [[Si 1]], quod sapientia aeterna est ante aevum. Ergo non est totum simul, sed habet prius et posterius, et ita est tempus.
 
 ###### arg. 3
 Praeterea, si in aevo non est prius et posterius, sequitur quod in aeviternis non differat esse vel fuisse vel futurum esse. Cum igitur sit impossibile aeviterna non fuisse, sequitur quod impossibile sit ea non futura esse. Quod falsum est, cum Deus possit ea reducere in nihilum.

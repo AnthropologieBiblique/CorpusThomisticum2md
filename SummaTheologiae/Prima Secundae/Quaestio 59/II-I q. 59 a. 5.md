@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod virtus moralis possit esse absque passione. Quanto enim virtus moralis est perfectior, tanto magis superat passiones. Ergo in suo perfectissimo esse, est omnino absque passionibus.
 
 ###### arg. 2
-Praeterea, tunc unumquodque est perfectum, quando est remotum a suo contrario, et ab his quae ad contrarium inclinant. Sed passiones inclinant ad peccatum, quod virtuti contrariatur, unde Rom. VII, nominantur passiones peccatorum. Ergo perfecta virtus est omnino absque passione.
+Praeterea, tunc unumquodque est perfectum, quando est remotum a suo contrario, et ab his quae ad contrarium inclinant. Sed passiones inclinant ad peccatum, quod virtuti contrariatur, unde [[Rm 7]], nominantur passiones peccatorum. Ergo perfecta virtus est omnino absque passione.
 
 ###### arg. 3
 Praeterea, secundum virtutem Deo conformamur; ut patet per Augustinum, in libro de moribus Eccles. Sed Deus omnia operatur sine passione. Ergo virtus perfectissima est absque omni passione.

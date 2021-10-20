@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod non requiratur ad materiam huius sacramenti quod sit panis triticeus. Hoc enim sacramentum est rememorativum dominicae passionis. Sed magis videtur esse consonum dominicae passioni panis hordeaceus, qui est asperior, et de quo etiam turbas pavit in monte, ut dicitur Ioan. VI, quam panis triticeus. Ergo non est propria materia huius sacramenti panis triticeus.
+Ad tertium sic proceditur. Videtur quod non requiratur ad materiam huius sacramenti quod sit panis triticeus. Hoc enim sacramentum est rememorativum dominicae passionis. Sed magis videtur esse consonum dominicae passioni panis hordeaceus, qui est asperior, et de quo etiam turbas pavit in monte, ut dicitur [[Jn 6]], quam panis triticeus. Ergo non est propria materia huius sacramenti panis triticeus.
 
 ###### arg. 2
 Praeterea, figura est signum speciei in rebus naturalibus. Sed quaedam frumenta sunt quae habent similem figuram grano tritici, sicut far et spelta, de qua etiam in quibusdam locis panis conficitur ad usum huius sacramenti. Ergo panis triticeus non est propria materia huius sacramenti.
@@ -13,7 +13,7 @@ Praeterea, permixtio speciem solvit. Sed vix invenitur farina triticea quae alte
 Praeterea, illud quod est corruptum, videtur esse alterius speciei. Sed aliqui conficiunt ex pane corrupto, qui iam non videtur esse panis triticeus. Ergo videtur quod talis panis non sit propria materia huius sacramenti.
 
 ###### s. c.
-Sed contra est quod in hoc sacramento continetur Christus, qui se grano frumenti comparat, Ioan. XII, dicens, *nisi granum frumenti, cadens in terram, mortuum fuerit, ipsum solum manet*. Ergo panis frumentinus, sive triticeus, est materia huius sacramenti.
+Sed contra est quod in hoc sacramento continetur Christus, qui se grano frumenti comparat, [[Jn 12]], dicens, *nisi granum frumenti, cadens in terram, mortuum fuerit, ipsum solum manet*. Ergo panis frumentinus, sive triticeus, est materia huius sacramenti.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, ad usum sacramentorum assumitur talis materia quae communius apud homines in talem usum venit. Inter alios autem panes communius homines utuntur pane triticeo, nam alii panes videntur esse introducti in huius panis defectum. Et ideo Christus creditur in huius panis specie hoc sacramentum instituisse. Qui etiam panis confortat hominem, et ita convenientius significat effectum huius sacramenti. Et ideo propria materia huius sacramenti est panis triticeus.

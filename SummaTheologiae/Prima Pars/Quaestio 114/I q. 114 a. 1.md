@@ -10,7 +10,7 @@ Praeterea, non est aequa conditio pugnae, ut infirmus contra fortem, ignarus con
 Praeterea, ad exercitium hominum sufficit impugnatio carnis et mundi. Sed Deus permittit electos suos impugnari propter eorum exercitium. Ergo non videtur necessarium quod a Daemonibus impugnentur.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Ephes. VI, quod *non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae in caelestibus*.
+Sed contra est quod apostolus dicit, ad [[Ep 6]], quod *non est nobis colluctatio adversus carnem et sanguinem, sed adversus principes et potestates, adversus mundi rectores tenebrarum harum, contra spiritualia nequitiae in caelestibus*.
 
 ###### co.
 Respondeo dicendum quod circa impugnationem Daemonum duo est considerare, scilicet ipsam impugnationem, et impugnationis ordinem. Impugnatio quidem ipsa ex Daemonum malitia procedit, qui propter invidiam profectum hominum impedire nituntur; et propter superbiam divinae potestatis similitudinem usurpant, deputando sibi ministros determinatos ad hominum impugnationem, sicut et Angeli Deo ministrant in determinatis officiis ad hominum salutem. Sed ordo impugnationis ipsius est a Deo, qui ordinate novit malis uti, ad bona ea ordinando. Sed ex parte Angelorum, tam ipsa custodia quam ordo custodiae reducitur ad Deum, sicut ad primum auctorem.

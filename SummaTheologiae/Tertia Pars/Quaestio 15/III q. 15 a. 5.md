@@ -10,7 +10,7 @@ Praeterea, hoc proprium videtur esse carni in peccato conceptae, quod necessitat
 Praeterea, delectatio contemplationis divinorum diminuit sensum doloris, unde et martyres in passionibus suis tolerabilius dolorem sustinuerunt ex consideratione divini amoris. Sed anima Christi summe delectabatur in contemplatione Dei, quem per essentiam videbat, ut supra dictum est. Non ergo poterat sentire aliquem dolorem.
 
 ###### s. c.
-Sed contra est quod Isaiae LIII dicitur, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*.
+Sed contra est quod [[Is 53]] dicitur, *vere languores nostros ipse tulit, et dolores nostros ipse portavit*.
 
 ###### co.
 Respondeo dicendum quod, sicut patet ex his quae in secunda parte dicta sunt, ad veritatem doloris sensibilis requiritur laesio corporis et sensus laesionis. Corpus autem Christi laedi poterat, quia erat passibile et mortale, ut supra habitum est. Nec defuit ei sensus laesionis, cum anima Christi perfecte haberet omnes potentias naturales. Unde nulli dubium debet esse quin in Christo fuerit verus dolor.

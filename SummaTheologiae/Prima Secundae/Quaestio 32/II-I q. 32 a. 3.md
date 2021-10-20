@@ -4,13 +4,13 @@
 Ad tertium sic proceditur. Videtur quod memoria et spes non sint causae delectationis. Delectatio enim est de bono praesenti, ut Damascenus dicit. Sed memoria et spes sunt de absenti, est enim memoria praeteritorum, spes vero futurorum. Ergo memoria et spes non sunt causa delectationis.
 
 ###### arg. 2
-Praeterea, idem non est causa contrariorum. Sed spes est causa afflictionis, dicitur enim Prov. XIII, *spes quae differtur, affligit animam*. Ergo spes non est causa delectationis.
+Praeterea, idem non est causa contrariorum. Sed spes est causa afflictionis, dicitur enim [[Pr 13]], *spes quae differtur, affligit animam*. Ergo spes non est causa delectationis.
 
 ###### arg. 3
 Praeterea, sicut spes convenit cum delectatione in eo quod est de bono, ita etiam concupiscentia et amor. Non ergo magis debet assignari spes causa delectationis, quam concupiscentia vel amor.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. XII, *spe gaudentes*; et in Psalmo LXXVI, *memor fui Dei, et delectatus sum*.
+Sed contra est quod dicitur [[Rm 12]], *spe gaudentes*; et in Psalmo LXXVI, *memor fui Dei, et delectatus sum*.
 
 ###### co.
 Respondeo dicendum quod delectatio causatur ex praesentia boni convenientis, secundum quod sentitur, vel qualitercumque percipitur. Est autem aliquid praesens nobis dupliciter, uno modo, secundum cognitionem, prout scilicet cognitum est in cognoscente secundum suam similitudinem; alio modo, secundum rem, prout scilicet unum alteri realiter coniungitur, vel actu vel potentia, secundum quemcumque coniunctionis modum. Et quia maior est coniunctio secundum rem quam secundum similitudinem, quae est coniunctio cognitionis; itemque maior est coniunctio rei in actu quam in potentia, ideo maxima est delectatio quae fit per sensum, qui requirit praesentiam rei sensibilis. Secundum autem gradum tenet delectatio spei, in qua non solum est delectabilis coniunctio secundum apprehensionem, sed etiam secundum facultatem vel potestatem adipiscendi bonum quod delectat. Tertium autem gradum tenet delectatio memoriae, quae habet solam coniunctionem apprehensionis.

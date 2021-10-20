@@ -1,10 +1,10 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod homo in statu innocentiae potuerit peccare venialiter. Quia super illud I ad Tim. II, *Adam non est seductus*, dicit Glossa, *inexpertus divinae severitatis, in eo falli potuit, ut crederet veniale esse commissum*. Sed hoc non credidisset, nisi venialiter peccare potuisset. Ergo venialiter peccare potuit, non peccando mortaliter.
+Ad tertium sic proceditur. Videtur quod homo in statu innocentiae potuerit peccare venialiter. Quia super illud [[1 Tm 2]], *Adam non est seductus*, dicit Glossa, *inexpertus divinae severitatis, in eo falli potuit, ut crederet veniale esse commissum*. Sed hoc non credidisset, nisi venialiter peccare potuisset. Ergo venialiter peccare potuit, non peccando mortaliter.
 
 ###### arg. 2
-Praeterea, Augustinus dicit, XI super Gen. ad Litt., *non est arbitrandum quod esset hominem deiecturus tentator, nisi praecessisset in anima hominis quaedam elatio comprimenda*. Elatio autem deiectionem praecedens, quae facta est per peccatum mortale, non potuit esse nisi peccatum veniale. Similiter etiam in eodem Augustinus dicit quod *virum sollicitavit aliqua experiendi cupiditas, cum mulierem videret, sumpto vetito pomo, non esse mortuam*. Videtur etiam in Eva fuisse aliquis infidelitatis motus, in hoc quod de verbis domini dubitavit, ut patet per hoc quod dixit, ne forte moriamur, ut habetur Gen. III. Haec autem videntur esse venialia peccata. Ergo homo potuit venialiter peccare, antequam mortaliter peccaret.
+Praeterea, Augustinus dicit, XI super Gen. ad Litt., *non est arbitrandum quod esset hominem deiecturus tentator, nisi praecessisset in anima hominis quaedam elatio comprimenda*. Elatio autem deiectionem praecedens, quae facta est per peccatum mortale, non potuit esse nisi peccatum veniale. Similiter etiam in eodem Augustinus dicit quod *virum sollicitavit aliqua experiendi cupiditas, cum mulierem videret, sumpto vetito pomo, non esse mortuam*. Videtur etiam in Eva fuisse aliquis infidelitatis motus, in hoc quod de verbis domini dubitavit, ut patet per hoc quod dixit, ne forte moriamur, ut habetur [[Gn 3]]. Haec autem videntur esse venialia peccata. Ergo homo potuit venialiter peccare, antequam mortaliter peccaret.
 
 ###### arg. 3
 Praeterea, peccatum mortale magis opponitur integritati primi status quam peccatum veniale. Sed homo potuit peccare mortaliter, non obstante integritate primi status. Ergo etiam potuit peccare venialiter.

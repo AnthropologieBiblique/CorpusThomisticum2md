@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod Angelus possit esse in pluribus locis s
 Praeterea, Angelus est in corpore assumpto; et cum assumat corpus continuum, videtur quod sit in qualibet eius parte. Sed secundum partes eius considerantur diversa loca. Ergo Angelus est simul in pluribus locis.
 
 ###### arg. 3
-Praeterea, Damascenus dicit quod ubi Angelus operatur, ibi est. Sed aliquando operatur simul in pluribus locis, ut patet de Angelo subvertente Sodomam, Gen. XIX. Ergo Angelus potest esse in pluribus locis simul.
+Praeterea, Damascenus dicit quod ubi Angelus operatur, ibi est. Sed aliquando operatur simul in pluribus locis, ut patet de Angelo subvertente Sodomam, [[Gn 19]]. Ergo Angelus potest esse in pluribus locis simul.
 
 ###### s. c.
 Sed contra est quod Damascenus dicit, quod *Angeli, dum sunt in caelo, non sunt in terra*.

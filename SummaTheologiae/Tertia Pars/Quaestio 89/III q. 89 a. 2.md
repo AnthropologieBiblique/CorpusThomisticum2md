@@ -1,13 +1,13 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod post poenitentiam resurgat homo in aequali virtute. Dicit enim apostolus, Rom. VIII, *diligentibus Deum omnia cooperantur in bonum*, ubi dicit Glossa Augustini quod hoc adeo verum est *ut, si qui horum devient et exorbitent, hoc ipsum Deus faciat eis in bonum proficere*. Sed hoc non esset si homo resurgeret in minori virtute.
+Ad secundum sic proceditur. Videtur quod post poenitentiam resurgat homo in aequali virtute. Dicit enim apostolus, [[Rm 8]], *diligentibus Deum omnia cooperantur in bonum*, ubi dicit Glossa Augustini quod hoc adeo verum est *ut, si qui horum devient et exorbitent, hoc ipsum Deus faciat eis in bonum proficere*. Sed hoc non esset si homo resurgeret in minori virtute.
 
 ###### arg. 2
 Praeterea, Ambrosius dicit quod *poenitentia optima res est, quae omnes defectus revocat ad perfectum*. Sed hoc non esset nisi virtutes in aequali quantitate recuperarentur. Ergo per poenitentiam semper recuperatur aequalis virtus.
 
 ###### arg. 3
-Praeterea, super illud Genes. I, *factum est vespere et mane dies unus*, dicit Glossa, *vespertina lux est a qua quis cecidit, matutina in qua resurgit*. Sed lux matutina est maior quam vespertina. Ergo aliquis resurgit in maiori gratia vel caritate quam prius habuerat. Quod etiam videtur per id quod apostolus dicit, Rom. V, *ubi abundavit delictum, superabundavit et gratia*.
+Praeterea, super illud Genes. I, *factum est vespere et mane dies unus*, dicit Glossa, *vespertina lux est a qua quis cecidit, matutina in qua resurgit*. Sed lux matutina est maior quam vespertina. Ergo aliquis resurgit in maiori gratia vel caritate quam prius habuerat. Quod etiam videtur per id quod apostolus dicit, [[Rm 5]], *ubi abundavit delictum, superabundavit et gratia*.
 
 ###### s. c.
 Sed contra, caritas proficiens vel perfecta maior est quam caritas incipiens. Sed quandoque aliquis cadit a caritate proficiente, resurgit autem in caritate incipiente. Ergo semper resurgit homo in minori etiam virtute.

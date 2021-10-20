@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod in Deo sit compositio formae et materiae. Omne enim quod habet animam, est compositum ex materia et forma, quia anima est forma corporis. Sed Scriptura attribuit animam Deo, introducitur enim ad Hebr. X, ex persona Dei, *iustus autem meus ex fide vivit; quod si subtraxerit se, non placebit animae meae*. Ergo Deus est compositus ex materia et forma.
+Ad secundum sic proceditur. Videtur quod in Deo sit compositio formae et materiae. Omne enim quod habet animam, est compositum ex materia et forma, quia anima est forma corporis. Sed Scriptura attribuit animam Deo, introducitur enim ad [[He 10]], ex persona Dei, *iustus autem meus ex fide vivit; quod si subtraxerit se, non placebit animae meae*. Ergo Deus est compositus ex materia et forma.
 
 ###### arg. 2
 Praeterea, ira, gaudium, et huiusmodi, sunt passiones coniuncti, ut dicitur I de anima. Sed huiusmodi attribuuntur Deo in Scriptura dicitur enim in Psalmo, *iratus est furore dominus in populum suum*. Ergo Deus ex materia et forma est compositus.

@@ -7,13 +7,13 @@ Ad quintum sic proceditur. Videtur quod etiam aliquis gradus prophetiae est in b
 Praeterea, prophetia est divina revelatio. Sed divinae revelationes fiunt etiam Angelis beatis. Ergo etiam Angeli beati possunt dici prophetae.
 
 ###### arg. 3
-Praeterea, Christus ab instanti conceptionis fuit comprehensor. Et tamen ipse prophetam se nominat, Matth. XIII, ubi dicit, *non est propheta sine honore nisi in patria sua*. Ergo etiam comprehensores et beati possunt dici prophetae.
+Praeterea, Christus ab instanti conceptionis fuit comprehensor. Et tamen ipse prophetam se nominat, [[Mt 13]], ubi dicit, *non est propheta sine honore nisi in patria sua*. Ergo etiam comprehensores et beati possunt dici prophetae.
 
 ###### arg. 4
-Praeterea, de Samuele dicitur, Eccli. XLVI, *exaltavit vocem eius de terra in prophetia, delere impietatem gentis*. Ergo, eadem ratione, alii sancti post mortem possunt dici prophetae.
+Praeterea, de Samuele dicitur, [[Si 46]], *exaltavit vocem eius de terra in prophetia, delere impietatem gentis*. Ergo, eadem ratione, alii sancti post mortem possunt dici prophetae.
 
 ###### s. c.
-Sed contra est quod II Pet. I, sermo propheticus comparatur lucernae lucenti in caliginoso loco. Sed in beatis nulla est caligo. Ergo non possunt dici prophetae.
+Sed contra est quod [[2 P 1]], sermo propheticus comparatur lucernae lucenti in caliginoso loco. Sed in beatis nulla est caligo. Ergo non possunt dici prophetae.
 
 ###### co.
 Respondeo dicendum quod prophetia importat visionem quandam alicuius supernaturalis veritatis ut procul existentis. Quod quidem contingit esse dupliciter. Uno modo, ex parte ipsius cognitionis, quia videlicet veritas supernaturalis non cognoscitur in seipsa, sed in aliquibus suis effectibus. Et adhuc erit magis procul si hoc fit per figuras corporalium rerum, quam per intelligibiles effectus. Et talis maxime est visio prophetica quae fit per similitudines corporalium rerum. Alio modo visio est procul ex parte ipsius videntis, qui scilicet non est totaliter in ultimam perfectionem adductus, secundum illud II ad Cor. V, *quandiu in corpore sumus, peregrinamur a domino*. Neutro autem modo beati sunt procul. Unde non possunt dici prophetae.
@@ -28,5 +28,5 @@ Ad secundum dicendum quod Angelis fit revelatio divina non sicut procul existent
 Ad tertium dicendum quod Christus simul erat comprehensor et viator. Inquantum ergo erat comprehensor, non competit sibi ratio prophetiae, sed solum inquantum erat viator.
 
 ###### ad 4
-Ad quartum dicendum quod etiam Samuel nondum pervenerat ad statum beatitudinis. Unde et, si voluntate Dei ipsa anima Samuelis Sauli eventum belli praenuntiavit, Deo sibi hoc revelante, pertinet ad rationem prophetiae. Non est autem eadem ratio de sanctis qui sunt modo in patria. Nec obstat quod arte Daemonum hoc dicitur factum. Quia etsi Daemones animam alicuius sancti evocare non possunt, neque cogere ad aliquid agendum; potest tamen hoc fieri divina virtute ut, dum Daemon consulitur, ipse Deus per suum nuntium veritatem enuntiat, sicut per Eliam veritatem respondit nuntiis regis qui mittebantur ad consulendum Deum Accaron, ut habetur IV Reg. I. Quamvis etiam dici possit quod non fuerit anima Samuelis, sed Daemon ex persona eius loquens, quem sapiens Samuelem nominat, et eius praenuntiationem prophetiam, secundum opinionem Saulis et adstantium, qui ita opinabantur.
+Ad quartum dicendum quod etiam Samuel nondum pervenerat ad statum beatitudinis. Unde et, si voluntate Dei ipsa anima Samuelis Sauli eventum belli praenuntiavit, Deo sibi hoc revelante, pertinet ad rationem prophetiae. Non est autem eadem ratio de sanctis qui sunt modo in patria. Nec obstat quod arte Daemonum hoc dicitur factum. Quia etsi Daemones animam alicuius sancti evocare non possunt, neque cogere ad aliquid agendum; potest tamen hoc fieri divina virtute ut, dum Daemon consulitur, ipse Deus per suum nuntium veritatem enuntiat, sicut per Eliam veritatem respondit nuntiis regis qui mittebantur ad consulendum Deum Accaron, ut habetur [[2R 1]]. Quamvis etiam dici possit quod non fuerit anima Samuelis, sed Daemon ex persona eius loquens, quem sapiens Samuelem nominat, et eius praenuntiationem prophetiam, secundum opinionem Saulis et adstantium, qui ita opinabantur.
 

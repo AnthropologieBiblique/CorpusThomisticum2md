@@ -7,10 +7,10 @@ Ad septimum sic proceditur. Videtur quod non requirantur aliqua opera hominis ad
 Praeterea, sicut Deus est auctor beatitudinis immediate, ita et naturam immediate instituit. Sed in prima institutione naturae, produxit creaturas nulla dispositione praecedente vel actione creaturae; sed statim fecit unumquodque perfectum in sua specie. Ergo videtur quod beatitudinem conferat homini sine aliquibus operationibus praecedentibus.
 
 ###### arg. 3
-Praeterea, apostolus dicit, Rom. IV, beatitudinem hominis esse cui Deus confert iustitiam sine operibus. Non ergo requiruntur aliqua opera hominis ad beatitudinem consequendam.
+Praeterea, apostolus dicit, [[Rm 4]], beatitudinem hominis esse cui Deus confert iustitiam sine operibus. Non ergo requiruntur aliqua opera hominis ad beatitudinem consequendam.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. XIII, *si haec scitis, beati eritis si feceritis ea*. Ergo per actionem ad beatitudinem pervenitur.
+Sed contra est quod dicitur [[Jn 13]], *si haec scitis, beati eritis si feceritis ea*. Ergo per actionem ad beatitudinem pervenitur.
 
 ###### co.
 Respondeo dicendum quod rectitudo voluntatis, ut supra dictum est, requiritur ad beatitudinem, cum nihil aliud sit quam debitus ordo voluntatis ad ultimum finem; quae ita exigitur ad consecutionem ultimi finis, sicut debita dispositio materiae ad consecutionem formae. Sed ex hoc non ostenditur quod aliqua operatio hominis debeat praecedere eius beatitudinem, posset enim Deus simul facere voluntatem recte tendentem in finem, et finem consequentem; sicut quandoque simul materiam disponit, et inducit formam. Sed ordo divinae sapientiae exigit ne hoc fiat, ut enim dicitur in II de caelo, *eorum quae nata sunt habere bonum perfectum, aliquid habet ipsum sine motu, aliquid uno motu, aliquid pluribus*. Habere autem perfectum bonum sine motu, convenit ei quod naturaliter habet illud. Habere autem beatitudinem naturaliter est solius Dei. Unde solius Dei proprium est quod ad beatitudinem non moveatur per aliquam operationem praecedentem. Cum autem beatitudo excedat omnem naturam creatam, nulla pura creatura convenienter beatitudinem consequitur absque motu operationis, per quam tendit in ipsam. Sed Angelus, qui est superior ordine naturae quam homo, consecutus est eam, ex ordine divinae sapientiae, uno motu operationis meritoriae, ut in primo expositum est. Homines autem consequuntur ipsam multis motibus operationum, qui merita dicuntur. Unde etiam, secundum philosophum, beatitudo est praemium virtuosarum operationum.

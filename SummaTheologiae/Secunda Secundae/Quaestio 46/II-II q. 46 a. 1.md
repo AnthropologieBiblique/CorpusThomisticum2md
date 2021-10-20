@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod stultitia non opponatur sapientiae. Sapie
 Praeterea, unum oppositorum non est via perveniendi ad aliud. Sed stultitia est via perveniendi ad sapientiam, dicitur enim I ad Cor. III, *si quis videtur inter vos sapiens esse in hoc saeculo, stultus fiat, ut sit sapiens*. Ergo sapientiae non opponitur stultitia.
 
 ###### arg. 3
-Praeterea, unum oppositorum non est causa alterius. Sapientia autem est causa stultitiae, dicitur enim Ierem. X, *stultus factus est omnis homo a scientia sua*; sapientia autem quaedam scientia est. Et Isaiae XLVII dicitur, *sapientia tua et scientia tua, haec decepit te*, decipi autem ad stultitiam pertinet. Ergo sapientiae non opponitur stultitia.
+Praeterea, unum oppositorum non est causa alterius. Sapientia autem est causa stultitiae, dicitur enim [[Jr 10]], *stultus factus est omnis homo a scientia sua*; sapientia autem quaedam scientia est. Et [[Is 47]] dicitur, *sapientia tua et scientia tua, haec decepit te*, decipi autem ad stultitiam pertinet. Ergo sapientiae non opponitur stultitia.
 
 ###### arg. 4
 Praeterea, Isidorus dicit, in libro Etymol., quod *stultus est qui per ignominiam non commovetur ad dolorem, et qui non movetur iniuria*. Sed hoc pertinet ad sapientiam spiritualem; ut Gregorius dicit, in X Moral. Ergo sapientiae non opponitur stultitia.

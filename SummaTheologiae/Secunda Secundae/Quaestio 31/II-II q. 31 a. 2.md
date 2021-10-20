@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod non sit omnibus benefaciendum. Dicit enim Augustinus, in I de Doct. Christ., quod omnibus prodesse non possumus. Sed virtus non inclinat ad impossibile. Ergo non oportet omnibus benefacere.
 
 ###### arg. 2
-Praeterea, Eccli. XII dicitur, *da iusto, et non recipias peccatorem*. Sed multi homines sunt peccatores. Non ergo omnibus est benefaciendum.
+Praeterea, [[Si 12]] dicitur, *da iusto, et non recipias peccatorem*. Sed multi homines sunt peccatores. Non ergo omnibus est benefaciendum.
 
 ###### arg. 3
 *Praeterea, caritas non agit perperam*, ut dicitur I ad Cor. XIII. Sed benefacere quibusdam est agere perperam, puta si aliquis benefaciat inimicis reipublicae; vel si benefaciat excommunicato, quia per hoc ei communicat. Ergo, cum benefacere sit actus caritatis, non est omnibus benefaciendum.

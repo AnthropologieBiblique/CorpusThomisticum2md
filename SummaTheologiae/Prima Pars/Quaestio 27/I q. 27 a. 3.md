@@ -10,7 +10,7 @@ Praeterea, in omni natura invenitur tantum unus modus communicationis illius nat
 Praeterea, si sit in divinis alia processio ab intelligibili processione verbi, non erit nisi processio amoris, quae est secundum voluntatis operationem. Sed talis processio non potest esse alia a processione intellectus intelligibili, quia voluntas in Deo non est aliud ab intellectu, ut supra ostensum est. Ergo in Deo non est alia processio praeter processionem verbi.
 
 ###### s. c.
-Sed contra est quod spiritus sanctus procedit a patre, ut dicitur Ioan. XV. Ipse autem est alius a filio, secundum illud Ioan. XIV, *rogabo patrem meum, et alium Paracletum dabit vobis*. Ergo in divinis est alia processio praeter processionem verbi.
+Sed contra est quod spiritus sanctus procedit a patre, ut dicitur [[Jn 15]]. Ipse autem est alius a filio, secundum illud [[Jn 15]], *rogabo patrem meum, et alium Paracletum dabit vobis*. Ergo in divinis est alia processio praeter processionem verbi.
 
 ###### co.
 Respondeo dicendum quod in divinis sunt duae processiones, scilicet processio verbi, et quaedam alia. Ad cuius evidentiam, considerandum est quod in divinis non est processio nisi secundum actionem quae non tendit in aliquid extrinsecum, sed manet in ipso agente. Huiusmodi autem actio in intellectuali natura est actio intellectus et actio voluntatis. Processio autem verbi attenditur secundum actionem intelligibilem. Secundum autem operationem voluntatis invenitur in nobis quaedam alia processio, scilicet processio amoris, secundum quam amatum est in amante, sicut per conceptionem verbi res dicta vel intellecta, est in intelligente. Unde et praeter processionem verbi, ponitur alia processio in divinis, quae est processio amoris.

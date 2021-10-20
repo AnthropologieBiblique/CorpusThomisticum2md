@@ -10,7 +10,7 @@ Praeterea, ea quae in cultum Dei aguntur, maxime debent honestatem habere. Sed f
 Praeterea, Augustinus dicit, in Enchirid., quod *Deus maxime colitur fide, spe et caritate*. Sed praecepta quae dantur de fide, spe et caritate, non sunt figuralia. Ergo praecepta caeremonialia non debent esse figuralia.
 
 ###### arg. 4
-Praeterea, dominus dicit, Ioan. IV, *spiritus est Deus, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Sed figura non est ipsa veritas, immo contra se invicem dividuntur. Ergo caeremonialia, quae pertinent ad cultum Dei, non debent esse figuralia.
+Praeterea, dominus dicit, [[Jn 4]], *spiritus est Deus, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Sed figura non est ipsa veritas, immo contra se invicem dividuntur. Ergo caeremonialia, quae pertinent ad cultum Dei, non debent esse figuralia.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, ad Colos. II, *nemo vos iudicet in cibo aut in potu, aut in parte diei festi aut Neomeniae aut sabbatorum, quae sunt umbra futurorum*.

@@ -10,7 +10,7 @@ Praeterea, illi qui faciunt aliquid cum timore, facilius in operando deficiunt, 
 Praeterea, pigritia, sive segnities, est quaedam species timoris. Sed pigritia impedit operationem. Ergo et timor.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Philipp. II, *cum metu et tremore vestram salutem operamini*, quod non diceret, si timor bonam operationem impediret. Timor ergo non impedit bonam operationem.
+Sed contra est quod apostolus dicit, ad [[Ph 2]], *cum metu et tremore vestram salutem operamini*, quod non diceret, si timor bonam operationem impediret. Timor ergo non impedit bonam operationem.
 
 ###### co.
 Respondeo dicendum quod operatio hominis exterior causatur quidem ab anima sicut a primo movente, sed a membris corporeis sicut ab instrumentis. Contingit autem operationem impediri et propter defectum instrumenti, et propter defectum principalis moventis. Ex parte igitur instrumentorum corporalium, timor, quantum est de se, semper natus est impedire exteriorem operationem, propter defectum caloris qui ex timore accidit in exterioribus membris. Sed ex parte animae, si sit timor moderatus, non multum rationem perturbans; confert ad bene operandum, inquantum causat quandam sollicitudinem, et facit hominem attentius consiliari et operari. Si vero timor tantum increscat quod rationem perturbet, impedit operationem etiam ex parte animae. Sed de tali timore apostolus non loquitur.

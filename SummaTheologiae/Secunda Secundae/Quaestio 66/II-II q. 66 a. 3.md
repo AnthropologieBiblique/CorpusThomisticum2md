@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod non sit de ratione furti occulte accipere rem alienam. Illud enim quod diminuit peccatum non videtur ad rationem peccati pertinere. Sed in occulto peccare pertinet ad diminutionem peccati, sicut e contrario ad exaggerandum peccatum quorundam dicitur Isaiae III, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo non est de ratione furti occulta acceptio rei alienae.
+Ad tertium sic proceditur. Videtur quod non sit de ratione furti occulte accipere rem alienam. Illud enim quod diminuit peccatum non videtur ad rationem peccati pertinere. Sed in occulto peccare pertinet ad diminutionem peccati, sicut e contrario ad exaggerandum peccatum quorundam dicitur [[Is 3]], *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Ergo non est de ratione furti occulta acceptio rei alienae.
 
 ###### arg. 2
 Praeterea, Ambrosius dicit, et habetur in decretis, dist. XLVII, *neque minus est criminis habenti tollere quam, cum possis et abundas, indigentibus denegare*. Ergo sicut furtum consistit in acceptione rei alienae, ita et in detentione ipsius.

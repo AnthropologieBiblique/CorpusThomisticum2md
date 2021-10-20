@@ -1,10 +1,10 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod hoc praeceptum de dilectione Dei possit servari in via. Quia secundum Hieronymum, in Expos. Cathol. Fid., *maledictus qui dicit Deum aliquid impossibile praecepisse*. Sed Deus hoc praeceptum dedit, ut patet Deut. VI. Ergo hoc praeceptum potest in via impleri.
+Ad sextum sic proceditur. Videtur quod hoc praeceptum de dilectione Dei possit servari in via. Quia secundum Hieronymum, in Expos. Cathol. Fid., *maledictus qui dicit Deum aliquid impossibile praecepisse*. Sed Deus hoc praeceptum dedit, ut patet [[Dt 6]]. Ergo hoc praeceptum potest in via impleri.
 
 ###### arg. 2
-Praeterea, quicumque non implet praeceptum peccat mortaliter, quia secundum Ambrosium, peccatum nihil est aliud quam *transgressio legis divinae et caelestium inobedientia mandatorum*. Si ergo hoc praeceptum non potest in via servari, sequitur quod nullus possit esse in vita ista sine peccato mortali. Quod est contra id quod apostolus dicit, I ad Cor. I, *confirmabit vos usque in finem sine crimine*; et I ad Tim. III, *ministrent nullum crimen habentes*.
+Praeterea, quicumque non implet praeceptum peccat mortaliter, quia secundum Ambrosium, peccatum nihil est aliud quam *transgressio legis divinae et caelestium inobedientia mandatorum*. Si ergo hoc praeceptum non potest in via servari, sequitur quod nullus possit esse in vita ista sine peccato mortali. Quod est contra id quod apostolus dicit, I ad Cor. I, *confirmabit vos usque in finem sine crimine*; et [[1 Tm 3]], *ministrent nullum crimen habentes*.
 
 ###### arg. 3
 Praeterea, praecepta dantur ad dirigendos homines in viam salutis, secundum illud Psalm., *praeceptum domini lucidum, illuminans oculos*. Sed frustra dirigitur aliquis ad impossibile. Non ergo impossibile est hoc praeceptum in vita ista servari.

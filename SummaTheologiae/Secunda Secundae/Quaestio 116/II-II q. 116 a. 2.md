@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod litigium sit minus peccatum quam contrarium vitium, scilicet placiditatis vel adulationis. Quanto enim aliquod peccatum plus nocet, tanto peius esse videtur. Sed adulatio plus nocet quam litigium, dicitur enim Isaiae III, *popule meus, qui beatum te dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant*. Ergo adulatio est gravius peccatum quam litigium.
+Ad secundum sic proceditur. Videtur quod litigium sit minus peccatum quam contrarium vitium, scilicet placiditatis vel adulationis. Quanto enim aliquod peccatum plus nocet, tanto peius esse videtur. Sed adulatio plus nocet quam litigium, dicitur enim [[Is 3]], *popule meus, qui beatum te dicunt, ipsi te decipiunt, et viam gressuum tuorum dissipant*. Ergo adulatio est gravius peccatum quam litigium.
 
 ###### arg. 2
 Praeterea, in adulatione videtur esse quaedam dolositas, quia aliud adulator dicit ore, aliud habet in corde. Litigiosus autem caret dolo, quia manifeste contradicit. Ille autem qui cum dolo peccat, turpior est, ut philosophus dicit, in VII Ethic. Ergo gravius peccatum est adulatio quam litigium.
@@ -10,7 +10,7 @@ Praeterea, in adulatione videtur esse quaedam dolositas, quia aliud adulator dic
 Praeterea, verecundia est timor de turpi, ut patet per philosophum, in IV Ethic. Sed magis verecundatur homo esse adulator quam litigiosus. Ergo litigium est minus peccatum quam adulatio.
 
 ###### s. c.
-Sed contra est quod tanto aliquod peccatum videtur esse gravius quanto spirituali statui magis repugnat. Sed litigium magis repugnare videtur spirituali, dicitur enim I ad Tim. III, quod *oportet episcopum non litigiosum esse*; et II ad Tim. II, *servum domini non oportet litigare*. Ergo litigium videtur esse gravius peccatum.
+Sed contra est quod tanto aliquod peccatum videtur esse gravius quanto spirituali statui magis repugnat. Sed litigium magis repugnare videtur spirituali, dicitur enim [[1 Tm 3]], quod *oportet episcopum non litigiosum esse*; et [[2 Tm 2]], *servum domini non oportet litigare*. Ergo litigium videtur esse gravius peccatum.
 
 ###### co.
 Respondeo dicendum quod de utroque istorum peccatorum loqui possumus dupliciter. Uno modo, considerando speciem utriusque peccati. Et secundum hoc, tanto aliquod vitium est gravius quanto magis repugnat oppositae virtuti. Virtus autem amicitiae principalius tendit ad delectandum quam ad contristandum. Et ideo litigiosus, qui superabundat in contristando, gravius peccat quam placidus vel adulator, qui superabundat in delectando. Alio modo possunt considerari secundum aliqua exteriora motiva. Et secundum hoc, quandoque adulatio est gravior, puta quando intendit per deceptionem indebite honorem vel lucrum acquirere. Quandoque vero litigium est gravius, puta quando homo intendit vel veritatem impugnare, vel dicentem in contemptum adducere.

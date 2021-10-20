@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod iurare non sit testem Deum invocare. Quicumque enim inducit auctoritatem sacrae Scripturae inducit Deum in testimonium, cuius verba proponuntur in sacra Scriptura. Si ergo iurare est testem Deum invocare, quicumque inducit auctoritatem sacrae Scripturae iuraret. Hoc autem est falsum. Ergo et primum.
 
 ###### arg. 2
-Praeterea, ex hoc quod aliquis inducit aliquem in testem, nihil ei reddit. Sed ille qui per Deum iurat aliquid Deo reddit, dicitur enim Matth. V, *reddes domino iuramenta tua*; et Augustinus dicit quod iurare est ius veritatis Deo reddere. Ergo iurare non est Deum testem invocare.
+Praeterea, ex hoc quod aliquis inducit aliquem in testem, nihil ei reddit. Sed ille qui per Deum iurat aliquid Deo reddit, dicitur enim [[Mt 5]], *reddes domino iuramenta tua*; et Augustinus dicit quod iurare est ius veritatis Deo reddere. Ergo iurare non est Deum testem invocare.
 
 ###### arg. 3
 Praeterea, aliud est officium iudicis, et aliud testis, ut ex supradictis patet. Sed quandoque iurando implorat homo divinum iudicium, secundum illud Psalm., *si reddidi retribuentibus mihi mala, decidam merito ab inimicis meis inanis*. Ergo iurare non est testem Deum invocare.

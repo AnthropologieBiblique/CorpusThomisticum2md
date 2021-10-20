@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod homo in statu innocentiae fuisset passibilis. Sentire enim est pati quoddam. Sed homo in statu innocentiae fuisset sensibilis. Ergo fuisset passibilis.
 
 ###### arg. 2
-Praeterea, somnus passio quaedam est. Sed homo in statu innocentiae dormivisset; secundum illud Gen. II, *immisit Deus soporem in Adam*. Ergo fuisset passibilis.
+Praeterea, somnus passio quaedam est. Sed homo in statu innocentiae dormivisset; secundum illud [[Gn 2]], *immisit Deus soporem in Adam*. Ergo fuisset passibilis.
 
 ###### arg. 3
 Praeterea, ibidem subditur quod tulit unam de costis eius. Ergo fuisset passibilis etiam per abscissionem partis.

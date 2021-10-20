@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod non debeant aliqui voto obligari ad rel
 Praeterea, Gregorius dicit, in registro, et habetur in decretis, dist. XLV, quod *Iudaei, non vi, sed libera voluntate ut convertantur suadendi sunt*. Sed implere id quod vovetur, necessitatis est. Ergo non sunt aliqui obligandi ad religionis ingressum.
 
 ###### arg. 3
-Praeterea, nullus debet alteri praebere occasionem ruinae, unde Exod. XXI dicitur, *si quis aperuerit cisternam, cecideritque bos vel asinus in eam, dominus cisternae reddet pretium iumentorum*. Sed ex hoc quod aliqui obligantur ad religionem per votum, frequenter aliqui ruunt in desperationem et in diversa peccata. Ergo videtur quod non sint aliqui ad religionis ingressum voto obligandi.
+Praeterea, nullus debet alteri praebere occasionem ruinae, unde [[Ex 21]] dicitur, *si quis aperuerit cisternam, cecideritque bos vel asinus in eam, dominus cisternae reddet pretium iumentorum*. Sed ex hoc quod aliqui obligantur ad religionem per votum, frequenter aliqui ruunt in desperationem et in diversa peccata. Ergo videtur quod non sint aliqui ad religionis ingressum voto obligandi.
 
 ###### s. c.
 Sed contra est quod in Psalmo dicitur, vovete, et reddite domino Deo vestro, ubi dicit Glossa quod *quaedam sunt vota propria singulorum, ut castitas, virginitas et huiusmodi, ad haec ergo vovenda nos invitat*. Sed Scriptura sacra non invitat nisi ad id quod est melius. Ergo melius est quod aliquis voto se obliget ad religionis ingressum.

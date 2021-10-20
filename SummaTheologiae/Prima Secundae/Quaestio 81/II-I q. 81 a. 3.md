@@ -1,16 +1,16 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod peccatum primi parentis non transeat per originem in omnes homines. Mors enim est poena consequens originale peccatum. Sed non omnes qui procedunt seminaliter ex Adam, morientur, illi enim qui vivi reperientur in adventu domini, nunquam morientur, ut videtur per quod dicitur I Thessal. IV, *nos qui vivimus, non praeveniemus in adventu domini eos qui dormierunt*. Ergo illi non contrahunt originale peccatum.
+Ad tertium sic proceditur. Videtur quod peccatum primi parentis non transeat per originem in omnes homines. Mors enim est poena consequens originale peccatum. Sed non omnes qui procedunt seminaliter ex Adam, morientur, illi enim qui vivi reperientur in adventu domini, nunquam morientur, ut videtur per quod dicitur I [[1 Th 4]], *nos qui vivimus, non praeveniemus in adventu domini eos qui dormierunt*. Ergo illi non contrahunt originale peccatum.
 
 ###### arg. 2
 Praeterea, nullus dat alteri quod ipse non habet. Sed homo baptizatus non habet peccatum originale. Ergo non traducit ipsum in prolem.
 
 ###### arg. 3
-Praeterea, donum Christi est maius quam peccatum Adae, ut apostolus dicit, Rom. V. Sed donum Christi non transit in omnes homines. Ergo nec peccatum Adae.
+Praeterea, donum Christi est maius quam peccatum Adae, ut apostolus dicit, [[Rm 5]]. Sed donum Christi non transit in omnes homines. Ergo nec peccatum Adae.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, Rom. V, *mors in omnes pertransiit, in quo omnes peccaverunt*.
+Sed contra est quod apostolus dicit, [[Rm 5]], *mors in omnes pertransiit, in quo omnes peccaverunt*.
 
 ###### co.
 Respondeo dicendum quod secundum fidem Catholicam firmiter est tenendum quod omnes homines, praeter solum Christum, ex Adam derivati, peccatum originale ex eo contrahunt, alioquin non omnes indigerent redemptione quae est per Christum; quod est erroneum. Ratio autem sumi potest ex hoc quod supra dictum est, quod sic ex peccato primi parentis traducitur culpa originalis in posteros, sicut a voluntate animae per motionem membrorum traducitur peccatum actuale ad membra corporis. Manifestum est autem quod peccatum actuale traduci potest ad omnia membra quae nata sunt moveri a voluntate. Unde et culpa originalis traducitur ad omnes illos qui moventur ab Adam motione generationis.

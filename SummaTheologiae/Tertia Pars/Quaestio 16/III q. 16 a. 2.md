@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod haec sit falsa, homo est Deus. Deus enim est nomen incommunicabile. Sed Sap. XIV reprehenduntur idololatrae de hoc quod *istud nomen Deus, quod est incommunicabile, lignis et lapidibus imposuerunt*. Ergo pari ratione, videtur esse inconveniens quod hoc nomen Deus praedicetur de homine.
+Ad secundum sic proceditur. Videtur quod haec sit falsa, homo est Deus. Deus enim est nomen incommunicabile. Sed [[Sg 14]] reprehenduntur idololatrae de hoc quod *istud nomen Deus, quod est incommunicabile, lignis et lapidibus imposuerunt*. Ergo pari ratione, videtur esse inconveniens quod hoc nomen Deus praedicetur de homine.
 
 ###### arg. 2
 Praeterea, quidquid praedicatur de praedicato, praedicatur de subiecto. Sed haec est vera, Deus est pater, vel, Deus est Trinitas. Si ergo haec sit vera, homo est Deus; videtur etiam quod haec sit vera, homo est pater, vel, homo est Trinitas. Quas quidem patet esse falsas. Ergo et primam.
@@ -10,7 +10,7 @@ Praeterea, quidquid praedicatur de praedicato, praedicatur de subiecto. Sed haec
 Praeterea, in Psalmo dicitur, *non erit in te Deus recens*. Sed homo est quiddam recens, non enim Christus semper fuit homo. Ergo haec est falsa, homo est Deus.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. IX, *ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in saecula*. Sed Christus secundum carnem est homo. Ergo haec est vera, homo est Deus.
+Sed contra est quod dicitur [[Rm 9]], *ex quibus est Christus secundum carnem, qui est super omnia Deus benedictus in saecula*. Sed Christus secundum carnem est homo. Ergo haec est vera, homo est Deus.
 
 ###### co.
 Respondeo dicendum quod, supposita veritate utriusque naturae, divinae scilicet et humanae, et unione in persona et hypostasi, haec est vera et propria, homo est Deus, sicut et ista, Deus est homo. Hoc enim nomen homo potest supponere pro qualibet hypostasi humanae naturae, et ita potest supponere pro persona filii, quam dicimus esse hypostasim humanae naturae. Manifestum est autem quod de persona filii Dei vere et proprie praedicatur hoc nomen Deus, ut in prima parte habitum est. Unde relinquitur quod haec sit vera et propria, homo est Deus.

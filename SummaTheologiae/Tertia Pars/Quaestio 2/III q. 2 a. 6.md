@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod humana natura fuerit unita verbo Dei accidentaliter. Dicit enim apostolus, Philipp. II, de filio Dei, quod *habitu inventus est ut homo*. Sed habitus accidentaliter advenit ei cuius est, sive accipiatur habitus prout est unum de decem generibus; sive prout est species qualitatis. Ergo humana natura accidentaliter unita est filio Dei.
+Ad sextum sic proceditur. Videtur quod humana natura fuerit unita verbo Dei accidentaliter. Dicit enim apostolus, [[Ph 2]], de filio Dei, quod *habitu inventus est ut homo*. Sed habitus accidentaliter advenit ei cuius est, sive accipiatur habitus prout est unum de decem generibus; sive prout est species qualitatis. Ergo humana natura accidentaliter unita est filio Dei.
 
 ###### arg. 2
 Praeterea, omne quod advenit alicui post esse completum, advenit ei accidentaliter, hoc enim dicimus accidens quod potest alicui et adesse et abesse praeter subiecti corruptionem. Sed natura humana advenit ex tempore filio Dei habenti esse perfectum ab aeterno. Ergo advenit ei accidentaliter.

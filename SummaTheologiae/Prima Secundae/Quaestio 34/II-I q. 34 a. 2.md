@@ -10,7 +10,7 @@ Praeterea, illud est per se bonum, quod non quaeritur propter aliud, ut dicitur 
 Praeterea, id quod ab omnibus desideratur, videtur esse per se bonum, nam bonum est quod omnia appetunt, ut dicitur in I Ethic. Sed omnes appetunt aliquam delectationem, etiam pueri et bestiae. Ergo delectatio est secundum se bonum. Omnis ergo delectatio est bona.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. II, *qui laetantur cum malefecerint, et exultant in rebus pessimis*.
+Sed contra est quod dicitur [[Pr 2]], *qui laetantur cum malefecerint, et exultant in rebus pessimis*.
 
 ###### co.
 Respondeo dicendum quod, sicut aliqui Stoicorum posuerunt omnes delectationes esse malas, ita Epicurei posuerunt delectationem secundum se esse bonum, et per consequens delectationes omnes esse bonas. Qui ex hoc decepti esse videntur, quod non distinguebant inter id quod est bonum simpliciter, et id quod est bonum quoad hunc. Simpliciter quidem bonum est quod secundum se bonum est. Contingit autem quod non est secundum se bonum, esse huic bonum, dupliciter. Uno modo, quia est ei conveniens secundum dispositionem in qua nunc est, quae tamen non est naturalis, sicut leproso bonum est quandoque comedere aliqua venenosa, quae non sunt simpliciter convenientia complexioni humanae. Alio modo, quia id quod non est conveniens, aestimatur ut conveniens. Et quia delectatio est quies appetitus in bono, si sit bonum simpliciter illud in quo quiescit appetitus, erit simpliciter delectatio, et simpliciter bona. Si autem non sit bonum simpliciter, sed quoad hunc, tunc nec delectatio est simpliciter, sed huic, nec simpliciter est bona, sed bona secundum quid, vel apparens bona.

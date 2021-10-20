@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod non eadem adoratione adoranda sit humanitas Christi et eius divinitas. Divinitas enim Christi est adoranda, quae est communis patri et filio, unde dicitur Ioan. V, *omnes honorificent filium sicut honorificant patrem*. Sed humanitas Christi non est communis ei et patri. Ergo non eadem adoratione adoranda est humanitas Christi et eius divinitas.
+Ad primum sic proceditur. Videtur quod non eadem adoratione adoranda sit humanitas Christi et eius divinitas. Divinitas enim Christi est adoranda, quae est communis patri et filio, unde dicitur [[Jn 5]], *omnes honorificent filium sicut honorificant patrem*. Sed humanitas Christi non est communis ei et patri. Ergo non eadem adoratione adoranda est humanitas Christi et eius divinitas.
 
 ###### arg. 2
 Praeterea, honor est proprie praemium virtutis, ut philosophus dicit, in IV Ethic. Meretur autem virtus praemium suum per actum. Cum igitur in Christo sit alia operatio divinae et humanae naturae, ut supra habitum est, videtur quod alio honore sit adoranda humanitas Christi, et alio eius divinitas.

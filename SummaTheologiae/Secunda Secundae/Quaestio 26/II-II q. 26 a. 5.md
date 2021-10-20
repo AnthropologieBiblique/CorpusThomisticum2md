@@ -7,7 +7,7 @@ Ad quintum sic proceditur. Videtur quod homo non magis debeat diligere proximum 
 Praeterea, homo plus debet diligere animam propriam quam proximum, ut dictum est. Sed corpus proprium propinquius est animae nostrae quam proximus. Ergo plus debemus diligere corpus proprium quam proximum.
 
 ###### arg. 3
-Praeterea, unusquisque exponit id quod minus amat pro eo quod magis amat. Sed non omnis homo tenetur exponere corpus proprium pro salute proximi, sed hoc est perfectorum, secundum illud Ioan. XV, *maiorem caritatem nemo habet quam ut animam suam ponat quis pro amicis suis*. Ergo homo non tenetur ex caritate plus diligere proximum quam corpus proprium.
+Praeterea, unusquisque exponit id quod minus amat pro eo quod magis amat. Sed non omnis homo tenetur exponere corpus proprium pro salute proximi, sed hoc est perfectorum, secundum illud [[Jn 15]], *maiorem caritatem nemo habet quam ut animam suam ponat quis pro amicis suis*. Ergo homo non tenetur ex caritate plus diligere proximum quam corpus proprium.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in I de Doct. Christ., quod *plus debemus diligere proximum quam corpus proprium*.

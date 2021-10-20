@@ -4,10 +4,10 @@
 Ad secundum sic proceditur. Videtur quod ambitio non opponatur magnanimitati per excessum. Uni enim medio non opponitur ex una parte nisi unum extremum. Sed magnanimitati per excessum opponitur praesumptio ut dictum est. Ergo non opponitur ei ambitio per excessum.
 
 ###### arg. 2
-Praeterea, magnanimitas est circa honores. Sed ambitio videtur pertinere ad dignitates, dicitur enim II Machab. IV, quod *Iason ambiebat summum sacerdotium*. Ergo ambitio non opponitur magnanimitati.
+Praeterea, magnanimitas est circa honores. Sed ambitio videtur pertinere ad dignitates, dicitur enim [[2 M 4]], quod *Iason ambiebat summum sacerdotium*. Ergo ambitio non opponitur magnanimitati.
 
 ###### arg. 3
-Praeterea, ambitio videtur ad exteriorem apparatum pertinere, dicitur enim Act. XXV, quod Agrippa et Berenice cum multa ambitione introierunt praetorium; et II Paralip. XVI, quod super corpus Asa mortui combusserunt aromata et unguenta ambitione nimia. Sed magnanimitas non est circa exteriorem apparatum. Ergo ambitio non opponitur magnanimitati.
+Praeterea, ambitio videtur ad exteriorem apparatum pertinere, dicitur enim [[Ac 25]], quod Agrippa et Berenice cum multa ambitione introierunt praetorium; et [[2 Ch 16]], quod super corpus Asa mortui combusserunt aromata et unguenta ambitione nimia. Sed magnanimitas non est circa exteriorem apparatum. Ergo ambitio non opponitur magnanimitati.
 
 ###### s. c.
 Sed contra est quod Tullius dicit, in I de Offic., quod *sicut quisque magnitudine animi excellit, ita maxime vult princeps omnium solus esse*. Sed hoc pertinet ad ambitionem. Ergo ambitio pertinet ad excessum magnanimitatis.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod magnanimitas ad duo respicit. Ad unum quidem sicut 
 Ad secundum dicendum quod illis qui sunt in dignitate constituti, propter quandam excellentiam status, debetur honor. Et secundum hoc inordinatus appetitus dignitatum pertinet ad ambitionem. Si quis enim inordinate appeteret dignitatem non ratione honoris, sed propter debitum dignitatis usum suam facultatem excedentem, non esset ambitiosus, sed magis praesumptuosus.
 
 ###### ad 3
-Ad tertium dicendum quod ipsa solemnitas exterioris cultus ad quendam honorem pertinet, unde et talibus consuevit honor exhiberi. Quod significatur Iac. II, *si introierit in conventum vestrum vir anulum habens aureum, in veste candida, et dixeritis ei, tu sede hic bene,* et cetera. Unde ambitio non est circa exteriorem cultum nisi secundum quod pertinet ad honorem.
+Ad tertium dicendum quod ipsa solemnitas exterioris cultus ad quendam honorem pertinet, unde et talibus consuevit honor exhiberi. Quod significatur [[Jc 2]], *si introierit in conventum vestrum vir anulum habens aureum, in veste candida, et dixeritis ei, tu sede hic bene,* et cetera. Unde ambitio non est circa exteriorem cultum nisi secundum quod pertinet ad honorem.
 

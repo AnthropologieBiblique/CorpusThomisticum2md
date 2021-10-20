@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod quidquid aliquis de pecunia usuraria lucratus fuerit, reddere teneatur. Dicit enim apostolus, ad Rom. XI, *si radix sancta, et rami*. Ergo, eadem ratione, si radix infecta, et rami. Sed radix fuit usuraria. Ergo et quidquid ex ea acquisitum est, est usurarium. Ergo tenetur ad restitutionem illius.
+Ad tertium sic proceditur. Videtur quod quidquid aliquis de pecunia usuraria lucratus fuerit, reddere teneatur. Dicit enim apostolus, ad [[Rm 11]], *si radix sancta, et rami*. Ergo, eadem ratione, si radix infecta, et rami. Sed radix fuit usuraria. Ergo et quidquid ex ea acquisitum est, est usurarium. Ergo tenetur ad restitutionem illius.
 
 ###### arg. 2
 Praeterea, sicut dicitur extra, de usuris, in illa decretali, *cum tu sicut asseris, possessiones quae de usuris sunt comparatae debent vendi, et ipsarum pretia his a quibus sunt extorta restitui*. Ergo, eadem ratione, quidquid aliud ex pecunia usuraria acquiritur debet restitui.

@@ -1,10 +1,10 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod non omne signum rei sacrae sit sacramentum. Omnes enim creaturae sensibiles sunt signa rerum sacrarum, secundum illud Rom. I, *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Nec tamen omnes res sensibiles possunt dici sacramenta. Non ergo omne signum rei sacrae est sacramentum.
+Ad secundum sic proceditur. Videtur quod non omne signum rei sacrae sit sacramentum. Omnes enim creaturae sensibiles sunt signa rerum sacrarum, secundum illud [[Rm 1]], *invisibilia Dei per ea quae facta sunt intellecta conspiciuntur*. Nec tamen omnes res sensibiles possunt dici sacramenta. Non ergo omne signum rei sacrae est sacramentum.
 
 ###### arg. 2
-Praeterea, omnia quae in veteri lege fiebant, Christum figurabant, qui est sanctus sanctorum, secundum illud I Cor. X, *omnia in figura contingebant illis*, et Coloss. II, *quae sunt umbra futurorum, corpus autem Christi*. Nec tamen omnia gesta patrum veteris testamenti, vel etiam omnes caeremoniae legis, sunt sacramenta, sed quaedam specialiter, sicut in secunda parte habitum est. Ergo videtur quod non omne signum sacrae rei sit sacramentum.
+Praeterea, omnia quae in veteri lege fiebant, Christum figurabant, qui est sanctus sanctorum, secundum illud [[1 Co 10]], *omnia in figura contingebant illis*, et [[Col 2]], *quae sunt umbra futurorum, corpus autem Christi*. Nec tamen omnia gesta patrum veteris testamenti, vel etiam omnes caeremoniae legis, sunt sacramenta, sed quaedam specialiter, sicut in secunda parte habitum est. Ergo videtur quod non omne signum sacrae rei sit sacramentum.
 
 ###### arg. 3
 Praeterea, etiam in novo testamento multa geruntur in signum alicuius rei sacrae, quae tamen non dicuntur sacramenta, sicut aspersio aquae benedictae, consecratio altaris, et consimilia. Non ergo omne signum rei sacrae est sacramentum.

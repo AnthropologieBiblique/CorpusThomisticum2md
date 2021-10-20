@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod non semper aliquis irascatur propter aliquid contra se factum. Homo enim, peccando, nihil contra Deum facere potest, dicitur enim Iob XXXV, *si multiplicatae fuerint iniquitates tuae, quid facies contra illum?* Dicitur tamen Deus irasci contra homines propter peccata; secundum illud Psalmi CV, *iratus est furore dominus in populum suum*. Ergo non semper aliquis irascitur propter aliquid contra se factum.
+Ad primum sic proceditur. Videtur quod non semper aliquis irascatur propter aliquid contra se factum. Homo enim, peccando, nihil contra Deum facere potest, dicitur enim [[Jb 35]], *si multiplicatae fuerint iniquitates tuae, quid facies contra illum?* Dicitur tamen Deus irasci contra homines propter peccata; secundum illud [[Ps 105]], *iratus est furore dominus in populum suum*. Ergo non semper aliquis irascitur propter aliquid contra se factum.
 
 ###### arg. 2
 Praeterea, ira est appetitus vindictae. Sed aliquis appetit vindictam facere etiam de his quae contra alios fiunt. Ergo non semper motivum irae est aliquid contra nos factum.

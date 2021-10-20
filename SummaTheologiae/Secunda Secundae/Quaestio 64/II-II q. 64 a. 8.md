@@ -1,10 +1,10 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod aliquis casualiter occidens hominem incurrat homicidii reatum. Legitur enim Gen. IV quod Lamech, credens interficere bestiam, interfecit hominem, et reputatum est ei ad homicidium. Ergo reatum homicidii incurrit qui casualiter hominem occidit.
+Ad octavum sic proceditur. Videtur quod aliquis casualiter occidens hominem incurrat homicidii reatum. Legitur enim [[Gn 4]] quod Lamech, credens interficere bestiam, interfecit hominem, et reputatum est ei ad homicidium. Ergo reatum homicidii incurrit qui casualiter hominem occidit.
 
 ###### arg. 2
-Praeterea, Exod. XXI dicitur quod *si quis percusserit mulierem praegnantem et aborsum fecerit, si mors eius fuerit subsecuta, reddet animam pro anima*. Sed hoc potest fieri absque intentione occisionis. Ergo homicidium casuale habet homicidii reatum.
+Praeterea, [[Ex 21]] dicitur quod *si quis percusserit mulierem praegnantem et aborsum fecerit, si mors eius fuerit subsecuta, reddet animam pro anima*. Sed hoc potest fieri absque intentione occisionis. Ergo homicidium casuale habet homicidii reatum.
 
 ###### arg. 3
 Praeterea, in decretis, dist. l, inducuntur plures canones in quibus casualia homicidia puniuntur. Sed poena non debetur nisi culpae. Ergo ille qui casualiter occidit hominem, incurrit homicidii culpam.

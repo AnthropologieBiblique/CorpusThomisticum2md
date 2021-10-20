@@ -1,19 +1,19 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod non omnis simulatio sit peccatum. Dicitur enim Luc. ult., quod dominus se finxit longius ire. Et Ambrosius dicit de Abraham, in libro de patriarchis, quod captiose loquebatur cum servulis cum dixit, Gen. XXII, *ego et puer, illuc usque properantes, postquam adoraverimus, revertemur ad vos*. Fingere autem et captiose loqui ad simulationem pertinet. Non est autem dicendum quod in Christo et in Abraham fuerit peccatum. Ergo non omnis simulatio est peccatum.
+Ad primum sic proceditur. Videtur quod non omnis simulatio sit peccatum. Dicitur enim Luc. ult., quod dominus se finxit longius ire. Et Ambrosius dicit de Abraham, in libro de patriarchis, quod captiose loquebatur cum servulis cum dixit, [[Gn 22]], *ego et puer, illuc usque properantes, postquam adoraverimus, revertemur ad vos*. Fingere autem et captiose loqui ad simulationem pertinet. Non est autem dicendum quod in Christo et in Abraham fuerit peccatum. Ergo non omnis simulatio est peccatum.
 
 ###### arg. 2
-Praeterea, nullum peccatum est utile. Sed sicut Hieronymus dicit, *utilem simulationem, et in tempore assumendam, Iehu, regis Israel, nos doceat exemplum, qui interfecit sacerdotes Baal fingens se* idola colere velle, ut habetur IV Reg. X. *Et David immutavit faciem suam coram Achis, rege Geth*, ut habetur I Reg. XXI. Ergo non omnis simulatio est peccatum.
+Praeterea, nullum peccatum est utile. Sed sicut Hieronymus dicit, *utilem simulationem, et in tempore assumendam, Iehu, regis Israel, nos doceat exemplum, qui interfecit sacerdotes Baal fingens se* idola colere velle, ut habetur [[2R 10]]. *Et David immutavit faciem suam coram Achis, rege Geth*, ut habetur [[1S 21]]. Ergo non omnis simulatio est peccatum.
 
 ###### arg. 3
 Praeterea, bonum malo est contrarium. Si ergo simulare bonum est malum, simulare malum erit bonum.
 
 ###### arg. 4
-Praeterea, Isaiae III, contra quosdam dicitur, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Sed abscondere peccatum ad simulationem pertinet. Ergo non uti simulatione interdum est reprehensibile. Vitare autem peccatum nunquam est reprehensibile. Ergo simulatio non semper est peccatum.
+Praeterea, [[Is 3]], contra quosdam dicitur, *peccatum suum quasi Sodoma praedicaverunt, nec absconderunt*. Sed abscondere peccatum ad simulationem pertinet. Ergo non uti simulatione interdum est reprehensibile. Vitare autem peccatum nunquam est reprehensibile. Ergo simulatio non semper est peccatum.
 
 ###### s. c.
-Sed contra est quod Isaiae XVI, super illud, in tribus annis etc., dicit Glossa, *in comparatione duorum malorum, levius est aperte peccare quam sanctitatem simulare*. Sed aperte peccare semper est peccatum. Ergo simulatio semper est peccatum.
+Sed contra est quod [[Is 16]], super illud, in tribus annis etc., dicit Glossa, *in comparatione duorum malorum, levius est aperte peccare quam sanctitatem simulare*. Sed aperte peccare semper est peccatum. Ergo simulatio semper est peccatum.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, ad virtutem veritatis pertinet ut aliquis talem se exhibeat exterius per signa exteriora qualis est. Signa autem exteriora non solum sunt verba, sed etiam facta. Sicut ergo veritati opponitur quod aliquis per verba exteriora aliud significet quam quod habet apud se, quod ad mendacium pertinet; ita etiam veritati opponitur quod aliquis per aliqua signa factorum vel rerum aliquid de se significet contrarium eius quod in eo est, quod proprie simulatio dicitur. Unde simulatio proprie est mendacium quoddam in exteriorum signis factorum consistens. Non refert autem utrum aliquis mentiatur verbo, vel quocumque alio facto, ut supra dictum est. Unde, cum omne mendacium sit peccatum, ut supra habitum est, consequens est etiam quod omnis simulatio est peccatum.

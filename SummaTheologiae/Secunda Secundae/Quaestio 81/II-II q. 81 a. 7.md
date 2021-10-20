@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod latria non habeat aliquem exteriorem actum. Dicitur enim Ioan. IV, *Deus spiritus est, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Sed exteriores actus non pertinent ad spiritum, sed magis ad corpus. Ergo religio, ad quam pertinet adoratio, non habet exteriores actus, sed interiores.
+Ad septimum sic proceditur. Videtur quod latria non habeat aliquem exteriorem actum. Dicitur enim [[Jn 4]], *Deus spiritus est, et eos qui adorant eum, in spiritu et veritate adorare oportet*. Sed exteriores actus non pertinent ad spiritum, sed magis ad corpus. Ergo religio, ad quam pertinet adoratio, non habet exteriores actus, sed interiores.
 
 ###### arg. 2
 Praeterea, religionis finis est Deo reverentiam et honorem exhibere. Sed videtur ad irreverentiam alicuius excellentis pertinere si ea sibi exhibeantur quae proprie ad inferiores pertinent. Cum igitur ea quae exhibet homo corporalibus actibus proprie videantur ad indigentias hominum ordinari, vel ad reverentiam inferiorum creaturarum; non videtur quod congrue possunt assumi in divinam reverentiam.

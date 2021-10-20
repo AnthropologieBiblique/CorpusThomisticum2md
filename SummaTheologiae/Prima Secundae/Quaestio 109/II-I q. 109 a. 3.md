@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod homo non possit diligere Deum super omnia ex solis naturalibus sine gratia. Diligere enim Deum super omnia est proprius et principalis caritatis actus. Sed caritatem homo non potest habere per seipsum, quia *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur Rom. V. Ergo homo ex solis naturalibus non potest Deum diligere super omnia.
+Ad tertium sic proceditur. Videtur quod homo non possit diligere Deum super omnia ex solis naturalibus sine gratia. Diligere enim Deum super omnia est proprius et principalis caritatis actus. Sed caritatem homo non potest habere per seipsum, quia *caritas Dei diffusa est in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur [[Rm 5]]. Ergo homo ex solis naturalibus non potest Deum diligere super omnia.
 
 ###### arg. 2
 Praeterea, nulla natura potest supra seipsam. Sed diligere aliquid plus quam se, est tendere in aliquid supra seipsum. Ergo nulla natura creata potest Deum diligere supra seipsam sine auxilio gratiae.

@@ -10,7 +10,7 @@ Praeterea, Augustinus dicit, in libro de vera Relig., quod omni corpori spiritus
 Praeterea, in omni loco est aliquod corpus, cum nihil sit vacuum in natura. Si ergo nullum corpus obtinet altiorem locum quam spiritus in ordine naturalium corporum, nullus locus erit supra omnem spiritualem creaturam. Non ergo corpus Christi potuit ascendere super omnem spiritualem creaturam.
 
 ###### s. c.
-Sed contra est quod dicitur Ephes. I, *constituit illum super omnem principatum et potestatem, et supra omne nomen quod nominatur sive in hoc saeculo sive in futuro*.
+Sed contra est quod dicitur [[Ep 1]], *constituit illum super omnem principatum et potestatem, et supra omne nomen quod nominatur sive in hoc saeculo sive in futuro*.
 
 ###### co.
 Respondeo dicendum quod tanto alicui rei debetur altior locus, quanto est nobilior, sive debeatur ei locus per modum contactus corporalis, sicut corporibus; sive per modum contactus spiritualis, sicut spiritualibus substantiis. Exinde enim spiritualibus substantiis debetur secundum quandam congruentiam locus caelestis, qui est supremus locorum, quia illae substantiae sunt supremae in ordine substantiarum. Corpus autem Christi, licet, considerando conditionem naturae corporeae, sit infra spirituales substantias; considerando tamen dignitatem unionis qua est personaliter Deo coniunctum, excellit dignitatem omnium spiritualium substantiarum. Et ideo, secundum praedictae congruentiae rationem, debetur sibi locus altior ultra omnem creaturam etiam spiritualem. Unde et Gregorius dicit, in homilia ascensionis, quod *qui fecerat omnia, super omnia sua virtute ferebatur*.

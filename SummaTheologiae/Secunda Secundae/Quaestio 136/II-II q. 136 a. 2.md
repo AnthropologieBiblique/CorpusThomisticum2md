@@ -1,10 +1,10 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod patientia sit potissima virtutum. Id enim quod est perfectum est potissimum in unoquoque genere. Sed patentia habet opus perfectum, ut dicitur Iac. I. Ergo patientia est potissima virtutum.
+Ad secundum sic proceditur. Videtur quod patientia sit potissima virtutum. Id enim quod est perfectum est potissimum in unoquoque genere. Sed patentia habet opus perfectum, ut dicitur [[Jc 1]]. Ergo patientia est potissima virtutum.
 
 ###### arg. 2
-Praeterea, omnes virtutes ad bonum animae ordinantur. Sed hoc praecipue videtur pertinere ad patientiam, dicitur enim Luc. XXI, *in patientia vestra possidebitis animas vestras*. Ergo patientia est maxima virtutum.
+Praeterea, omnes virtutes ad bonum animae ordinantur. Sed hoc praecipue videtur pertinere ad patientiam, dicitur enim [[Lc 21]], *in patientia vestra possidebitis animas vestras*. Ergo patientia est maxima virtutum.
 
 ###### arg. 3
 Praeterea, illud quod est conservativum et causa aliorum, videtur potius esse. Sed sicut Gregorius dicit, in quadam homilia, *patientia est radix et custos omnium virtutum*. Ergo patientia est maxima virtutum.

@@ -10,10 +10,10 @@ Praeterea, Ambrosius dicit ibidem, *non debent simul effundi opes, sed dispensar
 Praeterea, II ad Cor. VIII dicit apostolus, non ut aliis sit remissio, idest ut alii de nostris otiose vivant; vobis autem sit tribulatio, idest paupertas. Sed hoc contingeret si eleemosyna daretur abundanter. Ergo non est abundanter eleemosyna largienda.
 
 ###### s. c.
-Sed contra est quod dicitur Tob. IV, *si multum tibi fuerit, abundanter tribue*.
+Sed contra est quod dicitur [[Tb 4]], *si multum tibi fuerit, abundanter tribue*.
 
 ###### co.
-Respondeo dicendum quod abundantia eleemosynae potest considerari et ex parte dantis, et ex parte recipientis. Ex parte quidem dantis cum scilicet aliquis dat quod est multum secundum proportionem propriae facultatis. Et sic laudabile est abundanter dare, unde et dominus, Luc. XXI, laudavit viduam, quae *ex eo quod deerat illi, omnem victum quem habuit misit*, observatis tamen his quae supra dicta sunt de eleemosyna facienda de necessariis. Ex parte vero eius cui datur est abundans eleemosyna dupliciter. Uno modo, quod suppleat sufficienter eius indigentiam. Et sic laudabile est abundanter eleemosynam tribuere. Alio modo, ut superabundet ad superfluitatem. Et hoc non est laudabile, sed melius est pluribus indigentibus elargiri. Unde et apostolus dicit, I ad Cor. XIII, *si distribuero in cibos pauperum*; ubi Glossa dicit, *per hoc cautela eleemosynae docetur, ut non uni sed multis detur, ut pluribus prosit*.
+Respondeo dicendum quod abundantia eleemosynae potest considerari et ex parte dantis, et ex parte recipientis. Ex parte quidem dantis cum scilicet aliquis dat quod est multum secundum proportionem propriae facultatis. Et sic laudabile est abundanter dare, unde et dominus, [[Lc 21]], laudavit viduam, quae *ex eo quod deerat illi, omnem victum quem habuit misit*, observatis tamen his quae supra dicta sunt de eleemosyna facienda de necessariis. Ex parte vero eius cui datur est abundans eleemosyna dupliciter. Uno modo, quod suppleat sufficienter eius indigentiam. Et sic laudabile est abundanter eleemosynam tribuere. Alio modo, ut superabundet ad superfluitatem. Et hoc non est laudabile, sed melius est pluribus indigentibus elargiri. Unde et apostolus dicit, I ad Cor. XIII, *si distribuero in cibos pauperum*; ubi Glossa dicit, *per hoc cautela eleemosynae docetur, ut non uni sed multis detur, ut pluribus prosit*.
 
 ###### ad 1
 Ad primum ergo dicendum quod ratio illa procedit de abundantia superexcedente necessitatem recipientis eleemosynam.

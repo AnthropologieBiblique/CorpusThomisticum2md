@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod anima intellectiva non cognoscat res materiales in rationibus aeternis. Id enim in quo aliquid cognoscitur, ipsum magis et per prius cognoscitur. Sed anima intellectiva hominis, in statu praesentis vitae, non cognoscit rationes aeternas, quia non cognoscit ipsum Deum, in quo rationes aeternae existunt, sed ei sicut ignoto coniungitur, ut Dionysius dicit in I cap. mysticae theologiae. Ergo anima non cognoscit omnia in rationibus aeternis.
 
 ###### arg. 2
-Praeterea, Rom. I, dicitur quod *invisibilia Dei per ea quae facta sunt, conspiciuntur*. Sed inter invisibilia Dei numerantur rationes aeternae. Ergo rationes aeternae per creaturas materiales cognoscuntur, et non e converso.
+Praeterea, [[Rm 1]], dicitur quod *invisibilia Dei per ea quae facta sunt, conspiciuntur*. Sed inter invisibilia Dei numerantur rationes aeternae. Ergo rationes aeternae per creaturas materiales cognoscuntur, et non e converso.
 
 ###### arg. 3
 Praeterea, rationes aeternae nihil aliud sunt quam ideae, dicit enim Augustinus, in libro octoginta trium quaest., quod *ideae sunt rationes stabiles rerum in mente divina existentes*. Si ergo dicatur quod anima intellectiva cognoscit omnia in rationibus aeternis, redibit opinio Platonis, qui posuit omnem scientiam ab ideis derivari.

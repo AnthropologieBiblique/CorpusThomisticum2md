@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod non omne ens sit bonum. Bonum enim addit supra ens, ut ex dictis patet. Ea vero quae addunt aliquid supra ens, contrahunt ipsum, sicut substantia, quantitas, qualitas, et alia huiusmodi. Ergo bonum contrahit ens. Non igitur omne ens est bonum.
 
 ###### arg. 2
-Praeterea, nullum malum est bonum, Isaiae V, *vae qui dicitis malum bonum, et bonum malum*. Sed aliquod ens dicitur malum. Ergo non omne ens est bonum.
+Praeterea, nullum malum est bonum, [[Is 5]], *vae qui dicitis malum bonum, et bonum malum*. Sed aliquod ens dicitur malum. Ergo non omne ens est bonum.
 
 ###### arg. 3
 Praeterea, bonum habet rationem appetibilis. Sed materia prima non habet rationem appetibilis, sed appetentis tantum. Ergo materia prima non habet rationem boni. Non igitur omne ens est bonum.

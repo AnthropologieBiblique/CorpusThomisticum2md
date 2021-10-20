@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod ratio praeceptorum caeremonialium non in hoc consistat quod pertinent ad cultum Dei. In lege enim veteri dantur Iudaeis quaedam praecepta de abstinentia ciborum, ut patet Levit. XI; et etiam de abstinendo ab aliquibus vestimentis, sicut illud Levit. XIX, *vestem quae ex duobus texta est, non indueris*; et iterum quod praecipitur Num. XV, *ut faciant sibi fimbrias per angulos palliorum*. Sed huiusmodi non sunt praecepta moralia, quia non manent in nova lege. Nec etiam iudicialia, quia non pertinent ad iudicium faciendum inter homines. Ergo sunt caeremonialia. Sed in nullo pertinere videntur ad cultum Dei. Ergo non est ratio caeremonialium praeceptorum quod pertineant ad cultum Dei.
+Ad primum sic proceditur. Videtur quod ratio praeceptorum caeremonialium non in hoc consistat quod pertinent ad cultum Dei. In lege enim veteri dantur Iudaeis quaedam praecepta de abstinentia ciborum, ut patet [[Lv 11]]; et etiam de abstinendo ab aliquibus vestimentis, sicut illud [[Lv 11]], *vestem quae ex duobus texta est, non indueris*; et iterum quod praecipitur [[Nb 15]], *ut faciant sibi fimbrias per angulos palliorum*. Sed huiusmodi non sunt praecepta moralia, quia non manent in nova lege. Nec etiam iudicialia, quia non pertinent ad iudicium faciendum inter homines. Ergo sunt caeremonialia. Sed in nullo pertinere videntur ad cultum Dei. Ergo non est ratio caeremonialium praeceptorum quod pertineant ad cultum Dei.
 
 ###### arg. 2
 Praeterea, dicunt quidam quod praecepta caeremonialia dicuntur illa quae pertinent ad solemnitates, quasi dicerentur a cereis, qui in solemnitatibus accenduntur. Sed multa alia sunt pertinentia ad cultum Dei praeter solemnitates. Ergo non videtur quod praecepta caeremonialia ea ratione dicantur, quia pertinent ad cultum Dei.
@@ -13,7 +13,7 @@ Praeterea, secundum quosdam praecepta caeremonialia dicuntur quasi normae, idest
 Praeterea, Rabbi Moyses dicit quod praecepta caeremonialia dicuntur quorum ratio non est manifesta. Sed multa pertinentia ad cultum Dei habent rationem manifestam, sicut observatio sabbati, et celebratio phase et Scenopegiae, et multorum aliorum, quorum ratio assignatur in lege. Ergo caeremonialia non sunt quae pertinent ad cultum Dei.
 
 ###### s. c.
-Sed contra est quod dicitur Exod. XVIII, *esto populo in his quae ad Deum pertinent, ostendasque populo caeremonias et ritum colendi*.
+Sed contra est quod dicitur [[Ex 18]], *esto populo in his quae ad Deum pertinent, ostendasque populo caeremonias et ritum colendi*.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, caeremonialia praecepta determinant praecepta moralia in ordine ad Deum, sicut iudicialia determinant praecepta moralia in ordine ad proximum. Homo autem ordinatur ad Deum per debitum cultum. Et ideo caeremonialia proprie dicuntur quae ad cultum Dei pertinent. Ratio autem huius nominis posita est supra, ubi praecepta caeremonialia ab aliis sunt distincta.

@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod caritas augeatur per additionem. Sicut enim est augmentum secundum quantitatem corporalem, ita secundum quantitatem virtualem. Sed augmentum quantitatis corporalis fit per additionem, dicit enim philosophus, in I de Gen., quod *augmentum est praeexistenti magnitudini additamentum*. Ergo etiam augmentum caritatis, quod est secundum virtualem quantitatem, erit per additionem.
 
 ###### arg. 2
-Praeterea, caritas in anima est quoddam spirituale lumen, secundum illud I Ioan. II, *qui diligit fratrem suum in lumine manet*. Sed lumen crescit in aere per additionem, sicut in domo lumen crescit alia candela superaccensa. Ergo etiam caritas crescit in anima per additionem.
+Praeterea, caritas in anima est quoddam spirituale lumen, secundum illud [[1 Jn 2]], *qui diligit fratrem suum in lumine manet*. Sed lumen crescit in aere per additionem, sicut in domo lumen crescit alia candela superaccensa. Ergo etiam caritas crescit in anima per additionem.
 
 ###### arg. 3
 Praeterea, augere caritatem ad Deum pertinet, sicut et ipsam creare, secundum illud II ad Cor. IX, *augebit incrementa frugum iustitiae vestrae*. Sed Deus primo infundendo caritatem aliquid facit in anima quod ibi prius non erat. Ergo etiam augendo caritatem aliquid ibi facit quod prius non erat. Ergo caritas augetur per additionem.

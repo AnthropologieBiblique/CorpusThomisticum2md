@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod aliquid fidei vel spei remaneat in gloria. Remoto enim eo quod est proprium, remanet id quod est commune, sicut dicitur in libro de causis, quod, *remoto rationali, remanet vivum; et remoto vivo, remanet ens*. Sed in fide est aliquid quod habet commune cum beatitudine, scilicet ipsa cognitio, aliquid autem quod est sibi proprium, scilicet aenigma; est enim fides cognitio aenigmatica. Ergo, remoto aenigmate fidei, adhuc remanet ipsa cognitio fidei.
 
 ###### arg. 2
-Praeterea, fides est quoddam spirituale lumen animae, secundum illud Ephes. I, *illuminatos oculos cordis vestri in agnitionem Dei*; sed hoc lumen est imperfectum respectu luminis gloriae, de quo dicitur in Psalmo XXXV, *in lumine tuo videbimus lumen*. Lumen autem imperfectum remanet, superveniente lumine perfecto, non enim candela extinguitur, claritate solis superveniente. Ergo videtur quod ipsum lumen fidei maneat cum lumine gloriae.
+Praeterea, fides est quoddam spirituale lumen animae, secundum illud [[Ep 1]], *illuminatos oculos cordis vestri in agnitionem Dei*; sed hoc lumen est imperfectum respectu luminis gloriae, de quo dicitur in Psalmo XXXV, *in lumine tuo videbimus lumen*. Lumen autem imperfectum remanet, superveniente lumine perfecto, non enim candela extinguitur, claritate solis superveniente. Ergo videtur quod ipsum lumen fidei maneat cum lumine gloriae.
 
 ###### arg. 3
 Praeterea, substantia habitus non tollitur per hoc quod subtrahitur materia, potest enim homo habitum liberalitatis retinere, etiam amissa pecunia; sed actum habere non potest. Obiectum autem fidei est veritas prima non visa. Ergo, hoc remoto per hoc quod videtur veritas prima, adhuc potest remanere ipse habitus fidei.

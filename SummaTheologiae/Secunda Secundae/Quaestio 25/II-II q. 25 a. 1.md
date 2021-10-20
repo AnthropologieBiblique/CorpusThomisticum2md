@@ -1,16 +1,16 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod dilectio caritatis sistat in Deo, et non se extendat ad proximum. Sicut enim Deo debemus amorem, ita et timorem, secundum illud Deut. X, *et nunc, Israel, quid dominus Deus petit nisi ut timeas et diligas eum?* Sed alius est timor quo timetur homo, qui dicitur timor humanus; et alius timor quo timetur Deus, qui est vel servilis vel filialis; ut ex supradictis patet. Ergo etiam alius est amor caritatis, quo diligitur Deus; et alius est amor quo diligitur proximus.
+Ad primum sic proceditur. Videtur quod dilectio caritatis sistat in Deo, et non se extendat ad proximum. Sicut enim Deo debemus amorem, ita et timorem, secundum illud [[Dt 10]], *et nunc, Israel, quid dominus Deus petit nisi ut timeas et diligas eum?* Sed alius est timor quo timetur homo, qui dicitur timor humanus; et alius timor quo timetur Deus, qui est vel servilis vel filialis; ut ex supradictis patet. Ergo etiam alius est amor caritatis, quo diligitur Deus; et alius est amor quo diligitur proximus.
 
 ###### arg. 2
 Praeterea, philosophus dicit, in VIII Ethic., quod *amari est honorari*. Sed alius est honor qui debetur Deo, qui est honor latriae; et alius est honor qui debetur creaturae, qui est honor duliae. Ergo etiam alius est amor quo diligitur Deus, et quo diligitur proximus.
 
 ###### arg. 3
-Praeterea, spes generat caritatem; ut habetur in Glossa, Matth. I. Sed spes ita habetur de Deo quod reprehenduntur sperantes in homine, secundum illud Ierem. XVII, *maledictus homo qui confidit in homine*. Ergo caritas ita debetur Deo quod ad proximum non se extendat.
+Praeterea, spes generat caritatem; ut habetur in Glossa, [[Mt 1]]. Sed spes ita habetur de Deo quod reprehenduntur sperantes in homine, secundum illud [[Jr 17]], *maledictus homo qui confidit in homine*. Ergo caritas ita debetur Deo quod ad proximum non se extendat.
 
 ###### s. c.
-Sed contra est quod dicitur I Ioan. IV, *hoc mandatum habemus a Deo, ut qui diligit Deum, diligat et fratrem suum*.
+Sed contra est quod dicitur [[1 Jn 4]], *hoc mandatum habemus a Deo, ut qui diligit Deum, diligat et fratrem suum*.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, habitus non diversificantur nisi ex hoc quod variat speciem actus, omnes enim actus unius speciei ad eundem habitum pertinent. Cum autem species actus ex obiecto sumatur secundum formalem rationem ipsius, necesse est quod idem specie sit actus qui fertur in rationem obiecti, et qui fertur in obiectum sub tali ratione, sicut est eadem specie visio qua videtur lumen, et qua videtur color secundum luminis rationem. Ratio autem diligendi proximum Deus est, hoc enim debemus in proximo diligere, ut in Deo sit. Unde manifestum est quod idem specie actus est quo diligitur Deus, et quo diligitur proximus. Et propter hoc habitus caritatis non solum se extendit ad dilectionem Dei, sed etiam ad dilectionem proximi.

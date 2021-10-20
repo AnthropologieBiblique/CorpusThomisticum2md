@@ -7,7 +7,7 @@ Ad quartum sic proceditur. Videtur quod verum et falsum non sint contraria. Veru
 Praeterea, unum contrariorum non est in alio. Sed falsum est in vero, quia, sicut dicit Augustinus in libro Soliloq., *tragoedus non esset falsus Hector, si non esset verus tragoedus*. Ergo verum et falsum non sunt contraria.
 
 ###### arg. 3
-Praeterea, in Deo non est contrarietas aliqua, nihil enim divinae substantiae est contrarium, ut dicit Augustinus, XII de Civit. Dei. Sed Deo opponitur falsitas, nam idolum in Scriptura mendacium nominatur, Ierem. VIII, *apprehenderunt mendacium*; Glossa, *idest idola*. Ergo verum et falsum non sunt contraria.
+Praeterea, in Deo non est contrarietas aliqua, nihil enim divinae substantiae est contrarium, ut dicit Augustinus, XII de Civit. Dei. Sed Deo opponitur falsitas, nam idolum in Scriptura mendacium nominatur, [[Jr 8]], *apprehenderunt mendacium*; Glossa, *idest idola*. Ergo verum et falsum non sunt contraria.
 
 ###### s. c.
 Sed contra est quod dicit philosophus, in II Periherm., ponit enim falsam opinionem verae contrariam.

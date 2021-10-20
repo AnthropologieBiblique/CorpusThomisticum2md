@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod etiam Angeli qui mittuntur, assistant. D
 Praeterea, Angelus Tobiae in ministerium missus fuit. Sed tamen ipse dixit, *ego sum Raphael Angelus, unus ex septem qui adstamus ante Deum*, ut habetur Tobiae XII. Ergo Angeli qui mittuntur, assistunt.
 
 ###### arg. 3
-Praeterea, quilibet Angelus beatus propinquior est Deo quam Satan. Sed Satan assistit Deo; secundum quod dicitur Iob I, *cum assisterent filii Dei coram domino, affuit inter eos et Satan*. Ergo multo magis Angeli qui mittuntur in ministerium, assistunt.
+Praeterea, quilibet Angelus beatus propinquior est Deo quam Satan. Sed Satan assistit Deo; secundum quod dicitur [[Jb 1]], *cum assisterent filii Dei coram domino, affuit inter eos et Satan*. Ergo multo magis Angeli qui mittuntur in ministerium, assistunt.
 
 ###### arg. 4
 Praeterea, si inferiores Angeli non assistunt, hoc non est nisi quia non immediate, sed per superiores Angelos divinas illuminationes recipiunt. Sed quilibet Angelus per superiorem divinas illuminationes suscipit, excepto eo qui est inter omnes supremus. Ergo solus supremus Angelus assisteret. Quod est contra illud quod habetur Dan. VII, *decies millies centena millia assistebant ei*. Ergo etiam illi qui ministrant, assistunt.

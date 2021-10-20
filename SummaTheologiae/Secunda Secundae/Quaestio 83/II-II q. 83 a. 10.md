@@ -1,7 +1,7 @@
 ### Articulus 10
 
 ###### arg. 1
-Ad decimum sic proceditur. Videtur quod orare non sit proprium rationalis creaturae. Eiusdem enim videtur esse petere et accipere. Sed accipere convenit etiam personis increatis, scilicet filio et spiritui sancto. Ergo etiam eis convenit orare, nam et filius dicit, Ioan. XIV, *ego rogabo patrem*; et de spiritu sancto dicit apostolus, *spiritus postulat pro nobis*.
+Ad decimum sic proceditur. Videtur quod orare non sit proprium rationalis creaturae. Eiusdem enim videtur esse petere et accipere. Sed accipere convenit etiam personis increatis, scilicet filio et spiritui sancto. Ergo etiam eis convenit orare, nam et filius dicit, [[Jn 14]], *ego rogabo patrem*; et de spiritu sancto dicit apostolus, *spiritus postulat pro nobis*.
 
 ###### arg. 2
 Praeterea, Angeli sunt supra rationales creaturas, cum sint intellectuales substantiae. Sed ad Angelos pertinet orare, unde in Psalm. dicitur, *adorate eum, omnes Angeli eius*. Ergo orare non est proprium rationalis creaturae.

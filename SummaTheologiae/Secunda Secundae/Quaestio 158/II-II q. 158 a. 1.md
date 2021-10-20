@@ -1,16 +1,16 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod irasci non possit esse licitum. Hieronymus enim, exponens illud Matth. V, *qui irascitur fratri suo* etc., dicit, *in quibusdam codicibus additur, sine causa, ceterum in veris definita sententia est, et ira penitus tollitur*. Ergo irasci nullo modo est licitum.
+Ad primum sic proceditur. Videtur quod irasci non possit esse licitum. Hieronymus enim, exponens illud [[Mt 5]], *qui irascitur fratri suo* etc., dicit, *in quibusdam codicibus additur, sine causa, ceterum in veris definita sententia est, et ira penitus tollitur*. Ergo irasci nullo modo est licitum.
 
 ###### arg. 2
 Praeterea, secundum Dionysium, IV cap. de Div. Nom., *malum animae est sine ratione esse*. Sed ira semper est sine ratione. Dicit enim philosophus, in VII Ethic., quod *ira non perfecte audit rationem*. Et Gregorius dicit, V Moral., quod *cum tranquillitatem mentis ira diverberat, dilaniatam quodammodo scissamque perturbat*. Et Cassianus dicit, in libro de institutis coenobiorum, *qualibet ex causa iracundiae motus effervens, excaecat oculum cordis*. Ergo irasci semper est malum.
 
 ###### arg. 3
-Praeterea, ira est appetitus vindictae, ut dicit Glossa super Levit. XIX, *non oderis fratrem tuum in corde tuo*. Sed appetere ultionem non videtur esse licitum, sed hoc Deo est reservandum, secundum illud Deut. XXXII, *mea est ultio*. Ergo videtur quod irasci semper sit malum.
+Praeterea, ira est appetitus vindictae, ut dicit Glossa super [[Lv 19]], *non oderis fratrem tuum in corde tuo*. Sed appetere ultionem non videtur esse licitum, sed hoc Deo est reservandum, secundum illud [[Dt 32]], *mea est ultio*. Ergo videtur quod irasci semper sit malum.
 
 ###### arg. 4
-Praeterea, omne illud quod abducit nos a divina similitudine, est malum. Sed irasci semper abducit nos a divina similitudine, quia Deus cum tranquillitate iudicat, ut habetur Sap. XII. Ergo irasci semper est malum.
+Praeterea, omne illud quod abducit nos a divina similitudine, est malum. Sed irasci semper abducit nos a divina similitudine, quia Deus cum tranquillitate iudicat, ut habetur [[Sg 12]]. Ergo irasci semper est malum.
 
 ###### s. c.
 Sed contra est quod Chrysostomus dicit, super Matth., *qui sine causa irascitur, reus erit, qui vero cum causa, non erit reus. Nam si ira non fuerit, nec doctrina proficit, nec iudicia stant, nec crimina compescuntur*. Ergo irasci non semper est malum.
@@ -25,7 +25,7 @@ Ad primum ergo dicendum quod Stoici iram et omnes alias passiones nominabant aff
 Ad secundum dicendum quod ira dupliciter se potest habere ad rationem. Uno quidem modo, antecedenter. Et sic trahit rationem a sua rectitudine, unde habet rationem mali. Alio modo, consequenter prout scilicet appetitus sensitivus movetur contra vitia secundum ordinem rationis. Et haec ira est bona, quae dicitur ira per zelum. Unde Gregorius dicit, in V Moral., *curandum summopere est ne ira, quae ut instrumentum virtutis assumitur, menti dominetur, ne quasi domina praeeat, sed velut ancilla ad obsequium parata, a rationis tergo nunquam recedat*. Haec autem ira, etsi in ipsa executione actus iudicium rationis aliqualiter impediat, non tamen rectitudinem rationis tollit. Unde Gregorius, ibidem, dicit quod *ira per zelum turbat rationis oculum, sed ira per vitium excaecat*. Non autem est contra rationem virtutis ut intermittatur deliberatio rationis in executione eius quod est a ratione deliberatum. Quia etiam ars impediretur in suo actu si, dum debet agere, deliberaret de agendis.
 
 ###### ad 3
-Ad tertium dicendum quod appetere vindictam propter malum eius qui puniendus est, illicitum est. Sed appetere vindictam propter vitiorum correctionem et bonum iustitiae conservandum, laudabile est. Et in hoc potest tendere appetitus sensitivus inquantum movetur a ratione. Et dum vindicta secundum ordinem iudicii fit, a Deo fit, cuius minister est potestas puniens, ut dicitur Rom. XIII.
+Ad tertium dicendum quod appetere vindictam propter malum eius qui puniendus est, illicitum est. Sed appetere vindictam propter vitiorum correctionem et bonum iustitiae conservandum, laudabile est. Et in hoc potest tendere appetitus sensitivus inquantum movetur a ratione. Et dum vindicta secundum ordinem iudicii fit, a Deo fit, cuius minister est potestas puniens, ut dicitur [[Rm 13]].
 
 ###### ad 4
 Ad quartum dicendum quod Deo assimilari possumus et debemus in appetitu boni, sed in modo appetendi ei omnino assimilari non possumus; quia in Deo non est appetitus sensitivus, sicut in nobis, cuius motus debet rationi deservire. Unde Gregorius dicit, in V Moral., quod *tunc robustius ratio contra vitia erigitur, cum ira subdita rationi famulatur*.

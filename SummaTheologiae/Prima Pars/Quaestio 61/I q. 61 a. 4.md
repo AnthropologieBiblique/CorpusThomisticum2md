@@ -7,13 +7,13 @@ Ad quartum sic proceditur. Videtur quod Angeli non sint creati in caelo Empyreo.
 Praeterea, Augustinus dicit, III super Gen. ad Litt., quod Angeli fuerunt creati in superiori parte aeris. Non ergo in caelo Empyreo.
 
 ###### arg. 3
-Praeterea, caelum Empyreum dicitur esse caelum supremum. Si igitur Angeli creati fuissent in caelo Empyreo, non convenisset eis in superius caelum ascendere. Quod est contra id quod ex persona Angeli peccantis dicitur Isaiae XIV, *ascendam in caelum*.
+Praeterea, caelum Empyreum dicitur esse caelum supremum. Si igitur Angeli creati fuissent in caelo Empyreo, non convenisset eis in superius caelum ascendere. Quod est contra id quod ex persona Angeli peccantis dicitur [[Is 14]], *ascendam in caelum*.
 
 ###### s. c.
 Sed contra est quod Strabus dicit, super illud, *in principio creavit Deus caelum et terram, caelum non visibile firmamentum hic appellat, sed Empyreum, idest igneum vel intellectuale, quod non ab ardore, sed a splendore dicitur, quod statim factum, Angelis est repletum*.
 
 ###### co.
-Respondeo dicendum quod, sicut dictum est, ex creaturis corporalibus et spiritualibus unum universum constituitur. Unde sic creatae sunt spirituales creaturae, quod ad creaturam corporalem aliquem ordinem habent, et toti creaturae corporali praesident. Unde conveniens fuit quod Angeli in supremo corpore crearentur, tanquam toti naturae corporeae praesidentes; sive id dicatur caelum Empyreum, sive qualitercumque nominetur. Unde Isidorus dicit quod supremum caelum est caelum Angelorum, super illud Deut. X, *domini Dei tui est caelum, et caelum caeli*.
+Respondeo dicendum quod, sicut dictum est, ex creaturis corporalibus et spiritualibus unum universum constituitur. Unde sic creatae sunt spirituales creaturae, quod ad creaturam corporalem aliquem ordinem habent, et toti creaturae corporali praesident. Unde conveniens fuit quod Angeli in supremo corpore crearentur, tanquam toti naturae corporeae praesidentes; sive id dicatur caelum Empyreum, sive qualitercumque nominetur. Unde Isidorus dicit quod supremum caelum est caelum Angelorum, super illud [[Dt 10]], *domini Dei tui est caelum, et caelum caeli*.
 
 ###### ad 1
 Ad primum ergo dicendum quod Angeli non sunt creati in loco corporeo, quasi dependentes a corpore secundum suum esse vel secundum suum fieri, potuisset enim Deus Angelos ante totam creaturam corporalem creasse, ut multi sancti doctores tenent. Sed facti sunt in loco corporeo, ad ostendendum ordinem eorum ad naturam corpoream, et quod sua virtute corpora contingunt.

@@ -1,10 +1,10 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod continentia sit melior quam temperantia. Dicitur enim Eccli. XXVI, *omnis autem ponderatio non est digna continentis animae*. Ergo nulla virtus potest continentiae adaequari.
+Ad quartum sic proceditur. Videtur quod continentia sit melior quam temperantia. Dicitur enim [[Si 26]], *omnis autem ponderatio non est digna continentis animae*. Ergo nulla virtus potest continentiae adaequari.
 
 ###### arg. 2
-Praeterea, quanto aliqua virtus meretur maius praemium, tanto potior est. Sed continentia videtur mereri maius praemium, dicitur enim II ad Tim. II, *non coronabitur nisi qui legitime certaverit*; magis autem certat continens, qui patitur vehementes concupiscentias pravas, quam temperatus, qui non habet eas vehementes. Ergo continentia est potior virtus quam temperantia.
+Praeterea, quanto aliqua virtus meretur maius praemium, tanto potior est. Sed continentia videtur mereri maius praemium, dicitur enim [[2 Tm 2]], *non coronabitur nisi qui legitime certaverit*; magis autem certat continens, qui patitur vehementes concupiscentias pravas, quam temperatus, qui non habet eas vehementes. Ergo continentia est potior virtus quam temperantia.
 
 ###### arg. 3
 Praeterea, voluntas est dignior potentia quam vis concupiscibilis. Sed continentia est in voluntate, temperantia autem in vi concupiscibili, ut ex dictis patet. Ergo continentia est potior virtus quam temperantia.

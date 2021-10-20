@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod sacramentum non sit in genere signi. Videtur enim sacramentum dici a sacrando, sicut medicamentum a medicando. Sed hoc magis videtur pertinere ad rationem causae quam ad rationem signi. Ergo sacramentum magis est in genere causae quam in genere signi.
 
 ###### arg. 2
-Praeterea, sacramentum videtur occultum aliquid significare, secundum illud Tob. XII, *sacramentum regis abscondere bonum est*; et Ephes. III, *quae sit dispensatio sacramenti absconditi a saeculis in Deo*. Sed id quod est absconditum, videtur esse contra rationem signi, nam *signum est quod, praeter speciem quam sensibus ingerit, facit aliquid aliud in cognitionem venire*, ut patet per Augustinum, in II de Doct. Christ. Ergo videtur quod sacramentum non sit in genere signi.
+Praeterea, sacramentum videtur occultum aliquid significare, secundum illud [[Tb 12]], *sacramentum regis abscondere bonum est*; et [[Ep 3]], *quae sit dispensatio sacramenti absconditi a saeculis in Deo*. Sed id quod est absconditum, videtur esse contra rationem signi, nam *signum est quod, praeter speciem quam sensibus ingerit, facit aliquid aliud in cognitionem venire*, ut patet per Augustinum, in II de Doct. Christ. Ergo videtur quod sacramentum non sit in genere signi.
 
 ###### arg. 3
 Praeterea, iuramentum quandoque sacramentum nominatur, dicitur enim in decretis, XXII Caus., qu. V, *parvuli qui sine aetate rationabili sunt, non cogantur iurare, et qui semel periuratus fuerit, nec testis sit post hoc, nec ad sacramentum*, idest ad iuramentum, *accedat*. Sed iuramentum non pertinet ad rationem signi. Ergo videtur quod sacramentum non sit in genere signi.

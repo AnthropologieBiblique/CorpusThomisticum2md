@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod caeremoniae veteris legis inconvenienter dividantur in sacrificia, sacra, sacramenta et observantias. Caeremoniae enim veteris legis figurabant Christum. Sed hoc solum fiebat per sacrificia, per quae figurabatur sacrificium quo Christus se obtulit oblationem et hostiam Deo, ut dicitur ad Ephes. V. Ergo sola sacrificia erant caeremonialia.
+Ad quartum sic proceditur. Videtur quod caeremoniae veteris legis inconvenienter dividantur in sacrificia, sacra, sacramenta et observantias. Caeremoniae enim veteris legis figurabant Christum. Sed hoc solum fiebat per sacrificia, per quae figurabatur sacrificium quo Christus se obtulit oblationem et hostiam Deo, ut dicitur ad [[Ep 5]]. Ergo sola sacrificia erant caeremonialia.
 
 ###### arg. 2
 Praeterea, vetus lex ordinabatur ad novam. Sed in nova lege ipsum sacrificium est sacramentum altaris. Ergo in veteri lege non debuerunt distingui sacramenta contra sacrificia.
@@ -10,13 +10,13 @@ Praeterea, vetus lex ordinabatur ad novam. Sed in nova lege ipsum sacrificium es
 Praeterea, sacrum dicitur quod est Deo dicatum, secundum quem modum tabernaculum et vasa eius sacrificari dicebantur. Sed omnia caeremonialia erant ordinata ad cultum Dei, ut dictum est. Ergo caeremonialia omnia sacra erant. Non ergo una pars caeremonialium debet sacra nominari.
 
 ###### arg. 4
-Praeterea, observantiae ab observando dicuntur. Sed omnia praecepta legis observari debebant, dicitur enim Deut. VIII, *observa et cave ne quando obliviscaris domini Dei tui, et negligas mandata eius atque iudicia et caeremonias*. Non ergo observantiae debent poni una pars caeremonialium.
+Praeterea, observantiae ab observando dicuntur. Sed omnia praecepta legis observari debebant, dicitur enim [[Dt 8]], *observa et cave ne quando obliviscaris domini Dei tui, et negligas mandata eius atque iudicia et caeremonias*. Non ergo observantiae debent poni una pars caeremonialium.
 
 ###### arg. 5
 Praeterea, solemnitates inter caeremonialia computantur, cum sint in umbram futuri, ut patet ad Colos. II. Similiter etiam oblationes et munera; ut patet per apostolum, ad Heb. IX. Quae tamen sub nullo horum contineri videntur. Ergo inconveniens est praedicta distinctio caeremonialium.
 
 ###### s. c.
-Sed contra est quod in veteri lege singula praedicta caeremoniae vocantur. Sacrificia enim dicuntur caeremoniae Num. XV, *offerat vitulum et sacrificia eius ac libamenta, ut caeremoniae eius postulant*. De sacramento etiam ordinis dicitur Levit. VII, *haec est unctio Aaron et filiorum eius in caeremoniis*. De sacris etiam dicitur Exod. XXXVIII, haec sunt *instrumenta tabernaculi testimonii in caeremoniis Levitarum*. De observantiis etiam dicitur III Reg. IX, *si aversi fueritis, non sequentes me, nec observantes caeremonias quas proposui vobis*.
+Sed contra est quod in veteri lege singula praedicta caeremoniae vocantur. Sacrificia enim dicuntur caeremoniae [[Nb 15]], *offerat vitulum et sacrificia eius ac libamenta, ut caeremoniae eius postulant*. De sacramento etiam ordinis dicitur [[Lv 7]], *haec est unctio Aaron et filiorum eius in caeremoniis*. De sacris etiam dicitur [[Ex 38]], haec sunt *instrumenta tabernaculi testimonii in caeremoniis Levitarum*. De observantiis etiam dicitur [[1R 9]], *si aversi fueritis, non sequentes me, nec observantes caeremonias quas proposui vobis*.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, caeremonialia praecepta ordinantur ad cultum Dei. In quo quidem cultu considerari possunt et ipse cultus, et colentes, et instrumenta colendi. Ipse autem cultus specialiter consistit in sacrificiis, quae in Dei reverentiam offeruntur. Instrumenta autem colendi pertinent ad sacra, sicut est tabernaculum, et vasa, et alia huiusmodi. Ex parte autem colentium duo possunt considerari. Scilicet et eorum institutio ad cultum divinum, quod fit per quandam consecrationem vel populi, vel ministrorum, et ad hoc pertinent sacramenta. Et iterum eorum singularis conversatio, per quam distinguuntur ab his qui Deum non colunt, et ad hoc pertinent observantiae, puta in cibis et vestimentis et aliis huiusmodi.

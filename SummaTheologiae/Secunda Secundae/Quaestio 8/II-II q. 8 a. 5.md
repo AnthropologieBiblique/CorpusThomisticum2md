@@ -4,13 +4,13 @@
 Ad quintum sic proceditur. Videtur quod intellectus donum inveniatur etiam in non habentibus gratiam gratum facientem. Augustinus enim, exponens illud Psalm., *concupivit anima mea desiderare iustificationes tuas*, dicit quod *praevolat intellectus, sequitur tardus aut nullus affectus*. Sed in omnibus habentibus gratiam gratum facientem est promptus affectus, propter caritatem. Ergo donum intellectus potest esse in his qui non habent gratiam gratum facientem.
 
 ###### arg. 2
-Praeterea, Danielis X dicitur quod intelligentia opus est in visione prophetica, et ita videtur quod prophetia non sit sine dono intellectus. Sed prophetia potest esse sine gratia gratum faciente, ut patet Matth. VII, ubi dicentibus, in nomine tuo prophetavimus, respondetur, nunquam novi vos. Ergo donum intellectus potest esse sine gratia gratum faciente.
+Praeterea, [[Dn 10]] dicitur quod intelligentia opus est in visione prophetica, et ita videtur quod prophetia non sit sine dono intellectus. Sed prophetia potest esse sine gratia gratum faciente, ut patet [[Mt 7]], ubi dicentibus, in nomine tuo prophetavimus, respondetur, nunquam novi vos. Ergo donum intellectus potest esse sine gratia gratum faciente.
 
 ###### arg. 3
-Praeterea, donum intellectus respondet virtuti fidei, secundum illud Isaiae VII, secundum aliam litteram, *nisi credideritis, non intelligetis*. Sed fides potest esse sine gratia gratum faciente. Ergo etiam donum intellectus.
+Praeterea, donum intellectus respondet virtuti fidei, secundum illud [[Is 7]], secundum aliam litteram, *nisi credideritis, non intelligetis*. Sed fides potest esse sine gratia gratum faciente. Ergo etiam donum intellectus.
 
 ###### s. c.
-Sed contra est quod dominus dicit, Ioan. VI, *omnis qui audivit a patre et didicit, venit ad me*. Sed per intellectum audita addiscimus vel penetramus, ut patet per Gregorium, in I Moral. Ergo quicumque habet intellectus donum venit ad Christum. Quod non est sine gratia gratum faciente. Ergo donum intellectus non est sine gratia gratum faciente.
+Sed contra est quod dominus dicit, [[Jn 6]], *omnis qui audivit a patre et didicit, venit ad me*. Sed per intellectum audita addiscimus vel penetramus, ut patet per Gregorium, in I Moral. Ergo quicumque habet intellectus donum venit ad Christum. Quod non est sine gratia gratum faciente. Ergo donum intellectus non est sine gratia gratum faciente.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, dona spiritus sancti perficiunt animam secundum quod est bene mobilis a spiritu sancto. Sic ergo intellectuale lumen gratiae ponitur donum intellectus, inquantum intellectus hominis est bene mobilis a spiritu sancto. Huius autem motus consideratio in hoc est quod homo apprehendat veritatem circa finem. Unde nisi usque ad hoc moveatur a spiritu sancto intellectus humanus ut rectam aestimationem de fine habeat, nondum assecutus est donum intellectus; quantumcumque ex illustratione spiritus alia quaedam praeambula cognoscat. Rectam aut aestimationem de ultimo fine non habet nisi ille qui circa finem non errat, sed ei firmiter inhaeret tanquam optimo. Quod est solum habentis gratiam gratum facientem, sicut etiam in moralibus rectam aestimationem habet homo de fine per habitum virtutis. Unde donum intellectus nullus habet sine gratia gratum faciente.

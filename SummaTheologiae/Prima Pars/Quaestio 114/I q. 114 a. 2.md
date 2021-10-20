@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod tentare non sit proprium Diaboli. Dicitur enim Deus tentare; secundum illud Gen. XXII, *tentavit Deus Abraham*. Tentat etiam caro, et mundus. Et etiam homo dicitur tentare Deum, et hominem. Ergo non est proprium Daemonis tentare.
+Ad secundum sic proceditur. Videtur quod tentare non sit proprium Diaboli. Dicitur enim Deus tentare; secundum illud [[Gn 22]], *tentavit Deus Abraham*. Tentat etiam caro, et mundus. Et etiam homo dicitur tentare Deum, et hominem. Ergo non est proprium Daemonis tentare.
 
 ###### arg. 2
 Praeterea, tentare est ignorantis. Sed Daemones sciunt quid circa homines agatur. Ergo Daemones non tentant.
@@ -10,10 +10,10 @@ Praeterea, tentare est ignorantis. Sed Daemones sciunt quid circa homines agatur
 Praeterea, tentatio est via in peccatum. Peccatum autem in voluntate consistit. Cum ergo Daemones non possint voluntatem hominis immutare, ut per supra dicta patet; videtur quod ad eos non pertineat tentare.
 
 ###### s. c.
-Sed contra est quod dicitur I ad Thessal. III, *ne forte tentaverit vos is qui tentat*; Glossa, idest Diabolus, cuius officium est tentare.
+Sed contra est quod dicitur I ad [[1 Th 3]], *ne forte tentaverit vos is qui tentat*; Glossa, idest Diabolus, cuius officium est tentare.
 
 ###### co.
-Respondeo dicendum quod tentare est proprie experimentum sumere de aliquo. Experimentum autem sumitur de aliquo, ut sciatur aliquid circa ipsum, et ideo proximus finis cuiuslibet tentantis est scientia. Sed quandoque ulterius ex scientia quaeritur aliquis alius finis, vel bonus vel malus, bonus quidem, sicut cum aliquis vult scire qualis aliquis sit, vel quantum ad scientiam vel quantum ad virtutem, ut eum promoveat; malus autem, quando hoc scire vult, ut eum decipiat vel subvertat. Et per hunc modum potest accipi quomodo tentare diversis diversimode attribuatur. Homo enim tentare dicitur, quandoque quidem ut sciat tantum, et propter hoc, tentare Deum dicitur esse peccatum; quia homo, quasi incertus, experiri praesumit Dei virtutem. Quandoque vero tentat ut iuvet, quandoque vero, ut noceat. Diabolus autem semper tentat ut noceat, in peccatum praecipitando. Et secundum hoc, dicitur proprium officium eius tentare, nam etsi homo aliquando sic tentet, hoc agit inquantum est minister Diaboli. Deus autem tentare dicitur ut sciat, eo modo loquendi quo dicitur scire quod facit alios scire. Unde dicitur Deut. XII, *tentat vos dominus Deus vester, ut palam fiat utrum diligatis eum*. Caro autem et mundus dicuntur tentare instrumentaliter, seu materialiter, inquantum scilicet potest cognosci qualis sit homo, ex hoc quod sequitur vel repugnat concupiscentiis carnis, et ex hoc quod contemnit prospera mundi et adversa; quibus etiam Diabolus utitur ad tentandum.
+Respondeo dicendum quod tentare est proprie experimentum sumere de aliquo. Experimentum autem sumitur de aliquo, ut sciatur aliquid circa ipsum, et ideo proximus finis cuiuslibet tentantis est scientia. Sed quandoque ulterius ex scientia quaeritur aliquis alius finis, vel bonus vel malus, bonus quidem, sicut cum aliquis vult scire qualis aliquis sit, vel quantum ad scientiam vel quantum ad virtutem, ut eum promoveat; malus autem, quando hoc scire vult, ut eum decipiat vel subvertat. Et per hunc modum potest accipi quomodo tentare diversis diversimode attribuatur. Homo enim tentare dicitur, quandoque quidem ut sciat tantum, et propter hoc, tentare Deum dicitur esse peccatum; quia homo, quasi incertus, experiri praesumit Dei virtutem. Quandoque vero tentat ut iuvet, quandoque vero, ut noceat. Diabolus autem semper tentat ut noceat, in peccatum praecipitando. Et secundum hoc, dicitur proprium officium eius tentare, nam etsi homo aliquando sic tentet, hoc agit inquantum est minister Diaboli. Deus autem tentare dicitur ut sciat, eo modo loquendi quo dicitur scire quod facit alios scire. Unde dicitur [[Dt 12]], *tentat vos dominus Deus vester, ut palam fiat utrum diligatis eum*. Caro autem et mundus dicuntur tentare instrumentaliter, seu materialiter, inquantum scilicet potest cognosci qualis sit homo, ex hoc quod sequitur vel repugnat concupiscentiis carnis, et ex hoc quod contemnit prospera mundi et adversa; quibus etiam Diabolus utitur ad tentandum.
 
 ###### ad 1
 Et sic patet solutio ad primum.

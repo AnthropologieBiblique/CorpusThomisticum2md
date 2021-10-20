@@ -10,7 +10,7 @@ Praeterea, in operibus primo creatis non fuit aliquid superfluum. Costa ergo Ada
 Praeterea, costa non potest separari ab homine sine dolore. Sed dolor non fuit ante peccatum. Ergo costa non debuit separari a viro, ut ex ea mulier formaretur.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. II, *aedificavit dominus Deus costam quam tulerat de Adam, in mulierem*.
+Sed contra est quod dicitur [[Gn 2]], *aedificavit dominus Deus costam quam tulerat de Adam, in mulierem*.
 
 ###### co.
 Respondeo dicendum quod conveniens fuit mulierem formari de costa viri. Primo quidem, ad significandum quod inter virum et mulierem debet esse socialis coniunctio. Neque enim mulier debet dominari in virum, et ideo non est formata de capite. Neque debet a viro despici, tanquam serviliter subiecta, et ideo non est formata de pedibus. Secundo, propter sacramentum, quia de latere Christi dormientis in cruce fluxerunt sacramenta, idest sanguis et aqua, quibus est Ecclesia instituta.

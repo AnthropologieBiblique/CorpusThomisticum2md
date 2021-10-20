@@ -16,7 +16,7 @@ Sed contra est quod nullus habet gratiam nisi sit virtuosus. Sed nullus potest e
 Respondeo dicendum quod necesse est virtutes esse connexas, ita ut qui unam habet omnes habeat, ut supra ostensum est. Quicumque autem habet gratiam habet caritatem. Unde necesse est quod habeat omnes alias virtutes. Et ita, cum prudentia sit virtus, ut ostensum est, necesse est quod habeat prudentiam.
 
 ###### ad 1
-Ad primum ergo dicendum quod duplex est industria. Una quidem quae est sufficiens ad ea quae sunt de necessitate salutis. Et talis industria datur omnibus habentibus gratiam, quos unctio docet de omnibus, ut dicitur I Ioan. II. Est autem alia industria plenior, per quam aliquis sibi et aliis potest providere, non solum de his quae sunt necessaria ad salutem sed etiam de quibuscumque pertinentibus ad humanam vitam. Et talis industria non est in omnibus habentibus gratiam.
+Ad primum ergo dicendum quod duplex est industria. Una quidem quae est sufficiens ad ea quae sunt de necessitate salutis. Et talis industria datur omnibus habentibus gratiam, quos unctio docet de omnibus, ut dicitur [[1 Jn 2]]. Est autem alia industria plenior, per quam aliquis sibi et aliis potest providere, non solum de his quae sunt necessaria ad salutem sed etiam de quibuscumque pertinentibus ad humanam vitam. Et talis industria non est in omnibus habentibus gratiam.
 
 ###### ad 2
 Ad secundum dicendum quod illi qui indigent regi consilio alieno saltem in hoc sibi ipsis consulere sciunt, si gratiam habent, ut aliorum requirant consilia, et discernant consilia bona a malis.

@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod honestum non sit idem quod decorum. Rat
 Praeterea, decor quandam claritatem requirit, quae pertinet ad rationem gloriae. Honestum autem respicit honorem. Cum igitur honor et gloria differant, ut supra dictum est, videtur quod etiam honestum differat a decoro.
 
 ###### arg. 3
-Praeterea, honestum est idem virtuti, ut supra dictum est. Sed aliquis decor contrariatur virtuti, unde dicitur Ezech. XVI, *habens fiduciam in pulchritudine tua, fornicata es in nomine tuo*. Ergo honestum non est idem decoro.
+Praeterea, honestum est idem virtuti, ut supra dictum est. Sed aliquis decor contrariatur virtuti, unde dicitur [[Ez 16]], *habens fiduciam in pulchritudine tua, fornicata es in nomine tuo*. Ergo honestum non est idem decoro.
 
 ###### s. c.
 Sed contra est quod apostolus dicit, I ad Cor. XII, *quae inhonesta sunt nostra, abundantiorem honestatem habent, honesta autem nostra nullius egent*. Vocat autem ibi inhonesta, membra turpia; honesta autem, membra pulchra. Ergo honestum et decorum idem esse videntur.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod obiectum movens appetitum est bonum apprehensum. Qu
 Ad secundum dicendum quod, sicut supra dictum est, gloria est effectus honoris, ex hoc enim quod aliquis honoratur vel laudatur, redditur clarus in oculis aliorum. Et ideo, sicut idem est honorificum et gloriosum, ita etiam idem est honestum et decorum.
 
 ###### ad 3
-Ad tertium dicendum quod obiectio illa procedit de pulchritudine corporali. Quamvis possit dici quod etiam propter pulchritudinem spiritualem aliquis spiritualiter fornicatur, inquantum de ipsa honestate superbit, secundum illud Ezech. XXVIII, *elevatum est cor tuum in decore tuo, perdidisti sapientiam tuam in decore tuo*.
+Ad tertium dicendum quod obiectio illa procedit de pulchritudine corporali. Quamvis possit dici quod etiam propter pulchritudinem spiritualem aliquis spiritualiter fornicatur, inquantum de ipsa honestate superbit, secundum illud [[Ez 28]], *elevatum est cor tuum in decore tuo, perdidisti sapientiam tuam in decore tuo*.
 

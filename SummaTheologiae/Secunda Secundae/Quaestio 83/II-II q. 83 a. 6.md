@@ -1,10 +1,10 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod homo non debeat temporalia petere a Deo orando. Quae enim orando petimus, quaerimus. Sed temporalia non debemus quaerere, dicitur enim Matth. VI, primum quaerite regnum Dei et iustitiam eius, et haec omnia adiicientur vobis, scilicet temporalia; quae non quaerenda dicit, sed adiicienda quaesitis. Ergo temporalia non sunt in oratione a Deo petenda.
+Ad sextum sic proceditur. Videtur quod homo non debeat temporalia petere a Deo orando. Quae enim orando petimus, quaerimus. Sed temporalia non debemus quaerere, dicitur enim [[Mt 6]], primum quaerite regnum Dei et iustitiam eius, et haec omnia adiicientur vobis, scilicet temporalia; quae non quaerenda dicit, sed adiicienda quaesitis. Ergo temporalia non sunt in oratione a Deo petenda.
 
 ###### arg. 2
-Praeterea, nullus petit nisi ea de quibus est sollicitus. Sed de temporalibus sollicitudinem habere non debemus, secundum quod dicitur Matth. VI, *nolite solliciti esse animae vestrae, quid manducetis*. Ergo temporalia petere orando non debemus.
+Praeterea, nullus petit nisi ea de quibus est sollicitus. Sed de temporalibus sollicitudinem habere non debemus, secundum quod dicitur [[Mt 6]], *nolite solliciti esse animae vestrae, quid manducetis*. Ergo temporalia petere orando non debemus.
 
 ###### arg. 3
 Praeterea, per orationem nostram mens debet elevari in Deum. Sed petendo temporalia descendit ad ea quae infra se sunt, contra id quod apostolus dicebat, II ad Cor. IV, *non contemplantibus nobis quae videntur, sed quae non videntur, quae enim videntur, temporalia sunt; quae autem non videntur, aeterna*. Ergo non debet homo temporalia in oratione a Deo petere.
@@ -13,7 +13,7 @@ Praeterea, per orationem nostram mens debet elevari in Deum. Sed petendo tempora
 Praeterea, homo non debet petere a Deo nisi bona et utilia. Sed quandoque temporalia habita sunt nociva, non solum spiritualiter, sed etiam temporaliter. Ergo non sunt a Deo in oratione petenda.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. XXX, *tribue tantum victui meo necessaria*.
+Sed contra est quod dicitur [[Pr 30]], *tribue tantum victui meo necessaria*.
 
 ###### co.
 Respondeo dicendum quod, sicut Augustinus dicit, ad Probam, de orando Deum, *hoc licet orare quod licet desiderare*. Temporalia autem licet desiderare, non quidem principaliter, ut in eis finem constituamus; sed sicut quaedam adminicula quibus adiuvamur ad tendendum in beatitudinem, inquantum scilicet per ea vita corporalis sustentatur, et inquantum nobis organice deserviunt ad actus virtutum, ut etiam philosophus dicit, in I Ethic. Et ideo pro temporalibus licet orare. Et hoc est quod Augustinus dicit, ad Probam, *sufficientiam vitae non indecenter vult quisquis eam vult et non amplius. Quae quidem non appetitur propter seipsam, sed propter salutem corporis et congruentem habitum personae hominis, ut non sit inconveniens eis cum quibus vivendum est. Ista ergo, cum habentur, ut teneantur; cum non habentur, ut habeantur, orandum est*.

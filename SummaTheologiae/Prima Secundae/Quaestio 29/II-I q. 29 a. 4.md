@@ -10,7 +10,7 @@ Praeterea, illum odimus, cui volumus et operamur malum. Sed quandoque aliquis vu
 Praeterea, Boetius dicit, in II de Consol., quod *avaritia facit homines odiosos*, ex quo potest accipi quod omnis homo odit avarum. Sed aliqui sunt avari. Ergo illi odiunt seipsos.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Ephes. V, quod *nemo unquam carnem suam odio habuit*.
+Sed contra est quod apostolus dicit, ad [[Ep 5]], quod *nemo unquam carnem suam odio habuit*.
 
 ###### co.
 Respondeo dicendum quod impossibile est quod aliquis, per se loquendo, odiat seipsum. Naturaliter enim unumquodque appetit bonum, nec potest aliquis aliquid sibi appetere nisi sub ratione boni, nam malum est praeter voluntatem, ut Dionysius dicit, IV cap. de Div. Nom. Amare autem aliquem est velle ei bonum, ut supra dictum est. Unde necesse est quod aliquis amet seipsum; et impossibile est quod aliquis odiat seipsum, per se loquendo. Per accidens tamen contingit quod aliquis seipsum odio habeat. Et hoc dupliciter. Uno modo, ex parte boni quod sibi aliquis vult. Accidit enim quandoque illud quod appetitur ut secundum quid bonum, esse simpliciter malum, et secundum hoc, aliquis per accidens vult sibi malum, quod est odire. Alio modo, ex parte sui ipsius, cui vult bonum. Unumquodque enim maxime est id quod est principalius in ipso, unde civitas dicitur facere quod rex facit, quasi rex sit tota civitas. Manifestum est ergo quod homo maxime est mens hominis. Contingit autem quod aliqui aestimant se esse maxime illud quod sunt secundum naturam corporalem et sensitivam. Unde amant se secundum id quod aestimant se esse, sed odiunt id quod vere sunt, dum volunt contraria rationi. Et utroque modo, ille qui diligit iniquitatem, odit non solum animam suam, sed etiam seipsum.

@@ -10,10 +10,10 @@ Praeterea, non videtur esse eiusdem dare dona et recipere, quia dare est habenti
 Praeterea, quatuor dona videntur pertinere ad contemplationem viae scilicet sapientia, scientia, intellectus et consilium, quod pertinet ad prudentiam, unde et philosophus, in VI Ethic., numerat ista inter virtutes intellectuales. Sed Christus habuit contemplationem patriae. Ergo non habuit huiusmodi dona.
 
 ###### s. c.
-Sed contra est quod dicitur Isaiae IV, *apprehendent septem mulieres virum unum*, Glossa, *idest, septem dona spiritus sancti Christum*.
+Sed contra est quod dicitur [[Is 4]], *apprehendent septem mulieres virum unum*, Glossa, *idest, septem dona spiritus sancti Christum*.
 
 ###### co.
-Respondeo dicendum quod, sicut in secunda parte dictum est, dona proprie sunt quaedam perfectiones potentiarum animae secundum quod sunt natae moveri a spiritu sancto. Manifestum est autem quod anima Christi perfectissime a spiritu sancto movebatur secundum illud Luc. IV, *Iesus, plenus spiritu sancto, regressus est a Iordane, et agebatur a spiritu in desertum*. Unde manifestum est quod in Christo fuerunt excellentissime dona.
+Respondeo dicendum quod, sicut in secunda parte dictum est, dona proprie sunt quaedam perfectiones potentiarum animae secundum quod sunt natae moveri a spiritu sancto. Manifestum est autem quod anima Christi perfectissime a spiritu sancto movebatur secundum illud [[Lc 4]], *Iesus, plenus spiritu sancto, regressus est a Iordane, et agebatur a spiritu in desertum*. Unde manifestum est quod in Christo fuerunt excellentissime dona.
 
 ###### ad 1
 Ad primum ergo dicendum quod illud quod est perfectum secundum ordinem suae naturae, indiget adiuvari ab eo quod est altioris naturae, sicut homo, quantumcumque perfectus, indiget adiuvari a Deo. Et hoc modo virtutes indigent adiuvari per dona, quae perficiunt potentias animae secundum quod sunt motae a spiritu sancto.

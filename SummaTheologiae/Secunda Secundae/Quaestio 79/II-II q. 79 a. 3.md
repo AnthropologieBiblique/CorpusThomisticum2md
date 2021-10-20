@@ -13,7 +13,7 @@ Praeterea, cuilibet speciali peccato est determinare aliquod tempus quando incip
 Praeterea, omne peccatum speciale speciali virtuti opponitur. Sed non est dare aliquam specialem virtutem cui omissio opponitur. Tum quia bonum cuiuslibet virtutis omitti potest. Tum quia iustitia, cui specialius videtur opponi, semper requirit aliquem actum, etiam in declinatione a malo, ut dictum est, omissio autem potest esse absque omni actu. Ergo omissio non est speciale peccatum.
 
 ###### s. c.
-Sed contra est quod dicitur Iac. IV, *scienti bonum et non facienti, peccatum est illi*.
+Sed contra est quod dicitur [[Jc 4]], *scienti bonum et non facienti, peccatum est illi*.
 
 ###### co.
 Respondeo dicendum quod omissio importat praetermissionem boni, non autem cuiuscumque, sed boni debiti. Bonum autem sub ratione debiti pertinet proprie ad iustitiam, ad legalem quidem, si debitum accipiatur in ordine ad legem divinam vel humanam; ad specialem autem iustitiam, secundum quod debitum consideratur in ordine ad proximum. Unde eo modo quo iustitia est specialis virtus, ut supra habitum est, et omissio est speciale peccatum distinctum a peccatis quae opponuntur aliis virtutibus. Eo vero modo quo facere bonum, cui opponitur omissio, est quaedam specialis pars iustitiae distincta a declinatione mali, cui opponitur transgressio, etiam omissio a transgressione distinguitur.

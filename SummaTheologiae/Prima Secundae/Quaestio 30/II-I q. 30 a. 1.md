@@ -1,10 +1,10 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod concupiscentia non solum sit in appetitu sensitivo. Est enim quaedam concupiscentia sapientiae, ut dicitur Sap. VI, *concupiscentia sapientiae deducit ad regnum perpetuum*. Sed appetitus sensitivus non potest ferri in sapientiam. Ergo concupiscentia non est in solo appetitu sensitivo.
+Ad primum sic proceditur. Videtur quod concupiscentia non solum sit in appetitu sensitivo. Est enim quaedam concupiscentia sapientiae, ut dicitur [[Sg 6]], *concupiscentia sapientiae deducit ad regnum perpetuum*. Sed appetitus sensitivus non potest ferri in sapientiam. Ergo concupiscentia non est in solo appetitu sensitivo.
 
 ###### arg. 2
-Praeterea, desiderium mandatorum Dei non est in appetitu sensitivo, immo apostolus dicit, Rom. VII, *non habitat in me, hoc est in carne mea, bonum*. Sed desiderium mandatorum Dei sub concupiscentia cadit, secundum illud Psalmi CXVIII, *concupivit anima mea desiderare iustificationes tuas*. Ergo concupiscentia non est solum in appetitu sensitivo.
+Praeterea, desiderium mandatorum Dei non est in appetitu sensitivo, immo apostolus dicit, [[Rm 7]], *non habitat in me, hoc est in carne mea, bonum*. Sed desiderium mandatorum Dei sub concupiscentia cadit, secundum illud [[Ps 118]], *concupivit anima mea desiderare iustificationes tuas*. Ergo concupiscentia non est solum in appetitu sensitivo.
 
 ###### arg. 3
 Praeterea, cuilibet potentiae est concupiscibile proprium bonum. Ergo concupiscentia est in qualibet potentia animae, et non solum in appetitu sensitivo.

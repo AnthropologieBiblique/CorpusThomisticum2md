@@ -4,13 +4,13 @@
 Ad secundum sic proceditur. Videtur quod pusillanimitas non opponatur magnanimitati. Dicit enim philosophus, in IV Ethic., quod *pusillanimus ignorat seipsum, appeteret enim bona quibus dignus est, si se cognosceret*. Sed ignorantia sui videtur opponi prudentiae. Ergo pusillanimitas opponitur prudentiae.
 
 ###### arg. 2
-Praeterea, Matth. XXV, servum qui propter pusillanimitatem pecunia uti recusavit, vocat dominus malum et pigrum. Philosophus etiam dicit, in IV Ethic., quod pusillanimi videntur pigri. Sed pigritia opponitur sollicitudini, quae est actus prudentiae, ut supra habitum est. Ergo pusillanimitas non opponitur magnanimitati.
+Praeterea, [[Mt 25]], servum qui propter pusillanimitatem pecunia uti recusavit, vocat dominus malum et pigrum. Philosophus etiam dicit, in IV Ethic., quod pusillanimi videntur pigri. Sed pigritia opponitur sollicitudini, quae est actus prudentiae, ut supra habitum est. Ergo pusillanimitas non opponitur magnanimitati.
 
 ###### arg. 3
-Praeterea, pusillanimitas videtur ex inordinato timore procedere, unde dicitur Isaiae XXXV, *dicite, pusillanimes, confortamini et nolite timere*. Videtur etiam procedere ex inordinata ira, secundum illud Coloss. III, *patres, nolite ad indignationem provocare filios vestros, ut non pusillo animo fiant*. Sed inordinatio timoris opponitur fortitudini, inordinatio autem irae mansuetudini. Ergo pusillanimitas non opponitur magnanimitati.
+Praeterea, pusillanimitas videtur ex inordinato timore procedere, unde dicitur [[Is 35]], *dicite, pusillanimes, confortamini et nolite timere*. Videtur etiam procedere ex inordinata ira, secundum illud [[Col 3]], *patres, nolite ad indignationem provocare filios vestros, ut non pusillo animo fiant*. Sed inordinatio timoris opponitur fortitudini, inordinatio autem irae mansuetudini. Ergo pusillanimitas non opponitur magnanimitati.
 
 ###### arg. 4
-Praeterea, vitium quod opponitur alicui virtuti, tanto gravius est quanto magis est virtuti dissimile. Sed pusillanimitas magis est dissimilis magnanimitati quam praesumptio. Ergo, si pusillanimitas opponeretur magnanimitati, sequeretur quod esset gravius peccatum quam praesumptio. Quod est contra id quod dicitur Eccli. XXXVII, *o praesumptio nequissima, unde creata es?* Non ergo pusillanimitas magnanimitati opponitur.
+Praeterea, vitium quod opponitur alicui virtuti, tanto gravius est quanto magis est virtuti dissimile. Sed pusillanimitas magis est dissimilis magnanimitati quam praesumptio. Ergo, si pusillanimitas opponeretur magnanimitati, sequeretur quod esset gravius peccatum quam praesumptio. Quod est contra id quod dicitur [[Si 37]], *o praesumptio nequissima, unde creata es?* Non ergo pusillanimitas magnanimitati opponitur.
 
 ###### s. c.
 Sed contra est quod pusillanimitas et magnanimitas differunt secundum magnitudinem et parvitatem animi, ut ex ipsis nominibus apparet. Sed magnum et parvum sunt opposita. Ergo pusillanimitas opponitur magnanimitati.

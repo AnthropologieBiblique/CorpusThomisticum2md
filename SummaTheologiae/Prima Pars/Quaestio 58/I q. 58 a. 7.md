@@ -1,13 +1,13 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod una sit cognitio vespertina et matutina. Dicitur enim Gen. I, *factum est vespere et mane dies unus*. Sed per diem intelligitur cognitio angelica, ut Augustinus dicit. Ergo una et eadem est cognitio in Angelis matutina et vespertina.
+Ad septimum sic proceditur. Videtur quod una sit cognitio vespertina et matutina. Dicitur enim [[Gn 1]], *factum est vespere et mane dies unus*. Sed per diem intelligitur cognitio angelica, ut Augustinus dicit. Ergo una et eadem est cognitio in Angelis matutina et vespertina.
 
 ###### arg. 2
-Praeterea, impossibile est unam potentiam simul duas operationes habere. Sed Angeli semper sunt in actu cognitionis matutinae, quia semper vident Deum et res in Deo, secundum illud Matth. XVIII, *Angeli eorum semper vident faciem patris mei* et cetera. Ergo, si cognitio vespertina esset alia a matutina, nullo modo Angelus posset esse in actu cognitionis vespertinae.
+Praeterea, impossibile est unam potentiam simul duas operationes habere. Sed Angeli semper sunt in actu cognitionis matutinae, quia semper vident Deum et res in Deo, secundum illud [[Mt 18]], *Angeli eorum semper vident faciem patris mei* et cetera. Ergo, si cognitio vespertina esset alia a matutina, nullo modo Angelus posset esse in actu cognitionis vespertinae.
 
 ###### arg. 3
-Praeterea, apostolus dicit, I Cor. XIII, *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed si cognitio vespertina sit alia a matutina, comparatur ad ipsam sicut imperfectum ad perfectum. Ergo non poterit simul vespertina cognitio esse cum matutina.
+Praeterea, apostolus dicit, [[1 Co 13]], *cum venerit quod perfectum est, evacuabitur quod ex parte est*. Sed si cognitio vespertina sit alia a matutina, comparatur ad ipsam sicut imperfectum ad perfectum. Ergo non poterit simul vespertina cognitio esse cum matutina.
 
 ###### s. c.
 In contrarium est quod dicit Augustinus, IV super Gen. ad Litt., *quod multum interest inter cognitionem rei cuiuscumque in verbo Dei, et cognitionem eius in natura eius, ut illud merito pertineat ad diem, hoc ad vesperam*.

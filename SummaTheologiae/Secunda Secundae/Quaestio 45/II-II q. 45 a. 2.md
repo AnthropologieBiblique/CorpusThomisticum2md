@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod sapientia non sit in intellectu sicut in subiecto. Dicit enim Augustinus, in libro de gratia novi Test., quod sapientia est caritas Dei. Sed caritas est sicut in subiecto in voluntate, non in intellectu, ut supra habitum est. Ergo sapientia non est in intellectu sicut in subiecto.
 
 ###### arg. 2
-Praeterea, Eccli. VI dicitur, *sapientia doctrinae secundum nomen eius est*. Dicitur autem sapientia quasi sapida scientia, quod videtur ad affectum pertinere, ad quem pertinet experiri spirituales delectationes sive dulcedines. Ergo sapientia non est in intellectu, sed magis in affectu.
+Praeterea, [[Si 6]] dicitur, *sapientia doctrinae secundum nomen eius est*. Dicitur autem sapientia quasi sapida scientia, quod videtur ad affectum pertinere, ad quem pertinet experiri spirituales delectationes sive dulcedines. Ergo sapientia non est in intellectu, sed magis in affectu.
 
 ###### arg. 3
 Praeterea, potentia intellectiva sufficienter perficitur per donum intellectus. Sed ad id quod potest fieri per unum superfluum esset plura ponere. Ergo non est in intellectu.

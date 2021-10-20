@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod Baptismus Ioannis cessare debuerit postquam Christus est baptizatus. Dicitur enim Ioan. I, *ut manifestetur Israeli, propterea veni in aqua baptizans*. Sed, Christo baptizato, sufficienter fuit manifestatus, tum per testimonium Ioannis; tum per descensum columbae; tum etiam testimonio paternae vocis. Ergo non videtur quod postea debuerit Baptismus Ioannis durare.
+Ad quintum sic proceditur. Videtur quod Baptismus Ioannis cessare debuerit postquam Christus est baptizatus. Dicitur enim [[Jn 1]], *ut manifestetur Israeli, propterea veni in aqua baptizans*. Sed, Christo baptizato, sufficienter fuit manifestatus, tum per testimonium Ioannis; tum per descensum columbae; tum etiam testimonio paternae vocis. Ergo non videtur quod postea debuerit Baptismus Ioannis durare.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, super Ioan., *baptizatus est Christus, et cessavit Ioannis Baptismus*. Ergo videtur quod Ioannes, post Christum baptizatum, non debuerit baptizare.
@@ -10,7 +10,7 @@ Praeterea, Augustinus dicit, super Ioan., *baptizatus est Christus, et cessavit 
 Praeterea, Baptismus Ioannis erat praeparatorius ad Baptismum Christi. Sed Baptismus Christi incoepit statim Christo baptizato, quia *tactu suae mundissimae carnis vim regenerativam contulit aquis*, ut Beda dicit. Ergo videtur quod Baptismus Ioannis cessaverit, Christo baptizato.
 
 ###### s. c.
-Sed contra est quod dicitur Ioan. III, *venit Iesus in Iudaeam terram et baptizabat, erat autem et Ioannes baptizans*. Sed Christus non baptizavit priusquam fuit baptizatus. Ergo videtur quod, postquam fuit Christus baptizatus, adhuc Ioannes baptizabat.
+Sed contra est quod dicitur [[Jn 3]], *venit Iesus in Iudaeam terram et baptizabat, erat autem et Ioannes baptizans*. Sed Christus non baptizavit priusquam fuit baptizatus. Ergo videtur quod, postquam fuit Christus baptizatus, adhuc Ioannes baptizabat.
 
 ###### co.
 Respondeo dicendum quod Baptismus Ioannis cessare non debuit, Christo baptizato. Primo quidem quia, ut Chrysostomus dicit, si cessasset Ioannes baptizare, Christo baptizato, existimaretur quod zelo vel ira faceret. Secundo quia, si cessasset a Baptismo, Christo baptizante, discipulos suos in maiorem zelum misisset. Tertio quia, persistens in baptizando, suos auditores mittebat ad Christum. Quarto quia, ut Beda dicit, adhuc permanebat umbra veteris legis, nec debet praecursor cessare donec veritas manifestetur.

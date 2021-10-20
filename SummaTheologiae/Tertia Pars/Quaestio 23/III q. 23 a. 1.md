@@ -10,7 +10,7 @@ Praeterea, adoptatio videtur esse introducta in defectu filiationis naturalis. S
 Praeterea, ad hoc aliquis adoptatur ut in hereditate adoptantis succedat. Sed in hereditate Dei non videtur aliquis posse succedere, quia ipse nunquam decedit. Ergo Deo non competit adoptare.
 
 ###### s. c.
-Sed contra est quod dicitur Ephes. I, *praedestinavit nos in adoptionem filiorum Dei*. Sed praedestinatio Dei non est irrita. Ergo Deus aliquos sibi adoptat in filios.
+Sed contra est quod dicitur [[Ep 1]], *praedestinavit nos in adoptionem filiorum Dei*. Sed praedestinatio Dei non est irrita. Ergo Deus aliquos sibi adoptat in filios.
 
 ###### co.
 Respondeo dicendum quod aliquis homo adoptat alium sibi in filium inquantum ex sua bonitate admittit eum ad participationem suae hereditatis. Deus autem est infinitae bonitatis, ex qua contingit quod ad participationem bonorum suas creaturas admittit et praecipue rationales creaturas, quae, inquantum sunt ad imaginem Dei factae, sunt capaces beatitudinis divinae. Quae quidem consistit in fruitione Dei, per quam etiam ipse Deus beatus est et per seipsum dives, inquantum scilicet seipso fruitur. Hoc autem dicitur hereditas alicuius ex quo ipse est dives. Et ideo, inquantum Deus ex sua bonitate admittit homines ad beatitudinis hereditatem, dicitur eos adoptare. Hoc autem plus habet adoptatio divina quam humana, quod Deus hominem quem adoptat idoneum facit, per gratiae munus, ad hereditatem caelestem percipiendam, homo autem non facit idoneum eum quem adoptat, sed potius eum iam idoneum eligit adoptando.
@@ -19,8 +19,8 @@ Respondeo dicendum quod aliquis homo adoptat alium sibi in filium inquantum ex s
 Ad primum ergo dicendum quod homo, in sua natura consideratus, non est extraneus a Deo quantum ad bona naturalia quae recipit, est tamen extraneus quantum ad bona gratiae et gloriae. Et secundum hoc adoptatur.
 
 ###### ad 2
-Ad secundum dicendum quod hominis est operari ad supplendam suam indigentiam, non autem Dei, cui convenit operari ad communicandam suae perfectionis abundantiam. Et ideo, sicut per actum creationis communicatur bonitas divina omnibus creaturis secundum quandam similitudinem, ita per actum adoptionis communicatur similitudo naturalis filiationis hominibus, secundum illud Rom. VIII, *quos praescivit conformes fieri imaginis filii sui*.
+Ad secundum dicendum quod hominis est operari ad supplendam suam indigentiam, non autem Dei, cui convenit operari ad communicandam suae perfectionis abundantiam. Et ideo, sicut per actum creationis communicatur bonitas divina omnibus creaturis secundum quandam similitudinem, ita per actum adoptionis communicatur similitudo naturalis filiationis hominibus, secundum illud [[Rm 8]], *quos praescivit conformes fieri imaginis filii sui*.
 
 ###### ad 3
-Ad tertium dicendum quod bona spiritualia possunt simul a pluribus possideri, non autem bona corporalia. Et ideo hereditatem corporalem nullus potest percipere nisi succedens decedenti, hereditatem autem spiritualem simul omnes ex integro percipiunt, sine detrimento patris semper viventis. Quamvis posset dici quod Deus decedit secundum quod est in nobis per fidem, ut incipiat in nobis esse per speciem, sicut Glossa dicit, Rom. VIII, super illud, *si filii, et heredes*.
+Ad tertium dicendum quod bona spiritualia possunt simul a pluribus possideri, non autem bona corporalia. Et ideo hereditatem corporalem nullus potest percipere nisi succedens decedenti, hereditatem autem spiritualem simul omnes ex integro percipiunt, sine detrimento patris semper viventis. Quamvis posset dici quod Deus decedit secundum quod est in nobis per fidem, ut incipiat in nobis esse per speciem, sicut Glossa dicit, [[Rm 8]], super illud, *si filii, et heredes*.
 

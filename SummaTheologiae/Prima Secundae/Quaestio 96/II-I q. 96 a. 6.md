@@ -7,7 +7,7 @@ Ad sextum sic proceditur. Videtur quod non liceat ei qui subditur legi, praeter 
 Praeterea, ad eum solum pertinet leges interpretari, cuius est condere leges. Sed hominum subditorum legi non est leges condere. Ergo eorum non est interpretari legislatoris intentionem, sed semper secundum verba legis agere debent.
 
 ###### arg. 3
-Praeterea, omnis sapiens intentionem suam verbis novit explicare. Sed illi qui leges condiderunt, reputari debent sapientes, dicit enim sapientia, Prov. VIII, *per me reges regnant, et legum conditores iusta decernunt*. Ergo de intentione legislatoris non est iudicandum nisi per verba legis.
+Praeterea, omnis sapiens intentionem suam verbis novit explicare. Sed illi qui leges condiderunt, reputari debent sapientes, dicit enim sapientia, [[Pr 8]], *per me reges regnant, et legum conditores iusta decernunt*. Ergo de intentione legislatoris non est iudicandum nisi per verba legis.
 
 ###### s. c.
 Sed contra est quod Hilarius dicit, in IV de Trin., *intelligentia dictorum ex causis est assumenda dicendi, quia non sermoni res, sed rei debet esse sermo subiectus*. Ergo magis est attendendum ad causam quae movit legislatorem, quam ad ipsa verba legis.

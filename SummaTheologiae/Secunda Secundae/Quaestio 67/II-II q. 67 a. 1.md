@@ -10,7 +10,7 @@ Praeterea, Christus non erat alicuius hominis subditus, quinimmo ipse erat rex r
 Praeterea, secundum iura quilibet sortitur forum secundum rationem delicti. Sed quandoque ille qui delinquit non est subditus eius ad quem pertinet forum illius loci, puta cum est alterius dioecesis, vel cum est exemptus. Ergo videtur quod aliquis possit iudicare eum qui non est sibi subditus.
 
 ###### s. c.
-Sed contra est quod Gregorius dicit, super illud Deut. XXIII, *si intraveris segetem et cetera. Falcem iudicii mittere non potest in eam rem quae alteri videtur esse commissa*.
+Sed contra est quod Gregorius dicit, super illud [[Dt 23]], *si intraveris segetem et cetera. Falcem iudicii mittere non potest in eam rem quae alteri videtur esse commissa*.
 
 ###### co.
 Respondeo dicendum quod sententia iudicis est quasi quaedam particularis lex in aliquo particulari facto. Et ideo sicut lex generalis debet habere vim coactivam, ut patet per philosophum, in X Ethic.; ita etiam et sententia iudicis debet habere vim coactivam, per quam constringatur utraque pars ad servandam sententiam iudicis, alioquin iudicium non esset efficax. Potestatem autem coactivam non habet licite in rebus humanis nisi ille qui fungitur publica potestate. Et qui ea funguntur superiores reputantur respectu eorum in quos, sicut in subditos, potestatem accipiunt, sive habeant ordinarie, sive per commissionem. Et ideo manifestum est quod nullus potest iudicare aliquem nisi sit aliquo modo subditus eius, vel per commissionem vel per potestatem ordinariam.

@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod sacra doctrina non sit scientia. Omnis enim scientia procedit ex principiis per se notis. Sed sacra doctrina procedit ex articulis fidei, qui non sunt per se noti, cum non ab omnibus concedantur, *non enim omnium est fides*, ut dicitur II Thessalon. III. Non igitur sacra doctrina est scientia.
+Ad secundum sic proceditur. Videtur quod sacra doctrina non sit scientia. Omnis enim scientia procedit ex principiis per se notis. Sed sacra doctrina procedit ex articulis fidei, qui non sunt per se noti, cum non ab omnibus concedantur, *non enim omnium est fides*, ut dicitur [[2 Th 3]]. Non igitur sacra doctrina est scientia.
 
 ###### arg. 2
 Praeterea, scientia non est singularium. Sed sacra doctrina tractat de singularibus, puta de gestis Abrahae, Isaac et Iacob, et similibus. Ergo sacra doctrina non est scientia.

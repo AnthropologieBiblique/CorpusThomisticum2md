@@ -10,7 +10,7 @@ Praeterea, veritas, secundum Augustinum, in libro de vera Relig., est similitudo
 Praeterea, quidquid dicitur de Deo, dicitur de eo ut de prima causa omnium, sicut esse Dei est causa omnis esse, et bonitas eius est causa omnis boni. Si ergo in Deo sit veritas, ergo omne verum erit ab ipso. Sed aliquem peccare est verum. Ergo hoc erit a Deo. Quod patet esse falsum.
 
 ###### s. c.
-Sed contra est quod dicit dominus, Ioan. XIV, *ego sum via, veritas et vita*.
+Sed contra est quod dicit dominus, [[Jn 14]], *ego sum via, veritas et vita*.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, veritas invenitur in intellectu secundum quod apprehendit rem ut est, et in re secundum quod habet esse conformabile intellectui. Hoc autem maxime invenitur in Deo. Nam esse suum non solum est conforme suo intellectui, sed etiam est ipsum suum intelligere; et suum intelligere est mensura et causa omnis alterius esse, et omnis alterius intellectus; et ipse est suum esse et intelligere. Unde sequitur quod non solum in ipso sit veritas, sed quod ipse sit ipsa summa et prima veritas.

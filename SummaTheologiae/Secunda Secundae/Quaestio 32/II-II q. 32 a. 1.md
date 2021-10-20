@@ -13,7 +13,7 @@ Praeterea, offerre hostiam Deo est actus latriae. Sed dare eleemosynam est offer
 Praeterea, philosophus dicit, in IV Ethic., quod dare aliquid propter bonum est actus liberalitatis. Sed hoc maxime fit in largitione eleemosynarum. Ergo dare eleemosynam non est actus caritatis.
 
 ###### s. c.
-Sed contra est quod dicitur I Ioan. III, *qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem patientem, et clauserit viscera sua ab eo, quomodo caritas Dei manet in illo?*
+Sed contra est quod dicitur [[1 Jn 3]], *qui habuerit substantiam huius mundi, et viderit fratrem suum necessitatem patientem, et clauserit viscera sua ab eo, quomodo caritas Dei manet in illo?*
 
 ###### co.
 Respondeo dicendum quod exteriores actus ad illam virtutem referuntur ad quam pertinet id quod est motivum ad agendum huiusmodi actus. Motivum autem ad dandum eleemosynas est ut subveniatur necessitatem patienti, unde quidam, definientes eleemosynam, dicunt quod eleemosyna est opus quo datur aliquid indigenti ex compassione propter Deum. Quod quidem motivum pertinet ad misericordiam, ut supra dictum est. Unde manifestum est quod dare eleemosynam proprie est actus misericordiae. Et hoc apparet ex ipso nomine, nam in Graeco a misericordia derivatur, sicut in Latino miseratio. Et quia misericordia est effectus caritatis, ut supra ostensum est, ex consequenti dare eleemosynam est actus caritatis, misericordia mediante.

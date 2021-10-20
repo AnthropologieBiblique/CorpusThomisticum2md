@@ -1,7 +1,7 @@
 ### Articulus 9
 
 ###### arg. 1
-Ad nonum sic proceditur. Videtur quod religiosus semper peccet mortaliter transgrediendo ea quae sunt in regula. Facere enim contra votum est peccatum damnabile, ut patet per id quod apostolus dicit, I ad Tim. V, quod *viduae quae volunt nubere. Damnationem habent, quia primam fidem irritam fecerunt*. Sed religiosi voto professionis ad regulam adstringuntur. Ergo peccant mortaliter transgrediendo ea quae in regula continentur.
+Ad nonum sic proceditur. Videtur quod religiosus semper peccet mortaliter transgrediendo ea quae sunt in regula. Facere enim contra votum est peccatum damnabile, ut patet per id quod apostolus dicit, [[1 Tm 5]], quod *viduae quae volunt nubere. Damnationem habent, quia primam fidem irritam fecerunt*. Sed religiosi voto professionis ad regulam adstringuntur. Ergo peccant mortaliter transgrediendo ea quae in regula continentur.
 
 ###### arg. 2
 Praeterea, regula imponitur religioso sicut lex quaedam. Sed ille qui transgreditur praeceptum legis, peccat mortaliter. Ergo videtur quod monachus transgrediens ea quae sunt in regula, peccet mortaliter.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod ille qui profitetur regulam, non vovet servare omni
 Ad secundum dicendum quod non omnia quae continentur in lege traduntur per modum praecepti, sed quaedam proponuntur per modum ordinationis cuiusdam, vel statuti obligantis ad certam poenam, sicut in lege civili non facit semper dignum poena mortis corporalis transgressio legalis statuti. Ita nec in lege Ecclesiae omnes ordinationes vel statuta obligant ad mortale. Et similiter nec omnia statuta regulae.
 
 ###### ad 3
-Ad tertium dicendum quod tunc committit aliquis vel transgreditur ex contemptu, quando voluntas eius renuit subiici ordinationi legis vel regulae, et ex hoc procedit ad faciendum contra legem vel regulam. Quando autem e converso, propter aliquam particularem causam, puta concupiscentiam vel iram, inducitur ad aliquid faciendum contra statuta legis vel regulae, non peccat ex contemptu, sed ex aliqua alia causa, etiam si frequenter ex eadem causa, vel alia simili, peccatum iteret. Sicut etiam Augustinus dicit, in libro de natura et gratia, quod non omnia peccata committuntur ex contemptu superbiae. Frequentia tamen peccati dispositive inducit ad contemptum, secundum illud Prov. XVIII, *impius, cum in profundum venerit, contemnit*.
+Ad tertium dicendum quod tunc committit aliquis vel transgreditur ex contemptu, quando voluntas eius renuit subiici ordinationi legis vel regulae, et ex hoc procedit ad faciendum contra legem vel regulam. Quando autem e converso, propter aliquam particularem causam, puta concupiscentiam vel iram, inducitur ad aliquid faciendum contra statuta legis vel regulae, non peccat ex contemptu, sed ex aliqua alia causa, etiam si frequenter ex eadem causa, vel alia simili, peccatum iteret. Sicut etiam Augustinus dicit, in libro de natura et gratia, quod non omnia peccata committuntur ex contemptu superbiae. Frequentia tamen peccati dispositive inducit ad contemptum, secundum illud [[Pr 18]], *impius, cum in profundum venerit, contemnit*.
 

@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod imago Dei inveniatur in irrationalibus 
 Praeterea, quanto est expressior similitudo in aliquo, tanto magis accedit ad rationem imaginis. Sed Dionysius dicit, IV cap. de Div. Nom., quod radius solaris maxime habet similitudinem divinae bonitatis. Ergo est ad imaginem Dei.
 
 ###### arg. 3
-Praeterea, quanto aliquid est magis perfectum in bonitate, tanto magis est Deo simile. Sed totum universum est perfectius in bonitate quam homo, quia etsi bona sint singula, tamen simul omnia dicuntur valde bona, Gen. I. Ergo totum universum est ad imaginem Dei, et non solum homo.
+Praeterea, quanto aliquid est magis perfectum in bonitate, tanto magis est Deo simile. Sed totum universum est perfectius in bonitate quam homo, quia etsi bona sint singula, tamen simul omnia dicuntur valde bona, [[Gn 1]]. Ergo totum universum est ad imaginem Dei, et non solum homo.
 
 ###### arg. 4
 Praeterea, Boetius in libro de Consol., dicit de Deo, *mundum mente gerens, similique in imagine formans*. Ergo totus mundus est ad imaginem Dei, et non solum rationalis creatura.

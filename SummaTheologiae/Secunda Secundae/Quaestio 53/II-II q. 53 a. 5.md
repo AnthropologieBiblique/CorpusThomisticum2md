@@ -4,7 +4,7 @@
 Ad quintum sic proceditur. Videtur quod inconstantia non sit vitium sub imprudentia contentum. Inconstantia enim videtur in hoc consistere quod homo non persistat in aliquo difficili. Sed persistere in difficilibus pertinet ad fortitudinem. Ergo inconstantia magis opponitur fortitudini quam prudentiae.
 
 ###### arg. 2
-Praeterea, Iac. III dicitur, *ubi zelus et contentio, ibi inconstantia et omne opus pravum*. Sed zelus ad invidiam pertinet. Ergo inconstantia non pertinet ad imprudentiam, sed magis ad invidiam.
+Praeterea, [[Jc 3]] dicitur, *ubi zelus et contentio, ibi inconstantia et omne opus pravum*. Sed zelus ad invidiam pertinet. Ergo inconstantia non pertinet ad imprudentiam, sed magis ad invidiam.
 
 ###### arg. 3
 Praeterea, ille videtur esse inconstans qui non perseverat in eo quod proposuerat. Quod quidem pertinet in delectationibus ad incontinentem, in tristitiis autem ad mollem sive delicatum, ut dicitur VII Ethic. Ergo inconstantia non pertinet ad imprudentiam.

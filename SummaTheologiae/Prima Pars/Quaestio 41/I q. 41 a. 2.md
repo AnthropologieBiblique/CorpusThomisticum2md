@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod actus notionales sint voluntarii. Dicit enim Hilarius, in libro de Synod., *non naturali necessitate ductus, pater genuit filium*.
 
 ###### arg. 2
-Praeterea, apostolus, Coloss. I, *transtulit nos in regnum filii dilectionis suae*. Dilectio autem voluntatis est. Ergo filius genitus est a patre, voluntate.
+Praeterea, apostolus, [[Col 1]], *transtulit nos in regnum filii dilectionis suae*. Dilectio autem voluntatis est. Ergo filius genitus est a patre, voluntate.
 
 ###### arg. 3
 Praeterea, nihil magis est voluntarium quam amor. Sed spiritus sanctus procedit a patre et filio ut amor. Ergo procedit voluntarie.

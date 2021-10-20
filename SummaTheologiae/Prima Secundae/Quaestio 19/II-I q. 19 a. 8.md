@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod quantitas bonitatis in voluntate, dependeat ex quantitate bonitatis in intentione. Quia super illud Matth. XII, *bonus homo de thesauro bono cordis sui profert bona*, dicit Glossa, tantum boni quis facit, quantum intendit. Sed intentio non solum dat bonitatem actui exteriori, sed etiam voluntati, ut dictum est. Ergo tantum aliquis habet bonam voluntatem, quantum intendit.
+Ad octavum sic proceditur. Videtur quod quantitas bonitatis in voluntate, dependeat ex quantitate bonitatis in intentione. Quia super illud [[Mt 12]], *bonus homo de thesauro bono cordis sui profert bona*, dicit Glossa, tantum boni quis facit, quantum intendit. Sed intentio non solum dat bonitatem actui exteriori, sed etiam voluntati, ut dictum est. Ergo tantum aliquis habet bonam voluntatem, quantum intendit.
 
 ###### arg. 2
 Praeterea, augmentata causa, augmentatur effectus. Sed intentionis bonitas est causa bonae voluntatis. Ergo quantum quis intendit de bono, tantum voluntas est bona.

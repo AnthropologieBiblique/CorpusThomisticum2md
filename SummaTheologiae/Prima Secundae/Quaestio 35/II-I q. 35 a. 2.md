@@ -10,7 +10,7 @@ Praeterea, dolor non est nisi de praesenti malo. Sed tristitia potest esse de pr
 Praeterea, dolor non videtur consequi nisi sensum tactus. Sed tristitia potest consequi ex omnibus sensibus. Ergo tristitia non est dolor, sed se habet in pluribus.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Rom. IX, *tristitia est mihi magna, et continuus dolor cordi meo*, pro eodem utens tristitia et dolore.
+Sed contra est quod apostolus dicit, ad [[Rm 9]], *tristitia est mihi magna, et continuus dolor cordi meo*, pro eodem utens tristitia et dolore.
 
 ###### co.
 Respondeo dicendum quod delectatio et dolor ex duplici apprehensione causari possunt, scilicet ex apprehensione exterioris sensus, et ex apprehensione interiori sive intellectus sive imaginationis. Interior autem apprehensio ad plura se extendit quam exterior, eo quod quaecumque cadunt sub exteriori apprehensione, cadunt sub interiori, sed non e converso. Sola igitur illa delectatio quae ex interiori apprehensione causatur, gaudium nominatur, ut supra dictum est. Et similiter ille solus dolor qui ex apprehensione interiori causatur, nominatur tristitia. Et sicut illa delectatio quae ex exteriori apprehensione causatur, delectatio quidem nominatur, non autem gaudium; ita ille dolor qui ex exteriori apprehensione causatur, nominatur quidem dolor, non autem tristitia. Sic igitur tristitia est quaedam species doloris, sicut gaudium delectationis.

@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod mundus non gubernetur ab uno. De causa e
 Praeterea, ea quae gubernantur ab uno, a se invicem non dissentiunt nisi propter imperitiam aut impotentiam gubernantis, quae a Deo sunt procul. Sed res creatae a se invicem dissentiunt, et contra se invicem pugnant; ut in contrariis apparet. Non ergo mundus gubernatur ab uno.
 
 ###### arg. 3
-Praeterea, in natura semper invenitur quod melius est. Sed melius est simul esse duos quam unum, ut dicitur Eccle. IV. Ergo mundus non gubernatur ab uno, sed a pluribus.
+Praeterea, in natura semper invenitur quod melius est. Sed melius est simul esse duos quam unum, ut dicitur [[Qo 4]]. Ergo mundus non gubernatur ab uno, sed a pluribus.
 
 ###### s. c.
 Sed contra est quod unum Deum et unum dominum confitemur; secundum illud apostoli I ad Cor. VIII, *nobis est unus Deus, pater, et dominus unus*. Quorum utrumque ad gubernationem pertinet, nam ad dominum pertinet gubernatio subditorum; et Dei nomen ex providentia sumitur, ut supra dictum est. Ergo mundus gubernatur ab uno.

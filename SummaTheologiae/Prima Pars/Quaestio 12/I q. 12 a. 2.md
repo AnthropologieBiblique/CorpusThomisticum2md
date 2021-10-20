@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod essentia Dei ab intellectu creato per aliquam similitudinem videatur. Dicitur enim I Ioan. III, *scimus quoniam, cum apparuerit, similes ei erimus, et videbimus eum sicuti est*.
+Ad secundum sic proceditur. Videtur quod essentia Dei ab intellectu creato per aliquam similitudinem videatur. Dicitur enim [[1 Jn 3]], *scimus quoniam, cum apparuerit, similes ei erimus, et videbimus eum sicuti est*.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, IX de Trin., *cum Deum novimus, fit aliqua Dei similitudo in nobis*.

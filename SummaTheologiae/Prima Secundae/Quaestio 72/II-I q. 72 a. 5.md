@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod divisio peccatorum quae est secundum reatum, diversificet speciem, puta cum dividitur secundum veniale et mortale. Ea enim quae in infinitum differunt, non possunt esse unius speciei, nec etiam unius generis. Sed veniale et mortale peccatum differunt in infinitum, veniali enim debetur poena temporalis, mortali poena aeterna; mensura autem poenae respondet quantitati culpae, secundum illud Deut. XXV, *pro mensura delicti erit et plagarum modus*. Ergo veniale et mortale non sunt unius generis, nedum quod sint unius speciei.
+Ad quintum sic proceditur. Videtur quod divisio peccatorum quae est secundum reatum, diversificet speciem, puta cum dividitur secundum veniale et mortale. Ea enim quae in infinitum differunt, non possunt esse unius speciei, nec etiam unius generis. Sed veniale et mortale peccatum differunt in infinitum, veniali enim debetur poena temporalis, mortali poena aeterna; mensura autem poenae respondet quantitati culpae, secundum illud [[Dt 25]], *pro mensura delicti erit et plagarum modus*. Ergo veniale et mortale non sunt unius generis, nedum quod sint unius speciei.
 
 ###### arg. 2
 Praeterea, quaedam peccata sunt mortalia ex genere, sicut homicidium et adulterium, quaedam vero ex suo genere sunt peccata venialia, sicut verbum otiosum et risus superfluus. Ergo peccatum veniale et mortale specie differunt.

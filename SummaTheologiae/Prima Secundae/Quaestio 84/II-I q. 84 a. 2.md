@@ -4,13 +4,13 @@
 Ad secundum sic proceditur. Videtur quod superbia non sit initium omnis peccati. Radix enim est quoddam principium arboris, et ita videtur idem esse radix peccati et initium peccati. Sed cupiditas est radix omnis peccati, ut dictum est. Ergo ipsa etiam est initium omnis peccati, non autem superbia.
 
 ###### arg. 2
-Praeterea, Eccli. X dicitur, *initium superbiae hominis apostatare a Deo*. Sed apostasia a Deo est quoddam peccatum. Ergo aliquod peccatum est initium superbiae, et ipsa non est initium omnis peccati.
+Praeterea, [[Si 10]] dicitur, *initium superbiae hominis apostatare a Deo*. Sed apostasia a Deo est quoddam peccatum. Ergo aliquod peccatum est initium superbiae, et ipsa non est initium omnis peccati.
 
 ###### arg. 3
 Praeterea, illud videtur esse initium omnis peccati, quod facit omnia peccata. Sed hoc est inordinatus amor sui, qui facit civitatem Babylonis, ut Augustinus dicit, in XIV de Civ. Dei. Ergo amor sui est initium omnis peccati, non autem superbia.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. X, *initium omnis peccati superbia*.
+Sed contra est quod dicitur [[Si 10]], *initium omnis peccati superbia*.
 
 ###### co.
 Respondeo dicendum quod quidam dicunt superbiam dici tripliciter. Uno modo, secundum quod superbia significat inordinatum appetitum propriae excellentiae. Et sic est speciale peccatum. Alio modo, secundum quod importat quendam actualem contemptum Dei, quantum ad hunc effectum qui est non subdi eius praecepto. Et sic dicunt quod est generale peccatum. Tertio modo, secundum quod importat quandam inclinationem ad huiusmodi contemptum, ex corruptione naturae. Et sic dicunt quod est initium omnis peccati. Et differt a cupiditate, quia cupiditas respicit peccatum ex parte conversionis ad bonum commutabile, ex quo peccatum quodammodo nutritur et fovetur, et propter hoc cupiditas dicitur radix, sed superbia respicit peccatum ex parte aversionis a Deo, cuius praecepto homo subdi recusat; et ideo vocatur initium, quia ex parte aversionis incipit ratio mali. Et haec quidem quamvis vera sint, tamen non sunt secundum intentionem sapientis, qui dixit, initium omnis peccati est superbia. Manifeste enim loquitur de superbia secundum quod est inordinatus appetitus propriae excellentiae, ut patet per hoc quod subdit, *sedes ducum superborum destruxit Deus*. Et de hac materia fere loquitur in toto capitulo. Et ideo dicendum est quod superbia, etiam secundum quod est speciale peccatum, est initium omnis peccati. Considerandum est enim quod in actibus voluntariis, cuiusmodi sunt peccata, duplex ordo invenitur, scilicet intentionis, et executionis. In primo quidem ordine, habet rationem principii finis, ut supra multoties dictum est. Finis autem in omnibus bonis temporalibus acquirendis, est ut homo per illa quandam perfectionem et excellentiam habeat. Et ideo ex hac parte superbia, quae est appetitus excellentiae, ponitur initium omnis peccati. Sed ex parte executionis, est primum id quod praebet opportunitatem adimplendi omnia desideria peccati, quod habet rationem radicis, scilicet divitiae. Et ideo ex hac parte avaritia ponitur esse radix omnium malorum, ut dictum est.

@@ -1,13 +1,13 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod luxuria non sit vitium capitale. Luxuria enim videtur idem esse immunditiae, ut patet per Glossam, Ephes. V. Sed immunditia est filia gulae, ut patet per Gregorium, XXXI Moral. Ergo luxuria non est vitium capitale.
+Ad quartum sic proceditur. Videtur quod luxuria non sit vitium capitale. Luxuria enim videtur idem esse immunditiae, ut patet per Glossam, [[Ep 5]]. Sed immunditia est filia gulae, ut patet per Gregorium, XXXI Moral. Ergo luxuria non est vitium capitale.
 
 ###### arg. 2
 Praeterea, Isidorus dicit, in libro de summo bono, quod *sicut per superbiam mentis itur in prostitutionem libidinis, ita per humilitatem mentis salva fit castitas carnis*. Sed contra rationem capitalis vitii esse videtur quod ex alio vitio oriatur. Ergo luxuria non est vitium capitale.
 
 ###### arg. 3
-Praeterea, luxuria causatur ex desperatione, secundum illud Ephes. IV, *qui, desperantes, seipsos tradiderunt impudicitiae*. Sed desperatio non est vitium capitale, quinimmo ponitur filia acediae, ut supra habitum est. Ergo multo minus luxuria est vitium capitale.
+Praeterea, luxuria causatur ex desperatione, secundum illud [[Ep 4]], *qui, desperantes, seipsos tradiderunt impudicitiae*. Sed desperatio non est vitium capitale, quinimmo ponitur filia acediae, ut supra habitum est. Ergo multo minus luxuria est vitium capitale.
 
 ###### s. c.
 Sed contra est quod Gregorius, XXXI Moral., ponit luxuriam inter vitia capitalia.

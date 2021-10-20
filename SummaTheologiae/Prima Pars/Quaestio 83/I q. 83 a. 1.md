@@ -1,22 +1,22 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod homo non sit liberi arbitrii. Quicumque enim est liberi arbitrii, facit quod vult. Sed homo non facit quod vult, dicitur enim Rom. VII, *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*. Ergo homo non est liberi arbitrii.
+Ad primum sic proceditur. Videtur quod homo non sit liberi arbitrii. Quicumque enim est liberi arbitrii, facit quod vult. Sed homo non facit quod vult, dicitur enim [[Rm 7]], *non enim quod volo bonum, hoc ago; sed quod odi malum, illud facio*. Ergo homo non est liberi arbitrii.
 
 ###### arg. 2
-Praeterea, quicumque est liberi arbitrii, eius est velle et non velle, operari et non operari. Sed hoc non est hominis, dicitur enim ad Rom. IX, non est volentis, scilicet velle, neque currentis, scilicet currere. Ergo homo non est liberi arbitrii.
+Praeterea, quicumque est liberi arbitrii, eius est velle et non velle, operari et non operari. Sed hoc non est hominis, dicitur enim ad [[Rm 9]], non est volentis, scilicet velle, neque currentis, scilicet currere. Ergo homo non est liberi arbitrii.
 
 ###### arg. 3
-*Praeterea, liberum est quod sui causa est*, ut dicitur in I Metaphys. Quod ergo movetur ab alio, non est liberum. Sed Deus movet voluntatem, dicitur enim Prov. XXI, *cor regis in manu Dei, et quocumque voluerit vertet illud*; et Philipp. II, *Deus est qui operatur in nobis velle et perficere*. Ergo homo non est liberi arbitrii.
+*Praeterea, liberum est quod sui causa est*, ut dicitur in I Metaphys. Quod ergo movetur ab alio, non est liberum. Sed Deus movet voluntatem, dicitur enim [[Pr 21]], *cor regis in manu Dei, et quocumque voluerit vertet illud*; et [[Ph 2]], *Deus est qui operatur in nobis velle et perficere*. Ergo homo non est liberi arbitrii.
 
 ###### arg. 4
-Praeterea, quicumque est liberi arbitrii, est dominus suorum actuum. Sed homo non est dominus suorum actuum, quia, ut dicitur Ierem. X, *non est in homine via eius, nec viri est ut dirigat gressus suos*. Ergo homo non est liberi arbitrii.
+Praeterea, quicumque est liberi arbitrii, est dominus suorum actuum. Sed homo non est dominus suorum actuum, quia, ut dicitur [[Jr 10]], *non est in homine via eius, nec viri est ut dirigat gressus suos*. Ergo homo non est liberi arbitrii.
 
 ###### arg. 5
 Praeterea, philosophus dicit, in III Ethic., *qualis unusquisque est, talis finis videtur ei*. Sed non est in potestate nostra aliquales esse, sed hoc nobis est a natura. Ergo naturale est nobis quod aliquem finem sequamur. Non ergo ex libero arbitrio.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. XV, *Deus ab initio constituit hominem, et reliquit eum in manu consilii sui*. Glossa, idest in libertate arbitrii.
+Sed contra est quod dicitur [[Si 15]], *Deus ab initio constituit hominem, et reliquit eum in manu consilii sui*. Glossa, idest in libertate arbitrii.
 
 ###### co.
 Respondeo dicendum quod homo est liberi arbitrii, alioquin frustra essent consilia, exhortationes, praecepta, prohibitiones, praemia et poenae. Ad cuius evidentiam, considerandum est quod quaedam agunt absque iudicio, sicut lapis movetur deorsum; et similiter omnia cognitione carentia. Quaedam autem agunt iudicio, sed non libero; sicut animalia bruta. Iudicat enim ovis videns lupum, eum esse fugiendum, naturali iudicio, et non libero, quia non ex collatione, sed ex naturali instinctu hoc iudicat. Et simile est de quolibet iudicio brutorum animalium. Sed homo agit iudicio, quia per vim cognoscitivam iudicat aliquid esse fugiendum vel prosequendum. Sed quia iudicium istud non est ex naturali instinctu in particulari operabili, sed ex collatione quadam rationis; ideo agit libero iudicio, potens in diversa ferri. Ratio enim circa contingentia habet viam ad opposita; ut patet in dialecticis syllogismis, et rhetoricis persuasionibus. Particularia autem operabilia sunt quaedam contingentia, et ideo circa ea iudicium rationis ad diversa se habet, et non est determinatum ad unum. Et pro tanto necesse est quod homo sit liberi arbitrii, ex hoc ipso quod rationalis est.

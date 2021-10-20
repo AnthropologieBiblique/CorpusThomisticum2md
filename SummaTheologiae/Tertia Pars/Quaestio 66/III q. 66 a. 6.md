@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod in nomine Christi possit dari Baptismus. Sicut enim *una est fides, et unum Baptisma*, ut dicitur Ephes. IV. Sed Act. VIII dicitur quod *in nomine Iesu Christi baptizabantur viri et mulieres*. Ergo etiam nunc potest dari Baptismus in nomine Christi.
+Ad sextum sic proceditur. Videtur quod in nomine Christi possit dari Baptismus. Sicut enim *una est fides, et unum Baptisma*, ut dicitur [[Ep 4]]. Sed [[Ac 8]] dicitur quod *in nomine Iesu Christi baptizabantur viri et mulieres*. Ergo etiam nunc potest dari Baptismus in nomine Christi.
 
 ###### arg. 2
 Praeterea, Ambrosius dicit, *si Christum dicas, et patrem, a quo unctus est, et ipsum qui unctus est, filium, et spiritum, quo unctus est, designasti*. Sed in nomine Trinitatis potest fieri Baptismus. Ergo et in nomine Christi.

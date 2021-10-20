@@ -7,7 +7,7 @@ Ad nonum sic proceditur. Videtur quod credere non sit meritorium. Principium eni
 Praeterea, credere medium est inter opinari et scire vel considerare scita. Sed consideratio scientiae non est meritoria; similiter autem nec opinio. Ergo etiam neque credere est meritorium.
 
 ###### arg. 3
-Praeterea, ille qui assentit alicui rei credendo aut habet causam sufficienter inducentem ipsum ad credendum, aut non. Si habet sufficiens inductivum ad credendum, non videtur hoc ei esse meritorium, quia non est ei iam liberum credere et non credere. Si autem non habet sufficiens inductivum ad credendum, levitatis est credere, secundum illud Eccli. XIX, *qui cito credit levis est corde*, et sic non videtur esse meritorium. Ergo credere nullo modo est meritorium.
+Praeterea, ille qui assentit alicui rei credendo aut habet causam sufficienter inducentem ipsum ad credendum, aut non. Si habet sufficiens inductivum ad credendum, non videtur hoc ei esse meritorium, quia non est ei iam liberum credere et non credere. Si autem non habet sufficiens inductivum ad credendum, levitatis est credere, secundum illud [[Si 19]], *qui cito credit levis est corde*, et sic non videtur esse meritorium. Ergo credere nullo modo est meritorium.
 
 ###### s. c.
 Sed contra est quod dicitur ad Heb. XI, quod *sancti per fidem adepti sunt repromissiones*. Quod non esset nisi credendo mererentur. Ergo ipsum credere est meritorium.

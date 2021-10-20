@@ -10,7 +10,7 @@ Praeterea, prius non dependet a posteriori. Sed operatio intellectus est prior q
 Praeterea, quod ordinatur ad aliquid tanquam ad finem, non est necessarium adepto iam fine, sicut navis postquam pervenitur ad portum. Sed rectitudo voluntatis, quae est per virtutem, ordinatur ad beatitudinem tanquam ad finem. Ergo, adepta beatitudine, non est necessaria rectitudo voluntatis.
 
 ###### s. c.
-Sed contra est quod dicitur Matth. V, *beati mundo corde, quoniam ipsi Deum videbunt*. Et Heb. XII, *pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum*.
+Sed contra est quod dicitur [[Mt 5]], *beati mundo corde, quoniam ipsi Deum videbunt*. Et Heb. XII, *pacem sequimini cum omnibus, et sanctimoniam, sine qua nemo videbit Deum*.
 
 ###### co.
 Respondeo dicendum quod rectitudo voluntatis requiritur ad beatitudinem et antecedenter et concomitanter. Antecedenter quidem, quia rectitudo voluntatis est per debitum ordinem ad finem ultimum. Finis autem comparatur ad id quod ordinatur ad finem, sicut forma ad materiam. Unde sicut materia non potest consequi formam, nisi sit debito modo disposita ad ipsam, ita nihil consequitur finem, nisi sit debito modo ordinatum ad ipsum. Et ideo nullus potest ad beatitudinem pervenire, nisi habeat rectitudinem voluntatis. Concomitanter autem, quia, sicut dictum est, beatitudo ultima consistit in visione divinae essentiae, quae est ipsa essentia bonitatis. Et ita voluntas videntis Dei essentiam, ex necessitate amat quidquid amat, sub ordine ad Deum; sicut voluntas non videntis Dei essentiam, ex necessitate amat quidquid amat, sub communi ratione boni quam novit. Et hoc ipsum est quod facit voluntatem rectam. Unde manifestum est quod beatitudo non potest esse sine recta voluntate.

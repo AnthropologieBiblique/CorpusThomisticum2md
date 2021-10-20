@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod neque clementia neque mansuetudo sit vi
 Praeterea, virtus corrumpitur per superfluum et diminutum. Sed tam clementia quam mansuetudo in diminutione quadam consistunt, nam clementia est diminutiva poenarum, mansuetudo autem est diminutiva irae. Ergo neque clementia neque mansuetudo est virtus.
 
 ###### arg. 3
-Praeterea, mansuetudo, sive mititas, ponitur, Matth. V, inter beatitudines; et inter fructus, Galat. V. Sed virtutes differunt et a beatitudinibus et a fructibus. Ergo non continetur sub virtute.
+Praeterea, mansuetudo, sive mititas, ponitur, [[Mt 5]], inter beatitudines; et inter fructus, Galat. V. Sed virtutes differunt et a beatitudinibus et a fructibus. Ergo non continetur sub virtute.
 
 ###### s. c.
 Sed contra est quod Seneca dicit, in II de Clem., *clementiam et mansuetudinem omnes boni viri praestabunt*. Sed virtus est proprie quae pertinet ad bonos viros, nam *virtus est quae bonum facit habentem, et opus eius bonum reddit*, ut dicitur in II Ethic. Ergo clementia et mansuetudo sunt virtutes.

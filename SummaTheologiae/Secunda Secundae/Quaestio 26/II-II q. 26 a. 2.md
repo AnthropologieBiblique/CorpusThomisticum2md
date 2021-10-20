@@ -1,16 +1,16 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod Deus non sit magis diligendus quam proximus. Dicitur enim I Ioan. IV, *qui non diligit fratrem suum, quem videt, Deum, quem non videt, quomodo potest diligere?* Ex quo videtur quod illud sit magis diligibile quod est magis visibile, nam et visio est principium amoris, ut dicitur IX Ethic. Sed Deus est minus visibilis quam proximus. Ergo etiam est minus ex caritate diligibilis.
+Ad secundum sic proceditur. Videtur quod Deus non sit magis diligendus quam proximus. Dicitur enim [[1 Jn 4]], *qui non diligit fratrem suum, quem videt, Deum, quem non videt, quomodo potest diligere?* Ex quo videtur quod illud sit magis diligibile quod est magis visibile, nam et visio est principium amoris, ut dicitur IX Ethic. Sed Deus est minus visibilis quam proximus. Ergo etiam est minus ex caritate diligibilis.
 
 ###### arg. 2
-Praeterea, similitudo est causa dilectionis, secundum illud Eccli. XIII, *omne animal diligit simile sibi*. Sed maior est similitudo hominis ad proximum suum quam ad Deum. Ergo homo ex caritate magis diligit proximum quam Deum.
+Praeterea, similitudo est causa dilectionis, secundum illud [[Si 13]], *omne animal diligit simile sibi*. Sed maior est similitudo hominis ad proximum suum quam ad Deum. Ergo homo ex caritate magis diligit proximum quam Deum.
 
 ###### arg. 3
 Praeterea, illud quod in proximo caritas diligit, Deus est; ut patet per Augustinum, in I de Doct. Christ. Sed Deus non est maior in seipso quam in proximo. Ergo non est magis diligendus in seipso quam in proximo. Ergo non debet magis diligi Deus quam proximus.
 
 ###### s. c.
-Sed contra, illud magis est diligendum propter quod aliqua odio sunt habenda. Sed proximi sunt odio habendi propter Deum, si scilicet a Deo abducunt, secundum illud Luc. XIV, *si quis venit ad me et non odit patrem et matrem et uxorem et filios et fratres et sorores, non potest meus esse discipulus*. Ergo Deus est magis ex caritate diligendus quam proximus.
+Sed contra, illud magis est diligendum propter quod aliqua odio sunt habenda. Sed proximi sunt odio habendi propter Deum, si scilicet a Deo abducunt, secundum illud [[Lc 14]], *si quis venit ad me et non odit patrem et matrem et uxorem et filios et fratres et sorores, non potest meus esse discipulus*. Ergo Deus est magis ex caritate diligendus quam proximus.
 
 ###### co.
 Respondeo dicendum quod unaquaeque amicitia respicit principaliter illud in quo principaliter invenitur illud bonum super cuius communicatione fundatur, sicut amicitia politica principalius respicit principem civitatis, a quo totum bonum commune civitatis dependet; unde et ei maxime debetur fides et obedientia a civibus. Amicitia autem caritatis fundatur super communicatione beatitudinis, quae consistit essentialiter in Deo sicut in primo principio, a quo derivatur in omnes qui sunt beatitudinis capaces. Et ideo principaliter et maxime Deus est ex caritate diligendus, ipse enim diligitur sicut beatitudinis causa; proximus autem sicut beatitudinem simul nobiscum ab eo participans.

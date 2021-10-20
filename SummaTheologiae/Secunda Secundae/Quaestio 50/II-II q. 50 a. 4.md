@@ -10,7 +10,7 @@ Praeterea, sicut militare negotium continetur sub politico, ita etiam et plura a
 Praeterea, in rebus bellicis plurimum valet militum fortitudo. Ergo militaris magis pertinet ad fortitudinem quam ad prudentiam.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. XXIV, *cum dispositione initur bellum, et erit salus ubi sunt multa consilia*. Sed consiliari pertinet ad prudentiam. Ergo in rebus bellicis maxime necessaria est aliqua species prudentiae quae militaris dicitur.
+Sed contra est quod dicitur [[Pr 24]], *cum dispositione initur bellum, et erit salus ubi sunt multa consilia*. Sed consiliari pertinet ad prudentiam. Ergo in rebus bellicis maxime necessaria est aliqua species prudentiae quae militaris dicitur.
 
 ###### co.
 Respondeo dicendum quod ea quae secundum artem et rationem aguntur conformia esse oportet his quae sunt secundum naturam, quae a ratione divina sunt instituta. Natura autem ad duo intendit primo quidem, ad regendum unamquamque rem in seipsa; secundo vero, ad resistendum extrinsecis impugnantibus et corruptivis. Et propter hoc non solum dedit animalibus vim concupiscibilem, per quam moveantur ad ea quae sunt saluti eorum accommoda; sed etiam vim irascibilem, per quam animal resistit impugnantibus. Unde et in his quae sunt secundum rationem non solum oportet esse prudentiam politicam, per quam convenienter disponantur ea quae pertinent ad bonum commune; sed etiam militarem, per quam hostium insultus repellantur.

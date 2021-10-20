@@ -1,10 +1,10 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod poenitentia non sit secunda tabula post naufragium. Quia super illud Isaiae III, *peccatum suum sicut Sodoma praedicaverunt*, dicit Glossa, *secunda tabula post naufragium est peccata abscondere*. Poenitentia autem non abscondit peccata, sed magis ea revelat. Ergo poenitentia non est secunda tabula.
+Ad sextum sic proceditur. Videtur quod poenitentia non sit secunda tabula post naufragium. Quia super illud [[Is 3]], *peccatum suum sicut Sodoma praedicaverunt*, dicit Glossa, *secunda tabula post naufragium est peccata abscondere*. Poenitentia autem non abscondit peccata, sed magis ea revelat. Ergo poenitentia non est secunda tabula.
 
 ###### arg. 2
-Praeterea, fundamentum in aedificio non tenet secundum, sed primum locum. Poenitentia autem in spirituali aedificio est fundamentum, secundum illud Heb. VI, *non rursum iacientes fundamentum poenitentiae ab operibus mortuis*. Unde et praecedit ipsum Baptismum, secundum illud Act. II, *poenitentiam agite, et baptizetur unusquisque vestrum*. Ergo poenitentia non debet dici secunda tabula.
+Praeterea, fundamentum in aedificio non tenet secundum, sed primum locum. Poenitentia autem in spirituali aedificio est fundamentum, secundum illud Heb. VI, *non rursum iacientes fundamentum poenitentiae ab operibus mortuis*. Unde et praecedit ipsum Baptismum, secundum illud [[Ac 2]], *poenitentiam agite, et baptizetur unusquisque vestrum*. Ergo poenitentia non debet dici secunda tabula.
 
 ###### arg. 3
 Praeterea, omnia sacramenta sunt quaedam tabulae, idest remedia contra peccatum. Sed poenitentia non tenet secundum locum inter sacramenta, sed magis quartum, ut ex supra dictis patet. Ergo poenitentia non debet dici secunda tabula post naufragium.

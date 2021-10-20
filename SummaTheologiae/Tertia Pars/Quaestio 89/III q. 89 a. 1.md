@@ -10,7 +10,7 @@ Praeterea, poenitentia in quibusdam actibus poenitentis consistit. Sed virtutes 
 Praeterea, habens virtutem sine difficultate et delectabiliter actus virtutum operatur, unde philosophus dicit, in I Ethic., quod *non est iustus qui non gaudet iusta operatione*. Sed multi poenitentes adhuc difficultatem patiuntur in operando actus virtutum. Non ergo per poenitentiam restituuntur virtutes.
 
 ###### s. c.
-Sed contra est quod, Luc. XV, pater mandavit quod filius poenitens indueretur stola prima, quae, secundum Ambrosium, est amictus sapientiae, quam simul consequuntur omnes virtutes, secundum illud Sap. VIII, *sobrietatem et iustitiam docet, prudentiam et virtutem, quibus in vita nihil est utilius hominibus*. Ergo per poenitentiam omnes virtutes restituuntur.
+Sed contra est quod, [[Lc 15]], pater mandavit quod filius poenitens indueretur stola prima, quae, secundum Ambrosium, est amictus sapientiae, quam simul consequuntur omnes virtutes, secundum illud [[Sg 8]], *sobrietatem et iustitiam docet, prudentiam et virtutem, quibus in vita nihil est utilius hominibus*. Ergo per poenitentiam omnes virtutes restituuntur.
 
 ###### co.
 Respondeo dicendum quod per poenitentiam, sicut dictum est supra, remittuntur peccata. Remissio autem peccatorum non potest esse nisi per infusionem gratiae. Unde relinquitur quod per poenitentiam gratia homini infundatur. Ex gratia autem consequuntur omnes virtutes gratuitae, sicut ex essentia animae fluunt omnes potentiae, ut in secunda parte habitum est. Unde relinquitur quod per poenitentiam omnes virtutes restituantur.

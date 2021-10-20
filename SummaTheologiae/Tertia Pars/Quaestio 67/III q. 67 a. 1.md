@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod ad officium diaconi pertineat baptizare. Simul enim iniungitur a domino officium praedicandi et baptizandi, secundum illud Matth. ult., *euntes, docete omnes gentes, baptizantes eos*, et cetera. Sed ad officium diaconi pertinet evangelizare. Ergo videtur quod etiam ad officium diaconi pertineat baptizare.
 
 ###### arg. 2
-Praeterea, secundum Dionysium, V cap. Eccl. Hier., purgare pertinet ad officium diaconi. Sed purgatio a peccatis maxime fit per Baptismum, secundum illud Ephes. V, *mundans eam lavacro aquae in verbo vitae*. Ergo videtur quod baptizare pertineat ad diaconem.
+Praeterea, secundum Dionysium, V cap. Eccl. Hier., purgare pertinet ad officium diaconi. Sed purgatio a peccatis maxime fit per Baptismum, secundum illud [[Ep 5]], *mundans eam lavacro aquae in verbo vitae*. Ergo videtur quod baptizare pertineat ad diaconem.
 
 ###### arg. 3
 Praeterea, de beato Laurentio legitur quod, cum ipse esset diaconus, plurimos baptizabat. Ergo videtur quod ad diacones pertinet baptizare.

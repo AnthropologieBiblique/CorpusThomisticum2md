@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod odium proximi sit gravissimum peccatum eorum quae in proximo committuntur. Dicitur enim I Ioan. III, *omnis qui odit fratrem suum homicida est*. Sed homicidium est gravissimum peccatorum quae committuntur in proximum. Ergo et odium.
+Ad quartum sic proceditur. Videtur quod odium proximi sit gravissimum peccatum eorum quae in proximo committuntur. Dicitur enim [[1 Jn 3]], *omnis qui odit fratrem suum homicida est*. Sed homicidium est gravissimum peccatorum quae committuntur in proximum. Ergo et odium.
 
 ###### arg. 2
 Praeterea, pessimum opponitur optimo. Sed optimum eorum quae proximo exhibemus est amor, omnia enim alia ad dilectionem referuntur. Ergo et pessimum est odium.

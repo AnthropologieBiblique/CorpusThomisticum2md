@@ -10,7 +10,7 @@ Praeterea, totum et perfectum est cui nihil deest; ut dicitur in III Physic. Si 
 Praeterea, diligere Deum ex toto corde est perfectionis, quia secundum philosophum, totum et perfectum idem sunt. Sed ea quae sunt perfectionis non cadunt sub praecepto, sed sub consilio. Ergo non debet praecipi quod Deus ex toto corde diligatur.
 
 ###### s. c.
-Sed contra est quod dicitur Deut. VI, *diliges dominum Deum tuum ex toto corde tuo*.
+Sed contra est quod dicitur [[Dt 6]], *diliges dominum Deum tuum ex toto corde tuo*.
 
 ###### co.
 Respondeo dicendum quod, cum praecepta dentur de actibus virtutum, hoc ergo modo aliquis actus cadit sub praecepto, secundum quod est actus virtutis. Requiritur autem ad actum virtutis non solum quod cadat super debitam materiam, sed etiam quod vestiatur debitis circumstantiis, quibus sit proportionatus tali materiae. Deus autem est diligendus sicut finis ultimus, ad quem omnia sunt referenda. Et ideo totalitas quaedam fuit designanda circa praeceptum de dilectione Dei.

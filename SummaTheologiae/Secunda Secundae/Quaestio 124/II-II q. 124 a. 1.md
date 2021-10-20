@@ -10,7 +10,7 @@ Praeterea, nullum illicitum est actus virtutis. Sed occidere seipsum est illicit
 Praeterea, laudabile est quod aliquis sponte se offerat ad exequendum actum virtutis. Sed non est laudabile quod aliquis martyrio se ingerat, sed magis videtur esse praesumptuosum et periculosum. Non ergo martyrium est actus virtutis.
 
 ###### s. c.
-Sed contra est quod praemium beatitudinis non debetur nisi actui virtutis. Debetur autem martyrio, secundum illud Matth. V, *beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum*. Ergo martyrium est actus virtutis.
+Sed contra est quod praemium beatitudinis non debetur nisi actui virtutis. Debetur autem martyrio, secundum illud [[Mt 5]], *beati qui persecutionem patiuntur propter iustitiam, quoniam ipsorum est regnum caelorum*. Ergo martyrium est actus virtutis.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, ad virtutem pertinet quod aliquis in bono rationis conservetur. Consistit autem bonum rationis in veritate, sicut in proprio obiecto; et in iustitia, sicut in proprio effectu, sicut ex supra dictis patet. Pertinet autem ad rationem martyrii ut aliquis firmiter stet in veritate et iustitia contra persequentium impetus. Unde manifestum est quod martyrium est actus virtutis.

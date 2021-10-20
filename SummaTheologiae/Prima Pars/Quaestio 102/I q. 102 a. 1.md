@@ -4,16 +4,16 @@
 Ad primum sic proceditur. Videtur quod Paradisus non sit locus corporeus. Dicit enim Beda quod *Paradisus pertingit usque ad lunarem circulum*. Sed nullus locus terrenus talis esse potest, tum quia contra naturam terrae esset quod tantum elevaretur; tum etiam quia sub globo lunari est regio ignis, qui terram consumeret. Non est ergo Paradisus locus corporeus.
 
 ###### arg. 2
-Praeterea, Scriptura commemorat quatuor flumina in Paradiso oriri, ut patet Gen. II. Illa autem flumina quae ibi nominantur, alibi habent manifestas origines; ut patet etiam per philosophum in libro Meteor. Ergo Paradisus non est locus corporeus.
+Praeterea, Scriptura commemorat quatuor flumina in Paradiso oriri, ut patet [[Gn 2]]. Illa autem flumina quae ibi nominantur, alibi habent manifestas origines; ut patet etiam per philosophum in libro Meteor. Ergo Paradisus non est locus corporeus.
 
 ###### arg. 3
 Praeterea, aliqui diligentissime inquisierunt omnia loca terrae habitabilis, qui tamen nullam mentionem faciunt de loco Paradisi. Ergo non videtur esse locus corporeus.
 
 ###### arg. 4
-Praeterea, in Paradiso describitur lignum vitae esse. Sed lignum vitae est aliquid spirituale, dicitur enim Prov. III, de sapientia, quod est lignum vitae his qui apprehendunt eam. Ergo et Paradisus non est locus corporeus, sed spiritualis.
+Praeterea, in Paradiso describitur lignum vitae esse. Sed lignum vitae est aliquid spirituale, dicitur enim [[Pr 3]], de sapientia, quod est lignum vitae his qui apprehendunt eam. Ergo et Paradisus non est locus corporeus, sed spiritualis.
 
 ###### arg. 5
-Praeterea, si Paradisus est locus corporalis, oportet quod et ligna Paradisi sint corporalia. Sed hoc non videtur, cum corporalia ligna sint producta tertio die; de plantatione autem lignorum Paradisi legitur Gen. II, post opera sex dierum. Ergo Paradisus non est locus corporeus.
+Praeterea, si Paradisus est locus corporalis, oportet quod et ligna Paradisi sint corporalia. Sed hoc non videtur, cum corporalia ligna sint producta tertio die; de plantatione autem lignorum Paradisi legitur [[Gn 2]], post opera sex dierum. Ergo Paradisus non est locus corporeus.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, VIII super Gen. ad Litt., *tres sunt de Paradiso generales sententiae, una eorum qui tantummodo corporaliter Paradisum intelligi volunt; alia eorum qui spiritualiter tantum; tertia eorum qui utroque modo Paradisum accipiunt, quam mihi fateor placere sententiam*.

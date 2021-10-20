@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod irascibilis et concupiscibilis non possint esse subiectum virtutis. Huiusmodi enim vires sunt communes nobis et brutis. Sed nunc loquimur de virtute secundum quod est propria homini, sic enim dicitur virtus humana. Non igitur humanae virtutis potest esse subiectum irascibilis et concupiscibilis, quae sunt partes appetitus sensitivi, ut in primo dictum est.
 
 ###### arg. 2
-Praeterea, appetitus sensitivus est vis utens organo corporali. Sed bonum virtutis non potest esse in corpore hominis, dicit enim apostolus, Rom. VII, *scio quod non habitat in carne mea bonum*. Ergo appetitus sensitivus non potest esse subiectum virtutis.
+Praeterea, appetitus sensitivus est vis utens organo corporali. Sed bonum virtutis non potest esse in corpore hominis, dicit enim apostolus, [[Rm 7]], *scio quod non habitat in carne mea bonum*. Ergo appetitus sensitivus non potest esse subiectum virtutis.
 
 ###### arg. 3
 Praeterea, Augustinus probat, in libro de moribus Eccles., quod virtus non est in corpore, sed in anima, eo quod per animam corpus regitur, unde quod aliquis corpore bene utatur, totum refertur ad animam; *sicut si mihi auriga obtemperans, equos quibus praeest, recte regit, hoc totum mihi debetur*. Sed sicut anima regit corpus, ita etiam ratio regit appetitum sensitivum. Ergo totum rationali parti debetur, quod irascibilis et concupiscibilis recte regantur. Sed virtus est qua recte vivitur, ut supra dictum est. Virtus igitur non est in irascibili et concupiscibili, sed solum in parte rationali.

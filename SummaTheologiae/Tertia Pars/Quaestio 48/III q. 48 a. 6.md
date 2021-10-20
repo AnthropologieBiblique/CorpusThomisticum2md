@@ -1,7 +1,7 @@
 ### Articulus 6
 
 ###### arg. 1
-Ad sextum sic proceditur. Videtur quod passio Christi non fuerit operata nostram salutem per modum efficientiae. Causa enim efficiens nostrae salutis est magnitudo divinae virtutis, secundum illud Isaiae LIX, *ecce, non est abbreviata manus eius, ut salvare non possit*. Christus autem crucifixus est ex infirmitate, ut dicitur II Cor. XIII. Non ergo passio Christi efficienter operata est salutem nostram.
+Ad sextum sic proceditur. Videtur quod passio Christi non fuerit operata nostram salutem per modum efficientiae. Causa enim efficiens nostrae salutis est magnitudo divinae virtutis, secundum illud [[Is 59]], *ecce, non est abbreviata manus eius, ut salvare non possit*. Christus autem crucifixus est ex infirmitate, ut dicitur [[2 Co 13]]. Non ergo passio Christi efficienter operata est salutem nostram.
 
 ###### arg. 2
 Praeterea, nullum agens corporale efficienter agit nisi per contactum, unde etiam et Christus tangendo mundavit leprosum, *ut ostenderet carnem suam salutiferam virtutem habere*, sicut Chrysostomus dicit. Sed passio Christi non potuit contingere omnes homines. Ergo non potuit efficienter operari omnium hominum salutem.
@@ -10,13 +10,13 @@ Praeterea, nullum agens corporale efficienter agit nisi per contactum, unde etia
 Praeterea, non videtur eiusdem esse operari per modum meriti, et per modum efficientiae, quia ille qui meretur, expectat effectum ab alio. Sed passio Christi operata est nostram salutem per modum meriti. Non ergo per modum efficientiae.
 
 ###### s. c.
-Sed contra est quod dicitur I Cor. I, quod *verbum crucis his qui salvi fiunt est virtus Dei*. Sed virtus Dei efficienter operatur nostram salutem. Ergo passio Christi in cruce efficienter operata est nostram salutem.
+Sed contra est quod dicitur [[1 Co 1]], quod *verbum crucis his qui salvi fiunt est virtus Dei*. Sed virtus Dei efficienter operatur nostram salutem. Ergo passio Christi in cruce efficienter operata est nostram salutem.
 
 ###### co.
 Respondeo dicendum quod duplex est efficiens, principale, et instrumentale. Efficiens quidem principale humanae salutis Deus est. Quia vero humanitas Christi est divinitatis instrumentum, ut supra dictum est, ex consequenti omnes actiones et passiones Christi instrumentaliter operantur, in virtute divinitatis, ad salutem humanam. Et secundum hoc, passio Christi efficienter causat salutem humanam.
 
 ###### ad 1
-Ad primum ergo dicendum quod passio Christi, relata ad Christi carnem, congruit infirmitati assumptae, relata vero ad divinitatem, consequitur ex ea infinitam virtutem, secundum illud I Cor. I, *quod infirmum est Dei, fortius est hominibus*; quia scilicet ipsa infirmitas Christi, inquantum est Dei, habet virtutem excedentem omnem virtutem humanam.
+Ad primum ergo dicendum quod passio Christi, relata ad Christi carnem, congruit infirmitati assumptae, relata vero ad divinitatem, consequitur ex ea infinitam virtutem, secundum illud [[1 Co 1]], *quod infirmum est Dei, fortius est hominibus*; quia scilicet ipsa infirmitas Christi, inquantum est Dei, habet virtutem excedentem omnem virtutem humanam.
 
 ###### ad 2
 Ad secundum dicendum quod passio Christi, licet sit corporalis, habet tamen spiritualem virtutem ex divinitate unita. Et ideo per spiritualem contactum efficaciam sortitur, scilicet per fidem et fidei sacramenta, secundum illud apostoli, *quem proposuit propitiatorem per fidem in sanguine eius*.

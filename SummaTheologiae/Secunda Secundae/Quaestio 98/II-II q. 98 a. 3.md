@@ -10,7 +10,7 @@ Praeterea, sicut Chrysostomus dicit, *maius est iurare per Deum quam per Evangel
 Praeterea, secundum iura propter periurium aliquis incurrit infamiam, ut habetur VI, qu. I, cap. infames. Non autem videtur quod propter quodlibet periurium aliquis infamiam incurrat, sicut dicitur de assertorio iuramento violato per periurium. Ergo videtur quod non omne periurium sit peccatum mortale.
 
 ###### s. c.
-Sed contra, omne peccatum quod contrariatur praecepto divino est peccatum mortale. Sed periurium contrariatur praecepto divino, dicitur enim Levit. XIX, *non periurabis in nomine meo*. Ergo est peccatum mortale.
+Sed contra, omne peccatum quod contrariatur praecepto divino est peccatum mortale. Sed periurium contrariatur praecepto divino, dicitur enim [[Lv 19]], *non periurabis in nomine meo*. Ergo est peccatum mortale.
 
 ###### co.
 Respondeo dicendum quod, secundum doctrinam philosophi, *propter quod unumquodque, illud magis*. Videmus autem quod ea quae, si de se sint peccata venialia, vel etiam bona ex genere, si in contemptum Dei fiant, sunt peccata mortalia. Unde multo magis quidquid est quod de sui ratione pertinet ad contemptum Dei, est peccatum mortale. Periurium autem de sui ratione importat contemptum Dei, ex hoc enim habet rationem culpae, ut dictum est, quia ad irreverentiam Dei pertinet. Unde manifestum est quod periurium ex suo genere est peccatum mortale.

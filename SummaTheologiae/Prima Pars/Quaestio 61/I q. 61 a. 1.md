@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod Angeli non habeant causam sui esse. De his enim quae sunt a Deo creata, agitur Genesis I. Sed nulla mentio fit ibi de Angelis. Ergo Angeli non sunt creati a Deo.
+Ad primum sic proceditur. Videtur quod Angeli non habeant causam sui esse. De his enim quae sunt a Deo creata, agitur [[Gn 1]]. Sed nulla mentio fit ibi de Angelis. Ergo Angeli non sunt creati a Deo.
 
 ###### arg. 2
 Praeterea, philosophus dicit, in VIII Metaphys., quod si aliqua substantia sit forma sine materia, *statim per seipsam est ens et unum, et non habet causam quae faciat eam ens et unum*. Sed Angeli sunt formae immateriales, ut supra ostensum est. Ergo non habent causam sui esse.

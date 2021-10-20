@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod hoc nomen spiritus sanctus non sit propri
 Praeterea, nomina divinarum personarum ad aliquid dicuntur, ut Boetius dicit, in libro de Trin. Sed hoc nomen spiritus sanctus non dicitur ad aliquid. Ergo hoc nomen non est proprium divinae personae.
 
 ###### arg. 3
-Praeterea, quia filius est nomen alicuius divinae personae, non potest dici filius huius vel illius. Dicitur autem spiritus huius vel illius hominis. Ut enim habetur Num. XI, *dixit dominus ad Moysen, auferam de spiritu tuo, tradamque eis*; et IV Reg. II, *requievit spiritus Eliae super Elisaeum*. Ergo spiritus sanctus non videtur esse proprium nomen alicuius divinae personae.
+Praeterea, quia filius est nomen alicuius divinae personae, non potest dici filius huius vel illius. Dicitur autem spiritus huius vel illius hominis. Ut enim habetur [[Nb 11]], *dixit dominus ad Moysen, auferam de spiritu tuo, tradamque eis*; et [[2R 2]], *requievit spiritus Eliae super Elisaeum*. Ergo spiritus sanctus non videtur esse proprium nomen alicuius divinae personae.
 
 ###### s. c.
 Sed contra est quod dicitur I Ioan. ult., *tres sunt qui testimonium dant in caelo, pater, verbum et spiritus sanctus*. Ut autem Augustinus dicit, VII de Trin., cum quaeritur, quid tres? Dicimus, tres personae. Ergo spiritus sanctus est nomen divinae personae.

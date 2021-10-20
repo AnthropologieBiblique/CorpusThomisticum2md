@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod nullum nomen Deo conveniat. Dicit enim Dionysius, I cap. de Div. Nom., quod neque nomen eius est, neque opinio. Et Prov. XXX dicitur, *quod nomen eius, et quod nomen filii eius, si nosti?*
+Ad primum sic proceditur. Videtur quod nullum nomen Deo conveniat. Dicit enim Dionysius, I cap. de Div. Nom., quod neque nomen eius est, neque opinio. Et [[Pr 30]] dicitur, *quod nomen eius, et quod nomen filii eius, si nosti?*
 
 ###### arg. 2
 Praeterea, omne nomen aut dicitur in abstracto, aut in concreto. Sed nomina significantia in concreto, non competunt Deo, cum simplex sit, neque nomina significantia in abstracto, quia non significant aliquid perfectum subsistens. Ergo nullum nomen potest dici de Deo.
@@ -10,7 +10,7 @@ Praeterea, omne nomen aut dicitur in abstracto, aut in concreto. Sed nomina sign
 Praeterea, nomina significant substantiam cum qualitate; verba autem et participia significant cum tempore; pronomina autem cum demonstratione vel relatione. Quorum nihil competit Deo, quia sine qualitate est et sine omni accidente, et sine tempore; et sentiri non potest, ut demonstrari possit; nec relative significari, cum relativa sint aliquorum antedictorum recordativa, vel nominum, vel participiorum, vel pronominum demonstrativorum. Ergo Deus nullo modo potest nominari a nobis.
 
 ###### s. c.
-Sed contra est quod dicitur Exod. XV, *dominus quasi vir pugnator, omnipotens nomen eius*.
+Sed contra est quod dicitur [[Ex 15]], *dominus quasi vir pugnator, omnipotens nomen eius*.
 
 ###### co.
 Respondeo dicendum quod, secundum philosophum, voces sunt signa intellectuum, et intellectus sunt rerum similitudines. Et sic patet quod voces referuntur ad res significandas, mediante conceptione intellectus. Secundum igitur quod aliquid a nobis intellectu cognosci potest, sic a nobis potest nominari. Ostensum est autem supra quod Deus in hac vita non potest a nobis videri per suam essentiam; sed cognoscitur a nobis ex creaturis, secundum habitudinem principii, et per modum excellentiae et remotionis. Sic igitur potest nominari a nobis ex creaturis, non tamen ita quod nomen significans ipsum, exprimat divinam essentiam secundum quod est, sicut hoc nomen homo exprimit sua significatione essentiam hominis secundum quod est, significat enim eius definitionem, declarantem eius essentiam; ratio enim quam significat nomen, est definitio.

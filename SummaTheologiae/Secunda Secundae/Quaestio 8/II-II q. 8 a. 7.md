@@ -4,7 +4,7 @@
 Ad septimum sic proceditur. Videtur quod dono intellectus non respondeat beatitudo sexta, scilicet, *beati mundo corde, quoniam ipsi Deum videbunt*. Munditia enim cordis maxime videtur pertinere ad affectum. Sed donum intellectus non pertinet ad affectum, sed magis ad vim intellectivam. Ergo praedicta beatitudo non respondet dono intellectus.
 
 ###### arg. 2
-Praeterea, Act. XV dicitur, *fide purificans corda eorum*. Sed per purificationem cordis acquiritur munditia cordis. Ergo praedicta beatitudo magis pertinet ad virtutem fidei quam ad donum intellectus.
+Praeterea, [[Ac 15]] dicitur, *fide purificans corda eorum*. Sed per purificationem cordis acquiritur munditia cordis. Ergo praedicta beatitudo magis pertinet ad virtutem fidei quam ad donum intellectus.
 
 ###### arg. 3
 Praeterea, dona spiritus sancti perficiunt hominem in praesenti vita. Sed visio Dei non pertinet ad vitam praesentem, ipsa enim beatos facit, ut supra habitum est. Ergo sexta beatitudo, continens Dei visionem, non pertinet ad donum intellectus.

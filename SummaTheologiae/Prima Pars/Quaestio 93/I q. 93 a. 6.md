@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod imago Dei non sit in homine solum secundum mentem. Dicit enim apostolus, I ad Cor. XI, quod vir est imago Dei. Sed vir non est solum mens. Ergo imago Dei non attenditur solum secundum mentem.
 
 ###### arg. 2
-Praeterea, Gen. I, *creavit Deus hominem ad imaginem suam, ad imaginem Dei creavit illum, masculum et feminam creavit eos*. Sed distinctio masculi et feminae est secundum corpus. Ergo etiam secundum corpus attenditur Dei imago in homine, et non secundum mentem tantum.
+Praeterea, [[Gn 1]], *creavit Deus hominem ad imaginem suam, ad imaginem Dei creavit illum, masculum et feminam creavit eos*. Sed distinctio masculi et feminae est secundum corpus. Ergo etiam secundum corpus attenditur Dei imago in homine, et non secundum mentem tantum.
 
 ###### arg. 3
 Praeterea, imago praecipue videtur attendi secundum figuram. Sed figura ad corpus pertinet. Ergo imago Dei attenditur in homine etiam secundum corpus, et non secundum mentem tantum.

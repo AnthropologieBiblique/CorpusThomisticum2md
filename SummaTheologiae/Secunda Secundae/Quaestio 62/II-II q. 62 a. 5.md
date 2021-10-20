@@ -16,7 +16,7 @@ Praeterea, magis debet homo recompensare ei a quo maius beneficium accepit. Sed 
 Praeterea, vanum est restituere illud quod ad manum restituentis per restitutionem pervenit. Sed si praelatus iniuste aliquid Ecclesiae subtraxit et ei restituat, ad manus eius deveniet, quia ipse est rerum Ecclesiae conservator. Ergo non debet restituere Ecclesiae a qua abstulit. Et sic non semper restituendum est ei a quo est ablatum.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. XIII, *reddite omnibus debita, cui tributum, tributum; cui vectigal, vectigal*.
+Sed contra est quod dicitur [[Rm 13]], *reddite omnibus debita, cui tributum, tributum; cui vectigal, vectigal*.
 
 ###### co.
 Respondeo dicendum quod per restitutionem fit reductio ad aequalitatem commutativae iustitiae, quae consistit in rerum adaequatione, sicut dictum est. Huiusmodi autem rerum adaequatio fieri non posset nisi ei qui minus habet quam quod suum est, suppleretur quod deest. Et ad hanc suppletionem faciendam necesse est ut ei fiat restitutio a quo acceptum est.

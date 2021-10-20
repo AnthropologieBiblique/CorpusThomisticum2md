@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod desperatio ex acedia non oriatur. Idem enim non procedit ex diversis causis. Desperatio autem futuri saeculi procedit ex luxuria; ut dicit Gregorius, XXXI Moral. Non ergo procedit ex acedia.
 
 ###### arg. 2
-Praeterea, sicut spei opponitur desperatio, ita gaudio spirituali opponitur acedia. Sed gaudium spirituale procedit ex spe, secundum illud Rom. XII, *spe gaudentes*. Ergo acedia procedit ex desperatione, et non e converso.
+Praeterea, sicut spei opponitur desperatio, ita gaudio spirituali opponitur acedia. Sed gaudium spirituale procedit ex spe, secundum illud [[Rm 12]], *spe gaudentes*. Ergo acedia procedit ex desperatione, et non e converso.
 
 ###### arg. 3
 Praeterea, contrariorum contrariae sunt causae. Sed spes, cui opponitur desperatio, videtur procedere ex consideratione divinorum beneficiorum, et maxime ex consideratione incarnationis, dicit enim Augustinus, XII de Trin., *nihil tam necessarium fuit ad erigendum spem nostram quam ut demonstraretur nobis quantum nos Deus diligeret. Quid vero huius rei isto indicio manifestius, quam quod Dei filius naturae nostrae dignatus est inire consortium?* Ergo desperatio magis procedit ex negligentia huius considerationis quam ex acedia.

@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod fides non sit prima inter virtutes. Dicitur enim Luc. XII, in Glossa super illud, dico vobis amicis meis, quod fortitudo est fidei fundamentum. Sed fundamentum est prius eo cuius est fundamentum. Ergo fides non est prima virtus.
+Ad septimum sic proceditur. Videtur quod fides non sit prima inter virtutes. Dicitur enim [[Lc 12]], in Glossa super illud, dico vobis amicis meis, quod fortitudo est fidei fundamentum. Sed fundamentum est prius eo cuius est fundamentum. Ergo fides non est prima virtus.
 
 ###### arg. 2
 Praeterea, quaedam Glossa dicit, super illum Psalmum, noli aemulari, quod spes introducit ad fidem. Spes autem est virtus quaedam, ut infra dicetur. Ergo fides non est prima virtutum.
@@ -31,7 +31,7 @@ Ad secundum dicendum quod spes non potest universaliter introducere ad fidem. No
 Ad tertium dicendum quod obedientia dupliciter dicitur. Quandoque enim importat inclinationem voluntatis ad implendum divina mandata. Et sic non est specialis virtus, sed generaliter includitur in omni virtute, quia omnes actus virtutum cadunt sub praeceptis legis divinae, ut supra dictum est. Et hoc modo ad fidem requiritur obedientia. Alio modo potest accipi obedientia secundum quod importat inclinationem quandam ad implendam mandata secundum quod habent rationem debiti. Et sic obedientia est specialis virtus, et est pars iustitiae, reddit enim superiori debitum obediendo sibi. Et hoc modo obedientia sequitur fidem, per quam manifestatur homini quod Deus sit superior, cui debeat obedire.
 
 ###### ad 4
-Ad quartum dicendum quod ad rationem fundamenti non solum requiritur quod sit primum, sed etiam quod sit aliis partibus aedificii connexum, non enim esset fundamentum nisi ei aliae partes aedificii cohaererent. Connexio autem spiritualis aedificii est per caritatem, secundum illud Coloss. III, *super omnia caritatem habete, quae est vinculum perfectionis*. Et ideo fides sine caritate fundamentum esse non potest, nec tamen oportet quod caritas sit prior fide.
+Ad quartum dicendum quod ad rationem fundamenti non solum requiritur quod sit primum, sed etiam quod sit aliis partibus aedificii connexum, non enim esset fundamentum nisi ei aliae partes aedificii cohaererent. Connexio autem spiritualis aedificii est per caritatem, secundum illud [[Col 3]], *super omnia caritatem habete, quae est vinculum perfectionis*. Et ideo fides sine caritate fundamentum esse non potest, nec tamen oportet quod caritas sit prior fide.
 
 ###### ad 5
 Ad quintum dicendum quod actus voluntatis praeexigitur ad fidem, non tamen actus voluntatis caritate informatus, sed talis actus praesupponit fidem, quia non potest voluntas perfecto amore in Deum tendere nisi intellectus rectam fidem habeat circa ipsum.

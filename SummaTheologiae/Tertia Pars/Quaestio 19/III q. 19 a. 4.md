@@ -1,16 +1,16 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod Christus aliis mereri non potuit. Dicitur enim Ezech. XVIII, *anima quae peccaverit ipsa morietur*. Ergo, pari ratione, anima quae meretur ipsa remunerabitur. Non est ergo possibile quod Christus aliis meruerit.
+Ad quartum sic proceditur. Videtur quod Christus aliis mereri non potuit. Dicitur enim [[Ez 18]], *anima quae peccaverit ipsa morietur*. Ergo, pari ratione, anima quae meretur ipsa remunerabitur. Non est ergo possibile quod Christus aliis meruerit.
 
 ###### arg. 2
-Praeterea, de plenitudine gratiae Christi omnes accipiunt, ut dicitur Ioan. I. Sed alii homines, habentes gratiam Christi, non possunt aliis mereri, dicitur enim Ezech. XIV quod, *si fuerint in civitate Noe, Daniel et Iob, filium et filiam non liberabunt, sed ipsi iustitia sua liberabunt animas suas*. Ergo nec Christus potuit aliquid nobis mereri.
+Praeterea, de plenitudine gratiae Christi omnes accipiunt, ut dicitur [[Jn 1]]. Sed alii homines, habentes gratiam Christi, non possunt aliis mereri, dicitur enim [[Ez 14]] quod, *si fuerint in civitate Noe, Daniel et Iob, filium et filiam non liberabunt, sed ipsi iustitia sua liberabunt animas suas*. Ergo nec Christus potuit aliquid nobis mereri.
 
 ###### arg. 3
-Praeterea, merces quam quis meretur, debetur secundum iustitiam, et non secundum gratiam, ut patet Rom. IV. Si ergo Christus meruit salutem nostram, sequitur quod salus nostra non sit ex gratia Dei, sed ex iustitia, et quod iniuste agat cum eis quos non salvat, cum meritum Christi ad omnes se extendat.
+Praeterea, merces quam quis meretur, debetur secundum iustitiam, et non secundum gratiam, ut patet [[Rm 4]]. Si ergo Christus meruit salutem nostram, sequitur quod salus nostra non sit ex gratia Dei, sed ex iustitia, et quod iniuste agat cum eis quos non salvat, cum meritum Christi ad omnes se extendat.
 
 ###### s. c.
-Sed contra est quod dicitur Rom. V, *sicut per unius delictum in omnes homines in condemnationem, sic et per unius iustitiam in omnes homines in iustificationem vitae*. Sed demeritum Adae derivatur ad condemnationem aliorum. Ergo multo magis meritum Christi ad alios derivatur.
+Sed contra est quod dicitur [[Rm 5]], *sicut per unius delictum in omnes homines in condemnationem, sic et per unius iustitiam in omnes homines in iustificationem vitae*. Sed demeritum Adae derivatur ad condemnationem aliorum. Ergo multo magis meritum Christi ad alios derivatur.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, in Christo non solum fuit gratia sicut in quodam homine singulari, sed sicut in capite totius Ecclesiae, cui omnes uniuntur sicut capiti membra, ex quibus constituitur mystice una persona. Et exinde est quod meritum Christi se extendit ad alios, inquantum sunt membra eius, sicut etiam in uno homine actio capitis aliqualiter pertinet ad omnia membra eius, quia non solum sibi sentit, sed omnibus membris.

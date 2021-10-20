@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod caritas non sit ex caritate diligenda. Ea enim quae sunt ex caritate diligenda, duobus praeceptis caritatis concluduntur, ut patet Matth. XXII. Sed sub neutro eorum caritas continetur, quia nec caritas est Deus nec est proximus. Ergo caritas non est ex caritate diligenda.
+Ad secundum sic proceditur. Videtur quod caritas non sit ex caritate diligenda. Ea enim quae sunt ex caritate diligenda, duobus praeceptis caritatis concluduntur, ut patet [[Mt 22]]. Sed sub neutro eorum caritas continetur, quia nec caritas est Deus nec est proximus. Ergo caritas non est ex caritate diligenda.
 
 ###### arg. 2
 Praeterea, caritas fundatur super communicatione beatitudinis, ut supra dictum est. Sed caritas non potest esse particeps beatitudinis. Ergo caritas non est ex caritate diligenda.

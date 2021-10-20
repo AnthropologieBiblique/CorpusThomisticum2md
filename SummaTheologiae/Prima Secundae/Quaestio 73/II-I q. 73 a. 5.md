@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod peccata carnalia non sint minoris culpae quam peccata spiritualia. Adulterium enim gravius peccatum est quam furtum, dicitur enim Prov. VI, *non grandis est culpae cum quis furatus fuerit. Qui autem adulter est, propter cordis inopiam perdet animam suam*. Sed furtum pertinet ad avaritiam, quae est peccatum spirituale; adulterium autem ad luxuriam, quae est peccatum carnale. Ergo peccata carnalia sunt maioris culpae.
+Ad quintum sic proceditur. Videtur quod peccata carnalia non sint minoris culpae quam peccata spiritualia. Adulterium enim gravius peccatum est quam furtum, dicitur enim [[Pr 6]], *non grandis est culpae cum quis furatus fuerit. Qui autem adulter est, propter cordis inopiam perdet animam suam*. Sed furtum pertinet ad avaritiam, quae est peccatum spirituale; adulterium autem ad luxuriam, quae est peccatum carnale. Ergo peccata carnalia sunt maioris culpae.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, super Levit., quod Diabolus maxime gaudet de peccato luxuriae et idololatriae. Sed de maiori culpa magis gaudet. Ergo, cum luxuria sit peccatum carnale, videtur quod peccata carnalia sint maximae culpae.

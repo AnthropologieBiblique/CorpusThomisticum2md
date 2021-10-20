@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod corpus Christi non fuerit formatum in primo instanti conceptionis. Dicitur enim Ioan. II, *quadraginta et sex annis aedificatum est templum hoc*, quod exponens Augustinus, in IV de Trin., dicit, *hic numerus perfectioni dominici corporis aperte congruit*. Et in libro octoginta trium quaest. dicit, *non absurde quadraginta sex annis dicitur fabricatum esse templum, quod corpus eius figurabat, ut, quot anni fuerunt in fabricatione templi, tot dies fuerint in corporis dominici perfectione*. Non ergo in primo instanti conceptionis corpus Christi fuit perfecte formatum.
+Ad primum sic proceditur. Videtur quod corpus Christi non fuerit formatum in primo instanti conceptionis. Dicitur enim [[Jn 2]], *quadraginta et sex annis aedificatum est templum hoc*, quod exponens Augustinus, in IV de Trin., dicit, *hic numerus perfectioni dominici corporis aperte congruit*. Et in libro octoginta trium quaest. dicit, *non absurde quadraginta sex annis dicitur fabricatum esse templum, quod corpus eius figurabat, ut, quot anni fuerunt in fabricatione templi, tot dies fuerint in corporis dominici perfectione*. Non ergo in primo instanti conceptionis corpus Christi fuit perfecte formatum.
 
 ###### arg. 2
 Praeterea, ad formationem corporis Christi requirebatur motus localis, quo purissimi sanguines de corpore virginis ad locum congruum generationi pervenirent. Nullum autem corpus potest moveri localiter in instanti, eo quod tempus motus dividitur secundum divisionem mobilis, ut probatur in VI Physic. Ergo corpus Christi non fuit in instanti formatum.
@@ -10,7 +10,7 @@ Praeterea, ad formationem corporis Christi requirebatur motus localis, quo puris
 Praeterea, corpus Christi formatum est ex purissimis sanguinibus virginis, ut supra habitum est. Non autem potuit esse materia illa in eodem instanti sanguis et caro, quia sic materia simul fuisset sub duabus formis. Ergo aliud fuit instans in quo ultimo fuit sanguis, et aliud in quo primo fuit caro formata. Sed inter quaelibet duo instantia est tempus medium. Ergo corpus Christi non fuit in instanti formatum, sed per aliquod tempus.
 
 ###### arg. 4
-Praeterea, sicut potentia augmentativa requirit determinatum tempus in suo actu, ita etiam virtus generativa, utraque enim est potentia naturalis ad vegetabilem animam pertinens. Sed corpus Christi fuit determinato tempore augmentatum, sicut et aliorum hominum corpora, dicitur enim Luc. II, quod *proficiebat aetate et sapientia*. Ergo videtur quod, pari ratione, formatio corporis eius, quae pertinet ad vim generativam, non fuerit in instanti, sed determinato tempore quo aliorum hominum corpora formantur.
+Praeterea, sicut potentia augmentativa requirit determinatum tempus in suo actu, ita etiam virtus generativa, utraque enim est potentia naturalis ad vegetabilem animam pertinens. Sed corpus Christi fuit determinato tempore augmentatum, sicut et aliorum hominum corpora, dicitur enim [[Lc 2]], quod *proficiebat aetate et sapientia*. Ergo videtur quod, pari ratione, formatio corporis eius, quae pertinet ad vim generativam, non fuerit in instanti, sed determinato tempore quo aliorum hominum corpora formantur.
 
 ###### s. c.
 Sed contra est quod Gregorius dicit, XVIII Moral., *Angelo nuntiante, et spiritu adveniente, mox verbum in utero, mox intra uterum verbum caro*.

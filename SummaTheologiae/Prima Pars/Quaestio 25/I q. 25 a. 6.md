@@ -13,7 +13,7 @@ Praeterea, id quod est maxime et valde bonum, non potest melius fieri, quia maxi
 Praeterea, homo Christus est plenus gratia et veritate, et spiritum habet non ad mensuram, et sic non potest esse melior. Beatitudo etiam creata dicitur esse summum bonum, et sic non potest esse melius. Beata etiam virgo Maria est super omnes choros Angelorum exaltata, et sic non potest esse melior. Non igitur omnia quae fecit Deus, potest facere meliora.
 
 ###### s. c.
-Sed contra est quod dicitur ad Ephes. III, quod *Deus potens est omnia facere abundantius quam petimus aut intelligimus*.
+Sed contra est quod dicitur ad [[Ep 3]], quod *Deus potens est omnia facere abundantius quam petimus aut intelligimus*.
 
 ###### co.
 Respondeo dicendum quod bonitas alicuius rei est duplex. Una quidem, quae est de essentia rei; sicut esse rationale est de essentia hominis. Et quantum ad hoc bonum, Deus non potest facere aliquam rem meliorem quam ipsa sit, licet possit facere aliquam aliam ea meliorem. Sicut etiam non potest facere quaternarium maiorem, quia, si esset maior, iam non esset quaternarius, sed alius numerus. Sic enim se habet additio differentiae substantialis in definitionibus, sicut additio unitatis in numeris, ut dicitur in VIII Metaphys. Alia bonitas est, quae est extra essentiam rei; sicut bonum hominis est esse virtuosum vel sapientem. Et secundum tale bonum, potest Deus res a se factas facere meliores. Simpliciter autem loquendo, qualibet re a se facta potest Deus facere aliam meliorem.

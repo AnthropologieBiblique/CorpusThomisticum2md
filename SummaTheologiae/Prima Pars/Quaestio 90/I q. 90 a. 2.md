@@ -10,7 +10,7 @@ Praeterea, omnis actus materiae alicuius videtur educi de potentia materiae, cum
 Praeterea, anima est forma quaedam. Si igitur anima fit per creationem, pari ratione omnes aliae formae. Et sic nulla forma exibit in esse per generationem. Quod est inconveniens.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. I, *creavit Deus hominem ad imaginem suam*. Est autem homo ad imaginem Dei secundum animam. Ergo anima exivit in esse per creationem.
+Sed contra est quod dicitur [[Gn 1]], *creavit Deus hominem ad imaginem suam*. Est autem homo ad imaginem Dei secundum animam. Ergo anima exivit in esse per creationem.
 
 ###### co.
 Respondeo dicendum quod anima rationalis non potest fieri nisi per creationem, quod non est verum de aliis formis. Cuius ratio est quia, cum fieri sit via ad esse, hoc modo alicui competit fieri, sicut ei competit esse. Illud autem proprie dicitur esse, quod ipsum habet esse, quasi in suo esse subsistens, unde solae substantiae proprie et vere dicuntur entia. Accidens vero non habet esse, sed eo aliquid est, et hac ratione ens dicitur; sicut albedo dicitur ens, quia ea aliquid est album. Et propter hoc dicitur in VII Metaphys., quod accidens dicitur magis entis quam ens. Et eadem ratio est de omnibus aliis formis non subsistentibus. Et ideo nulli formae non subsistenti proprie competit fieri, sed dicuntur fieri per hoc quod composita subsistentia fiunt. Anima autem rationalis est forma subsistens, ut supra habitum est. Unde sibi proprie competit esse et fieri. Et quia non potest fieri ex materia praeiacente, neque corporali, quia sic esset naturae corporeae; neque spirituali, quia sic substantiae spirituales in invicem transmutarentur, necesse est dicere quod non fiat nisi per creationem.

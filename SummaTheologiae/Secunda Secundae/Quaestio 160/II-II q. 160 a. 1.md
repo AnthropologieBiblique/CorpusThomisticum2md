@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod modestia non sit pars temperantiae. Modes
 Praeterea, laus temperantiae praecipue videtur consistere ex quadam moderatione. Ab hac autem sumitur nomen modestiae. Ergo modestia est idem quod temperantia, et non pars eius.
 
 ###### arg. 3
-Praeterea, modestia videtur consistere circa proximorum correctionem, secundum illud II ad Tim. II, *servum Dei non oportet litigare, sed mansuetum esse ad omnes, cum modestia corripientem eos qui resistunt veritati*. Sed correctio delinquentium est actus iustitiae vel caritatis, ut supra habitum est. Ergo videtur quod modestia magis sit pars iustitiae quam temperantiae.
+Praeterea, modestia videtur consistere circa proximorum correctionem, secundum illud [[2 Tm 2]], *servum Dei non oportet litigare, sed mansuetum esse ad omnes, cum modestia corripientem eos qui resistunt veritati*. Sed correctio delinquentium est actus iustitiae vel caritatis, ut supra habitum est. Ergo videtur quod modestia magis sit pars iustitiae quam temperantiae.
 
 ###### s. c.
 Sed contra est quod Tullius ponit modestiam partem temperantiae.

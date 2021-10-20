@@ -1,7 +1,7 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod hora nona non convenienter taxetur ad comedendum, his qui ieiunant. Status enim novi testamenti est perfectior quam status veteris testamenti. Sed in veteri testamento ieiunabant usque ad vesperam, dicitur enim Levit. XXIII, *sabbatum est, affligetis animas vestras*; et postea sequitur, *a vespere usque ad vesperam celebrabitis sabbata vestra*. Ergo multo magis in novo testamento ieiunium debet indici usque ad vesperam.
+Ad septimum sic proceditur. Videtur quod hora nona non convenienter taxetur ad comedendum, his qui ieiunant. Status enim novi testamenti est perfectior quam status veteris testamenti. Sed in veteri testamento ieiunabant usque ad vesperam, dicitur enim [[Lv 23]], *sabbatum est, affligetis animas vestras*; et postea sequitur, *a vespere usque ad vesperam celebrabitis sabbata vestra*. Ergo multo magis in novo testamento ieiunium debet indici usque ad vesperam.
 
 ###### arg. 2
 Praeterea, ieiunium ab Ecclesia institutum omnibus imponitur. Sed non omnes possunt determinate cognoscere horam nonam. Ergo videtur quod taxatio horae nonae non debeat cadere sub statuto ieiunii.
@@ -16,7 +16,7 @@ Sed contra est quod Concilium Cabillonense dicit, *in Quadragesima nullatenus cr
 Respondeo dicendum quod, sicut dictum est, ieiunium ordinatur ad deletionem et cohibitionem culpae. Unde oportet quod aliquid addat supra communem consuetudinem, ita tamen quod per hoc non multum natura gravetur. Est autem debita et communis consuetudo comedendi hominibus circa horam sextam, tum quia iam videtur esse completa digestio, nocturno tempore naturali calore interius revocato propter frigus noctis circumstans, et diffusio humoris per membra, cooperante ad hoc calore diei usque ad summum solis ascensum; tum etiam quia tunc praecipue natura corporis humani indiget iuvari contra exteriorem aeris calorem, ne humores interius adurantur. Et ideo, ut ieiunans aliquam afflictionem sentiat pro culpae satisfactione, conveniens hora comedendi taxatur ieiunantibus circa nonam. Convenit etiam ista hora mysterio passionis Christi, quae completa fuit hora nona, quando, inclinato capite, tradidit spiritum. Ieiunantes enim, dum suam carnem affligunt, passioni Christi conformantur, secundum illud Galat. V, *qui Christi sunt, carnem suam crucifixerunt, cum vitiis et concupiscentiis*.
 
 ###### ad 1
-Ad primum ergo dicendum quod status veteris testamenti comparatur nocti, status vero novi testamenti diei, secundum illud Rom. XIII, *nox praecessit, dies autem appropinquavit*. Et ideo in veteri testamento ieiunabant usque ad noctem, non autem in novo testamento.
+Ad primum ergo dicendum quod status veteris testamenti comparatur nocti, status vero novi testamenti diei, secundum illud [[Rm 13]], *nox praecessit, dies autem appropinquavit*. Et ideo in veteri testamento ieiunabant usque ad noctem, non autem in novo testamento.
 
 ###### ad 2
 Ad secundum dicendum quod ad ieiunium requiritur hora determinata non secundum subtilem examinationem, sed secundum grossam aestimationem, sufficit enim quod sit circa horam nonam. Et hoc de facili quilibet cognoscere potest.

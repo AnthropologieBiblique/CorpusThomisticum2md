@@ -7,7 +7,7 @@ Ad primum sic proceditur. Videtur quod vita non convenienter dividatur per activ
 Praeterea, inconvenienter dividitur prius per differentias posterioris. Activum autem et contemplativum, sive speculativum et practicum, sunt differentiae intellectus, ut patet in III de anima. Vivere autem est prius quam intelligere, nam vivere inest viventibus primo secundum animam vegetabilem, ut patet per philosophum, in II de anima. Ergo inconvenienter dividitur vita per activam et contemplativam.
 
 ###### arg. 3
-Praeterea, nomen vitae importat motum, ut patet per Dionysium, VI cap. de Div. Nom. Sed contemplatio consistit magis in quiete, secundum illud Sap. VIII, *intrans in domum meam, conquiescam cum illa*. Ergo videtur quod vita non convenienter dividatur per activam et contemplativam.
+Praeterea, nomen vitae importat motum, ut patet per Dionysium, VI cap. de Div. Nom. Sed contemplatio consistit magis in quiete, secundum illud [[Sg 8]], *intrans in domum meam, conquiescam cum illa*. Ergo videtur quod vita non convenienter dividatur per activam et contemplativam.
 
 ###### s. c.
 Sed contra est quod Gregorius, super Ezech., dicit, *duae sunt vitae in quibus nos omnipotens Deus per sacrum eloquium erudit, activa videlicet et contemplativa*.

@@ -10,7 +10,7 @@ Praeterea, in plantis non sunt de viribus animae nisi nutritiva et augmentativa 
 Praeterea, quicumque dominatur alicui rei, potest illam rem mutare. Sed homo non potuisset mutare cursum caelestium corporum, hoc enim solius Dei est, ut Dionysius dicit in epistola ad Polycarpum. Ergo non dominabatur eis.
 
 ###### s. c.
-Sed contra est quod dicitur Gen. I, de homine, *praesit universae creaturae*.
+Sed contra est quod dicitur [[Gn 1]], de homine, *praesit universae creaturae*.
 
 ###### co.
 Respondeo dicendum quod in homine quodammodo sunt omnia, et ideo secundum modum quo dominatur his quae in seipso sunt, secundum hunc modum competit ei dominari aliis. Est autem in homine quatuor considerare, scilicet rationem, secundum quam convenit cum Angelis; vires sensitivas, secundum quas convenit cum animalibus; vires naturales, secundum quas convenit cum plantis; et ipsum corpus, secundum quod convenit cum rebus inanimatis. Ratio autem in homine habet locum dominantis, et non subiecti dominio. Unde homo Angelis non dominabatur in primo statu, et quod dicitur omni creaturae, intelligitur quae non est ad imaginem Dei. Viribus autem sensitivis, sicut irascibili et concupiscibili, quae aliqualiter obediunt rationi, dominatur anima imperando. Unde et in statu innocentiae animalibus aliis per imperium dominabatur. Viribus autem naturalibus, et ipsi corpori, homo dominatur non quidem imperando, sed utendo. Et sic etiam homo in statu innocentiae dominabatur plantis et rebus inanimatis, non per imperium vel immutationem, sed absque impedimento utendo eorum auxilio.

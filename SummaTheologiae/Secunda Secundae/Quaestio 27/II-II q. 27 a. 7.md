@@ -1,13 +1,13 @@
 ### Articulus 7
 
 ###### arg. 1
-Ad septimum sic proceditur. Videtur quod magis meritorium sit diligere inimicum quam amicum. Dicitur enim Matth. V, *si diligitis eos qui vos diligunt, quam mercedem habebitis?* Diligere ergo amicum non meretur mercedem. Sed diligere inimicum meretur mercedem, ut ibidem ostenditur. Ergo magis est meritorium diligere inimicos quam diligere amicos.
+Ad septimum sic proceditur. Videtur quod magis meritorium sit diligere inimicum quam amicum. Dicitur enim [[Mt 5]], *si diligitis eos qui vos diligunt, quam mercedem habebitis?* Diligere ergo amicum non meretur mercedem. Sed diligere inimicum meretur mercedem, ut ibidem ostenditur. Ergo magis est meritorium diligere inimicos quam diligere amicos.
 
 ###### arg. 2
 Praeterea, tanto aliquid est magis meritorium quanto ex maiori caritate procedit. Sed diligere inimicum est perfectorum filiorum Dei, ut Augustinus dicit, in Enchirid., diligere autem amicum est etiam caritatis imperfectae. Ergo maioris meriti est diligere inimicum quam diligere amicum.
 
 ###### arg. 3
-Praeterea, ubi est maior conatus ad bonum, ibi videtur esse maius meritum, *quia unusquisque propriam mercedem accipiet secundum suum laborem*, ut dicitur I Cor. III. Sed maiori conatu indiget homo ad hoc quod diligat inimicum quam ad hoc quod diligat amicum, quia difficilius est. Ergo videtur quod diligere inimicum sit magis meritorium quam diligere amicum.
+Praeterea, ubi est maior conatus ad bonum, ibi videtur esse maius meritum, *quia unusquisque propriam mercedem accipiet secundum suum laborem*, ut dicitur [[1 Co 3]]. Sed maiori conatu indiget homo ad hoc quod diligat inimicum quam ad hoc quod diligat amicum, quia difficilius est. Ergo videtur quod diligere inimicum sit magis meritorium quam diligere amicum.
 
 ###### s. c.
 Sed contra est quia illud quod est melius est magis meritorium. Sed melius est diligere amicum, quia melius est diligere meliorem; amicus autem, qui amat, est melior quam inimicus, qui odit. Ergo diligere amicum est magis meritorium quam diligere inimicum.

@@ -1,22 +1,22 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod Christus descenderit etiam ad Infernum damnatorum. Dicitur enim ex ore divinae sapientiae, Eccli. XXIV, *penetrabo omnes inferiores partes terrae*. Sed inter partes inferiores terrae computatur etiam Infernus damnatorum, secundum illud Psalmi, *introibunt in inferiora terrae*. Ergo Christus, qui est Dei sapientia, etiam usque ad Infernum damnatorum descendit.
+Ad secundum sic proceditur. Videtur quod Christus descenderit etiam ad Infernum damnatorum. Dicitur enim ex ore divinae sapientiae, [[Si 24]], *penetrabo omnes inferiores partes terrae*. Sed inter partes inferiores terrae computatur etiam Infernus damnatorum, secundum illud Psalmi, *introibunt in inferiora terrae*. Ergo Christus, qui est Dei sapientia, etiam usque ad Infernum damnatorum descendit.
 
 ###### arg. 2
-Praeterea, Act. II dicit Petrus quod *Deus Christum suscitavit, solutis doloribus Inferni, iuxta quod impossibile erat teneri illum ab eo*. Sed dolores non sunt in Inferno patrum, neque etiam in Inferno puerorum, qui non puniuntur poena sensus propter peccatum actuale, sed solum poena damni propter peccatum originale. Ergo Christus descendit in Infernum damnatorum, vel etiam in Purgatorium, ubi homines puniuntur poena sensus pro peccatis actualibus.
+Praeterea, [[Ac 2]] dicit Petrus quod *Deus Christum suscitavit, solutis doloribus Inferni, iuxta quod impossibile erat teneri illum ab eo*. Sed dolores non sunt in Inferno patrum, neque etiam in Inferno puerorum, qui non puniuntur poena sensus propter peccatum actuale, sed solum poena damni propter peccatum originale. Ergo Christus descendit in Infernum damnatorum, vel etiam in Purgatorium, ubi homines puniuntur poena sensus pro peccatis actualibus.
 
 ###### arg. 3
-Praeterea, I Pet. III dicitur quod *Christus his qui in carcere conclusi erant, spiritu veniens praedicavit, qui increduli fuerant aliquando*, quod, sicut Athanasius dicit, in epistola ad Epictetum, intelligitur de descensu Christi ad Inferos. Dicit enim quod *corpus Christi fuit in sepulcro positum, quando ipse perrexit praedicare his qui in custodia erant spiritibus, sicut dixit Petrus*. Constat autem quod increduli erant in Inferno damnatorum. Ergo Christus ad Infernum damnatorum descendit.
+Praeterea, [[1 P 3]] dicitur quod *Christus his qui in carcere conclusi erant, spiritu veniens praedicavit, qui increduli fuerant aliquando*, quod, sicut Athanasius dicit, in epistola ad Epictetum, intelligitur de descensu Christi ad Inferos. Dicit enim quod *corpus Christi fuit in sepulcro positum, quando ipse perrexit praedicare his qui in custodia erant spiritibus, sicut dixit Petrus*. Constat autem quod increduli erant in Inferno damnatorum. Ergo Christus ad Infernum damnatorum descendit.
 
 ###### arg. 4
 Praeterea, Augustinus dicit, in epistola ad Evodium, *si in illum Abrahae sinum Christum mortuum venisse sacra Scriptura dixisset non nominato Inferno eiusque doloribus, miror si quisquam eum ad Inferos descendisse asserere auderet. Sed quia evidentia testimonia et Infernum commemorant et dolores, nulla causa occurrit cur illo credatur venisse salvator, nisi ut ab eisdem doloribus salvos faceret*. Sed locus dolorum est Infernus damnatorum. Ergo Christus in Infernum damnatorum descendit.
 
 ###### arg. 5
-Praeterea, sicut Augustinus dicit, in quodam sermone de passione, Christus ad Infernum descendens *omnes iustos qui originali peccato adstricti tenebantur, absolvit*. Sed inter illos erat etiam Iob, qui de seipso dicit, Iob XVII, *in profundissima Inferni descendent omnia mea*. Ergo Christus etiam usque ad profundissimum Inferni descendit.
+Praeterea, sicut Augustinus dicit, in quodam sermone de passione, Christus ad Infernum descendens *omnes iustos qui originali peccato adstricti tenebantur, absolvit*. Sed inter illos erat etiam Iob, qui de seipso dicit, [[Jb 17]], *in profundissima Inferni descendent omnia mea*. Ergo Christus etiam usque ad profundissimum Inferni descendit.
 
 ###### s. c.
-Sed contra est quod de Inferno damnatorum dicitur, Iob X, *antequam vadam, et non revertar, ad terram tenebrosam et opertam mortis caligine,* et cetera. Nulla autem est conventio lucis ad tenebras, ut dicitur II Cor. VI. Ergo Christus, qui est lux, ad illum Infernum damnatorum non descendit.
+Sed contra est quod de Inferno damnatorum dicitur, [[Jb 10]], *antequam vadam, et non revertar, ad terram tenebrosam et opertam mortis caligine,* et cetera. Nulla autem est conventio lucis ad tenebras, ut dicitur [[2 Co 6]]. Ergo Christus, qui est lux, ad illum Infernum damnatorum non descendit.
 
 ###### co.
 Respondeo dicendum quod dupliciter dicitur aliquid alicubi esse. Uno modo, per suum effectum. Et hoc modo Christus in quemlibet Infernum descendit, aliter tamen et aliter. Nam in Infernum damnatorum habuit hunc effectum quod, descendens ad Inferos, eos de sua incredulitate et malitia confutavit. Illis vero qui detinebantur in Purgatorio, spem gloriae consequendae dedit. Sanctis autem patribus, qui pro solo peccato originali detinebantur in Inferno, lumen aeternae gloriae infudit. Alio modo dicitur aliquid esse alicubi per suam essentiam. Et hoc modo anima Christi descendit solum ad locum Inferni in quo iusti detinebantur, ut quos ipse per gratiam interius visitabat secundum divinitatem, eos etiam secundum animam visitaret et loco. Sic autem in una parte Inferni existens, effectum suum aliqualiter ad omnes Inferni partes derivavit, sicut, in uno loco terrae passus, totum mundum sua passione liberavit.

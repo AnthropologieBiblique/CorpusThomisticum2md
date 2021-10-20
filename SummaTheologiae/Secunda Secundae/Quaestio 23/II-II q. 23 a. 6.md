@@ -4,7 +4,7 @@
 Ad sextum sic proceditur. Videtur quod caritas non sit excellentissima virtutum. Altioris enim potentiae altior est virtus, sicut et altior operatio. Sed intellectus est altior voluntate, et dirigit ipsam. Ergo fides, quae est in intellectu, est excellentior caritate, quae est in voluntate.
 
 ###### arg. 2
-Praeterea, illud per quod aliud operatur, videtur eo esse inferius, sicut minister, per quem dominus aliquid operatur, est inferior domino. *Sed fides per dilectionem operatur*, ut habetur ad Gal. V. Ergo fides est excellentior caritate.
+Praeterea, illud per quod aliud operatur, videtur eo esse inferius, sicut minister, per quem dominus aliquid operatur, est inferior domino. *Sed fides per dilectionem operatur*, ut habetur ad [[Ga 5]]. Ergo fides est excellentior caritate.
 
 ###### arg. 3
 Praeterea, illud quod se habet ex additione ad aliud, videtur esse perfectius. Sed spes videtur se habere ex additione ad caritatem, nam caritatis obiectum est bonum, spei autem obiectum est bonum arduum. Ergo spes est excellentior caritate.

@@ -10,7 +10,7 @@ Praeterea, ille videtur esse prudens qui sibi ipsi bonum quaerit et operatur. Se
 Praeterea, prudentia dividitur contra temperantiam et fortitudinem. Sed temperantia et fortitudo videntur dici solum per comparationem ad bonum proprium. Ergo etiam et prudentia.
 
 ###### s. c.
-Sed contra est quod dominus dicit, Matth. XXIV, *quis, putas, est fidelis servus et prudens, quem constituit dominus super familiam suam?*
+Sed contra est quod dominus dicit, [[Mt 24]], *quis, putas, est fidelis servus et prudens, quem constituit dominus super familiam suam?*
 
 ###### co.
 Respondeo dicendum quod, sicut philosophus dicit, in VI Ethic., quidam posuerunt quod prudentia non se extendit ad bonum commune, sed solum ad bonum proprium. Et hoc ideo quia existimabant quod non oportet hominem quaerere nisi bonum proprium. Sed haec aestimatio repugnat caritati, quae non quaerit quae sua sunt, ut dicitur I ad Cor. XIII. Unde et apostolus de seipso dicit, I ad Cor. X, *non quaerens quod mihi utile sit, sed quod multis, ut salvi fiant*. Repugnat etiam rationi rectae, quae hoc iudicat, quod bonum commune sit melius quam bonum unius. Quia igitur ad prudentiam pertinet recte consiliari, iudicare et praecipere de his per quae pervenitur ad debitum finem, manifestum est quod prudentia non solum se habet ad bonum privatum unius hominis, sed etiam ad bonum commune multitudinis.

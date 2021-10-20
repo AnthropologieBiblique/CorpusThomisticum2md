@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod aliqui Daemones sint naturaliter mali. Dicit enim Porphyrius, ut Augustinus introducit X de Civ. Dei, quod *est quoddam genus Daemonum natura fallax, simulans deos et animas defunctorum*. Sed esse fallacem est esse malum. Ergo aliqui Daemones sunt naturaliter mali.
 
 ###### arg. 2
-Praeterea, sicut Angeli sunt creati a Deo, ita et homines. Sed aliqui homines sunt naturaliter mali, de quibus dicitur Sap. XII, *erat eorum malitia naturalis*. Ergo et Angeli aliqui possunt esse naturaliter mali.
+Praeterea, sicut Angeli sunt creati a Deo, ita et homines. Sed aliqui homines sunt naturaliter mali, de quibus dicitur [[Sg 12]], *erat eorum malitia naturalis*. Ergo et Angeli aliqui possunt esse naturaliter mali.
 
 ###### arg. 3
 Praeterea, aliqua animalia irrationalia habent quasdam naturales malitias, sicut vulpes naturaliter est subdola, et lupus naturaliter est rapax, et tamen sunt creaturae Dei. Ergo et Daemones, licet sint creaturae Dei, possunt esse naturaliter mali.

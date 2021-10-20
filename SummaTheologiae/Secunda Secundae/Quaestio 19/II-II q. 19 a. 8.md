@@ -1,7 +1,7 @@
 ### Articulus 8
 
 ###### arg. 1
-Ad octavum sic proceditur. Videtur quod timor initialis differat secundum substantiam a timore filiali. Timor enim filialis ex dilectione causatur. Sed timor initialis est principium dilectionis, secundum illud Eccli. XXV, *timor domini initium est dilectionis*. Ergo timor initialis est alius a filiali.
+Ad octavum sic proceditur. Videtur quod timor initialis differat secundum substantiam a timore filiali. Timor enim filialis ex dilectione causatur. Sed timor initialis est principium dilectionis, secundum illud [[Si 25]], *timor domini initium est dilectionis*. Ergo timor initialis est alius a filiali.
 
 ###### arg. 2
 Praeterea, timor initialis timet poenam, quae est obiectum servilis timoris, et sic videtur quod timor initialis sit idem cum servili. Sed timor servilis est alius a filiali. Ergo etiam timor initialis est alius secundum substantiam a filiali.
@@ -19,7 +19,7 @@ Respondeo dicendum quod timor initialis dicitur ex eo quod est initium. Sed cum 
 Ad primum ergo dicendum quod timor qui est initium dilectionis est timor servilis, qui introducit caritatem sicut seta introducit linum, ut Augustinus dicit. Vel, si hoc referatur ad timorem initialem, dicitur esse dilectionis initium non absolute, sed quantum ad statum caritatis perfectae.
 
 ###### ad 2
-Ad secundum dicendum quod timor initialis non timet poenam sicut proprium obiectum, sed inquantum habet aliquid de timore servili adiunctum. Qui secundum substantiam manet quidem cum caritate, servilitate remota, sed actus eius manet quidem cum caritate imperfecta in eo qui non solum movetur ad bene agendum ex amore iustitiae, sed etiam ex timore poenae; sed iste actus cessat in eo qui habet caritatem perfectam, quae foras mittit timorem habentem poenam, ut dicitur I Ioan. IV.
+Ad secundum dicendum quod timor initialis non timet poenam sicut proprium obiectum, sed inquantum habet aliquid de timore servili adiunctum. Qui secundum substantiam manet quidem cum caritate, servilitate remota, sed actus eius manet quidem cum caritate imperfecta in eo qui non solum movetur ad bene agendum ex amore iustitiae, sed etiam ex timore poenae; sed iste actus cessat in eo qui habet caritatem perfectam, quae foras mittit timorem habentem poenam, ut dicitur [[1 Jn 4]].
 
 ###### ad 3
 Ad tertium dicendum quod timor initialis est medium inter timorem filialem et servilem non sicut inter ea quae sunt unius generis; sed sicut imperfectum est medium inter ens perfectum et non ens, ut dicitur in II Metaphys.; quod tamen est idem secundum substantiam cum ente perfecto, differt autem totaliter a non ente.

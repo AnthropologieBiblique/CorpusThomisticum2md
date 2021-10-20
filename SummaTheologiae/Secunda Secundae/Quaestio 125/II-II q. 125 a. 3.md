@@ -4,13 +4,13 @@
 Ad tertium sic proceditur. Videtur quod timor non sit peccatum mortale. Timor enim, ut supra dictum est, est in irascibili, quae est pars sensualitatis. Sed in sensualitate est tantum peccatum veniale, ut supra habitum est. Ergo timor non est peccatum mortale.
 
 ###### arg. 2
-Praeterea, omne peccatum mortale totaliter cor avertit a Deo. Hoc autem non facit timor, quia super illud Iudic. VII, qui formidolosus est etc., dicit Glossa quod *timidus est qui primo aspectu congressum trepidat, non tamen corde terretur, sed reparari et animari potest*. Ergo timor non est peccatum mortale.
+Praeterea, omne peccatum mortale totaliter cor avertit a Deo. Hoc autem non facit timor, quia super illud [[Jg 7]], qui formidolosus est etc., dicit Glossa quod *timidus est qui primo aspectu congressum trepidat, non tamen corde terretur, sed reparari et animari potest*. Ergo timor non est peccatum mortale.
 
 ###### arg. 3
-Praeterea, peccatum mortale non solum retrahit a perfectione, sed etiam a praecepto. Sed timor non retrahit a praecepto, sed solum a perfectione, quia super illud Deut. XX, quis est homo formidolosus et corde pavido, etc., dicit Glossa, *docet non posse quemquam perfectionem contemplationis vel militiae spiritualis accipere qui adhuc nudari terrenis opibus pertimescit*. Ergo timor non est peccatum mortale.
+Praeterea, peccatum mortale non solum retrahit a perfectione, sed etiam a praecepto. Sed timor non retrahit a praecepto, sed solum a perfectione, quia super illud [[Dt 20]], quis est homo formidolosus et corde pavido, etc., dicit Glossa, *docet non posse quemquam perfectionem contemplationis vel militiae spiritualis accipere qui adhuc nudari terrenis opibus pertimescit*. Ergo timor non est peccatum mortale.
 
 ###### s. c.
-Sed contra, pro solo peccato mortali debetur poena Inferni. Quae tamen debetur timidis, secundum illud Apoc. XXI, *timidis et incredulis et execratis, etc., pars erit in stagno ignis et sulphuris, quod est mors secunda*. Ergo timiditas est peccatum mortale.
+Sed contra, pro solo peccato mortali debetur poena Inferni. Quae tamen debetur timidis, secundum illud [[Ap 21]], *timidis et incredulis et execratis, etc., pars erit in stagno ignis et sulphuris, quod est mors secunda*. Ergo timiditas est peccatum mortale.
 
 ###### co.
 Respondeo dicendum quod, sicut dictum est, timor peccatum est secundum quod est inordinatus, prout scilicet refugit quod non est secundum rationem refugiendum. Haec autem inordinatio timoris quandoque quidem consistit in solo appetitu sensitivo, non superveniente consensu rationalis appetitus, et sic non potest esse peccatum mortale, sed solum veniale. Quandoque vero huiusmodi inordinatio timoris pertingit usque ad appetitum rationalem, qui dicitur voluntas, quae ex libero arbitrio refugit aliquid non secundum rationem. Et talis inordinatio timoris quandoque est peccatum mortale, quandoque veniale. Si enim quis propter timorem quo refugit periculum mortis, vel quodcumque aliud temporale malum, sic dispositus est ut faciat aliquid prohibitum, vel praetermittat aliquid quod est praeceptum in lege divina, talis timor est peccatum mortale. Alioquin erit peccatum veniale.

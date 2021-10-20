@@ -10,7 +10,7 @@ Praeterea, sicuti fidei obiectum est prima veritas, ita caritatis obiectum est s
 Praeterea, caritas in voluntate est. Ordinare autem non est voluntatis, sed rationis. Ergo ordo non debet attribui caritati.
 
 ###### s. c.
-Sed contra est quod dicitur Cant. II, *introduxit me rex in cellam vinariam; ordinavit in me caritatem*.
+Sed contra est quod dicitur [[Ct 2]], *introduxit me rex in cellam vinariam; ordinavit in me caritatem*.
 
 ###### co.
 Respondeo dicendum quod, sicut philosophus dicit, in V Metaphys., prius et posterius dicitur secundum relationem ad aliquod principium. Ordo autem includit in se aliquem modum prioris et posterioris. Unde oportet quod ubicumque est aliquod principium, sit etiam aliquis ordo. Dictum autem est supra quod dilectio caritatis tendit in Deum sicut in principium beatitudinis, in cuius communicatione amicitia caritatis fundatur. Et ideo oportet quod in his quae ex caritate diliguntur attendatur aliquis ordo, secundum relationem ad primum principium huius dilectionis, quod est Deus.

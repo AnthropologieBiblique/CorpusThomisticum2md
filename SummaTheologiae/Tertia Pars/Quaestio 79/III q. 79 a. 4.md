@@ -4,10 +4,10 @@
 Ad quartum sic proceditur. Videtur quod per hoc sacramentum non remittantur peccata venialia. Hoc enim sacramentum, ut Augustinus dicit, super Ioan., est sacramentum caritatis. Sed venialia peccata non contrariantur caritati, ut in secunda parte habitum est. Cum ergo contrarium tollatur per suum contrarium, videtur quod peccata venialia per hoc sacramentum non remittantur.
 
 ###### arg. 2
-Praeterea, si peccata venialia per hoc sacramentum remittantur, qua ratione unum remittitur, et omnia remittentur. Sed non videtur quod omnia remittantur, quia sic frequenter aliquis esset absque omni peccato veniali, quod est contra id quod dicitur I Ioan. I, *si dixerimus quoniam peccatum non habemus, nos ipsos seducimus*. Non ergo per hoc sacramentum remittitur aliquod peccatum veniale.
+Praeterea, si peccata venialia per hoc sacramentum remittantur, qua ratione unum remittitur, et omnia remittentur. Sed non videtur quod omnia remittantur, quia sic frequenter aliquis esset absque omni peccato veniali, quod est contra id quod dicitur [[1 Jn 1]], *si dixerimus quoniam peccatum non habemus, nos ipsos seducimus*. Non ergo per hoc sacramentum remittitur aliquod peccatum veniale.
 
 ###### arg. 3
-Praeterea, contraria mutuo se expellunt. Sed peccata venialia non prohibent a perceptione huius sacramenti, dicit enim Augustinus, super illud Ioan. VI, *si quis ex ipso manducaverit, non morietur in aeternum, innocentiam, inquit, ad altare apportate, peccata, etsi sint quotidiana, non sint mortifera*. Ergo neque peccata venialia per hoc sacramentum tolluntur.
+Praeterea, contraria mutuo se expellunt. Sed peccata venialia non prohibent a perceptione huius sacramenti, dicit enim Augustinus, super illud [[Jn 6]], *si quis ex ipso manducaverit, non morietur in aeternum, innocentiam, inquit, ad altare apportate, peccata, etsi sint quotidiana, non sint mortifera*. Ergo neque peccata venialia per hoc sacramentum tolluntur.
 
 ###### s. c.
 Sed contra est quod Innocentius III dicit, quod hoc sacramentum veniale delet et cavet mortalia.

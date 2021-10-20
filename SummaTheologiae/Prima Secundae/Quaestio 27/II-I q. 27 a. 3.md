@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod similitudo non sit causa amoris. Idem enim non est causa contrariorum. Sed similitudo est causa odii, dicitur enim Prov. XIII, quod *inter superbos semper sunt iurgia*; et philosophus dicit, in VIII Ethic., quod figuli corrixantur ad invicem. Ergo similitudo non est causa amoris.
+Ad tertium sic proceditur. Videtur quod similitudo non sit causa amoris. Idem enim non est causa contrariorum. Sed similitudo est causa odii, dicitur enim [[Pr 13]], quod *inter superbos semper sunt iurgia*; et philosophus dicit, in VIII Ethic., quod figuli corrixantur ad invicem. Ergo similitudo non est causa amoris.
 
 ###### arg. 2
 Praeterea, Augustinus dicit, in IV Confess., quod *aliquis amat in alio quod esse non vellet, sicut homo amat histrionem, qui non vellet esse histrio*. Hoc autem non contingeret, si similitudo esset propria causa amoris, sic enim homo amaret in altero quod ipse haberet, vel vellet habere. Ergo similitudo non est causa amoris.
@@ -13,7 +13,7 @@ Praeterea, quilibet homo amat id quo indiget, etiam si illud non habeat, sicut i
 Praeterea, philosophus dicit, in II Rhetoric., quod *beneficos in pecunias et salutem amamus, et similiter eos qui circa mortuos servant amicitiam, omnes diligunt*. Non autem omnes sunt tales. Ergo similitudo non est causa amoris.
 
 ###### s. c.
-Sed contra est quod dicitur Eccli. XIII, *omne animal diligit simile sibi*.
+Sed contra est quod dicitur [[Si 13]], *omne animal diligit simile sibi*.
 
 ###### co.
 Respondeo dicendum quod similitudo, proprie loquendo, est causa amoris. Sed considerandum est quod similitudo inter aliqua potest attendi dupliciter. Uno modo, ex hoc quod utrumque habet idem in actu, sicut duo habentes albedinem, dicuntur similes. Alio modo, ex hoc quod unum habet in potentia et in quadam inclinatione, illud quod aliud habet in actu, sicut si dicamus quod corpus grave existens extra suum locum, habet similitudinem cum corpore gravi in suo loco existenti. Vel etiam secundum quod potentia habet similitudinem ad actum ipsum, nam in ipsa potentia quodammodo est actus. Primus ergo similitudinis modus causat amorem amicitiae, seu benevolentiae. Ex hoc enim quod aliqui duo sunt similes, quasi habentes unam formam, sunt quodammodo unum in forma illa, sicut duo homines sunt unum in specie humanitatis, et duo albi in albedine. Et ideo affectus unius tendit in alterum, sicut in unum sibi; et vult ei bonum sicut et sibi. Sed secundus modus similitudinis causat amorem concupiscentiae, vel amicitiam utilis seu delectabilis. Quia unicuique existenti in potentia, inquantum huiusmodi, inest appetitus sui actus, et in eius consecutione delectatur, si sit sentiens et cognoscens. Dictum est autem supra quod in amore concupiscentiae amans proprie amat seipsum, cum vult illud bonum quod concupiscit. Magis autem unusquisque seipsum amat quam alium, quia sibi unus est in substantia, alteri vero in similitudine alicuius formae. Et ideo si ex eo quod est sibi similis in participatione formae, impediatur ipsemet a consecutione boni quod amat; efficitur ei odiosus, non inquantum est similis, sed inquantum est proprii boni impeditivus. Et propter hoc figuli corrixantur ad invicem, quia se invicem impediunt in proprio lucro, et inter superbos sunt iurgia, quia se invicem impediunt in propria excellentia, quam concupiscunt.

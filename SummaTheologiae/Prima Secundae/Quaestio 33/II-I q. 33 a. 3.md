@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod delectatio non impediat usum rationis. Quies enim maxime confert ad debitum rationis usum, unde dicitur in VII Physic., quod in sedendo et quiescendo fit anima sciens et prudens; et Sap. VIII, *intrans in domum meam, conquiescam cum illa*, scilicet sapientia. Sed delectatio est quaedam quies. Ergo non impedit, sed magis iuvat rationis usum.
+Ad tertium sic proceditur. Videtur quod delectatio non impediat usum rationis. Quies enim maxime confert ad debitum rationis usum, unde dicitur in VII Physic., quod in sedendo et quiescendo fit anima sciens et prudens; et [[Sg 8]], *intrans in domum meam, conquiescam cum illa*, scilicet sapientia. Sed delectatio est quaedam quies. Ergo non impedit, sed magis iuvat rationis usum.
 
 ###### arg. 2
 Praeterea, ea quae non sunt in eodem, etiam si sint contraria, non se impediunt. Sed delectatio est in parte appetitiva, usus autem rationis in parte apprehensiva. Ergo delectatio non impedit rationis usum.

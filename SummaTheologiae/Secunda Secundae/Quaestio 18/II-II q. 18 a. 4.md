@@ -10,7 +10,7 @@ Praeterea, spes ex gratia et meritis provenit, ut supra dictum est. Sed in hac v
 Praeterea, certitudo esse non potest de eo quod potest deficere. Sed multi viatores habentes spem deficiunt a consecutione beatitudinis. Ergo spes viatorum non habet certitudinem.
 
 ###### s. c.
-Sed contra est quod spes est certa expectatio futurae beatitudinis, sicut Magister dicit, XXVI dist. III Sent. Quod potest accipi ex hoc quod dicitur II ad Tim. I, *scio cui credidi, et certus sum quia potens est depositum meum servare*.
+Sed contra est quod spes est certa expectatio futurae beatitudinis, sicut Magister dicit, XXVI dist. III Sent. Quod potest accipi ex hoc quod dicitur [[2 Tm 1]], *scio cui credidi, et certus sum quia potens est depositum meum servare*.
 
 ###### co.
 Respondeo dicendum quod certitudo invenitur in aliquo dupliciter, scilicet essentialiter, et participative. Essentialiter quidem invenitur in vi cognoscitiva, participative autem in omni eo quod a vi cognoscitiva movetur infallibiliter ad finem suum; secundum quem modum dicitur quod natura certitudinaliter operatur, tanquam mota ab intellectu divino certitudinaliter movente unumquodque ad suum finem. Et per hunc etiam modum virtutes morales certius arte dicuntur operari, inquantum per modum naturae moventur a ratione ad suos actus. Et sic etiam spes certitudinaliter tendit in suum finem, quasi participans certitudinem a fide, quae est in vi cognoscitiva.

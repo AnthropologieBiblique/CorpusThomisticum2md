@@ -10,7 +10,7 @@ Praeterea, omne peccatum est voluntarium, ut Augustinus dicit. Sed stultitia non
 Praeterea, omne peccatum opponitur alicui praecepto divino. Sed stultitia nulli praecepto opponitur. Ergo stultitia non est peccatum.
 
 ###### s. c.
-Sed contra est quod dicitur Prov. I, *prosperitas stultorum perdet eos*. Sed nullus perditur nisi pro peccato. Ergo stultitia est peccatum.
+Sed contra est quod dicitur [[Pr 1]], *prosperitas stultorum perdet eos*. Sed nullus perditur nisi pro peccato. Ergo stultitia est peccatum.
 
 ###### co.
 Respondeo dicendum quod stultitia, sicut dictum est, importat quendam stuporem sensus in iudicando, et praecipue circa altissimam causam, quae est finis ultimus et summum bonum. Circa quod aliquis potest pati stuporem in iudicando dupliciter. Uno modo, ex indispositione naturali, sicut patet in amentibus. Et talis stultitia non est peccatum. Alio modo, inquantum immergit homo sensum suum rebus terrenis, ex quo redditur eius sensus ineptus ad percipiendum divina, secundum illud I ad Cor. II, *animalis homo non percipit ea quae sunt spiritus Dei*, sicut etiam homini habenti gustum infectum malo humore non sapiunt dulcia. Et talis stultitia est peccatum.

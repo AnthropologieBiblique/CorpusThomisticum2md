@@ -4,7 +4,7 @@
 Ad decimum sic proceditur. Videtur quod unio incarnationis non sit per gratiam. Gratia enim est accidens quoddam, ut in secunda parte habitum est. Sed unio humanae naturae ad divinam non est facta per accidens, ut supra ostensum est. Ergo videtur quod unio incarnationis non sit facta per gratiam.
 
 ###### arg. 2
-Praeterea, gratiae subiectum est anima. Sed sicut dicitur Coloss. II, *in Christo habitavit plenitudo divinitatis corporaliter*. Ergo videtur quod illa unio non sit facta per gratiam.
+Praeterea, gratiae subiectum est anima. Sed sicut dicitur [[Col 2]], *in Christo habitavit plenitudo divinitatis corporaliter*. Ergo videtur quod illa unio non sit facta per gratiam.
 
 ###### arg. 3
 Praeterea, quilibet sanctus Deo unitur per gratiam. Si igitur unio incarnationis fuit per gratiam, videtur quod non aliter dicatur Christus esse Deus quam alii sancti homines.

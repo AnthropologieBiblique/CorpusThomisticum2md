@@ -1,13 +1,13 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod nocturna pollutio sit peccatum. Meritum enim et demeritum habent fieri circa idem. Sed dormiens potest mereri, sicut patet de Salomone, qui dormiens a domino donum sapientiae impetravit, ut dicitur III Reg. III, et II Paralip. I. Ergo in dormiendo potest aliquis demereri. Et ita videtur quod nocturna pollutio sit peccatum.
+Ad quintum sic proceditur. Videtur quod nocturna pollutio sit peccatum. Meritum enim et demeritum habent fieri circa idem. Sed dormiens potest mereri, sicut patet de Salomone, qui dormiens a domino donum sapientiae impetravit, ut dicitur [[1R 3]], et [[2 Ch 1]]. Ergo in dormiendo potest aliquis demereri. Et ita videtur quod nocturna pollutio sit peccatum.
 
 ###### arg. 2
 Praeterea, quicumque habet usum rationis, potest peccare. Sed in dormiendo aliquis habet usum rationis, quia frequenter aliquis in somnis ratiocinatur, et praeeligit unum alteri, consentiens vel dissentiens. Ergo in dormiendo potest aliquis peccare. Et ita propter somnum nocturna pollutio non impeditur quin sit peccatum, cum ex genere actus sit peccatum.
 
 ###### arg. 3
-Praeterea, frustra increpatur et instruitur qui non potest vel agere secundum rationem vel contra rationem. Sed homo in somnis instruitur a Deo et increpatur, secundum illud Iob XXXIII, *per somnium, in visione nocturna, quando sopor solet occupare homines, tunc aperit aures virorum, et erudiens eos instruit disciplina*. Ergo in somnis potest aliquis agere secundum rationem vel contra rationem, quod est bene agere vel peccare. Et sic videtur quod pollutio nocturna sit peccatum.
+Praeterea, frustra increpatur et instruitur qui non potest vel agere secundum rationem vel contra rationem. Sed homo in somnis instruitur a Deo et increpatur, secundum illud [[Jb 33]], *per somnium, in visione nocturna, quando sopor solet occupare homines, tunc aperit aures virorum, et erudiens eos instruit disciplina*. Ergo in somnis potest aliquis agere secundum rationem vel contra rationem, quod est bene agere vel peccare. Et sic videtur quod pollutio nocturna sit peccatum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, XII super Gen. ad Litt., *ipsa phantasia quae fit in cogitatione sermocinantis, cum expressa fuerit in visione somniantis, ut inter illam et veram coniunctionem corporum non discernatur, continue movetur caro et sequitur quod eum motum sequi solet, cum hoc tam sine peccato fiat, quam sine peccato a vigilantibus dicitur quod, ut diceretur, sine dubio cogitatum est*.

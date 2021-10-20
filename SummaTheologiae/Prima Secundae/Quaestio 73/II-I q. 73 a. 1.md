@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod omnia peccata sint connexa. Dicitur enim Iac. II, *quicumque totam legem servaverit, offendat autem in uno, factus est omnium reus*. Sed idem est esse reum omnium mandatorum legis, quod habere omnia peccata, quia, sicut Ambrosius dicit, *peccatum est transgressio legis divinae, et caelestium inobedientia mandatorum*. Ergo quicumque peccat uno peccato, subiicitur omnibus peccatis.
+Ad primum sic proceditur. Videtur quod omnia peccata sint connexa. Dicitur enim [[Jc 2]], *quicumque totam legem servaverit, offendat autem in uno, factus est omnium reus*. Sed idem est esse reum omnium mandatorum legis, quod habere omnia peccata, quia, sicut Ambrosius dicit, *peccatum est transgressio legis divinae, et caelestium inobedientia mandatorum*. Ergo quicumque peccat uno peccato, subiicitur omnibus peccatis.
 
 ###### arg. 2
 Praeterea, quodlibet peccatum excludit virtutem sibi oppositam. Sed qui caret una virtute, caret omnibus, ut patet ex supradictis. Ergo qui peccat uno peccato, privatur omnibus virtutibus. Sed qui caret virtute, habet vitium sibi oppositum. Ergo qui habet unum peccatum, habet omnia peccata.

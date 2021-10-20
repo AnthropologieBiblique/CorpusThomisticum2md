@@ -10,7 +10,7 @@ Praeterea, sicuti illi populo Iudaeorum data sunt quaedam iudicialia praecepta, 
 Praeterea, ea quae ad cultum divinum pertinent, figuris quibusdam tradi oportuit, quia ea quae Dei sunt, supra nostram rationem sunt, ut supra dictum est. Sed ea quae sunt proximorum, non excedunt nostram rationem. Ergo per iudicialia, quae ad proximum nos ordinant, non oportuit aliquid figurari.
 
 ###### s. c.
-Sed contra est quod Exod. XXI iudicialia praecepta allegorice et moraliter exponuntur.
+Sed contra est quod [[Ex 21]] iudicialia praecepta allegorice et moraliter exponuntur.
 
 ###### co.
 Respondeo dicendum quod dupliciter contingit aliquod praeceptum esse figurale. Uno modo, primo et per se, quia scilicet principaliter est institutum ad aliquid figurandum. Et hoc modo praecepta caeremonialia sunt figuralia, ad hoc enim sunt instituta, ut aliquid figurent pertinens ad cultum Dei et ad mysterium Christi. Quaedam vero praecepta sunt figuralia non primo et per se, sed ex consequenti. Et hoc modo praecepta iudicialia veteris legis sunt figuralia. Non enim sunt instituta ad aliquid figurandum; sed ad ordinandum statum illius populi secundum iustitiam et aequitatem. Sed ex consequenti aliquid figurabant, inquantum scilicet totus status illius populi, qui per huiusmodi praecepta disponebatur, figuralis erat; secundum illud I ad Cor. X, *omnia in figuram contingebant illis*.

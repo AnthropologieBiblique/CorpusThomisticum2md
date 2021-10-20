@@ -10,7 +10,7 @@ Praeterea, nihil est casuale quod evenit secundum praeordinationem alicuius gube
 Praeterea, ordo divinae gubernationis est certus et immutabilis, quia est secundum rationem aeternam. Si igitur nihil possit contingere in rebus praeter ordinem divinae gubernationis, sequitur quod omnia ex necessitate eveniant, et nihil sit in rebus contingens, quod est inconveniens. Potest igitur in rebus aliquid contingere praeter ordinem gubernationis divinae.
 
 ###### s. c.
-Sed contra est quod dicitur Esther XIII, *domine Deus, rex omnipotens, in ditione tua cuncta sunt posita, et non est qui possit resistere tuae voluntati*.
+Sed contra est quod dicitur [[Est 13]], *domine Deus, rex omnipotens, in ditione tua cuncta sunt posita, et non est qui possit resistere tuae voluntati*.
 
 ###### co.
 Respondeo dicendum quod praeter ordinem alicuius particularis causae, aliquis effectus evenire potest; non autem praeter ordinem causae universalis. Cuius ratio est, quia praeter ordinem particularis causae nihil provenit nisi ex aliqua alia causa impediente, quam quidem causam necesse est reducere in primam causam universalem, sicut indigestio contingit praeter ordinem virtutis nutritivae, ex aliquo impedimento, puta ex grossitie cibi, quam necesse est reducere in aliquam aliam causam, et sic usque ad causam primam universalem. Cum igitur Deus sit prima causa universalis non unius generis tantum, sed universaliter totius entis; impossibile est quod aliquid contingat praeter ordinem divinae gubernationis, sed ex hoc ipso quod aliquid ex una parte videtur exire ab ordine divinae providentiae qui consideratur secundum aliquam particularem causam, necesse est quod in eundem ordinem relabatur secundum aliam causam.

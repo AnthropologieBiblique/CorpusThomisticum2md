@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod inconvenienter assignentur partes poeni
 Praeterea, in sacramento novae legis confertur gratia, ut supra habitum est. Sed in satisfactione non confertur aliqua gratia. Ergo satisfactio non est pars sacramenti.
 
 ###### arg. 3
-Praeterea, non est idem fructus rei et pars. Sed satisfactio est fructus poenitentiae, secundum illud Luc. III, *facite vobis dignos fructus poenitentiae*. Ergo non est pars poenitentiae.
+Praeterea, non est idem fructus rei et pars. Sed satisfactio est fructus poenitentiae, secundum illud [[Lc 3]], *facite vobis dignos fructus poenitentiae*. Ergo non est pars poenitentiae.
 
 ###### arg. 4
 Praeterea, poenitentia ordinatur contra peccatum. Sed peccatum potest perfici solum in corde per consensum, ut in secunda parte habitum est. Ergo et poenitentia. Non ergo debent poenitentiae partes poni confessio oris et satisfactio operis.

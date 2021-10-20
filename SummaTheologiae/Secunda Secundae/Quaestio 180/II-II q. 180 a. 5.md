@@ -1,7 +1,7 @@
 ### Articulus 5
 
 ###### arg. 1
-Ad quintum sic proceditur. Videtur quod vita contemplativa, secundum statum huius vitae, possit pertingere ad visionem divinae essentiae. Quia, ut habetur Gen. XXXII, Iacob dixit, *vidi Deum facie ad faciem, et salva facta est anima mea*. Sed visio faciei est visio divinae essentiae. Ergo videtur quod aliquis per contemplationem in praesenti vita possit se extendere ad videndum Deum per essentiam.
+Ad quintum sic proceditur. Videtur quod vita contemplativa, secundum statum huius vitae, possit pertingere ad visionem divinae essentiae. Quia, ut habetur [[Gn 32]], Iacob dixit, *vidi Deum facie ad faciem, et salva facta est anima mea*. Sed visio faciei est visio divinae essentiae. Ergo videtur quod aliquis per contemplationem in praesenti vita possit se extendere ad videndum Deum per essentiam.
 
 ###### arg. 2
 Praeterea, Gregorius dicit, in VI Moral., quod *viri contemplativi ad semetipsos introrsus redeunt, in eo quod spiritualia rimantur, et nequaquam secum rerum corporalium umbras trahunt, vel fortasse tractas manu discretionis abigunt, sed incircumscriptum lumen videre cupientes, cunctas circumscriptionis suae imagines deprimunt, et in eo quod super se contingere appetunt, vincunt quod sunt*. Sed homo non impeditur a visione divinae essentiae, quae est lumen incircumscriptum, nisi per hoc quod necesse habet intendere corporalibus phantasmatibus. Ergo videtur quod contemplatio praesentis vitae potest se extendere ad videndum incircumscriptum lumen per essentiam.

@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod omnes passiones animae sint malae moral
 Praeterea, Damascenus dicit quod *operatio quidem qui secundum naturam motus est, passio vero qui praeter naturam*. Sed quod est praeter naturam in motibus animae, habet rationem peccati et mali moralis, unde ipse alibi dicit quod *Diabolus versus est ex eo quod est secundum naturam, in id quod est praeter naturam*. Ergo huiusmodi passiones sunt malae moraliter.
 
 ###### arg. 3
-Praeterea, omne quod inducit ad peccatum, habet rationem mali. Sed huiusmodi passiones inducunt ad peccatum, unde Rom. VII dicuntur passiones peccatorum. Ergo videtur quod sint malae moraliter.
+Praeterea, omne quod inducit ad peccatum, habet rationem mali. Sed huiusmodi passiones inducunt ad peccatum, unde [[Rm 7]] dicuntur passiones peccatorum. Ergo videtur quod sint malae moraliter.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in XIV de Civ. Dei, quod *rectus amor omnes istas affectiones rectas habet. Metuunt enim peccare, cupiunt perseverare, dolent in peccatis, gaudent in operibus bonis*.

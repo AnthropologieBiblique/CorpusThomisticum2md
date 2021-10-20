@@ -10,7 +10,7 @@ Praeterea, nobilitas actionis et motus ex terminis consideratur. Nobilior igitur
 Praeterea, haec praepositio ex importat habitudinem alicuius causae, et maxime materialis; sicut cum dicimus quod statua fit ex aere. Sed nihil non potest esse materia entis, nec aliquo modo causa eius. Ergo creare non est ex nihilo aliquid facere.
 
 ###### s. c.
-Sed contra est quod super illud Gen. I, *in principio creavit Deus caelum* etc., dicit Glossa quod creare est aliquid ex nihilo facere.
+Sed contra est quod super illud [[Gn 1]], *in principio creavit Deus caelum* etc., dicit Glossa quod creare est aliquid ex nihilo facere.
 
 ###### co.
 Respondeo dicendum quod, sicut supra dictum est, non solum oportet considerare emanationem alicuius entis particularis ab aliquo particulari agente, sed etiam emanationem totius entis a causa universali, quae est Deus, et hanc quidem emanationem designamus nomine creationis. Quod autem procedit secundum emanationem particularem, non praesupponitur emanationi, sicut, si generatur homo, non fuit prius homo, sed homo fit ex non homine, et album ex non albo. Unde, si consideretur emanatio totius entis universalis a primo principio, impossibile est quod aliquod ens praesupponatur huic emanationi. Idem autem est nihil quod nullum ens. Sicut igitur generatio hominis est ex non ente quod est non homo, ita creatio, quae est emanatio totius esse, est ex non ente quod est nihil.

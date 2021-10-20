@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod vindicatio non debeat fieri per poenas apud homines consuetas. Occisio enim hominis est quaedam eradicatio eius. Sed dominus mandavit, Matth. XIII, quod zizania, per quae significantur filii nequam, non eradicarentur. Ergo peccatores non sunt occidendi.
+Ad tertium sic proceditur. Videtur quod vindicatio non debeat fieri per poenas apud homines consuetas. Occisio enim hominis est quaedam eradicatio eius. Sed dominus mandavit, [[Mt 13]], quod zizania, per quae significantur filii nequam, non eradicarentur. Ergo peccatores non sunt occidendi.
 
 ###### arg. 2
 Praeterea, quicumque mortaliter peccant, eadem poena videntur digni. Si ergo aliqui mortaliter peccantes morte puniuntur, videtur quod omnes tales deberent morte puniri. Quod patet esse falsum.

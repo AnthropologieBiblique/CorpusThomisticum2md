@@ -13,7 +13,7 @@ Praeterea, in omni peccato est conversio ad aliquod commutabile bonum. Sed per i
 Praeterea, peccatum est contra naturam, ut Damascenus dicit, in II libro. Sed irasci non est contra naturam hominis, cum sit actus naturalis potentiae quae est irascibilis. Unde et Hieronymus dicit, in quadam epistola, quod irasci est hominis. Ergo ira non est peccatum.
 
 ###### s. c.
-Sed contra est quod apostolus dicit, ad Ephes. IV, *omnis indignatio et ira tollatur a vobis*.
+Sed contra est quod apostolus dicit, ad [[Ep 4]], *omnis indignatio et ira tollatur a vobis*.
 
 ###### co.
 Respondeo dicendum quod ira, sicut dictum est, proprie nominat quandam passionem. Passio autem appetitus sensitivi intantum est bona inquantum ratione regulatur, si autem ordinem rationis excludat, est mala. Ordo autem rationis in ira potest attendi quantum ad duo. Primo quidem, quantum ad appetibile in quod tendit, quod est vindicta. Unde si aliquis appetat quod secundum ordinem rationis fiat vindicta, est laudabilis irae appetitus, et vocatur ira per zelum. Si autem aliquis appetat quod fiat vindicta qualitercumque contra ordinem rationis; puta si appetat puniri eum qui non meruit, vel ultra quam meruit, vel etiam non secundum legitimum ordinem, vel non propter debitum finem, qui est conservatio iustitiae et correctio culpae, erit appetitus irae vitiosus. Et nominatur ira per vitium. Alio modo attenditur ordo rationis circa iram quantum ad modum irascendi, ut scilicet motus irae non immoderate fervescat, nec interius nec exterius. Quod quidem si praetermittatur, non erit ira absque peccato, etiam si aliquis appetat iustam vindictam.

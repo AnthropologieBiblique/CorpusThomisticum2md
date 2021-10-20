@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod unus homo non teneatur alii obedire. Non enim est aliquid faciendum contra institutionem divinam. Sed hoc habet divina institutio, ut homo suo consilio regatur, secundum illud Eccli. XV, *Deus ab initio constituit hominem, et reliquit illum in manu consilii sui*. Ergo non tenetur unus homo alteri obedire.
+Ad primum sic proceditur. Videtur quod unus homo non teneatur alii obedire. Non enim est aliquid faciendum contra institutionem divinam. Sed hoc habet divina institutio, ut homo suo consilio regatur, secundum illud [[Si 15]], *Deus ab initio constituit hominem, et reliquit illum in manu consilii sui*. Ergo non tenetur unus homo alteri obedire.
 
 ###### arg. 2
 Praeterea, si aliquis alicui teneretur obedire, oporteret quod haberet voluntatem praecipientis tanquam regulam suae actionis. Sed sola divina voluntas, quae semper est recta, est regula humanae actionis. Ergo non tenetur homo obedire nisi Deo.

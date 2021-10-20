@@ -4,10 +4,10 @@
 Ad quintum sic proceditur. Videtur quod eventus sequens addat ad bonitatem vel malitiam actus. Effectus enim virtute praeexistit in causa. Sed eventus consequuntur actus sicut effectus causas. Ergo virtute praeexistunt in actibus. Sed unumquodque secundum suam virtutem iudicatur bonum vel malum, nam virtus est quae bonum facit habentem, ut dicitur in II Ethic. Ergo eventus addunt ad bonitatem vel malitiam actus.
 
 ###### arg. 2
-Praeterea, bona quae faciunt auditores, sunt effectus quidam consequentes ex praedicatione doctoris. Sed huiusmodi bona redundant ad meritum praedicatoris, ut patet per id quod dicitur Philipp. IV, *fratres mei carissimi et desideratissimi, gaudium meum et corona mea*. Ergo eventus sequens addit ad bonitatem vel malitiam actus.
+Praeterea, bona quae faciunt auditores, sunt effectus quidam consequentes ex praedicatione doctoris. Sed huiusmodi bona redundant ad meritum praedicatoris, ut patet per id quod dicitur [[Ph 4]], *fratres mei carissimi et desideratissimi, gaudium meum et corona mea*. Ergo eventus sequens addit ad bonitatem vel malitiam actus.
 
 ###### arg. 3
-Praeterea, poena non additur nisi crescente culpa, unde dicitur Deut. XXV, *pro mensura peccati, erit et plagarum modus*. Sed ex eventu sequente additur ad poenam, dicitur enim Exod. XXI, *quod si bos fuerit cornupeta ab heri et nudius tertius, et contestati sunt dominum eius, nec recluserit eum, occideritque virum aut mulierem; et bos lapidibus obruetur, et dominum eius occident*. Non autem occideretur, si bos non occidisset hominem, etiam non reclusus. Ergo eventus sequens addit ad bonitatem vel malitiam actus.
+Praeterea, poena non additur nisi crescente culpa, unde dicitur [[Dt 25]], *pro mensura peccati, erit et plagarum modus*. Sed ex eventu sequente additur ad poenam, dicitur enim [[Ex 21]], *quod si bos fuerit cornupeta ab heri et nudius tertius, et contestati sunt dominum eius, nec recluserit eum, occideritque virum aut mulierem; et bos lapidibus obruetur, et dominum eius occident*. Non autem occideretur, si bos non occidisset hominem, etiam non reclusus. Ergo eventus sequens addit ad bonitatem vel malitiam actus.
 
 ###### arg. 4
 Praeterea, si aliquis ingerat causam mortis percutiendo vel sententiam dando, et mors non sequatur, non contrahitur irregularitas. Contraheretur autem si mors sequeretur. Ergo eventus sequens addit ad bonitatem vel malitiam actus.

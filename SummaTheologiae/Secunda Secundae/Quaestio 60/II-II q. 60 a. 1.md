@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod iudicium non sit actus iustitiae. Dicit enim philosophus, in I Ethic., quod *unusquisque bene iudicat quae cognoscit*, et sic iudicium ad vim cognoscitivam pertinere videtur. Vis autem cognoscitiva per prudentiam perficitur. Ergo iudicium magis pertinet ad prudentiam quam ad iustitiam, quae est in voluntate, ut dictum est.
 
 ###### arg. 2
-Praeterea, apostolus dicit, I ad Cor. II, *spiritualis iudicat omnia*. Sed homo maxime efficitur spiritualis per virtutem caritatis, quae *diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur Rom. V. Ergo iudicium magis pertinet ad caritatem quam ad iustitiam.
+Praeterea, apostolus dicit, I ad Cor. II, *spiritualis iudicat omnia*. Sed homo maxime efficitur spiritualis per virtutem caritatis, quae *diffunditur in cordibus nostris per spiritum sanctum, qui datus est nobis*, ut dicitur [[Rm 5]]. Ergo iudicium magis pertinet ad caritatem quam ad iustitiam.
 
 ###### arg. 3
 Praeterea, ad unamquamque virtutem pertinet rectum iudicium circa propriam materiam, quia virtuosus in singulis est regula et mensura, secundum philosophum, in libro Ethic. Non ergo iudicium magis pertinet ad iustitiam quam ad alias virtutes morales.

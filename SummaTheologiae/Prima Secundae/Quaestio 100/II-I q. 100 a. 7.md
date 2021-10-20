@@ -13,13 +13,13 @@ Praeterea, per observantiam praeceptorum meretur aliquis praemia a Deo. Sed divi
 Praeterea, lex vetus dicitur lex timoris, inquantum per comminationes poenarum inducebat ad observationes praeceptorum. Sed omnia praecepta Decalogi pertinent ad legem veterem. Ergo in omnibus debuit poni comminatio poenae, et non solum in primo et secundo.
 
 ###### arg. 5
-Praeterea, omnia praecepta Dei sunt in memoria retinenda, dicitur enim Prov. III, *describe ea in tabulis cordis tui*. Inconvenienter ergo in solo tertio praecepto fit mentio de memoria. Et ita videntur praecepta Decalogi inconvenienter tradita esse.
+Praeterea, omnia praecepta Dei sunt in memoria retinenda, dicitur enim [[Pr 3]], *describe ea in tabulis cordis tui*. Inconvenienter ergo in solo tertio praecepto fit mentio de memoria. Et ita videntur praecepta Decalogi inconvenienter tradita esse.
 
 ###### s. c.
-Sed contra est quod dicitur Sap. XI, quod *Deus omnia fecit in numero, pondere et mensura*. Multo magis ergo in praeceptis suae legis congruum modum tradendi servavit.
+Sed contra est quod dicitur [[Sg 11]], quod *Deus omnia fecit in numero, pondere et mensura*. Multo magis ergo in praeceptis suae legis congruum modum tradendi servavit.
 
 ###### co.
-Respondeo dicendum quod in praeceptis divinae legis maxima sapientia continetur, unde dicitur Deut. IV, *haec est vestra sapientia et intellectus coram populis*. Sapientis autem est omnia debito modo et ordine disponere. Et ideo manifestum esse debet quod praecepta legis convenienti modo sunt tradita.
+Respondeo dicendum quod in praeceptis divinae legis maxima sapientia continetur, unde dicitur [[Dt 4]], *haec est vestra sapientia et intellectus coram populis*. Sapientis autem est omnia debito modo et ordine disponere. Et ideo manifestum esse debet quod praecepta legis convenienti modo sunt tradita.
 
 ###### ad 1
 Ad primum ergo dicendum quod semper ad affirmationem sequitur negatio oppositi, non autem semper ad negationem unius oppositi sequitur affirmatio alterius. Sequitur enim, si est album, non est nigrum, non tamen sequitur, si non est nigrum, ergo est album, quia ad plura sese extendit negatio quam affirmatio. Et inde est etiam quod non esse faciendum iniuriam, quod pertinet ad praecepta negativa, ad plures personas se extendit, secundum primum dictamen rationis, quam esse debitum ut alicui obsequium vel beneficium impendatur. Inest autem primo dictamen rationis quod homo debitor est beneficii vel obsequii exhibendi illis a quibus beneficia accepit, si nondum recompensavit. Duo autem sunt quorum beneficiis sufficienter nullus recompensare potest, scilicet Deus et pater, ut dicitur in VIII Ethic. Et ideo sola duo praecepta affirmativa ponuntur, unum de honoratione parentum; aliud de celebratione sabbati in commemorationem divini beneficii.

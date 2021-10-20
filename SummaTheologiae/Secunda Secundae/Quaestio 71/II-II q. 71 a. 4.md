@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod advocato non liceat pro suo patrocinio pecuniam accipere. Opera enim misericordiae non sunt intuitu humanae remunerationis facienda, secundum illud Luc. XIV, *cum facis prandium aut cenam, noli vocare amicos tuos neque vicinos divites, ne forte et ipsi te reinvitent, et fiat tibi retributio*. Sed praestare patrocinium causae alicuius pertinet ad opera misericordiae, ut dictum est. Ergo non licet advocato accipere retributionem pecuniae pro patrocinio praestito.
+Ad quartum sic proceditur. Videtur quod advocato non liceat pro suo patrocinio pecuniam accipere. Opera enim misericordiae non sunt intuitu humanae remunerationis facienda, secundum illud [[Lc 14]], *cum facis prandium aut cenam, noli vocare amicos tuos neque vicinos divites, ne forte et ipsi te reinvitent, et fiat tibi retributio*. Sed praestare patrocinium causae alicuius pertinet ad opera misericordiae, ut dictum est. Ergo non licet advocato accipere retributionem pecuniae pro patrocinio praestito.
 
 ###### arg. 2
 Praeterea, spirituale non est pro temporali commutandum. Sed patrocinium praestitum videtur esse quiddam spirituale, cum sit usus scientiae iuris. Ergo non licet advocato pro patrocinio praestito pecuniam accipere.

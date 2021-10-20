@@ -10,7 +10,7 @@ Praeterea, virtus sensitiva est nobilior quam nutritiva. Sed Angelus, ut videtur
 Praeterea, sensus naturaliter movetur a sensibili. Sed Angelus non potest immutare naturae ordinem, ut supra dictum est. Ergo Angelus non potest immutare sensum, sed semper sensus a sensibili immutatur.
 
 ###### s. c.
-Sed contra est quod Angeli qui subverterunt Sodomam, *percusserunt Sodomitas caecitate (vel aorasia), ut ostium domus invenire non possent*, ut dicitur Gen. XIX. Et simile legitur IV Reg. VI, de Syris quos Elisaeus duxit in Samariam.
+Sed contra est quod Angeli qui subverterunt Sodomam, *percusserunt Sodomitas caecitate (vel aorasia), ut ostium domus invenire non possent*, ut dicitur [[Gn 19]]. Et simile legitur [[2R 6]], de Syris quos Elisaeus duxit in Samariam.
 
 ###### co.
 Respondeo dicendum quod sensus immutatur dupliciter. Uno modo, ab exteriori; sicut cum mutatur a sensibili. Alio modo, ab interiori, videmus enim quod, perturbatis spiritibus et humoribus immutatur sensus; lingua enim infirmi, quia plena est cholerico humore, omnia sentit ut amara; et simile contingit in aliis sensibus. Utroque autem modo Angelus potest immutare sensum hominis sua naturali virtute. Potest enim Angelus opponere exterius sensui sensibile aliquod, vel a natura formatum, vel aliquod de novo formando; sicut facit dum corpus assumit, ut supra dictum est. Similiter etiam potest interius commovere spiritus et humores, ut supra dictum est, ex quibus sensus diversimode immutentur.

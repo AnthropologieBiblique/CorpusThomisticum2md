@@ -10,7 +10,7 @@ Praeterea, maius est iurare per Deum quam per Evangelia, unde Chrysostomus dicit
 Praeterea, idem non causatur ex contrariis causis, quia contrariae causae sunt contrariorum. Sed aliqui excluduntur a iuramento propter defectum personae, sicut pueri ante quatuordecim annos, et etiam illi qui semel fuerunt periuri. Non ergo videtur quod aliqui prohibeantur iurare vel propter dignitatem, sicut clerici; aut etiam propter temporis solemnitatem.
 
 ###### arg. 4
-Praeterea, nullus homo vivens in hoc mundo est tantae dignitatis sicut Angeli, dicitur enim Matth. XI quod *qui minor est in regno caelorum maior est illo*, scilicet Ioanne Baptista adhuc in mundo vivente. Sed Angelo convenit iurare, dicitur enim Apoc. X quod *Angelus iuravit per viventem in saecula saeculorum*. Ergo nullus homo propter dignitatem debet excusari a iuramento.
+Praeterea, nullus homo vivens in hoc mundo est tantae dignitatis sicut Angeli, dicitur enim [[Mt 11]] quod *qui minor est in regno caelorum maior est illo*, scilicet Ioanne Baptista adhuc in mundo vivente. Sed Angelo convenit iurare, dicitur enim [[Ap 10]] quod *Angelus iuravit per viventem in saecula saeculorum*. Ergo nullus homo propter dignitatem debet excusari a iuramento.
 
 ###### s. c.
 Sed contra est quod habetur II, qu. V, *presbyter, vice iuramenti, per sanctam consecrationem interrogetur*. Et XXII, qu. V, dicitur, *nullus ex ecclesiastico ordine cuiquam laico quidquam super sancta Evangelia iurare praesumat*.

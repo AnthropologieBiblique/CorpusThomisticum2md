@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod quaelibet actio infidelis sit peccatum. Quia super illud Rom. XIV, *omne quod non est ex fide peccatum est*, dicit Glossa, *omnis infidelium vita est peccatum*. Sed ad vitam infidelium pertinet omne quod agunt. Ergo omnis actio infidelis est peccatum.
+Ad quartum sic proceditur. Videtur quod quaelibet actio infidelis sit peccatum. Quia super illud [[Rm 14]], *omne quod non est ex fide peccatum est*, dicit Glossa, *omnis infidelium vita est peccatum*. Sed ad vitam infidelium pertinet omne quod agunt. Ergo omnis actio infidelis est peccatum.
 
 ###### arg. 2
 Praeterea, fides intentionem dirigit. Sed nullum bonum potest esse quod non est ex intentione recta. Ergo in infidelibus nulla actio potest esse bona.

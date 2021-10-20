@@ -4,6 +4,7 @@ import urllib.request
 import re
 import fileinput
 import os
+import csv
 
 # Attention aux ult. et ultimo
 #" (CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})"
@@ -13,7 +14,7 @@ class vinculumMachina:
 		self.indicatList = indicatList
 		self.ref = ref
 		self.regObjects = []
-		if multiple:
+		if multiple == "TRUE":
 			self.prefix = "(?<!(I|V))"
 		else:
 			self.prefix = "(?<!(I|V) )"
@@ -45,13 +46,36 @@ class vinculumMachina:
 		return retour
 
 
-indicatList = ["Ioan.","Ioann."]
-indicatList2 = ["II Ioan","II Ioann"]
+class vinculumBiblia:
+	def __init__(self,bibleReferences):
+		self.listMachinae = []
+		with open(bibleReferences+'.csv', mode='r') as csv_file:
+			csv_reader = csv.DictReader(csv_file, delimiter=';')
+			line_count = 0
+			for row in csv_reader:
+				indicatList = []
+				for i in range(3):
+					if row["Indicat"+str(i+1)] != "":
+						indicatList.append(row["Indicat"+str(i+1)])
+				self.listMachinae.append(vinculumMachina(row["Ref"],row["Multiple"],indicatList))
+		
 
-ref = "Jn"
-Jn = vinculumMachina(ref,False,indicatList)
-IJn = vinculumMachina("2 Jn",True,indicatList2)
-print(Jn.createLinks("Ceci est un test Ioan. IV. et Ioann. XCV. II Ioann XVIII. etc... "))
+
+#indicatList = ["Ioan.","Ioann."]
+#indicatList2 = ["II Ioan","II Ioann"]
+#ref = "Jn"
+#Jn = vinculumMachina(ref,False,indicatList)
+#IJn = vinculumMachina("2 Jn",True,indicatList2)
+#print(Jn.createLinks("Ceci est un test Ioan. IV. et Ioann. XCV. II Ioann XVIII. etc... "))
+
+
+test = vinculumBiblia('bibleReferences')
+
+print(test.listMachinae[49].createLinks("Ceci est un test Ioan. IV. et Ioann. XCV. I Ioann. XVIII. etc... "))
+
+
+
+
 
 #jn = re.compile(".*"+"(Ioan.)"+" (CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})")
 #print(jn.match("Ceci est un test Ioan. I etc...").group(4))

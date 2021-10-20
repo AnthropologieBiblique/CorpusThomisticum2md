@@ -1,7 +1,7 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod haec non sit forma huius sacramenti, *hoc est corpus meum, et, hic est calix sanguinis mei*. Illa enim verba videntur pertinere ad formam sacramenti quibus Christus corpus suum et sanguinem consecravit. Sed Christus ante benedixit panem acceptum, et postea dixit, *accipite et comedite, hoc est corpus meum*, ut habetur Matth. XXVI; et similiter fecit de calice. Ergo praedicta verba non sunt forma huius sacramenti.
+Ad primum sic proceditur. Videtur quod haec non sit forma huius sacramenti, *hoc est corpus meum, et, hic est calix sanguinis mei*. Illa enim verba videntur pertinere ad formam sacramenti quibus Christus corpus suum et sanguinem consecravit. Sed Christus ante benedixit panem acceptum, et postea dixit, *accipite et comedite, hoc est corpus meum*, ut habetur [[Mt 26]]; et similiter fecit de calice. Ergo praedicta verba non sunt forma huius sacramenti.
 
 ###### arg. 2
 Praeterea, Eusebius Emesenus dicit quod *invisibilis sacerdos visibiles creaturas in suum corpus convertit, dicens, accipite et comedite, hoc est corpus meum*. Ergo totum hoc videtur pertinere ad formam sacramenti. Et eadem ratio est de verbis pertinentibus ad sanguinem.

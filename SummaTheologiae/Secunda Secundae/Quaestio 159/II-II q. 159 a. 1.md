@@ -4,7 +4,7 @@
 Ad primum sic proceditur. Videtur quod crudelitas non opponatur clementiae. Dicit enim Seneca, in II de Clement., quod *illi vocantur crudeles qui excedunt modum in puniendo*, quod contrariatur iustitiae. Clementia autem non ponitur pars iustitiae, sed temperantiae. Ergo crudelitas non videtur opponi clementiae.
 
 ###### arg. 2
-Praeterea, Ierem. VI dicitur, *crudelis est, et non miserebitur*, et sic videtur quod crudelitas opponatur misericordiae. Sed misericordia non est idem clementiae, ut supra dictum est. Ergo crudelitas non opponitur clementiae.
+Praeterea, [[Jr 6]] dicitur, *crudelis est, et non miserebitur*, et sic videtur quod crudelitas opponatur misericordiae. Sed misericordia non est idem clementiae, ut supra dictum est. Ergo crudelitas non opponitur clementiae.
 
 ###### arg. 3
 Praeterea, clementia consideratur circa inflictionem poenarum, ut dictum est. Sed crudelitas consideratur etiam in subtractione beneficiorum, secundum illud Proverb. XI, *qui crudelis est, propinquos abiicit*. Ergo crudelitas non opponitur clementiae.

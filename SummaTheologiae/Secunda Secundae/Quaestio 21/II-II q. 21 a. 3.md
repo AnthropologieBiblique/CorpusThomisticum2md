@@ -1,7 +1,7 @@
 ### Articulus 3
 
 ###### arg. 1
-Ad tertium sic proceditur. Videtur quod praesumptio magis opponatur timori quam spei. Inordinatio enim timoris opponitur recto timori. Sed praesumptio videtur ad inordinationem timoris pertinere, dicitur enim Sap. XVII, *semper praesumit saeva perturbata conscientia*; et ibidem dicitur quod timor est praesumptionis adiutorium. Ergo praesumptio opponitur timori magis quam spei.
+Ad tertium sic proceditur. Videtur quod praesumptio magis opponatur timori quam spei. Inordinatio enim timoris opponitur recto timori. Sed praesumptio videtur ad inordinationem timoris pertinere, dicitur enim [[Sg 17]], *semper praesumit saeva perturbata conscientia*; et ibidem dicitur quod timor est praesumptionis adiutorium. Ergo praesumptio opponitur timori magis quam spei.
 
 ###### arg. 2
 Praeterea, contraria sunt quae maxime distant. Sed praesumptio magis distat a timore quam a spe, quia praesumptio importat motum ad rem, sicut et spes; timor autem motum a re. Ergo praesumptio magis contrariatur timori quam spei.

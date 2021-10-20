@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod in brutis animalibus non sit spes. Spes 
 Praeterea, obiectum spei est bonum possibile adipisci. Sed possibile et impossibile sunt quaedam differentiae veri et falsi, quae solum sunt in mente, ut philosophus dicit in VI Metaphys. Ergo spes non est in brutis animalibus, in quibus non est mens.
 
 ###### arg. 3
-Praeterea, Augustinus dicit, super Gen. ad Litt., quod animalia moventur visis. Sed spes non est de eo quod videtur, *nam quod videt quis, quid sperat?* Ut dicitur Rom. VIII. Ergo spes non est in brutis animalibus.
+Praeterea, Augustinus dicit, super Gen. ad Litt., quod animalia moventur visis. Sed spes non est de eo quod videtur, *nam quod videt quis, quid sperat?* Ut dicitur [[Rm 8]]. Ergo spes non est in brutis animalibus.
 
 ###### s. c.
 Sed contra, spes est passio irascibilis. Sed in brutis animalibus est irascibilis. Ergo et spes.

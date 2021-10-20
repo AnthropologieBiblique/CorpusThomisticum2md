@@ -1,16 +1,16 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod non fuerit necessarium beatae virgini annuntiari quod in ea fiendum erat. Annuntiatio enim ad hoc solum necessarium videbatur ut virginis consensus haberetur. Sed consensus eius non videtur necessarius fuisse, quia conceptus virginis praenuntiatus fuit prophetia praedestinationis quae sine nostro completur arbitrio, ut dicit quaedam Glossa, Matth. I. Non ergo necessarium fuit quod talis Annuntiatio fieret.
+Ad primum sic proceditur. Videtur quod non fuerit necessarium beatae virgini annuntiari quod in ea fiendum erat. Annuntiatio enim ad hoc solum necessarium videbatur ut virginis consensus haberetur. Sed consensus eius non videtur necessarius fuisse, quia conceptus virginis praenuntiatus fuit prophetia praedestinationis quae sine nostro completur arbitrio, ut dicit quaedam Glossa, [[Mt 1]]. Non ergo necessarium fuit quod talis Annuntiatio fieret.
 
 ###### arg. 2
-Praeterea, beata virgo incarnationis fidem habebat, sine qua nullus esse poterat in statu salutis, quia, ut dicitur Rom. III, *iustitia Dei est per fidem Iesu Christi*. Sed de eo quod aliquis per certitudinem credit, non indiget ulterius instrui. Ergo beatae virgini non fuit necessarium ut ei incarnatio filii annuntiaretur.
+Praeterea, beata virgo incarnationis fidem habebat, sine qua nullus esse poterat in statu salutis, quia, ut dicitur [[Rm 3]], *iustitia Dei est per fidem Iesu Christi*. Sed de eo quod aliquis per certitudinem credit, non indiget ulterius instrui. Ergo beatae virgini non fuit necessarium ut ei incarnatio filii annuntiaretur.
 
 ###### arg. 3
 Praeterea, sicut beata virgo corporaliter Christum concepit, ita quaelibet sancta anima concipit ipsum spiritualiter, unde apostolus dicit, Galat. IV, *filioli mei, quos iterum parturio, donec formetur Christus in vobis*. Sed illis qui spiritualiter debent ipsum concipere, talis conceptio eis non annuntiatur. Ergo nec beatae virgini fuit annuntiandum quod esset in utero conceptura filium Dei.
 
 ###### s. c.
-Sed contra est quod habetur Luc. I, quod Angelus dixit ei, *ecce, concipies in utero et paries filium*.
+Sed contra est quod habetur [[Lc 1]], quod Angelus dixit ei, *ecce, concipies in utero et paries filium*.
 
 ###### co.
 Respondeo dicendum quod congruum fuit beatae virgini annuntiari quod esset Christum conceptura. Primo quidem, ut servaretur congruus ordo coniunctionis filii Dei ad virginem, ut scilicet prius mens eius de ipso instrueretur quam carne eum conciperet. Unde Augustinus dicit, in libro de virginitate, *beatior Maria est percipiendo fidem Christi, quam concipiendo carnem Christi*. Et postea subdit, *materna propinquitas nihil Mariae profuisset, nisi felicius Christum corde quam carne gestasset*. Secundo, ut posset esse certior testis huius sacramenti, quando super hoc divinitus erat instructa. Tertio, ut voluntaria sui obsequii munera Deo offerret, ad quod se promptam obtulit, dicens, *ecce ancilla domini*. Quarto, ut ostenderetur esse quoddam spirituale matrimonium inter filium Dei et humanam naturam. Et ideo per Annuntiationem expetebatur consensus virginis loco totius humanae naturae.
@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod prophetia praedestinationis completur sine nostro a
 Ad secundum dicendum quod beata virgo expressam fidem habebat incarnationis futurae, sed, cum esset humilis, non tam alta de se sapiebat. Et ideo super hoc erat instruenda.
 
 ###### ad 3
-Ad tertium dicendum quod spiritualem conceptionem Christi, quae est per fidem, praecedit Annuntiatio quae est per fidei praedicationem, secundum quod *fides est ex auditu*, ut dicitur Rom. X. Nec tamen propter hoc aliquis pro certo scit se gratiam habere, sed scit veram fidem esse quam accipit.
+Ad tertium dicendum quod spiritualem conceptionem Christi, quae est per fidem, praecedit Annuntiatio quae est per fidei praedicationem, secundum quod *fides est ex auditu*, ut dicitur [[Rm 10]]. Nec tamen propter hoc aliquis pro certo scit se gratiam habere, sed scit veram fidem esse quam accipit.
 

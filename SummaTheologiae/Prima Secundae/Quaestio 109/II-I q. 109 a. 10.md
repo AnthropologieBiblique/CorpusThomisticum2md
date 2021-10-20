@@ -7,7 +7,7 @@ Ad decimum sic proceditur. Videtur quod homo in gratia constitutus non indigeat 
 Praeterea, omnes virtutes simul infunduntur. Sed perseverantia ponitur quaedam virtus. Ergo videtur quod, simul cum gratia infusis aliis virtutibus, perseverantia detur.
 
 ###### arg. 3
-Praeterea, sicut apostolus dicit, ad Rom. V, plus restitutum est homini per donum Christi, quam amiserit per peccatum Adae. Sed Adam accepit unde posset perseverare. Ergo multo magis nobis restituitur per gratiam Christi ut perseverare possimus. Et ita homo non indiget gratia ad perseverandum.
+Praeterea, sicut apostolus dicit, ad [[Rm 5]], plus restitutum est homini per donum Christi, quam amiserit per peccatum Adae. Sed Adam accepit unde posset perseverare. Ergo multo magis nobis restituitur per gratiam Christi ut perseverare possimus. Et ita homo non indiget gratia ad perseverandum.
 
 ###### s. c.
 Sed contra est quod Augustinus dicit, in libro de perseverantia, *cur perseverantia poscitur a Deo, si non datur a Deo? An et ista irrisoria petitio est, cum id ab eo petitur quod scitur non ipsum dare, sed, ipso non dante, esse in hominis potestate?* Sed perseverantia petitur etiam ab illis qui sunt per gratiam sanctificati, quod intelligitur cum dicimus, sanctificetur nomen tuum, ut ibidem Augustinus confirmat per verba Cypriani. Ergo homo etiam in gratia constitutus, indiget ut ei perseverantia a Deo detur.

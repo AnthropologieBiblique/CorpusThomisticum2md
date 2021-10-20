@@ -1,13 +1,13 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod discordia non sit filia inanis gloriae. Ira enim est aliud vitium ab inani gloria. Sed discordia videtur esse filia irae, secundum illud Prov. XV, *vir iracundus provocat rixas*. Ergo non est filia inanis gloriae.
+Ad secundum sic proceditur. Videtur quod discordia non sit filia inanis gloriae. Ira enim est aliud vitium ab inani gloria. Sed discordia videtur esse filia irae, secundum illud [[Pr 15]], *vir iracundus provocat rixas*. Ergo non est filia inanis gloriae.
 
 ###### arg. 2
-Praeterea, Augustinus dicit, super Ioan., exponens illud quod habetur Ioan. VII, *nondum erat spiritus datus, livor separat, caritas iungit*. Sed discordia nihil est aliud quam quaedam separatio voluntatum. Ergo discordia procedit ex livore, idest invidia, magis quam ex inani gloria.
+Praeterea, Augustinus dicit, super Ioan., exponens illud quod habetur [[Jn 7]], *nondum erat spiritus datus, livor separat, caritas iungit*. Sed discordia nihil est aliud quam quaedam separatio voluntatum. Ergo discordia procedit ex livore, idest invidia, magis quam ex inani gloria.
 
 ###### arg. 3
-Praeterea, illud ex quo multa mala oriuntur videtur esse vitium capitale. Sed discordia est huiusmodi, quia super illud Matth. XII, *omne regnum contra se divisum desolabitur*, dicit Hieronymus, *quo modo concordia parvae res crescunt, sic discordia maximae dilabuntur*. Ergo ipsa discordia debet poni vitium capitale, magis quam filia inanis gloriae.
+Praeterea, illud ex quo multa mala oriuntur videtur esse vitium capitale. Sed discordia est huiusmodi, quia super illud [[Mt 12]], *omne regnum contra se divisum desolabitur*, dicit Hieronymus, *quo modo concordia parvae res crescunt, sic discordia maximae dilabuntur*. Ergo ipsa discordia debet poni vitium capitale, magis quam filia inanis gloriae.
 
 ###### s. c.
 Sed contra est auctoritas Gregorii, XXXI Moral.

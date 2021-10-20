@@ -1,13 +1,13 @@
 ### Articulus 1
 
 ###### arg. 1
-Ad primum sic proceditur. Videtur quod virtus sit in nobis a natura. Dicit enim Damascenus, in III libro, *naturales sunt virtutes, et aequaliter insunt omnibus*. Et Antonius dicit, in sermone ad monachos, *si naturam voluntas mutaverit, perversitas est; conditio servetur, et virtus est*. Et Matth. IV, super illud, *circuibat Iesus* etc., dicit Glossa, *docet naturales iustitias, scilicet castitatem, iustitiam, humilitatem, quas naturaliter habet homo*.
+Ad primum sic proceditur. Videtur quod virtus sit in nobis a natura. Dicit enim Damascenus, in III libro, *naturales sunt virtutes, et aequaliter insunt omnibus*. Et Antonius dicit, in sermone ad monachos, *si naturam voluntas mutaverit, perversitas est; conditio servetur, et virtus est*. Et [[Mt 4]], super illud, *circuibat Iesus* etc., dicit Glossa, *docet naturales iustitias, scilicet castitatem, iustitiam, humilitatem, quas naturaliter habet homo*.
 
 ###### arg. 2
 Praeterea, bonum virtutis est secundum rationem esse, ut ex dictis patet. Sed id quod est secundum rationem, est homini naturale, cum ratio sit hominis natura. Ergo virtus inest homini a natura.
 
 ###### arg. 3
-Praeterea, illud dicitur esse nobis naturale, quod nobis a nativitate inest. Sed virtutes quibusdam a nativitate insunt, dicitur enim Iob XXXI, *ab infantia crevit mecum miseratio, et de utero egressa est mecum*. Ergo virtus inest homini a natura.
+Praeterea, illud dicitur esse nobis naturale, quod nobis a nativitate inest. Sed virtutes quibusdam a nativitate insunt, dicitur enim [[Jb 31]], *ab infantia crevit mecum miseratio, et de utero egressa est mecum*. Ergo virtus inest homini a natura.
 
 ###### s. c.
 Sed contra, id quod inest homini a natura, est omnibus hominibus commune, et non tollitur per peccatum, quia etiam in Daemonibus bona naturalia manent, ut Dionysius dicit, in IV cap. de Div. Nom. Sed virtus non inest omnibus hominibus; et abiicitur per peccatum. Ergo non inest homini a natura.

@@ -7,7 +7,7 @@ Ad tertium sic proceditur. Videtur quod caritas non sit forma fidei. Unumquodque
 Praeterea, forma et id cuius est forma sunt in eodem, quia ex eis fit unum simpliciter. Sed fides est in intellectu, caritas autem in voluntate. Ergo caritas non est forma fidei.
 
 ###### arg. 3
-Praeterea, forma est principium rei. Sed principium credendi ex parte voluntatis magis videtur esse obedientia quam caritas, secundum illud ad Rom. I, *ad obediendum fidei in omnibus gentibus*. Ergo obedientia magis est forma fidei quam caritas.
+Praeterea, forma est principium rei. Sed principium credendi ex parte voluntatis magis videtur esse obedientia quam caritas, secundum illud ad [[Rm 1]], *ad obediendum fidei in omnibus gentibus*. Ergo obedientia magis est forma fidei quam caritas.
 
 ###### s. c.
 Sed contra est quod unumquodque operatur per suam formam. Fides autem per dilectionem operatur. Ergo dilectio caritatis est forma fidei.

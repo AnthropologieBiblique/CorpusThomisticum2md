@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod fides non sit in intellectu sicut in su
 Praeterea, assensus fidei ad aliquid credendum provenit ex voluntate Deo obediente. Tota ergo laus fidei ex obedientia esse videtur. Sed obedientia est in voluntate. Ergo et fides. Non ergo est in intellectu.
 
 ###### arg. 3
-Praeterea, intellectus est vel speculativus vel practicus. Sed fides non est in intellectu speculativo, qui, cum nihil dicat de imitabili et fugiendo, ut dicitur in III de anima, non est principium operationis, fides autem est quae per dilectionem operatur, ut dicitur ad Gal. V. Similiter etiam nec in intellectu practico, cuius obiectum est verum contingens factibile vel agibile, obiectum enim fidei est verum aeternum, ut ex supradictis patet. Non ergo fides est in intellectu sicut in subiecto.
+Praeterea, intellectus est vel speculativus vel practicus. Sed fides non est in intellectu speculativo, qui, cum nihil dicat de imitabili et fugiendo, ut dicitur in III de anima, non est principium operationis, fides autem est quae per dilectionem operatur, ut dicitur ad [[Ga 5]]. Similiter etiam nec in intellectu practico, cuius obiectum est verum contingens factibile vel agibile, obiectum enim fidei est verum aeternum, ut ex supradictis patet. Non ergo fides est in intellectu sicut in subiecto.
 
 ###### s. c.
 Sed contra est quod fidei succedit visio patriae, secundum illud I ad Cor. XIII, *videmus nunc per speculum in aenigmate, tunc autem facie ad faciem*. Sed visio est in intellectu. Ergo et fides.

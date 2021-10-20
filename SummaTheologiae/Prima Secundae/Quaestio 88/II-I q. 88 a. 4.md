@@ -1,7 +1,7 @@
 ### Articulus 4
 
 ###### arg. 1
-Ad quartum sic proceditur. Videtur quod peccatum veniale possit fieri mortale. Dicit enim Augustinus, exponens illud Ioan. III, *qui incredulus est filio, non videbit vitam*, peccata minima (idest venialia), si negligantur, occidunt. Sed ex hoc dicitur peccatum mortale, quod spiritualiter occidit animam. Ergo peccatum veniale potest fieri mortale.
+Ad quartum sic proceditur. Videtur quod peccatum veniale possit fieri mortale. Dicit enim Augustinus, exponens illud [[Jn 3]], *qui incredulus est filio, non videbit vitam*, peccata minima (idest venialia), si negligantur, occidunt. Sed ex hoc dicitur peccatum mortale, quod spiritualiter occidit animam. Ergo peccatum veniale potest fieri mortale.
 
 ###### arg. 2
 Praeterea, motus sensualitatis ante consensum rationis est peccatum veniale, post consensum vero est peccatum mortale, ut supra dictum est. Ergo peccatum veniale potest fieri mortale.

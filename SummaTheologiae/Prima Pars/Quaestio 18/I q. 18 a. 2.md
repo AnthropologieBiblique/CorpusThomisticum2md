@@ -7,7 +7,7 @@ Ad secundum sic proceditur. Videtur quod vita sit quaedam operatio. Nihil enim d
 Praeterea, vita activa dicitur alia esse a contemplativa. Sed contemplativi ab activis non diversificantur nisi secundum operationes quasdam. Ergo vita est quaedam operatio.
 
 ###### arg. 3
-Praeterea, cognoscere Deum est operatio quaedam. Haec autem est vita, ut patet per illud Ioan. XVII, *haec est autem vita aeterna, ut cognoscant te solum verum Deum*. Ergo vita est operatio.
+Praeterea, cognoscere Deum est operatio quaedam. Haec autem est vita, ut patet per illud [[Jn 17]], *haec est autem vita aeterna, ut cognoscant te solum verum Deum*. Ergo vita est operatio.
 
 ###### s. c.
 Sed contra est quod dicit philosophus, in II de anima, *vivere viventibus est esse*.
