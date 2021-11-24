@@ -10,7 +10,7 @@ Praeterea, apostolus dicit, [[Rm 8]], quod *illos quos Deus praescivit conformes
 Praeterea, similitudo est de ratione imaginis, ut supra dictum est. Sed per peccatum fit homo Deo dissimilis. Ergo amittit Dei imaginem.
 
 ###### s. c.
-Sed contra est quod dicitur in Psalmo XXXVIII, *veruntamen in imagine pertransit homo*.
+Sed contra est quod dicitur in [[Ps 38]], *veruntamen in imagine pertransit homo*.
 
 ###### co.
 Respondeo dicendum quod, cum homo secundum intellectualem naturam ad imaginem Dei esse dicatur, secundum hoc est maxime ad imaginem Dei, secundum quod intellectualis natura Deum maxime imitari potest. Imitatur autem intellectualis natura maxime Deum quantum ad hoc, quod Deus seipsum intelligit et amat. Unde imago Dei tripliciter potest considerari in homine. Uno quidem modo, secundum quod homo habet aptitudinem naturalem ad intelligendum et amandum Deum, et haec aptitudo consistit in ipsa natura mentis, quae est communis omnibus hominibus. Alio modo, secundum quod homo actu vel habitu Deum cognoscit et amat, sed tamen imperfecte, et haec est imago per conformitatem gratiae. Tertio modo, secundum quod homo Deum actu cognoscit et amat perfecte, et sic attenditur imago secundum similitudinem gloriae. Unde super illud [[Ps 4]], *signatum est super nos lumen vultus tui, domine*, Glossa distinguit triplicem imaginem, scilicet creationis, recreationis et similitudinis. Prima ergo imago invenitur in omnibus hominibus; secunda in iustis tantum; tertia vero solum in beatis.

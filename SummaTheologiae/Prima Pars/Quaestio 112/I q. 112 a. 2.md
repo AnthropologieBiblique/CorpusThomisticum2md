@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod omnes Angeli in ministerium mittantur. Dicit enim apostolus, ad Heb. I, *omnes sunt administratorii spiritus, in ministerium missi*.
+Ad secundum sic proceditur. Videtur quod omnes Angeli in ministerium mittantur. Dicit enim apostolus, ad [[He 1]], *omnes sunt administratorii spiritus, in ministerium missi*.
 
 ###### arg. 2
 Praeterea, inter ordines supremus est ordo Seraphim, ut ex supra dictis patet. Sed Seraphim est missus ad purgandum labia prophetae, ut habetur [[Is 6]]. Ergo multo magis inferiores Angeli mittuntur.

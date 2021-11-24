@@ -18,3 +18,5 @@ Deinde considerandum de missione divinarum personarum. Et circa hoc quaeruntur o
 
 ![[I q. 43 a. 7#Articulus 7]]
 
+![[I q. 43 a. 8#Articulus 8]]
+

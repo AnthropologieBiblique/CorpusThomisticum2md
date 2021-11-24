@@ -22,3 +22,5 @@ Et ut intentio nostra sub aliquibus certis limitibus comprehendatur, necessarium
 
 ![[I q. 1 a. 9#Articulus 9]]
 
+![[I q. 1 a. 10#Articulus 10]]
+

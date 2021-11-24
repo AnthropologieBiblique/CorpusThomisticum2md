@@ -13,7 +13,7 @@ Praeterea, actus iustitiae est reddere debitum. Sed Deus nulli est debitor. Ergo
 Praeterea, quidquid est in Deo, est eius essentia. Sed hoc non competit iustitiae, dicit enim Boetius, in libro de Hebdomad., quod *bonum essentiam, iustum vero actum respicit*. Ergo iustitia non competit Deo.
 
 ###### s. c.
-Sed contra est quod dicitur in Psalmo X, *iustus dominus, et iustitias dilexit*.
+Sed contra est quod dicitur in [[Ps 10]], *iustus dominus, et iustitias dilexit*.
 
 ###### co.
 Respondeo dicendum quod duplex est species iustitiae. Una, quae consistit in mutua datione et acceptione, ut puta quae consistit in emptione et venditione, et aliis huiusmodi communicationibus vel commutationibus. Et haec dicitur a philosopho, in V Ethic., iustitia commutativa, vel directiva commutationum sive communicationum. Et haec non competit Deo, quia, ut dicit apostolus, [[Rm 11]], *quis prior dedit illi, et retribuetur ei?* Alia, quae consistit in distribuendo, et dicitur distributiva iustitia, secundum quam aliquis gubernator vel dispensator dat unicuique secundum suam dignitatem. Sicut igitur ordo congruus familiae, vel cuiuscumque multitudinis gubernatae, demonstrat huiusmodi iustitiam in gubernante; ita ordo universi, qui apparet tam in rebus naturalibus quam in rebus voluntariis, demonstrat Dei iustitiam. Unde dicit Dionysius, VIII cap. de Div. Nom., *oportet videre in hoc veram Dei esse iustitiam, quod omnibus tribuit propria, secundum uniuscuiusque existentium dignitatem; et uniuscuiusque naturam in proprio salvat ordine et virtute*.

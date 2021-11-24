@@ -10,7 +10,7 @@ Praeterea, philosophus dicit, in VIII Metaphys., quod si aliqua substantia sit f
 Praeterea, omne quod fit ab aliquo agente, per hoc quod fit, accipit formam ab eo. Sed Angeli, cum sint formae, non accipiunt formam ab aliquo agente. Ergo Angeli non habent causam agentem.
 
 ###### s. c.
-Sed contra est quod dicitur in Psalmo CXLVIII, *laudate eum, omnes Angeli eius*. Et postea subdit, *quoniam ipse dixit, et facta sunt*.
+Sed contra est quod dicitur in [[Ps 148]], *laudate eum, omnes Angeli eius*. Et postea subdit, *quoniam ipse dixit, et facta sunt*.
 
 ###### co.
 Respondeo dicendum quod necesse est dicere et Angelos, et omne id quod praeter Deum est, a Deo factum esse. Solus enim Deus est suum esse, in omnibus autem aliis differt essentia rei et esse eius, ut ex superioribus patet. Et ex hoc manifestum est quod solus Deus est ens per suam essentiam, omnia vero alia sunt entia per participationem. Omne autem quod est per participationem causatur ab eo quod est per essentiam, sicut omne ignitum causatur ab igne. Unde necesse est Angelos a Deo creatos esse.

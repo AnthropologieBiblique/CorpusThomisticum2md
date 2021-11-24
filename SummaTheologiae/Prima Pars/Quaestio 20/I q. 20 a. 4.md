@@ -4,7 +4,7 @@
 Ad quartum sic proceditur. Videtur quod Deus non semper magis diligat meliora. Manifestum est enim quod Christus est melior toto genere humano, cum sit Deus et homo. Sed Deus magis dilexit genus humanum quam Christum, quia dicitur [[Rm 8]], *proprio filio suo non pepercit, sed pro nobis omnibus tradidit illum*. Ergo Deus non semper magis diligit meliora.
 
 ###### arg. 2
-Praeterea, Angelus est melior homine, unde in Psalmo VIII dicitur de homine, *minuisti eum paulo minus ab Angelis*. Sed Deus plus dilexit hominem quam Angelum, dicitur enim [[He 2]], *nusquam Angelos apprehendit, sed semen Abrahae apprehendit*. Ergo Deus non semper magis diligit meliora.
+Praeterea, Angelus est melior homine, unde in [[Ps 8]] dicitur de homine, *minuisti eum paulo minus ab Angelis*. Sed Deus plus dilexit hominem quam Angelum, dicitur enim [[He 2]], *nusquam Angelos apprehendit, sed semen Abrahae apprehendit*. Ergo Deus non semper magis diligit meliora.
 
 ###### arg. 3
 Praeterea, Petrus fuit melior Ioanne, quia plus Christum diligebat. Unde dominus, sciens hoc esse verum, interrogavit Petrum, dicens, *Simon Ioannis, diligis me plus his?* Sed tamen Christus plus dilexit Ioannem quam Petrum, ut enim dicit Augustinus, super illud [[Jn 21]], *Simon Ioannis diligis me? Hoc ipso signo Ioannes a ceteris discipulis discernitur; non quod solum eum, sed quod plus eum ceteris diligebat*. Non ergo semper magis diligit meliora.

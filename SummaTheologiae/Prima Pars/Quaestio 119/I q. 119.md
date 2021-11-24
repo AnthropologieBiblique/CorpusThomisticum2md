@@ -6,3 +6,5 @@ Deinde considerandum est de propagatione hominis quantum ad corpus. Et circa hoc
 
 ![[I q. 119 a. 1#Articulus 1]]
 
+![[I q. 119 a. 2#Articulus 2]]
+

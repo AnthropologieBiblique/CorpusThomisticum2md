@@ -7,10 +7,10 @@ Ad primum sic proceditur. Videtur quod Angelus non sit omnino incorporeus. Illud
 Praeterea, nihil movetur nisi corpus, ut probatur in VI Physic. Sed Damascenus dicit ibidem quod Angelus est substantia intellectualis semper mobilis. Angelus ergo est substantia corporea.
 
 ###### arg. 3
-Praeterea, Ambrosius dicit, in libro de spiritu sancto, *omnis creatura certis suae naturae circumscripta est limitibus*. Circumscribi autem proprium est corporum. Ergo omnis creatura est corporea. Angeli autem sunt Dei creaturae, ut patet in Psalmo CXLVIII, laudate dominum, omnes Angeli eius; et postea subditur, *quoniam ipse dixit, et facta sunt, ipse mandavit, et creata sunt*. Ergo Angeli sunt corporei.
+Praeterea, Ambrosius dicit, in libro de spiritu sancto, *omnis creatura certis suae naturae circumscripta est limitibus*. Circumscribi autem proprium est corporum. Ergo omnis creatura est corporea. Angeli autem sunt Dei creaturae, ut patet in [[Ps 148]], laudate dominum, omnes Angeli eius; et postea subditur, *quoniam ipse dixit, et facta sunt, ipse mandavit, et creata sunt*. Ergo Angeli sunt corporei.
 
 ###### s. c.
-Sed contra est quod dicitur in Psalmo CIII, *qui facit Angelos suos spiritus*.
+Sed contra est quod dicitur in [[Ps 103]], *qui facit Angelos suos spiritus*.
 
 ###### co.
 Respondeo dicendum quod necesse est ponere aliquas creaturas incorporeas. Id enim quod praecipue in rebus creatis Deus intendit est bonum quod consistit in assimilatione ad Deum. Perfecta autem assimilatio effectus ad causam attenditur, quando effectus imitatur causam secundum illud per quod causa producit effectum; sicut calidum facit calidum. Deus autem creaturam producit per intellectum et voluntatem, ut supra ostensum est. Unde ad perfectionem universi requiritur quod sint aliquae creaturae intellectuales. Intelligere autem non potest esse actus corporis, nec alicuius virtutis corporeae, quia omne corpus determinatur ad hic et nunc. Unde necesse est ponere, ad hoc quod universum sit perfectum, quod sit aliqua incorporea creatura. Antiqui autem, ignorantes vim intelligendi, et non distinguentes inter sensum et intellectum, nihil esse existimaverunt in mundo, nisi quod sensu et imaginatione apprehendi potest. Et quia sub imaginatione non cadit nisi corpus, existimaverunt quod nullum ens esset nisi corpus; ut philosophus dicit in IV Physic. Et ex his processit Sadducaeorum error, dicentium non esse spiritum. Sed hoc ipsum quod intellectus est altior sensu, rationabiliter ostendit esse aliquas res incorporeas, a solo intellectu comprehensibiles.

@@ -4,7 +4,7 @@
 Ad tertium sic proceditur. Videtur quod custodire homines non pertineat solum ad infimum ordinem Angelorum. Dicit enim Chrysostomus quod hoc quod dicitur [[Mt 18]], *Angeli eorum in caelo etc., intelligitur non de quibuscumque Angelis, sed de supereminentibus*. Ergo supereminentes Angeli custodiunt homines.
 
 ###### arg. 2
-Praeterea, apostolus, ad Heb. I, dicit quod *Angeli sunt in ministerium missi propter eos qui haereditatem capiunt salutis*, et sic videtur quod missio Angelorum ad custodiam hominum ordinetur. Sed quinque ordines in exterius ministerium mittuntur, ut supra dictum est. Ergo omnes Angeli quinque ordinum custodiae hominum deputantur.
+Praeterea, apostolus, ad [[He 1]], dicit quod *Angeli sunt in ministerium missi propter eos qui haereditatem capiunt salutis*, et sic videtur quod missio Angelorum ad custodiam hominum ordinetur. Sed quinque ordines in exterius ministerium mittuntur, ut supra dictum est. Ergo omnes Angeli quinque ordinum custodiae hominum deputantur.
 
 ###### arg. 3
 Praeterea, ad custodiam hominum maxime videtur esse necessarium arcere Daemones, quod pertinet ad potestates, secundum Gregorium; et miracula facere, quod pertinet ad virtutes. Ergo illi etiam ordines deputantur ad custodiam, et non solum infimus.

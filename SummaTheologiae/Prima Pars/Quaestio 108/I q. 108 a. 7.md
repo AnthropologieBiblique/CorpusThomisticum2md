@@ -7,7 +7,7 @@ Ad septimum sic proceditur. Videtur quod ordines non remanebunt post diem iudici
 Praeterea, ad officium angelicorum ordinum pertinet purgare, illuminare et perficere. Sed post diem iudicii unus Angelus non purgabit aut illuminabit aut perficiet alium, quia non proficient amplius in scientia. Ergo frustra ordines angelici remanerent.
 
 ###### arg. 3
-Praeterea, apostolus dicit, ad Heb. I, de Angelis, quod *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ex quo patet quod officia Angelorum ordinantur ad hoc, quod homines ad salutem adducantur. Sed omnes electi usque ad diem iudicii salutem consequuntur. Non ergo post diem iudicii remanebunt officia et ordines Angelorum.
+Praeterea, apostolus dicit, ad [[He 1]], de Angelis, quod *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ex quo patet quod officia Angelorum ordinantur ad hoc, quod homines ad salutem adducantur. Sed omnes electi usque ad diem iudicii salutem consequuntur. Non ergo post diem iudicii remanebunt officia et ordines Angelorum.
 
 ###### s. c.
 Sed contra est quod dicitur [[Jg 5]], stellae manentes in ordine et cursu suo, quod exponitur de Angelis. Ergo Angeli semper in suis ordinibus remanebunt.

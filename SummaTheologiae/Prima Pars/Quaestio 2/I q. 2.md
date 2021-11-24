@@ -8,3 +8,5 @@ Quia igitur principalis intentio huius sacrae doctrinae est Dei cognitionem trad
 
 ![[I q. 2 a. 2#Articulus 2]]
 
+![[I q. 2 a. 3#Articulus 3]]
+

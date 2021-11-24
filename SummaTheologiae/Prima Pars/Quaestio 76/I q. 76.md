@@ -18,3 +18,5 @@ Deinde considerandum est de unione animae ad corpus. Et circa hoc quaeruntur oct
 
 ![[I q. 76 a. 7#Articulus 7]]
 
+![[I q. 76 a. 8#Articulus 8]]
+

@@ -1,7 +1,7 @@
 ### Articulus 2
 
 ###### arg. 1
-Ad secundum sic proceditur. Videtur quod Angeli possint immutare voluntatem hominis. Quia super illud Heb. I, *qui facit Angelos suos spiritus, et ministros suos flammam ignis*, dicit Glossa quod *ignis sunt, dum spiritu fervent, et vitia nostra urunt*. Sed hoc non esset, nisi voluntatem immutarent. Ergo Angeli possunt immutare voluntatem.
+Ad secundum sic proceditur. Videtur quod Angeli possint immutare voluntatem hominis. Quia super illud [[He 1]], *qui facit Angelos suos spiritus, et ministros suos flammam ignis*, dicit Glossa quod *ignis sunt, dum spiritu fervent, et vitia nostra urunt*. Sed hoc non esset, nisi voluntatem immutarent. Ergo Angeli possunt immutare voluntatem.
 
 ###### arg. 2
 Praeterea, Beda dicit quod *Diabolus non est immissor malarum cogitationum, sed incensor*. Damascenus autem ulterius dicit quod etiam est immissor, dicit enim in II libro, quod *omnis malitia et immundae passiones ex Daemonibus excogitatae sunt, et immittere homini sunt concessi*. Et pari ratione, Angeli boni immittunt et incendunt bonas cogitationes. Sed hoc non possent facere, nisi immutarent voluntatem. Ergo immutant voluntatem.

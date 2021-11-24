@@ -22,5 +22,5 @@ Ad primum ergo dicendum quod illa ratio dupliciter deficit in proposito. Primo q
 Ad secundum dicendum quod motus existentis in potentia, est actus imperfecti. Sed motus qui est secundum applicationem virtutis, est existentis in actu, quia virtus rei est secundum quod actu est.
 
 ###### ad 3
-Ad tertium dicendum quod motus existentis in potentia, est propter indigentiam suam, sed motus existentis in actu, non est propter indigentiam suam, sed propter indigentiam alterius. Et hoc modo Angelus, propter indigentiam nostram, localiter movetur, secundum illud Heb. I, *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*.
+Ad tertium dicendum quod motus existentis in potentia, est propter indigentiam suam, sed motus existentis in actu, non est propter indigentiam suam, sed propter indigentiam alterius. Et hoc modo Angelus, propter indigentiam nostram, localiter movetur, secundum illud [[He 1]], *omnes sunt administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*.
 

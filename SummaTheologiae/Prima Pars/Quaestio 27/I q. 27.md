@@ -12,3 +12,5 @@ Consideratis autem his quae ad divinae essentiae unitatem pertinent, restat cons
 
 ![[I q. 27 a. 4#Articulus 4]]
 
+![[I q. 27 a. 5#Articulus 5]]
+

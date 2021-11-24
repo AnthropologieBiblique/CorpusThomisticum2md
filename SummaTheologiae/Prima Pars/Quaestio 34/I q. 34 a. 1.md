@@ -10,7 +10,7 @@ Praeterea, secundum Augustinum, in libro de Trin., verbum est notitia cum amore.
 Praeterea, de ratione verbi est quod dicatur. Sed, secundum Anselmum, sicut pater est intelligens, et filius est intelligens, et spiritus sanctus est intelligens; ita pater est dicens, filius est dicens, et spiritus sanctus est dicens. Et similiter quilibet eorum dicitur. Ergo nomen verbi essentialiter dicitur in divinis, et non personaliter.
 
 ###### arg. 4
-Praeterea, nulla persona divina est facta. Sed verbum Dei est aliquid factum, dicitur enim in Psalmo CXLVIII, *ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius*. Ergo verbum non est nomen personale in divinis.
+Praeterea, nulla persona divina est facta. Sed verbum Dei est aliquid factum, dicitur enim in [[Ps 148]], *ignis, grando, nix, glacies, spiritus procellarum, quae faciunt verbum eius*. Ergo verbum non est nomen personale in divinis.
 
 ###### s. c.
 Sed contra est quod dicit Augustinus, in VII de Trin., *sicut filius refertur ad patrem, ita et verbum ad id cuius est verbum*. Sed filius est nomen personale, quia relative dicitur. Ergo et verbum.

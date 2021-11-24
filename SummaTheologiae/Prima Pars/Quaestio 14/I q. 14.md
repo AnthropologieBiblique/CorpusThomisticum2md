@@ -34,3 +34,5 @@ Post considerationem eorum quae ad divinam substantiam pertinent, restat conside
 
 ![[I q. 14 a. 15#Articulus 15]]
 
+![[I q. 14 a. 16#Articulus 16]]
+

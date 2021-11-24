@@ -8,3 +8,5 @@ Consequenter quaeritur de causa mali. Et circa hoc quaeruntur tria. Primo, utrum
 
 ![[I q. 49 a. 2#Articulus 2]]
 
+![[I q. 49 a. 3#Articulus 3]]
+

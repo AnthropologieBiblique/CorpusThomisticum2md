@@ -10,3 +10,5 @@ Consequenter quaeritur de poena Daemonum. Et circa hoc quaeruntur quatuor. Primo
 
 ![[I q. 64 a. 3#Articulus 3]]
 
+![[I q. 64 a. 4#Articulus 4]]
+

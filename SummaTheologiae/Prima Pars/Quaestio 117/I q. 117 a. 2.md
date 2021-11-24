@@ -4,7 +4,7 @@
 Ad secundum sic proceditur. Videtur quod homines possint docere Angelos. Dicit enim apostolus, ad [[Ep 3]], *ut innotescat principibus et potestatibus in caelestibus per Ecclesiam multiformis sapientia Dei*. Sed Ecclesia est congregatio hominum fidelium. Ergo Angelis per homines aliqua innotescunt.
 
 ###### arg. 2
-Praeterea, Angeli superiores, qui immediate de divinis a Deo illuminantur, inferiores Angelos instruere possunt, ut supra dictum est. Sed aliqui homines immediate de divinis per Dei verbum sunt instructi; sicut maxime patet de apostolis, secundum illud ad Heb. I, *novissime, diebus istis, locutus est nobis in filio*. Ergo aliqui homines aliquos Angelos docere potuerunt.
+Praeterea, Angeli superiores, qui immediate de divinis a Deo illuminantur, inferiores Angelos instruere possunt, ut supra dictum est. Sed aliqui homines immediate de divinis per Dei verbum sunt instructi; sicut maxime patet de apostolis, secundum illud ad [[He 1]], *novissime, diebus istis, locutus est nobis in filio*. Ergo aliqui homines aliquos Angelos docere potuerunt.
 
 ###### arg. 3
 Praeterea, inferiores Angeli a superioribus instruuntur. Sed quidam homines superiores sunt aliquibus Angelis, cum ad supremos ordines Angelorum aliqui homines assumantur, ut Gregorius dicit in quadam homilia. Ergo aliqui inferiores Angeli per aliquos homines de divinis instrui possunt.

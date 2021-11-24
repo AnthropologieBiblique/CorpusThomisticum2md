@@ -4,7 +4,7 @@
 Ad nonum sic proceditur. Videtur quod Angeli beati in beatitudine proficere possint. Caritas enim est principium merendi. Sed in Angelis est perfecta caritas. Ergo Angeli beati possunt mereri. Crescente autem merito, et praemium beatitudinis crescit. Ergo Angeli beati in beatitudine proficere possunt.
 
 ###### arg. 2
-Praeterea, Augustinus dicit, in libro de Doctr. Christ., quod *Deus utitur nobis ad nostram utilitatem, et ad suam bonitatem*. Et similiter Angelis, quibus utitur in ministeriis spiritualibus; *cum sint administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ut dicitur Heb. I. Non autem hoc esset ad eorum utilitatem, si per hoc non mererentur nec in beatitudine proficerent. Relinquitur ergo quod Angeli beati et mereri, et in beatitudine proficere possunt.
+Praeterea, Augustinus dicit, in libro de Doctr. Christ., quod *Deus utitur nobis ad nostram utilitatem, et ad suam bonitatem*. Et similiter Angelis, quibus utitur in ministeriis spiritualibus; *cum sint administratorii spiritus, in ministerium missi propter eos qui haereditatem capiunt salutis*, ut dicitur [[He 1]]. Non autem hoc esset ad eorum utilitatem, si per hoc non mererentur nec in beatitudine proficerent. Relinquitur ergo quod Angeli beati et mereri, et in beatitudine proficere possunt.
 
 ###### arg. 3
 Praeterea, ad imperfectionem pertinet quod ille qui non est in summo, non possit proficere. Sed Angeli non sunt in summo. Si ergo ad maius proficere non possunt, videtur quod in eis sit imperfectio et defectus. Quod est inconveniens.

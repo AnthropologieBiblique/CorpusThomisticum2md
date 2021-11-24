@@ -13,7 +13,7 @@ Praeterea, potentia est principium operationis. Sed operatio divina est eius ess
 Praeterea, supra ostensum est quod scientia Dei et voluntas eius sunt causa rerum. Causa autem et principium idem sunt. Ergo non oportet in Deo assignare potentiam, sed solum scientiam et voluntatem.
 
 ###### s. c.
-Sed contra est quod dicitur in Psalmo LXXXVIII, *potens es, domine, et veritas tua in circuitu tuo*.
+Sed contra est quod dicitur in [[Ps 88]], *potens es, domine, et veritas tua in circuitu tuo*.
 
 ###### co.
 Respondeo dicendum quod duplex est potentia, scilicet passiva, quae nullo modo est in Deo; et activa, quam oportet in Deo summe ponere. Manifestum est enim quod unumquodque, secundum quod est actu et perfectum, secundum hoc est principium activum alicuius, patitur autem unumquodque, secundum quod est deficiens et imperfectum. Ostensum est autem supra quod Deus est purus actus, et simpliciter et universaliter perfectus; neque in eo aliqua imperfectio locum habet. Unde sibi maxime competit esse principium activum, et nullo modo pati. Ratio autem activi principii convenit potentiae activae. Nam potentia activa est principium agendi in aliud, potentia vero passiva est principium patiendi ab alio, ut philosophus dicit, V Metaphys. Relinquitur ergo quod in Deo maxime sit potentia activa.

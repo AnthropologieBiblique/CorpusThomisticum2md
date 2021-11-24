@@ -10,3 +10,5 @@ Deinde quaeritur de libero arbitrio. Et circa hoc quaeruntur quatuor. Primo, utr
 
 ![[I q. 83 a. 3#Articulus 3]]
 
+![[I q. 83 a. 4#Articulus 4]]
+

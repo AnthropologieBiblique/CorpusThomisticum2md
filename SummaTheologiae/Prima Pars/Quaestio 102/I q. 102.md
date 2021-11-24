@@ -10,3 +10,5 @@ Deinde considerandum est de loco hominis, qui est Paradisus. Et circa hoc quaeru
 
 ![[I q. 102 a. 3#Articulus 3]]
 
+![[I q. 102 a. 4#Articulus 4]]
+
