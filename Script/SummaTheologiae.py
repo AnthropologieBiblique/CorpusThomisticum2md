@@ -132,7 +132,7 @@ class Quaestio:
 		f = open(via+'/'+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
-		f.write('- '+'Summa/'+parsIndicat+'/'+self.indicat+'\n')
+		f.write('- '+'Summa/'+parsIndicat+'/q.'+self.indicat+'\n')
 		f.write('---'+'\n\n')
 		f.write('## '+self.titulus+'\n\n')
 		f.write('### Prooemium'+'\n\n')
@@ -178,7 +178,7 @@ class Argumentum:
 		elif indexSc.match(titulus) != None:
 			self.index = "s. c."
 		elif indexCo.match(titulus) !=None :
-			self.index = "co."
+			self.index = "resp."
 		elif indexAd.match(titulus) != None:
 			self.index = indexAd.match(titulus).group(1)
 		self.titulus = titulus

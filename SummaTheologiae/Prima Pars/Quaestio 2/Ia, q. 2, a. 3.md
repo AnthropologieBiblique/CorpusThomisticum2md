@@ -1,3 +1,8 @@
+---
+tags : 
+- Summa/Ia/q.2/a.3
+---
+
 ### Articulus 3
 
 ###### arg. 1

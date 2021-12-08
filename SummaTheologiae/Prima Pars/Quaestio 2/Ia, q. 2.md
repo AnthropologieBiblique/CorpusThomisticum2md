@@ -1,3 +1,8 @@
+---
+tags : 
+- Summa/Ia/2
+---
+
 ## Quaestio 2
 
 ### Prooemium

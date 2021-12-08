@@ -1,3 +1,8 @@
+---
+tags : 
+- Summa/Ia
+---
+
 # Prima Pars
 
 [[Ia q. 1]]
