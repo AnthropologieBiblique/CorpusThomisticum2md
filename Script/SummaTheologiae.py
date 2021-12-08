@@ -27,6 +27,10 @@ class Pars:
 	def construereMd(self):
 		os.mkdir("../SummaTheologiae/"+self.titulus)
 		f = open("../SummaTheologiae/"+self.titulus+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('tags : '+'\n')
+		f.write('- '+'Summa/'+self.indicat+'\n')
+		f.write('---'+'\n\n')
 		f.write('# '+self.titulus+'\n\n')
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
@@ -125,12 +129,16 @@ class Quaestio:
 			quaestio += str(articulus)+"\n"
 		return(quaestio+"\n")
 	def adMd(self,via,parsIndicat):
-		f = open(via+'/'+parsIndicat+' '+'q. '+self.indicat+'.md', 'w')
+		f = open(via+'/'+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('tags : '+'\n')
+		f.write('- '+'Summa/'+parsIndicat+'/q.'+self.indicat+'\n')
+		f.write('---'+'\n\n')
 		f.write('## '+self.titulus+'\n\n')
 		f.write('### Prooemium'+'\n\n')
 		f.write(self.prooemium.corpus+'\n\n')
 		for articulus in self.articuli:
-			f.write('![['+parsIndicat+' '+'q. '+self.indicat+' a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
+			f.write('![['+parsIndicat+', '+'q. '+self.indicat+', a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
 		f.close()
 
 class Articulus:
@@ -147,7 +155,11 @@ class Articulus:
 			articulus += str(argumentum) +"\n"
 		return(articulus+"\n")
 	def adMd(self,via,parsIndicat,quaestioNumero,vinculumBiblia):
-		f = open(via+'/'+parsIndicat+' '+'q. '+str(quaestioNumero)+' a. '+self.indicat+'.md', 'w')
+		f = open(via+'/'+parsIndicat+', '+'q. '+str(quaestioNumero)+', a. '+self.indicat+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('tags : '+'\n')
+		f.write('- '+'Summa/'+parsIndicat+'/q.'+quaestioNumero+'/a.'+self.indicat+'\n')
+		f.write('---'+'\n\n')
 		f.write('### '+self.titulus+'\n\n')
 		for argumentum in self.argumenta:
 			f.write('###### '+argumentum.index+'\n')
@@ -166,7 +178,7 @@ class Argumentum:
 		elif indexSc.match(titulus) != None:
 			self.index = "s. c."
 		elif indexCo.match(titulus) !=None :
-			self.index = "co."
+			self.index = "resp."
 		elif indexAd.match(titulus) != None:
 			self.index = indexAd.match(titulus).group(1)
 		self.titulus = titulus
@@ -258,11 +270,12 @@ class vinculumBiblia:
 
 #primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
 primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1075,1077,1084,1090,1103]
+#primaParsNumero = [1001,1002]
 primaSecundaeNumero = [2001,2006,2022,2026,2040,2049,2055,2071,2072,2073,2074,2075,2085,2090,2093,2094,2095,2098,2106,2109]
 secundaSecundaeNumero = [3001,3017,3023,3025,3027,3034,3044,3045,3047,3057,3061,3079,3080,3081,3082,3092,3101,3102,3106,3109,3121,3122,3123,3141,3143,3144,3146,3155,3170,3171,3179,3183]
 tertiaParsNumero = [4001,4002,4016,4027,4040,4046,4053,4060,4066,4072,4073,4074,4078,4079,4080,4082,4083,4084]
 
-primaPars = Pars("Prima Pars","I",primaParsNumero)
-#primaSecundae = Pars("Prima Secundae","II-I",primaSecundaeNumero)
-#secundaSecundae = Pars("Secunda Secundae","II-II",secundaSecundaeNumero)
-#tertiaPars = Pars("Tertia Pars","III",tertiaParsNumero)
+#primaPars = Pars("Prima Pars","Ia",primaParsNumero)
+primaSecundae = Pars("Prima Secundae","Ia-IIæ",primaSecundaeNumero)
+secundaSecundae = Pars("Secunda Secundae","IIa-IIæ",secundaSecundaeNumero)
+tertiaPars = Pars("Tertia Pars","IIIa",tertiaParsNumero)
