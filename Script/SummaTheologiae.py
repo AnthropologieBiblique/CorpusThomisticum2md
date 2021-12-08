@@ -27,7 +27,10 @@ class Pars:
 	def construereMd(self):
 		os.mkdir("../SummaTheologiae/"+self.titulus)
 		f = open("../SummaTheologiae/"+self.titulus+'.md', 'w')
-		
+		f.write('---'+'\n')
+		f.write('tags : '+'\n')
+		f.write('- '+'Summa/'+self.indicat+'\n')
+		f.write('---'+'\n\n')
 		f.write('# '+self.titulus+'\n\n')
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
@@ -127,6 +130,10 @@ class Quaestio:
 		return(quaestio+"\n")
 	def adMd(self,via,parsIndicat):
 		f = open(via+'/'+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('tags : '+'\n')
+		f.write('- '+'Summa/'+parsIndicat+'/'+self.indicat+'\n')
+		f.write('---'+'\n\n')
 		f.write('## '+self.titulus+'\n\n')
 		f.write('### Prooemium'+'\n\n')
 		f.write(self.prooemium.corpus+'\n\n')
@@ -149,6 +156,10 @@ class Articulus:
 		return(articulus+"\n")
 	def adMd(self,via,parsIndicat,quaestioNumero,vinculumBiblia):
 		f = open(via+'/'+parsIndicat+', '+'q. '+str(quaestioNumero)+', a. '+self.indicat+'.md', 'w')
+		f.write('---'+'\n')
+		f.write('tags : '+'\n')
+		f.write('- '+'Summa/'+parsIndicat+'/q.'+quaestioNumero+'/a.'+self.indicat+'\n')
+		f.write('---'+'\n\n')
 		f.write('### '+self.titulus+'\n\n')
 		for argumentum in self.argumenta:
 			f.write('###### '+argumentum.index+'\n')
