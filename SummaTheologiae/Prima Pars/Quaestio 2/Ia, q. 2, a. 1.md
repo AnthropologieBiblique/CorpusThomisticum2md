@@ -17,7 +17,7 @@ Praeterea, veritatem esse est per se notum, quia qui negat veritatem esse, conce
 ###### s. c.
 Sed contra, nullus potest cogitare oppositum eius quod est per se notum ut patet per philosophum, in IV Metaphys. et I Poster., circa prima demonstrationis principia. Cogitari autem potest oppositum eius quod est Deum esse, secundum illud [[Ps 52]], *dixit insipiens in corde suo, non est Deus*. Ergo Deum esse non est per se notum.
 
-###### co.
+###### resp.
 Respondeo dicendum quod contingit aliquid esse per se notum dupliciter, uno modo, secundum se et non quoad nos; alio modo, secundum se et quoad nos. Ex hoc enim aliqua propositio est per se nota, quod praedicatum includitur in ratione subiecti, ut homo est animal, nam animal est de ratione hominis. Si igitur notum sit omnibus de praedicato et de subiecto quid sit, propositio illa erit omnibus per se nota, sicut patet in primis demonstrationum principiis, quorum termini sunt quaedam communia quae nullus ignorat, ut ens et non ens, totum et pars, et similia. Si autem apud aliquos notum non sit de praedicato et subiecto quid sit, propositio quidem quantum in se est, erit per se nota, non tamen apud illos qui praedicatum et subiectum propositionis ignorant. Et ideo contingit, ut dicit Boetius in libro de hebdomadibus, quod quaedam sunt communes animi conceptiones et per se notae, apud sapientes tantum, ut incorporalia in loco non esse. Dico ergo quod haec propositio, Deus est, quantum in se est, per se nota est, quia praedicatum est idem cum subiecto; Deus enim est suum esse, ut infra patebit. Sed quia nos non scimus de Deo quid est, non est nobis per se nota, sed indiget demonstrari per ea quae sunt magis nota quoad nos, et minus nota quoad naturam, scilicet per effectus.
 
 ###### ad 1

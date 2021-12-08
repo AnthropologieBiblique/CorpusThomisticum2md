@@ -17,7 +17,7 @@ Praeterea, haec doctrina per studium acquiritur. Sapientia autem per infusionem 
 ###### s. c.
 Sed contra est quod dicitur [[Dt 4]], in principio legis, *haec est nostra sapientia et intellectus coram populis*.
 
-###### co.
+###### resp.
 Respondeo dicendum quod haec doctrina maxime sapientia est inter omnes sapientias humanas, non quidem in aliquo genere tantum, sed simpliciter. Cum enim sapientis sit ordinare et iudicare, iudicium autem per altiorem causam de inferioribus habeatur; ille sapiens dicitur in unoquoque genere, qui considerat causam altissimam illius generis. Ut in genere aedificii, artifex qui disponit formam domus, dicitur sapiens et architector, respectu inferiorum artificum, qui dolant ligna vel parant lapides, unde dicitur [[1 Co 3]], *ut sapiens architector fundamentum posui*. Et rursus, in genere totius humanae vitae, prudens sapiens dicitur, inquantum ordinat humanos actus ad debitum finem, unde dicitur [[Pr 10]], *sapientia est viro prudentia*. Ille igitur qui considerat simpliciter altissimam causam totius universi, quae Deus est, maxime sapiens dicitur, unde et sapientia dicitur esse divinorum cognitio, ut patet per Augustinum, XII de Trinitate. Sacra autem doctrina propriissime determinat de Deo secundum quod est altissima causa, quia non solum quantum ad illud quod est per creaturas cognoscibile (quod philosophi cognoverunt, ut dicitur [[Rm 1]], *quod notum est Dei, manifestum est illis*); sed etiam quantum ad id quod notum est sibi soli de seipso, et aliis per revelationem communicatum. Unde sacra doctrina maxime dicitur sapientia.
 
 ###### ad 1

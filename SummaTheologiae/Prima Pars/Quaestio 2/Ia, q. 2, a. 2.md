@@ -17,7 +17,7 @@ Praeterea, si demonstraretur Deum esse, hoc non esset nisi ex effectibus eius. S
 ###### s. c.
 Sed contra est quod apostolus dicit, ad [[Rm 1]], *invisibilia Dei per ea quae facta sunt, intellecta, conspiciuntur*. Sed hoc non esset, nisi per ea quae facta sunt, posset demonstrari Deum esse, primum enim quod oportet intelligi de aliquo, est an sit.
 
-###### co.
+###### resp.
 Respondeo dicendum quod duplex est demonstratio. Una quae est per causam, et dicitur propter quid, et haec est per priora simpliciter. Alia est per effectum, et dicitur demonstratio quia, et haec est per ea quae sunt priora quoad nos, cum enim effectus aliquis nobis est manifestior quam sua causa, per effectum procedimus ad cognitionem causae. Ex quolibet autem effectu potest demonstrari propriam causam eius esse (si tamen eius effectus sint magis noti quoad nos), quia, cum effectus dependeant a causa, posito effectu necesse est causam praeexistere. Unde Deum esse, secundum quod non est per se notum quoad nos, demonstrabile est per effectus nobis notos.
 
 ###### ad 1

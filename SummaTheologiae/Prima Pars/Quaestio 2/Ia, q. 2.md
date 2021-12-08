@@ -1,6 +1,6 @@
 ---
 tags : 
-- Summa/Ia/2
+- Summa/Ia/q.2
 ---
 
 ## Quaestio 2

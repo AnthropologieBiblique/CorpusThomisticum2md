@@ -14,7 +14,7 @@ Praeterea, in sacra doctrina tractatur de Angelis, de creaturis corporalibus, de
 ###### s. c.
 Sed contra est quod sacra Scriptura de ea loquitur sicut de una scientia, dicitur enim [[Sg 10]], *dedit illi scientiam sanctorum*.
 
-###### co.
+###### resp.
 Respondeo dicendum sacram doctrinam unam scientiam esse. Est enim unitas potentiae et habitus consideranda secundum obiectum, non quidem materialiter, sed secundum rationem formalem obiecti, puta homo, asinus et lapis conveniunt in una formali ratione colorati, quod est obiectum visus. Quia igitur sacra Scriptura considerat aliqua secundum quod sunt divinitus revelata, secundum quod dictum est, omnia quaecumque sunt divinitus revelabilia, communicant in una ratione formali obiecti huius scientiae. Et ideo comprehenduntur sub sacra doctrina sicut sub scientia una.
 
 ###### ad 1

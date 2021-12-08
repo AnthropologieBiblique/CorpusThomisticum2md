@@ -269,13 +269,13 @@ class vinculumBiblia:
 ### MAIN ###
 
 #primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1065,1075,1077,1084,1090,1103]
-#primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1075,1077,1084,1090,1103]
-primaParsNumero = [1001,1002]
-#primaSecundaeNumero = [2001,2006,2022,2026,2040,2049,2055,2071,2072,2073,2074,2075,2085,2090,2093,2094,2095,2098,2106,2109]
-#secundaSecundaeNumero = [3001,3017,3023,3025,3027,3034,3044,3045,3047,3057,3061,3079,3080,3081,3082,3092,3101,3102,3106,3109,3121,3122,3123,3141,3143,3144,3146,3155,3170,3171,3179,3183]
-#tertiaParsNumero = [4001,4002,4016,4027,4040,4046,4053,4060,4066,4072,4073,4074,4078,4079,4080,4082,4083,4084]
+primaParsNumero = [1001,1002,1003,1015,1028,1044,1050,1075,1077,1084,1090,1103]
+#primaParsNumero = [1001,1002]
+primaSecundaeNumero = [2001,2006,2022,2026,2040,2049,2055,2071,2072,2073,2074,2075,2085,2090,2093,2094,2095,2098,2106,2109]
+secundaSecundaeNumero = [3001,3017,3023,3025,3027,3034,3044,3045,3047,3057,3061,3079,3080,3081,3082,3092,3101,3102,3106,3109,3121,3122,3123,3141,3143,3144,3146,3155,3170,3171,3179,3183]
+tertiaParsNumero = [4001,4002,4016,4027,4040,4046,4053,4060,4066,4072,4073,4074,4078,4079,4080,4082,4083,4084]
 
-primaPars = Pars("Prima Pars","Ia",primaParsNumero)
-#primaSecundae = Pars("Prima Secundae","Ia-IIæ",primaSecundaeNumero)
-#secundaSecundae = Pars("Secunda Secundae","IIa-IIæ",secundaSecundaeNumero)
-#tertiaPars = Pars("Tertia Pars","IIIa",tertiaParsNumero)
+#primaPars = Pars("Prima Pars","Ia",primaParsNumero)
+primaSecundae = Pars("Prima Secundae","Ia-IIæ",primaSecundaeNumero)
+secundaSecundae = Pars("Secunda Secundae","IIa-IIæ",secundaSecundaeNumero)
+tertiaPars = Pars("Tertia Pars","IIIa",tertiaParsNumero)

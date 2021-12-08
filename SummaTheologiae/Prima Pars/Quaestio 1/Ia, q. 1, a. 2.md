@@ -14,7 +14,7 @@ Praeterea, scientia non est singularium. Sed sacra doctrina tractat de singulari
 ###### s. c.
 Sed contra est quod Augustinus dicit, XIV de Trinitate, *huic scientiae attribuitur illud tantummodo quo fides saluberrima gignitur, nutritur, defenditur, roboratur*. Hoc autem ad nullam scientiam pertinet nisi ad sacram doctrinam. Ergo sacra doctrina est scientia.
 
-###### co.
+###### resp.
 Respondeo dicendum sacram doctrinam esse scientiam. Sed sciendum est quod duplex est scientiarum genus. Quaedam enim sunt, quae procedunt ex principiis notis lumine naturali intellectus, sicut arithmetica, geometria, et huiusmodi. Quaedam vero sunt, quae procedunt ex principiis notis lumine superioris scientiae, sicut perspectiva procedit ex principiis notificatis per geometriam, et musica ex principiis per arithmeticam notis. Et hoc modo sacra doctrina est scientia, quia procedit ex principiis notis lumine superioris scientiae, quae scilicet est scientia Dei et beatorum. Unde sicut musica credit principia tradita sibi ab arithmetico, ita doctrina sacra credit principia revelata sibi a Deo.
 
 ###### ad 1

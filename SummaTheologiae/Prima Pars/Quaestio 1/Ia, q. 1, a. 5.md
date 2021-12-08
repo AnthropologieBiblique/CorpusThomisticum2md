@@ -14,7 +14,7 @@ Praeterea, inferioris scientiae est a superiori accipere, sicut musicus ab arith
 ###### s. c.
 Sed contra est quod aliae scientiae dicuntur ancillae huius, [[Pr 9]], *misit ancillas suas vocare ad arcem*.
 
-###### co.
+###### resp.
 Respondeo dicendum quod, cum ista scientia quantum ad aliquid sit speculativa, et quantum ad aliquid sit practica, omnes alias transcendit tam speculativas quam practicas. Speculativarum enim scientiarum una altera dignior dicitur, tum propter certitudinem, tum propter dignitatem materiae. Et quantum ad utrumque, haec scientia alias speculativas scientias excedit. Secundum certitudinem quidem, quia aliae scientiae certitudinem habent ex naturali lumine rationis humanae, quae potest errare, haec autem certitudinem habet ex lumine divinae scientiae, quae decipi non potest. Secundum dignitatem vero materiae, quia ista scientia est principaliter de his quae sua altitudine rationem transcendunt, aliae vero scientiae considerant ea tantum quae rationi subduntur. Practicarum vero scientiarum illa dignior est, quae ad ulteriorem finem ordinatur, sicut civilis militari, nam bonum exercitus ad bonum civitatis ordinatur. Finis autem huius doctrinae inquantum est practica, est beatitudo aeterna, ad quam sicut ad ultimum finem ordinantur omnes alii fines scientiarum practicarum. Unde manifestum est, secundum omnem modum, eam digniorem esse aliis.
 
 ###### ad 1

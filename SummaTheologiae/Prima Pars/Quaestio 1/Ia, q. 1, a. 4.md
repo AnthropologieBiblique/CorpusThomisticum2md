@@ -14,7 +14,7 @@ Praeterea, sacra doctrina dividitur per legem veterem et novam. Lex autem pertin
 ###### s. c.
 Sed contra, omnis scientia practica est de rebus operabilibus ab homine; ut moralis de actibus hominum, et aedificativa de aedificiis. Sacra autem doctrina est principaliter de Deo, cuius magis homines sunt opera. Non ergo est scientia practica, sed magis speculativa.
 
-###### co.
+###### resp.
 Respondeo dicendum quod sacra doctrina, ut dictum est, una existens, se extendit ad ea quae pertinent ad diversas scientias philosophicas, propter rationem formalem quam in diversis attendit, scilicet prout sunt divino lumine cognoscibilia. Unde licet in scientiis philosophicis alia sit speculativa et alia practica, sacra tamen doctrina comprehendit sub se utramque; sicut et Deus eadem scientia se cognoscit, et ea quae facit. Magis tamen est speculativa quam practica, quia principalius agit de rebus divinis quam de actibus humanis; de quibus agit secundum quod per eos ordinatur homo ad perfectam Dei cognitionem, in qua aeterna beatitudo consistit.
 
 ###### ad 

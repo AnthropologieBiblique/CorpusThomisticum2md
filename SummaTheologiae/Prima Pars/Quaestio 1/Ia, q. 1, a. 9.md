@@ -17,7 +17,7 @@ Praeterea, quanto aliquae creaturae sunt sublimiores, tanto magis ad divinam sim
 ###### s. c.
 Sed contra est quod dicitur [[Os 12]], *ego visionem multiplicavi eis, et in manibus prophetarum assimilatus sum*. Tradere autem aliquid sub similitudine, est metaphoricum. Ergo ad sacram doctrinam pertinet uti metaphoris.
 
-###### co.
+###### resp.
 Respondeo dicendum quod conveniens est sacrae Scripturae divina et spiritualia sub similitudine corporalium tradere. Deus enim omnibus providet secundum quod competit eorum naturae. Est autem naturale homini ut per sensibilia ad intelligibilia veniat, quia omnis nostra cognitio a sensu initium habet. Unde convenienter in sacra Scriptura traduntur nobis spiritualia sub metaphoris corporalium. Et hoc est quod dicit Dionysius, I cap. caelestis hierarchiae, *impossibile est nobis aliter lucere divinum radium, nisi varietate sacrorum velaminum circumvelatum*. Convenit etiam sacrae Scripturae, quae communiter omnibus proponitur (secundum illud ad [[Rm 1]], *sapientibus et insipientibus debitor sum*), ut spiritualia sub similitudinibus corporalium proponantur; ut saltem vel sic rudes eam capiant, qui ad intelligibilia secundum se capienda non sunt idonei.
 
 ###### ad 1
