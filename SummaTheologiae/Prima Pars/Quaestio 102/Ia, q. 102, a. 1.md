@@ -15,7 +15,7 @@ Praeterea, Scriptura commemorat quatuor flumina in Paradiso oriri, ut patet [[Gn
 Praeterea, aliqui diligentissime inquisierunt omnia loca terrae habitabilis, qui tamen nullam mentionem faciunt de loco Paradisi. Ergo non videtur esse locus corporeus.
 
 ###### arg. 4
-Praeterea, in Paradiso describitur lignum vitae esse. Sed lignum vitae est aliquid spirituale, dicitur enim [[Pr 3]], de sapientia, quod est lignum vitae his qui apprehendunt eam. Ergo et Paradisus non est locus corporeus, sed spiritualis.
+Praeterea, in Paradiso describitur lignum vitae esse. Sed lignum vitae est aliquida spirituale, dicitur enim [[Pr 3]], de sapientia, quod est lignum vitae his qui apprehendunt eam. Ergo et Paradisus non est locus corporeus, sed spiritualis.
 
 ###### arg. 5
 Praeterea, si Paradisus est locus corporalis, oportet quod et ligna Paradisi sint corporalia. Sed hoc non videtur, cum corporalia ligna sint producta tertio die; de plantatione autem lignorum Paradisi legitur [[Gn 2]], post opera sex dierum. Ergo Paradisus non est locus corporeus.
