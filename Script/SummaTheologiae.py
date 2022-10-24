@@ -5,6 +5,7 @@ import re
 import fileinput
 import os
 import csv
+import pathlib
 
 class Pars:
 	def __init__(self,titulus, indicat,numero):
@@ -25,7 +26,7 @@ class Pars:
 			pars += str(quaestio)+"\n"
 		return(pars+"\n")
 	def construereMd(self):
-		os.mkdir("../SummaTheologiae/"+self.titulus)
+		pathlib.Path("../SummaTheologiae/"+self.titulus).mkdir(parents=True, exist_ok=True)
 		f = open("../SummaTheologiae/"+self.titulus+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
@@ -34,7 +35,7 @@ class Pars:
 		f.write('# '+self.titulus+'\n\n')
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
-			os.mkdir(via)
+			pathlib.Path(via).mkdir(parents=True, exist_ok=True)
 			f.write('[['+self.indicat+' q. '+quaestio.indicat+']]'+'\n\n')
 			quaestio.adMd(via,self.indicat)
 			for articulus in quaestio.articuli:
@@ -170,13 +171,13 @@ class Articulus:
 class Argumentum:
 	def __init__(self,titulus):
 		indexArg = re.compile(".*(arg. [0-9]*)")
-		indexSc = re.compile(".*(s. c.)")
+		indexSc = re.compile(".*(s.c.)")
 		indexCo = re.compile(".*(co.)")
 		indexAd = re.compile(".*(ad [0-9]*)")
 		if indexArg.match(str(titulus)) != None:
 			self.index = indexArg.match(titulus).group(1)
 		elif indexSc.match(titulus) != None:
-			self.index = "s. c."
+			self.index = "s.c."
 		elif indexCo.match(titulus) !=None :
 			self.index = "resp."
 		elif indexAd.match(titulus) != None:
@@ -275,7 +276,7 @@ primaSecundaeNumero = [2001,2006,2022,2026,2040,2049,2055,2071,2072,2073,2074,20
 secundaSecundaeNumero = [3001,3017,3023,3025,3027,3034,3044,3045,3047,3057,3061,3079,3080,3081,3082,3092,3101,3102,3106,3109,3121,3122,3123,3141,3143,3144,3146,3155,3170,3171,3179,3183]
 tertiaParsNumero = [4001,4002,4016,4027,4040,4046,4053,4060,4066,4072,4073,4074,4078,4079,4080,4082,4083,4084]
 
-#primaPars = Pars("Prima Pars","Ia",primaParsNumero)
+primaPars = Pars("Prima Pars","Ia",primaParsNumero)
 primaSecundae = Pars("Prima Secundae","Ia-IIæ",primaSecundaeNumero)
 secundaSecundae = Pars("Secunda Secundae","IIa-IIæ",secundaSecundaeNumero)
 tertiaPars = Pars("Tertia Pars","IIIa",tertiaParsNumero)
