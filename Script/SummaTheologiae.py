@@ -26,7 +26,7 @@ class Pars:
 			pars += str(quaestio)+"\n"
 		return(pars+"\n")
 	def construereMd(self):
-		pathlib.Path("../SummaTheologiae/"+self.titulus).mkdir(parents=True, exist_ok=True)
+		os.mkdir("../SummaTheologiae/"+self.titulus)
 		f = open("../SummaTheologiae/"+self.titulus+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
@@ -35,7 +35,7 @@ class Pars:
 		f.write('# '+self.titulus+'\n\n')
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
-			pathlib.Path(via).mkdir(parents=True, exist_ok=True)
+			os.mkdir(via)
 			f.write('[['+self.indicat+' q. '+quaestio.indicat+']]'+'\n\n')
 			quaestio.adMd(via,self.indicat)
 			for articulus in quaestio.articuli:
@@ -171,7 +171,7 @@ class Articulus:
 class Argumentum:
 	def __init__(self,titulus):
 		indexArg = re.compile(".*(arg. [0-9]*)")
-		indexSc = re.compile(".*(s.c.)")
+		indexSc = re.compile(".*(s. c.)")
 		indexCo = re.compile(".*(co.)")
 		indexAd = re.compile(".*(ad [0-9]*)")
 		if indexArg.match(str(titulus)) != None:
