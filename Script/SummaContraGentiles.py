@@ -36,7 +36,7 @@ class Liber:
 		f.write('# '+self.titulus+'\n\n')
 		via = "../SummaContraGentiles/"+self.titulus
 		for caput in self.capita:
-			f.write('[['+self.indicat+' cap. '+caput.indicat+']]'+'\n\n')
+			f.write('[['+self.indicat+', cap. '+caput.indicat+']]'+'\n\n')
 			caput.adMd(via,self.indicat,self.vinculumBiblia)
 		f.close()
 		return()
