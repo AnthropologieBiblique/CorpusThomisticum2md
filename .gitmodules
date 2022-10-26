@@ -1,3 +1,7 @@
 [submodule "SummaTheologiae"]
 	path = SummaTheologiae
 	url = https://github.com/AnthropologieBiblique/SummaTheologiae
+[submodule "SummaContraGentiles"]
+	path = SummaContraGentiles
+	url = https://github.com/AnthropologieBiblique/SummaContraGentiles
+	branch = main
