@@ -26,17 +26,17 @@ class Pars:
 			pars += str(quaestio)+"\n"
 		return(pars+"\n")
 	def construereMd(self):
-		os.mkdir("../SummaTheologiae/"+self.titulus)
-		f = open("../SummaTheologiae/"+self.titulus+'.md', 'w')
+		os.mkdir("../SummaTheologiaeStudium/"+self.titulus)
+		f = open("../SummaTheologiaeStudium/"+self.titulus+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
 		f.write('- '+'Summa/'+self.indicat+'\n')
 		f.write('---'+'\n\n')
 		f.write('# '+self.titulus+'\n\n')
 		for quaestio in self.quaestiones:
-			via = "../SummaTheologiae/"+self.titulus+"/"+quaestio.titulus
+			via = "../SummaTheologiaeStudium/"+self.titulus+"/"+quaestio.titulus
 			os.mkdir(via)
-			f.write('[['+self.indicat+', q. '+quaestio.indicat+']]'+'\n\n')
+			f.write('[['+'STUDIUM '+self.indicat+', q. '+quaestio.indicat+']]'+'\n\n')
 			quaestio.adMd(via,self.indicat)
 			for articulus in quaestio.articuli:
 				articulus.adMd(via,self.indicat,quaestio.indicat,self.vinculumBiblia)
@@ -130,7 +130,7 @@ class Quaestio:
 			quaestio += str(articulus)+"\n"
 		return(quaestio+"\n")
 	def adMd(self,via,parsIndicat):
-		f = open(via+'/'+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
+		f = open(via+'/'+'STUDIUM '+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
 		f.write('- '+'Summa/'+parsIndicat+'/q.'+self.indicat+'\n')
@@ -139,7 +139,7 @@ class Quaestio:
 		f.write('### Prooemium'+'\n\n')
 		f.write(self.prooemium.corpus+'\n\n')
 		for articulus in self.articuli:
-			f.write('![['+parsIndicat+', '+'q. '+self.indicat+', a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
+			f.write('![['+'STUDIUM '+parsIndicat+', '+'q. '+self.indicat+', a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
 		f.close()
 
 class Articulus:
@@ -156,7 +156,7 @@ class Articulus:
 			articulus += str(argumentum) +"\n"
 		return(articulus+"\n")
 	def adMd(self,via,parsIndicat,quaestioNumero,vinculumBiblia):
-		f = open(via+'/'+parsIndicat+', '+'q. '+str(quaestioNumero)+', a. '+self.indicat+'.md', 'w')
+		f = open(via+'/'+'STUDIUM '+parsIndicat+', '+'q. '+str(quaestioNumero)+', a. '+self.indicat+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
 		f.write('- '+'Summa/'+parsIndicat+'/q.'+quaestioNumero+'/a.'+self.indicat+'\n')
@@ -165,6 +165,7 @@ class Articulus:
 		for argumentum in self.argumenta:
 			f.write('###### '+argumentum.index+'\n')
 			f.write(vinculumBiblia.createLinks(argumentum.corpus)+'\n\n')
+			f.write('![[CERF '+parsIndicat+', q. '+quaestioNumero+', a. '+self.indicat+'#'+argumentum.index+']]'+'\n\n')
 		f.close()
 		return()
 
