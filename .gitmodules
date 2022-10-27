@@ -5,3 +5,7 @@
 	path = SummaContraGentiles
 	url = https://github.com/AnthropologieBiblique/SummaContraGentiles
 	branch = main
+[submodule "SummaTheologiaeStudium"]
+	path = SummaTheologiaeStudium
+	url = https://github.com/AnthropologieBiblique/SummaTheologiaeStudium
+	branch = main
