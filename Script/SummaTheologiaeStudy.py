@@ -36,7 +36,7 @@ class Pars:
 		for quaestio in self.quaestiones:
 			via = "../SummaTheologiaeStudium/"+self.titulus+"/"+quaestio.titulus
 			os.mkdir(via)
-			f.write('[['+'STUDIUM '+self.indicat+', q. '+quaestio.indicat+']]'+'\n\n')
+			f.write('[['+self.indicat+', q. '+quaestio.indicat+']]'+'\n\n')
 			quaestio.adMd(via,self.indicat)
 			for articulus in quaestio.articuli:
 				articulus.adMd(via,self.indicat,quaestio.indicat,self.vinculumBiblia)
@@ -130,16 +130,17 @@ class Quaestio:
 			quaestio += str(articulus)+"\n"
 		return(quaestio+"\n")
 	def adMd(self,via,parsIndicat):
-		f = open(via+'/'+'STUDIUM '+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
+		f = open(via+'/'+parsIndicat+', '+'q. '+self.indicat+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
 		f.write('- '+'Summa/'+parsIndicat+'/q.'+self.indicat+'\n')
 		f.write('---'+'\n\n')
 		f.write('## '+self.titulus+'\n\n')
 		f.write('### Prooemium'+'\n\n')
-		f.write(self.prooemium.corpus+'\n\n')
+		f.write('![[LEO '+parsIndicat+', q. '+self.indicat+'#Prooemium'+'|'+self.prooemium.corpus+']]'+'\n')
+		f.write('![[CERF '+parsIndicat+', q. '+self.indicat+'#Prooemium'+']]'+'\n\n')
 		for articulus in self.articuli:
-			f.write('![['+'STUDIUM '+parsIndicat+', '+'q. '+self.indicat+', a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
+			f.write('![['+parsIndicat+', '+'q. '+self.indicat+', a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
 		f.close()
 
 class Articulus:
@@ -156,7 +157,7 @@ class Articulus:
 			articulus += str(argumentum) +"\n"
 		return(articulus+"\n")
 	def adMd(self,via,parsIndicat,quaestioNumero,vinculumBiblia):
-		f = open(via+'/'+'STUDIUM '+parsIndicat+', '+'q. '+str(quaestioNumero)+', a. '+self.indicat+'.md', 'w')
+		f = open(via+'/'+parsIndicat+', '+'q. '+str(quaestioNumero)+', a. '+self.indicat+'.md', 'w')
 		f.write('---'+'\n')
 		f.write('tags : '+'\n')
 		f.write('- '+'Summa/'+parsIndicat+'/q.'+quaestioNumero+'/a.'+self.indicat+'\n')
@@ -164,7 +165,7 @@ class Articulus:
 		f.write('### '+self.titulus+'\n\n')
 		for argumentum in self.argumenta:
 			f.write('###### '+argumentum.index+'\n')
-			f.write(vinculumBiblia.createLinks(argumentum.corpus)+'\n\n')
+			f.write('![[LEO '+parsIndicat+', q. '+quaestioNumero+', a. '+self.indicat+'#'+argumentum.index+'|'+vinculumBiblia.createLinks(argumentum.corpus)+']]'+'\n')
 			f.write('![[CERF '+parsIndicat+', q. '+quaestioNumero+', a. '+self.indicat+'#'+argumentum.index+']]'+'\n\n')
 		f.close()
 		return()
