@@ -137,8 +137,7 @@ class Quaestio:
 		f.write('---'+'\n\n')
 		f.write('## '+self.titulus+'\n\n')
 		f.write('### Prooemium'+'\n\n')
-		f.write('![[LEO '+parsIndicat+', q. '+self.indicat+'#Prooemium'+'|'+self.prooemium.corpus+']]'+'\n')
-		f.write('![[CERF '+parsIndicat+', q. '+self.indicat+'#Prooemium'+']]'+'\n\n')
+		f.write(self.prooemium.corpus+'\n\n')
 		for articulus in self.articuli:
 			f.write('![['+parsIndicat+', '+'q. '+self.indicat+', a. '+articulus.indicat+'#'+articulus.titulus+']]'+'\n\n')
 		f.close()
@@ -165,7 +164,7 @@ class Articulus:
 		f.write('### '+self.titulus+'\n\n')
 		for argumentum in self.argumenta:
 			f.write('###### '+argumentum.index+'\n')
-			f.write('![[LEO '+parsIndicat+', q. '+quaestioNumero+', a. '+self.indicat+'#'+argumentum.index+'|'+vinculumBiblia.createLinks(argumentum.corpus)+']]'+'\n')
+			f.write('![[LEO '+parsIndicat+', q. '+quaestioNumero+', a. '+self.indicat+'#'+argumentum.index+'|'+argumentum.corpus+']]'+'\n')
 			f.write('![[CERF '+parsIndicat+', q. '+quaestioNumero+', a. '+self.indicat+'#'+argumentum.index+']]'+'\n\n')
 		f.close()
 		return()
